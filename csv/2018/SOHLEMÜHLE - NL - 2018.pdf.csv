@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),001,06:00,06:15,0,,1,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),002,06:15,06:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),003,06:30,06:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),004,06:45,07:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),005,07:00,07:15,0,,0,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),006,07:15,07:30,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),007,07:30,07:45,0,,0,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),008,07:45,08:00,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),009,08:00,08:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),010,08:15,08:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),011,08:30,08:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),012,08:45,09:00,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),013,09:00,09:15,0,,2,0,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),014,09:15,09:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),015,09:30,09:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),016,09:45,10:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),017,10:00,10:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),018,10:15,10:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),019,10:30,10:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),020,10:45,11:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),021,11:00,11:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),022,11:15,11:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),023,11:30,11:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),024,11:45,12:00,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),025,12:00,12:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),026,12:15,12:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),027,12:30,12:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),028,12:45,13:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),029,13:00,13:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),030,13:15,13:30,0,,1,1,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),031,13:30,13:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),032,13:45,14:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),033,14:00,14:15,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),034,14:15,14:30,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),035,14:30,14:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),036,14:45,15:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),037,15:00,15:15,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),038,15:15,15:30,0,,0,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),039,15:30,15:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),040,15:45,16:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),041,16:00,16:15,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),042,16:15,16:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),043,16:30,16:45,0,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),044,16:45,17:00,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),045,17:00,17:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),046,17:15,17:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),047,17:30,17:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),048,17:45,18:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),049,18:00,18:15,0,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),050,18:15,18:30,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),051,18:30,18:45,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (W),052,18:45,19:00,0,,1,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),001,06:00,06:15,0,,13,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),002,06:15,06:30,0,,10,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),003,06:30,06:45,0,,11,5,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),004,06:45,07:00,0,,19,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),005,07:00,07:15,0,,36,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),006,07:15,07:30,0,,37,3,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),007,07:30,07:45,0,,28,3,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),008,07:45,08:00,0,,11,5,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),009,08:00,08:15,0,,12,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),010,08:15,08:30,1,,15,1,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),011,08:30,08:45,0,,10,2,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),012,08:45,09:00,0,,22,1,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),013,09:00,09:15,0,,20,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),014,09:15,09:30,0,,14,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),015,09:30,09:45,0,,28,3,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),016,09:45,10:00,0,,18,0,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),017,10:00,10:15,0,,14,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),018,10:15,10:30,0,,17,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),019,10:30,10:45,0,,14,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),020,10:45,11:00,3,,18,2,0,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),021,11:00,11:15,1,,30,1,1,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),022,11:15,11:30,0,,12,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),023,11:30,11:45,1,,20,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),024,11:45,12:00,0,,18,2,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),025,12:00,12:15,0,,27,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),026,12:15,12:30,0,,11,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),027,12:30,12:45,0,,16,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),028,12:45,13:00,0,,10,0,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),029,13:00,13:15,1,,20,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),030,13:15,13:30,0,,19,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),031,13:30,13:45,0,,18,0,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),032,13:45,14:00,0,,14,1,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),033,14:00,14:15,0,,28,3,4,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),034,14:15,14:30,1,,35,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),035,14:30,14:45,0,,30,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),036,14:45,15:00,0,,26,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),037,15:00,15:15,0,,21,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),038,15:15,15:30,2,,39,0,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),039,15:30,15:45,1,,31,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),040,15:45,16:00,1,,24,1,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),041,16:00,16:15,2,,32,4,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),042,16:15,16:30,0,,30,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),043,16:30,16:45,1,,27,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),044,16:45,17:00,0,,28,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),045,17:00,17:15,0,,30,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),046,17:15,17:30,0,,30,0,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),047,17:30,17:45,0,,28,0,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),048,17:45,18:00,0,,19,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),049,18:00,18:15,0,,19,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),050,18:15,18:30,0,,14,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),051,18:30,18:45,1,,14,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (W),052,18:45,19:00,0,,13,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),001,06:00,06:15,0,,0,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),002,06:15,06:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),003,06:30,06:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),004,06:45,07:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),005,07:00,07:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),006,07:15,07:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),007,07:30,07:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),008,07:45,08:00,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),009,08:00,08:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),010,08:15,08:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),011,08:30,08:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),012,08:45,09:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),013,09:00,09:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),014,09:15,09:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),015,09:30,09:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),016,09:45,10:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),017,10:00,10:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),018,10:15,10:30,1,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),019,10:30,10:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),020,10:45,11:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),021,11:00,11:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),022,11:15,11:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),023,11:30,11:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),024,11:45,12:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),025,12:00,12:15,0,,3,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),026,12:15,12:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),027,12:30,12:45,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),028,12:45,13:00,1,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),029,13:00,13:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),030,13:15,13:30,0,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),031,13:30,13:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),032,13:45,14:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),033,14:00,14:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),034,14:15,14:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),035,14:30,14:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),036,14:45,15:00,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),037,15:00,15:15,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),038,15:15,15:30,0,,4,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),039,15:30,15:45,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),040,15:45,16:00,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),041,16:00,16:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),042,16:15,16:30,0,,3,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),043,16:30,16:45,1,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),044,16:45,17:00,2,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),045,17:00,17:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),046,17:15,17:30,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),047,17:30,17:45,0,,7,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),048,17:45,18:00,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),049,18:00,18:15,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),050,18:15,18:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),051,18:30,18:45,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Hauptstraße (W),052,18:45,19:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,001,06:00,06:15,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,002,06:15,06:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,003,06:30,06:45,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,004,06:45,07:00,1,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,005,07:00,07:15,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,006,07:15,07:30,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,007,07:30,07:45,1,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,008,07:45,08:00,0,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,009,08:00,08:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,010,08:15,08:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,011,08:30,08:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,012,08:45,09:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,013,09:00,09:15,2,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,014,09:15,09:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,015,09:30,09:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,016,09:45,10:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,017,10:00,10:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,018,10:15,10:30,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,019,10:30,10:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,020,10:45,11:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,021,11:00,11:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,022,11:15,11:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,023,11:30,11:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,024,11:45,12:00,0,,0,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,025,12:00,12:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,026,12:15,12:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,027,12:30,12:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,028,12:45,13:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,029,13:00,13:15,1,,1,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,030,13:15,13:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,031,13:30,13:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,032,13:45,14:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,033,14:00,14:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,034,14:15,14:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,035,14:30,14:45,0,,0,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,036,14:45,15:00,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,037,15:00,15:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,038,15:15,15:30,0,,1,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,039,15:30,15:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,040,15:45,16:00,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,041,16:00,16:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,042,16:15,16:30,0,,1,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,043,16:30,16:45,2,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,044,16:45,17:00,0,,2,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,045,17:00,17:15,2,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,046,17:15,17:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,047,17:30,17:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,048,17:45,18:00,2,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,049,18:00,18:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,050,18:15,18:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,051,18:30,18:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Sohlener Mühlenweg,052,18:45,19:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,001,06:00,06:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,002,06:15,06:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,003,06:30,06:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,004,06:45,07:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,005,07:00,07:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,006,07:15,07:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,007,07:30,07:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,008,07:45,08:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,009,08:00,08:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,010,08:15,08:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,011,08:30,08:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,012,08:45,09:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,013,09:00,09:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,014,09:15,09:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,015,09:30,09:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,016,09:45,10:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,017,10:00,10:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,018,10:15,10:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,019,10:30,10:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,020,10:45,11:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,021,11:00,11:15,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,022,11:15,11:30,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,023,11:30,11:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,024,11:45,12:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,025,12:00,12:15,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,026,12:15,12:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,027,12:30,12:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,028,12:45,13:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,029,13:00,13:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,030,13:15,13:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,031,13:30,13:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,032,13:45,14:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,033,14:00,14:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,034,14:15,14:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,035,14:30,14:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,036,14:45,15:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,037,15:00,15:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,038,15:15,15:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,039,15:30,15:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,040,15:45,16:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,041,16:00,16:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,042,16:15,16:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,043,16:30,16:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,044,16:45,17:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,045,17:00,17:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,046,17:15,17:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,047,17:30,17:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,048,17:45,18:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,049,18:00,18:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,050,18:15,18:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,051,18:30,18:45,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Sohlener Mühlenweg,052,18:45,19:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,001,06:00,06:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,002,06:15,06:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,003,06:30,06:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,004,06:45,07:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,005,07:00,07:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,006,07:15,07:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,007,07:30,07:45,1,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,008,07:45,08:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,009,08:00,08:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,010,08:15,08:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,011,08:30,08:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,012,08:45,09:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,013,09:00,09:15,1,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,014,09:15,09:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,015,09:30,09:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,016,09:45,10:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,017,10:00,10:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,018,10:15,10:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,019,10:30,10:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,020,10:45,11:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,021,11:00,11:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,022,11:15,11:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,023,11:30,11:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,024,11:45,12:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,025,12:00,12:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,026,12:15,12:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,027,12:30,12:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,028,12:45,13:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,029,13:00,13:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,030,13:15,13:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,031,13:30,13:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,032,13:45,14:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,033,14:00,14:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,034,14:15,14:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,035,14:30,14:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,036,14:45,15:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,037,15:00,15:15,1,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,038,15:15,15:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,039,15:30,15:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,040,15:45,16:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,041,16:00,16:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,042,16:15,16:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,043,16:30,16:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,044,16:45,17:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,045,17:00,17:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,046,17:15,17:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,047,17:30,17:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,048,17:45,18:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,049,18:00,18:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,050,18:15,18:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,051,18:30,18:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Sohlener Mühlenweg,052,18:45,19:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),001,06:00,06:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),002,06:15,06:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),003,06:30,06:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),004,06:45,07:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),006,07:15,07:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),007,07:30,07:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),008,07:45,08:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),009,08:00,08:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),010,08:15,08:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),011,08:30,08:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),012,08:45,09:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),013,09:00,09:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),014,09:15,09:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),015,09:30,09:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),016,09:45,10:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),017,10:00,10:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),018,10:15,10:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),019,10:30,10:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),020,10:45,11:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),021,11:00,11:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),022,11:15,11:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),023,11:30,11:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),024,11:45,12:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),025,12:00,12:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),026,12:15,12:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),027,12:30,12:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),028,12:45,13:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),029,13:00,13:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),030,13:15,13:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),031,13:30,13:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),032,13:45,14:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),033,14:00,14:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),034,14:15,14:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),035,14:30,14:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),036,14:45,15:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),037,15:00,15:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),038,15:15,15:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),039,15:30,15:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),040,15:45,16:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),041,16:00,16:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),042,16:15,16:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),043,16:30,16:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),044,16:45,17:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),045,17:00,17:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),046,17:15,17:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),047,17:30,17:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),048,17:45,18:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),049,18:00,18:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),051,18:30,18:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Sohlener Hauptstraße (O),052,18:45,19:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),001,06:00,06:15,0,,26,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),002,06:15,06:30,0,,23,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),003,06:30,06:45,0,,17,6,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),004,06:45,07:00,0,,21,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),005,07:00,07:15,0,,27,4,4,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),006,07:15,07:30,0,,32,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),007,07:30,07:45,0,,28,2,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),008,07:45,08:00,0,,14,6,1,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),009,08:00,08:15,0,,11,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),010,08:15,08:30,0,,16,2,1,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),011,08:30,08:45,0,,22,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),012,08:45,09:00,0,,17,2,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),013,09:00,09:15,0,,7,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),014,09:15,09:30,0,,11,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),015,09:30,09:45,0,,29,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),016,09:45,10:00,1,,13,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),017,10:00,10:15,0,,15,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),018,10:15,10:30,0,,16,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),019,10:30,10:45,0,,23,1,1,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),020,10:45,11:00,0,,15,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),021,11:00,11:15,0,,23,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),022,11:15,11:30,0,,15,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),023,11:30,11:45,0,,19,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),024,11:45,12:00,1,,21,1,1,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),025,12:00,12:15,0,,15,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),026,12:15,12:30,0,,32,5,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),027,12:30,12:45,0,,13,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),028,12:45,13:00,0,,15,1,2,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),029,13:00,13:15,0,,30,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),030,13:15,13:30,0,,27,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),031,13:30,13:45,0,,29,2,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),032,13:45,14:00,0,,27,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),033,14:00,14:15,0,,13,1,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),034,14:15,14:30,1,,16,0,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),035,14:30,14:45,0,,12,1,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),036,14:45,15:00,0,,26,2,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),037,15:00,15:15,1,,43,5,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),038,15:15,15:30,0,,39,6,2,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),039,15:30,15:45,0,,17,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),040,15:45,16:00,0,,21,0,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),041,16:00,16:15,0,,33,14,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),042,16:15,16:30,0,,17,1,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),043,16:30,16:45,0,,30,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),044,16:45,17:00,0,,20,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),045,17:00,17:15,0,,32,0,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),046,17:15,17:30,0,,34,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),047,17:30,17:45,0,,27,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),048,17:45,18:00,0,,15,1,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),049,18:00,18:15,2,,18,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),050,18:15,18:30,1,,30,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),051,18:30,18:45,0,,13,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Sohlener Hauptstraße (O),052,18:45,19:00,1,,16,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),001,06:00,06:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),002,06:15,06:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),003,06:30,06:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),004,06:45,07:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),005,07:00,07:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),006,07:15,07:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),007,07:30,07:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),008,07:45,08:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),009,08:00,08:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),010,08:15,08:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),011,08:30,08:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),012,08:45,09:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),013,09:00,09:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),014,09:15,09:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),015,09:30,09:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),016,09:45,10:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),017,10:00,10:15,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),018,10:15,10:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),019,10:30,10:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),020,10:45,11:00,1,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),021,11:00,11:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),022,11:15,11:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),023,11:30,11:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),024,11:45,12:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),025,12:00,12:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),026,12:15,12:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),027,12:30,12:45,0,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),028,12:45,13:00,0,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),029,13:00,13:15,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),030,13:15,13:30,0,,2,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),031,13:30,13:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),032,13:45,14:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),033,14:00,14:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),034,14:15,14:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),035,14:30,14:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),036,14:45,15:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),037,15:00,15:15,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),038,15:15,15:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),039,15:30,15:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),040,15:45,16:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),041,16:00,16:15,0,,1,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),042,16:15,16:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),043,16:30,16:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),044,16:45,17:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),045,17:00,17:15,0,,2,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),046,17:15,17:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),047,17:30,17:45,0,,2,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),048,17:45,18:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),049,18:00,18:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),050,18:15,18:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),051,18:30,18:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Sohlener Hauptstraße (O),052,18:45,19:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,001,06:00,06:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,002,06:15,06:30,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,003,06:30,06:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,004,06:45,07:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,005,07:00,07:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,006,07:15,07:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,007,07:30,07:45,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,008,07:45,08:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,009,08:00,08:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,010,08:15,08:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,011,08:30,08:45,0,,1,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,012,08:45,09:00,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,013,09:00,09:15,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,014,09:15,09:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,015,09:30,09:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,016,09:45,10:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,017,10:00,10:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,018,10:15,10:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,019,10:30,10:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,020,10:45,11:00,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,021,11:00,11:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,022,11:15,11:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,023,11:30,11:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,024,11:45,12:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,025,12:00,12:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,026,12:15,12:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,027,12:30,12:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,028,12:45,13:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,029,13:00,13:15,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,030,13:15,13:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,031,13:30,13:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,032,13:45,14:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,033,14:00,14:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,034,14:15,14:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,035,14:30,14:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,036,14:45,15:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,037,15:00,15:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,038,15:15,15:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,039,15:30,15:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,040,15:45,16:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,041,16:00,16:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,042,16:15,16:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,043,16:30,16:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,044,16:45,17:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,045,17:00,17:15,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,046,17:15,17:30,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,047,17:30,17:45,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,048,17:45,18:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,049,18:00,18:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,050,18:15,18:30,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,051,18:30,18:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Unter der Wiesche,052,18:45,19:00,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,001,06:00,06:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,002,06:15,06:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,003,06:30,06:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,004,06:45,07:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,005,07:00,07:15,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,006,07:15,07:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,007,07:30,07:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,008,07:45,08:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,009,08:00,08:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,010,08:15,08:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,011,08:30,08:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,012,08:45,09:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,013,09:00,09:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,014,09:15,09:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,015,09:30,09:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,016,09:45,10:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,017,10:00,10:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,018,10:15,10:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,019,10:30,10:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,020,10:45,11:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,021,11:00,11:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,022,11:15,11:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,023,11:30,11:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,024,11:45,12:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,025,12:00,12:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,026,12:15,12:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,027,12:30,12:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,028,12:45,13:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,029,13:00,13:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,030,13:15,13:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,031,13:30,13:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,032,13:45,14:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,033,14:00,14:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,034,14:15,14:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,035,14:30,14:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,036,14:45,15:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,037,15:00,15:15,2,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,038,15:15,15:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,039,15:30,15:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,040,15:45,16:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,041,16:00,16:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,042,16:15,16:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,043,16:30,16:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,044,16:45,17:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,045,17:00,17:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,046,17:15,17:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,047,17:30,17:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,048,17:45,18:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,049,18:00,18:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,050,18:15,18:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,051,18:30,18:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Unter der Wiesche,052,18:45,19:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,001,06:00,06:15,0,,3,2,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,002,06:15,06:30,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,003,06:30,06:45,0,,3,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,004,06:45,07:00,0,,4,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,005,07:00,07:15,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,006,07:15,07:30,0,,5,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,007,07:30,07:45,0,,3,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,008,07:45,08:00,0,,1,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,009,08:00,08:15,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,010,08:15,08:30,0,,3,1,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,011,08:30,08:45,0,,1,0,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,012,08:45,09:00,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,013,09:00,09:15,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,014,09:15,09:30,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,015,09:30,09:45,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,016,09:45,10:00,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,017,10:00,10:15,0,,1,0,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,018,10:15,10:30,0,,3,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,019,10:30,10:45,0,,3,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,020,10:45,11:00,0,,6,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,021,11:00,11:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,022,11:15,11:30,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,023,11:30,11:45,0,,5,0,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,024,11:45,12:00,0,,2,0,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,025,12:00,12:15,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,026,12:15,12:30,0,,3,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,027,12:30,12:45,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,028,12:45,13:00,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,029,13:00,13:15,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,030,13:15,13:30,0,,4,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,031,13:30,13:45,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,032,13:45,14:00,0,,4,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,033,14:00,14:15,0,,2,0,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,034,14:15,14:30,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,035,14:30,14:45,0,,1,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,036,14:45,15:00,0,,2,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,037,15:00,15:15,2,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,038,15:15,15:30,0,,0,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,039,15:30,15:45,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,040,15:45,16:00,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,041,16:00,16:15,0,,9,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,042,16:15,16:30,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,043,16:30,16:45,0,,1,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,044,16:45,17:00,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,045,17:00,17:15,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,046,17:15,17:30,0,,7,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,047,17:30,17:45,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,048,17:45,18:00,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,049,18:00,18:15,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,050,18:15,18:30,0,,5,0,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,051,18:30,18:45,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Unter der Wiesche,052,18:45,19:00,0,,1,0,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,0,,47,5,4,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,0,,42,3,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,0,,41,12,0,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,1,,51,7,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,0,,77,9,4,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,0,,84,5,0,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,2,,69,6,3,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,0,,36,14,2,4,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,0,,29,5,0,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,1,,43,4,2,5,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,0,,38,4,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,1,,50,3,2,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,3,,35,5,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,0,,30,2,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,0,,63,3,0,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,1,,36,1,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,0,,38,4,1,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,1,,45,4,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,0,,45,5,1,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,4,,45,2,0,3,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,2,,59,4,1,3,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,1,,33,2,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,1,,48,2,0,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,1,,44,6,1,4,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,1,,50,5,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,0,,53,6,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,0,,36,4,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,1,,31,2,2,3,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,2,,57,5,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,0,,61,10,0,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,0,,51,2,4,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,0,,47,4,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,0,,47,4,6,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,2,,60,3,3,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,0,,48,2,3,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,0,,58,4,3,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,6,,81,6,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,2,,83,10,4,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,1,,57,7,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,1,,58,1,4,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,2,,82,20,0,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,0,,57,4,1,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,4,,75,8,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,2,,58,1,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,2,,72,2,0,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,0,,83,4,0,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,0,,71,3,0,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,2,,40,1,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,2,,51,4,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,1,,62,1,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,2,,38,0,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,1,,37,1,0,0,0

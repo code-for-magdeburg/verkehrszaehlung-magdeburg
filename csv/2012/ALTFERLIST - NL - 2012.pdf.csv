@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,001,06:00,06:15,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,002,06:15,06:30,0,,3,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,003,06:30,06:45,1,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,004,06:45,07:00,4,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,005,07:00,07:15,0,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,006,07:15,07:30,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,007,07:30,07:45,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,008,07:45,08:00,1,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,009,08:00,08:15,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,010,08:15,08:30,1,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,011,08:30,08:45,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,012,08:45,09:00,2,,5,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,013,09:00,09:15,0,,4,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,014,09:15,09:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,015,09:30,09:45,1,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,016,09:45,10:00,2,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,017,10:00,10:15,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,018,10:15,10:30,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,019,10:30,10:45,2,,5,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,020,10:45,11:00,4,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,021,11:00,11:15,4,,5,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,022,11:15,11:30,0,,6,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,023,11:30,11:45,4,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,024,11:45,12:00,2,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,025,12:00,12:15,1,,3,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,026,12:15,12:30,2,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,027,12:30,12:45,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,028,12:45,13:00,1,,3,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,029,13:00,13:15,0,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,030,13:15,13:30,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,031,13:30,13:45,1,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,032,13:45,14:00,2,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,033,14:00,14:15,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,034,14:15,14:30,5,,10,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,035,14:30,14:45,0,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,036,14:45,15:00,7,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,037,15:00,15:15,1,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,038,15:15,15:30,4,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,039,15:30,15:45,4,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,040,15:45,16:00,3,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,041,16:00,16:15,3,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,042,16:15,16:30,3,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,043,16:30,16:45,7,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,044,16:45,17:00,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,045,17:00,17:15,1,,15,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,046,17:15,17:30,1,,1,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,047,17:30,17:45,1,,7,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,048,17:45,18:00,5,,5,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,049,18:00,18:15,1,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,050,18:15,18:30,0,,6,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,051,18:30,18:45,5,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Friedrich-List-Straße,052,18:45,19:00,3,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,001,06:00,06:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,002,06:15,06:30,1,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,003,06:30,06:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,004,06:45,07:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,005,07:00,07:15,0,,1,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,006,07:15,07:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,007,07:30,07:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,008,07:45,08:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,009,08:00,08:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,010,08:15,08:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,011,08:30,08:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,012,08:45,09:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,013,09:00,09:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,014,09:15,09:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,015,09:30,09:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,016,09:45,10:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,017,10:00,10:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,018,10:15,10:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,019,10:30,10:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,020,10:45,11:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,021,11:00,11:15,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,022,11:15,11:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,023,11:30,11:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,024,11:45,12:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,025,12:00,12:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,026,12:15,12:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,027,12:30,12:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,028,12:45,13:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,029,13:00,13:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,030,13:15,13:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,031,13:30,13:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,032,13:45,14:00,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,033,14:00,14:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,034,14:15,14:30,0,,2,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,035,14:30,14:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,036,14:45,15:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,037,15:00,15:15,0,,0,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,038,15:15,15:30,0,,1,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,039,15:30,15:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,040,15:45,16:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,041,16:00,16:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,042,16:15,16:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,043,16:30,16:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,044,16:45,17:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,045,17:00,17:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,046,17:15,17:30,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,047,17:30,17:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,048,17:45,18:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,049,18:00,18:15,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,050,18:15,18:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,051,18:30,18:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Friedrich-List-Straße,052,18:45,19:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,001,06:00,06:15,2,,9,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,002,06:15,06:30,1,,12,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,003,06:30,06:45,0,,4,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,004,06:45,07:00,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,005,07:00,07:15,0,,17,3,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,006,07:15,07:30,0,,8,4,0,2,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,007,07:30,07:45,0,,9,2,2,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,008,07:45,08:00,0,,7,4,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,009,08:00,08:15,2,,7,6,1,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,010,08:15,08:30,1,,5,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,011,08:30,08:45,0,,8,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,012,08:45,09:00,0,,3,1,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,013,09:00,09:15,0,,6,2,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,014,09:15,09:30,0,,5,1,3,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,015,09:30,09:45,0,,11,5,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,016,09:45,10:00,0,,11,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,017,10:00,10:15,0,,10,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,018,10:15,10:30,0,,10,2,2,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,019,10:30,10:45,0,,12,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,020,10:45,11:00,0,,11,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,021,11:00,11:15,0,,11,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,022,11:15,11:30,0,,6,3,3,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,023,11:30,11:45,0,,13,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,024,11:45,12:00,0,,13,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,025,12:00,12:15,0,,13,2,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,026,12:15,12:30,0,,4,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,027,12:30,12:45,1,,6,1,2,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,028,12:45,13:00,0,,10,1,0,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,029,13:00,13:15,1,,5,1,1,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,030,13:15,13:30,0,,8,1,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,031,13:30,13:45,0,,6,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,032,13:45,14:00,1,,9,2,2,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,033,14:00,14:15,0,,12,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,034,14:15,14:30,2,,36,3,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,035,14:30,14:45,0,,20,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,036,14:45,15:00,0,,15,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,037,15:00,15:15,2,,27,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,038,15:15,15:30,0,,14,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,039,15:30,15:45,0,,15,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,040,15:45,16:00,1,,18,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,041,16:00,16:15,0,,17,3,1,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,042,16:15,16:30,1,,12,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,043,16:30,16:45,1,,18,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,044,16:45,17:00,0,,21,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,045,17:00,17:15,0,,16,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,046,17:15,17:30,0,,14,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,047,17:30,17:45,0,,15,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,048,17:45,18:00,0,,9,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,049,18:00,18:15,1,,18,0,0,0,1
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,050,18:15,18:30,0,,12,0,0,0,1
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,051,18:30,18:45,0,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Friedrich-List-Straße,052,18:45,19:00,1,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),001,06:00,06:15,0,,18,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),002,06:15,06:30,0,,13,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),003,06:30,06:45,0,,26,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),004,06:45,07:00,0,,25,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),005,07:00,07:15,0,,17,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),006,07:15,07:30,0,,20,4,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),007,07:30,07:45,1,,27,3,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),008,07:45,08:00,1,,18,2,0,2,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),009,08:00,08:15,0,,22,5,3,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),010,08:15,08:30,0,,24,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),011,08:30,08:45,0,,13,1,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),012,08:45,09:00,0,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),013,09:00,09:15,0,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),014,09:15,09:30,2,,15,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),015,09:30,09:45,1,,15,3,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),016,09:45,10:00,0,,19,2,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),017,10:00,10:15,1,,14,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),018,10:15,10:30,2,,21,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),019,10:30,10:45,1,,8,1,1,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),020,10:45,11:00,0,,13,7,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),021,11:00,11:15,0,,8,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),022,11:15,11:30,0,,12,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),023,11:30,11:45,0,,16,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),024,11:45,12:00,3,,16,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),025,12:00,12:15,0,,11,4,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),026,12:15,12:30,3,,13,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),027,12:30,12:45,2,,14,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),028,12:45,13:00,1,,12,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),029,13:00,13:15,1,,18,2,1,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),030,13:15,13:30,2,,22,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),031,13:30,13:45,4,,29,2,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),032,13:45,14:00,1,,16,4,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),033,14:00,14:15,0,,19,4,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),034,14:15,14:30,0,,16,1,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),035,14:30,14:45,0,,13,5,1,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),036,14:45,15:00,0,,13,5,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),037,15:00,15:15,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),038,15:15,15:30,1,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),039,15:30,15:45,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),040,15:45,16:00,1,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),041,16:00,16:15,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),042,16:15,16:30,0,,20,5,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),043,16:30,16:45,1,,20,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),044,16:45,17:00,0,,14,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),045,17:00,17:15,1,,19,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),046,17:15,17:30,2,,18,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),047,17:30,17:45,2,,15,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),048,17:45,18:00,1,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),049,18:00,18:15,0,,14,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),050,18:15,18:30,3,,13,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),051,18:30,18:45,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Fermersleben(NW),052,18:45,19:00,0,,5,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),001,06:00,06:15,2,,40,3,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),002,06:15,06:30,3,,57,5,0,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),003,06:30,06:45,4,,88,9,4,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),004,06:45,07:00,6,,82,8,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),005,07:00,07:15,10,,80,7,5,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),006,07:15,07:30,7,,83,1,7,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),007,07:30,07:45,5,,80,6,4,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),008,07:45,08:00,3,,68,12,3,5,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),009,08:00,08:15,6,,57,9,8,3,3
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),010,08:15,08:30,7,,56,3,3,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),011,08:30,08:45,4,,50,2,6,1,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),012,08:45,09:00,0,,47,4,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),013,09:00,09:15,4,,46,3,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),014,09:15,09:30,8,,69,8,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),015,09:30,09:45,7,,89,4,1,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),016,09:45,10:00,5,,94,3,8,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),017,10:00,10:15,6,,76,13,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),018,10:15,10:30,4,,108,4,2,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),019,10:30,10:45,5,,94,6,3,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),020,10:45,11:00,6,,79,6,3,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),021,11:00,11:15,6,,94,8,2,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),022,11:15,11:30,3,,91,5,6,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),023,11:30,11:45,5,,84,6,5,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),024,11:45,12:00,4,,86,7,1,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),025,12:00,12:15,3,,97,2,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),026,12:15,12:30,5,,85,9,4,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),027,12:30,12:45,5,,86,7,2,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),028,12:45,13:00,4,,79,2,3,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),029,13:00,13:15,3,,78,8,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),030,13:15,13:30,5,,97,9,4,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),031,13:30,13:45,8,,88,5,3,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),032,13:45,14:00,5,,98,7,2,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),033,14:00,14:15,7,,101,7,4,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),034,14:15,14:30,8,,102,6,2,4,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),035,14:30,14:45,4,,117,2,3,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),036,14:45,15:00,9,,113,7,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),037,15:00,15:15,8,,107,8,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),038,15:15,15:30,9,,142,5,4,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),039,15:30,15:45,5,,136,14,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),040,15:45,16:00,6,,133,5,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),041,16:00,16:15,7,,147,10,2,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),042,16:15,16:30,7,,189,11,1,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),043,16:30,16:45,9,,173,3,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),044,16:45,17:00,5,,170,8,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),045,17:00,17:15,6,,135,4,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),046,17:15,17:30,10,,143,7,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),047,17:30,17:45,2,,152,3,1,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),048,17:45,18:00,11,,109,2,0,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),049,18:00,18:15,5,,116,3,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),050,18:15,18:30,5,,132,6,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),051,18:30,18:45,3,,97,2,2,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Alt Fermersleben(NW),052,18:45,19:00,1,,94,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),001,06:00,06:15,1,,1,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),002,06:15,06:30,0,,2,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),003,06:30,06:45,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),004,06:45,07:00,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),005,07:00,07:15,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),006,07:15,07:30,0,,5,0,1,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),007,07:30,07:45,0,,1,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),008,07:45,08:00,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),009,08:00,08:15,0,,11,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),010,08:15,08:30,0,,3,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),011,08:30,08:45,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),012,08:45,09:00,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),013,09:00,09:15,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),014,09:15,09:30,0,,3,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),015,09:30,09:45,0,,5,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),016,09:45,10:00,0,,4,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),017,10:00,10:15,1,,4,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),018,10:15,10:30,0,,3,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),019,10:30,10:45,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),020,10:45,11:00,1,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),021,11:00,11:15,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),022,11:15,11:30,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),023,11:30,11:45,1,,8,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),024,11:45,12:00,0,,4,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),025,12:00,12:15,0,,3,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),026,12:15,12:30,0,,5,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),027,12:30,12:45,0,,6,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),028,12:45,13:00,0,,4,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),029,13:00,13:15,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),030,13:15,13:30,0,,4,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),031,13:30,13:45,0,,2,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),032,13:45,14:00,0,,2,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),033,14:00,14:15,0,,8,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),034,14:15,14:30,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),035,14:30,14:45,0,,4,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),036,14:45,15:00,0,,2,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),037,15:00,15:15,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),038,15:15,15:30,0,,1,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),039,15:30,15:45,0,,3,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),040,15:45,16:00,0,,1,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),041,16:00,16:15,1,,1,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),042,16:15,16:30,0,,4,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),043,16:30,16:45,0,,3,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),044,16:45,17:00,0,,3,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),045,17:00,17:15,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),046,17:15,17:30,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),047,17:30,17:45,0,,4,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),048,17:45,18:00,0,,1,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),049,18:00,18:15,0,,4,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),050,18:15,18:30,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),051,18:30,18:45,0,,0,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Alt Fermersleben (NW),052,18:45,19:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,001,06:00,06:15,1,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,002,06:15,06:30,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,003,06:30,06:45,1,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,004,06:45,07:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,005,07:00,07:15,0,,1,5,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,006,07:15,07:30,0,,1,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,007,07:30,07:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,008,07:45,08:00,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,009,08:00,08:15,0,,7,1,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,010,08:15,08:30,0,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,011,08:30,08:45,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,012,08:45,09:00,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,013,09:00,09:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,014,09:15,09:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,015,09:30,09:45,0,,3,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,016,09:45,10:00,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,017,10:00,10:15,0,,6,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,018,10:15,10:30,0,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,019,10:30,10:45,0,,8,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,020,10:45,11:00,1,,6,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,021,11:00,11:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,022,11:15,11:30,1,,5,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,023,11:30,11:45,0,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,024,11:45,12:00,0,,4,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,025,12:00,12:15,1,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,026,12:15,12:30,1,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,027,12:30,12:45,2,,5,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,028,12:45,13:00,0,,3,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,029,13:00,13:15,0,,6,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,030,13:15,13:30,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,031,13:30,13:45,2,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,032,13:45,14:00,0,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,033,14:00,14:15,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,034,14:15,14:30,0,,5,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,035,14:30,14:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,036,14:45,15:00,0,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,037,15:00,15:15,1,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,038,15:15,15:30,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,039,15:30,15:45,0,,10,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,040,15:45,16:00,0,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,041,16:00,16:15,0,,6,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,042,16:15,16:30,1,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,043,16:30,16:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,044,16:45,17:00,0,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,045,17:00,17:15,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,046,17:15,17:30,1,,12,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,047,17:30,17:45,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,048,17:45,18:00,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,049,18:00,18:15,0,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,050,18:15,18:30,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,051,18:30,18:45,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hoheuferstraße,052,18:45,19:00,0,,4,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,001,06:00,06:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,002,06:15,06:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,003,06:30,06:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,004,06:45,07:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,005,07:00,07:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,006,07:15,07:30,0,,1,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,007,07:30,07:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,008,07:45,08:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,009,08:00,08:15,1,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,010,08:15,08:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,011,08:30,08:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,012,08:45,09:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,013,09:00,09:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,014,09:15,09:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,015,09:30,09:45,0,,5,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,016,09:45,10:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,017,10:00,10:15,1,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,018,10:15,10:30,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,019,10:30,10:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,020,10:45,11:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,021,11:00,11:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,022,11:15,11:30,1,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,023,11:30,11:45,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,024,11:45,12:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,025,12:00,12:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,026,12:15,12:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,027,12:30,12:45,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,028,12:45,13:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,029,13:00,13:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,030,13:15,13:30,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,031,13:30,13:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,032,13:45,14:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,033,14:00,14:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,034,14:15,14:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,035,14:30,14:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,036,14:45,15:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,037,15:00,15:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,038,15:15,15:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,039,15:30,15:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,040,15:45,16:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,041,16:00,16:15,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,042,16:15,16:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,043,16:30,16:45,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,044,16:45,17:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,045,17:00,17:15,0,,1,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,046,17:15,17:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,047,17:30,17:45,2,,3,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,048,17:45,18:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,049,18:00,18:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,050,18:15,18:30,1,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,051,18:30,18:45,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hoheuferstr.,052,18:45,19:00,2,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,001,06:00,06:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,002,06:15,06:30,0,,1,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,003,06:30,06:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,004,06:45,07:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,005,07:00,07:15,1,,1,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,006,07:15,07:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,007,07:30,07:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,008,07:45,08:00,0,,2,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,009,08:00,08:15,0,,6,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,010,08:15,08:30,0,,3,0,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,011,08:30,08:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,012,08:45,09:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,013,09:00,09:15,0,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,014,09:15,09:30,0,,5,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,015,09:30,09:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,016,09:45,10:00,0,,4,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,017,10:00,10:15,0,,3,0,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,018,10:15,10:30,0,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,019,10:30,10:45,0,,1,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,020,10:45,11:00,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,021,11:00,11:15,0,,5,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,022,11:15,11:30,0,,7,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,023,11:30,11:45,0,,6,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,024,11:45,12:00,1,,4,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,025,12:00,12:15,0,,6,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,026,12:15,12:30,0,,3,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,027,12:30,12:45,0,,9,0,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,028,12:45,13:00,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,029,13:00,13:15,0,,3,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,030,13:15,13:30,0,,2,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,031,13:30,13:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,032,13:45,14:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,033,14:00,14:15,0,,6,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,034,14:15,14:30,1,,8,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,035,14:30,14:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,036,14:45,15:00,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,037,15:00,15:15,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,038,15:15,15:30,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,039,15:30,15:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,040,15:45,16:00,0,,8,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,041,16:00,16:15,0,,3,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,042,16:15,16:30,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,043,16:30,16:45,0,,5,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,044,16:45,17:00,0,,6,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,045,17:00,17:15,0,,3,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,046,17:15,17:30,0,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,047,17:30,17:45,0,,4,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,048,17:45,18:00,1,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,049,18:00,18:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,050,18:15,18:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,051,18:30,18:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Hoheuferstraße,052,18:45,19:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),001,06:00,06:15,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),002,06:15,06:30,0,,0,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),003,06:30,06:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),004,06:45,07:00,1,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),005,07:00,07:15,1,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),006,07:15,07:30,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),007,07:30,07:45,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),008,07:45,08:00,1,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),009,08:00,08:15,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),010,08:15,08:30,0,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),011,08:30,08:45,0,,2,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),012,08:45,09:00,0,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),013,09:00,09:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),014,09:15,09:30,0,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),015,09:30,09:45,0,,2,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),016,09:45,10:00,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),017,10:00,10:15,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),018,10:15,10:30,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),019,10:30,10:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),020,10:45,11:00,0,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),021,11:00,11:15,1,,5,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),022,11:15,11:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),023,11:30,11:45,1,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),024,11:45,12:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),025,12:00,12:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),026,12:15,12:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),027,12:30,12:45,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),028,12:45,13:00,0,,3,0,3,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),029,13:00,13:15,0,,2,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),030,13:15,13:30,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),031,13:30,13:45,0,,0,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),032,13:45,14:00,0,,0,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),033,14:00,14:15,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),034,14:15,14:30,1,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),035,14:30,14:45,1,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),036,14:45,15:00,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),037,15:00,15:15,1,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),038,15:15,15:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),039,15:30,15:45,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),040,15:45,16:00,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),041,16:00,16:15,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),042,16:15,16:30,0,,4,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),043,16:30,16:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),044,16:45,17:00,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),045,17:00,17:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),046,17:15,17:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),047,17:30,17:45,0,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),048,17:45,18:00,0,,0,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),049,18:00,18:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),050,18:15,18:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),051,18:30,18:45,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Fermersleben(SO),052,18:45,19:00,1,,1,0,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),001,06:00,06:15,11,,111,5,4,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),002,06:15,06:30,4,,183,13,1,5,1
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),003,06:30,06:45,7,,163,18,4,1,1
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),004,06:45,07:00,17,,154,12,0,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),005,07:00,07:15,22,,129,12,4,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),006,07:15,07:30,8,,203,12,2,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),007,07:30,07:45,8,,188,17,5,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),008,07:45,08:00,13,,167,7,2,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),009,08:00,08:15,6,,128,8,6,3,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),010,08:15,08:30,1,,112,9,3,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),011,08:30,08:45,12,,126,11,2,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),012,08:45,09:00,7,,97,7,5,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),013,09:00,09:15,13,,107,11,3,4,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),014,09:15,09:30,7,,104,6,4,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),015,09:30,09:45,6,,93,6,5,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),016,09:45,10:00,4,,95,3,2,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),017,10:00,10:15,3,,97,5,4,4,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),018,10:15,10:30,4,,92,6,2,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),019,10:30,10:45,4,,108,2,5,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),020,10:45,11:00,4,,80,8,3,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),021,11:00,11:15,6,,96,2,4,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),022,11:15,11:30,7,,88,8,6,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),023,11:30,11:45,5,,84,2,3,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),024,11:45,12:00,1,,100,6,3,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),025,12:00,12:15,7,,91,5,5,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),026,12:15,12:30,5,,90,6,6,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),027,12:30,12:45,4,,75,5,5,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),028,12:45,13:00,5,,84,4,2,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),029,13:00,13:15,5,,97,8,1,3,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),030,13:15,13:30,5,,97,6,0,6,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),031,13:30,13:45,7,,103,11,1,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),032,13:45,14:00,7,,75,8,4,3,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),033,14:00,14:15,5,,83,8,3,3,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),034,14:15,14:30,5,,127,6,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),035,14:30,14:45,6,,122,12,3,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),036,14:45,15:00,7,,127,3,5,3,3
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),037,15:00,15:15,7,,106,7,0,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),038,15:15,15:30,9,,123,6,1,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),039,15:30,15:45,4,,139,10,3,0,1
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),040,15:45,16:00,8,,112,6,3,2,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),041,16:00,16:15,9,,129,6,0,3,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),042,16:15,16:30,8,,134,5,1,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),043,16:30,16:45,9,,135,7,1,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),044,16:45,17:00,6,,111,5,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),045,17:00,17:15,5,,119,3,2,3,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),046,17:15,17:30,3,,124,2,3,1,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),047,17:30,17:45,10,,105,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),048,17:45,18:00,3,,91,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),049,18:00,18:15,4,,90,2,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),050,18:15,18:30,3,,93,4,2,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),051,18:30,18:45,4,,89,4,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrter Alt Fermersleben  (SO),052,18:45,19:00,3,,74,3,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),001,06:00,06:15,0,,1,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),002,06:15,06:30,0,,1,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),003,06:30,06:45,0,,2,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),004,06:45,07:00,0,,0,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),005,07:00,07:15,0,,2,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),006,07:15,07:30,0,,0,0,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),007,07:30,07:45,0,,1,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),008,07:45,08:00,0,,7,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),009,08:00,08:15,0,,1,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),010,08:15,08:30,0,,0,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),011,08:30,08:45,0,,0,0,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),012,08:45,09:00,0,,0,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),013,09:00,09:15,0,,2,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),014,09:15,09:30,0,,1,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),015,09:30,09:45,0,,5,1,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),016,09:45,10:00,0,,3,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),017,10:00,10:15,1,,5,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),018,10:15,10:30,1,,7,1,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),019,10:30,10:45,0,,5,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),020,10:45,11:00,0,,3,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),021,11:00,11:15,0,,4,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),022,11:15,11:30,3,,7,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),023,11:30,11:45,4,,4,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),024,11:45,12:00,3,,3,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),025,12:00,12:15,0,,4,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),026,12:15,12:30,2,,3,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),027,12:30,12:45,2,,1,0,0,1,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),028,12:45,13:00,0,,7,1,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),029,13:00,13:15,0,,4,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),030,13:15,13:30,0,,9,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),031,13:30,13:45,0,,9,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),032,13:45,14:00,0,,0,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),033,14:00,14:15,0,,3,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),034,14:15,14:30,0,,2,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),035,14:30,14:45,0,,0,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),036,14:45,15:00,0,,4,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),037,15:00,15:15,0,,6,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),038,15:15,15:30,0,,6,0,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),039,15:30,15:45,0,,4,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),040,15:45,16:00,0,,1,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),041,16:00,16:15,1,,4,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),042,16:15,16:30,0,,6,3,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),043,16:30,16:45,2,,9,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),044,16:45,17:00,0,,4,0,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),045,17:00,17:15,1,,6,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),046,17:15,17:30,2,,4,0,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),047,17:30,17:45,1,,4,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),048,17:45,18:00,0,,1,0,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),049,18:00,18:15,0,,2,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),050,18:15,18:30,1,,3,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),051,18:30,18:45,1,,2,1,0,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Fermersleben (SO),052,18:45,19:00,1,,3,0,0,0,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,17,,193,12,5,1,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,9,,277,24,2,8,1
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,13,,298,30,9,1,1
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,28,,275,21,3,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,34,,258,34,10,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,15,,327,24,14,6,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,15,,318,28,12,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,19,,281,27,6,7,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,15,,244,31,18,9,3
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,10,,217,16,7,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,16,,207,20,12,3,1
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,9,,181,13,10,0,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,17,,185,18,5,4,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,17,,208,19,8,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,15,,237,23,10,5,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,11,,239,12,10,3,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,13,,223,24,9,4,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,11,,252,18,7,5,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,12,,248,14,11,6,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,16,,208,23,7,3,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,17,,234,16,8,5,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,15,,231,20,15,4,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,20,,229,12,9,3,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,14,,239,19,5,3,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,12,,231,16,10,1,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,18,,217,23,11,4,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,17,,211,16,10,5,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,11,,207,17,9,5,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,10,,222,23,7,5,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,13,,248,19,6,7,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,22,,251,23,6,4,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,17,,209,25,9,7,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,12,,248,23,7,4,1
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,22,,313,17,4,6,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,11,,293,24,7,3,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,23,,295,18,7,3,3
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,20,,279,19,2,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,23,,316,16,6,1,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,13,,335,27,4,0,1
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,19,,299,12,4,3,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,21,,333,20,3,6,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,20,,380,27,2,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,29,,369,16,3,1,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,12,,340,17,4,0,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,14,,320,12,3,3,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,19,,327,16,5,1,1
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,18,,319,8,1,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,21,,230,9,0,3,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,11,,261,7,1,0,1
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,13,,264,14,2,0,1
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,13,,223,8,2,1,0
+27,,0,0,SUMME ZU,summierter Strom,4+10+16+24,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,12,,194,5,1,0,0

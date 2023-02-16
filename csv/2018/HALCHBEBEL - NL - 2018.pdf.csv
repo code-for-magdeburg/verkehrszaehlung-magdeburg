@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),001,06:00,06:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),002,06:15,06:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),003,06:30,06:45,1,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),004,06:45,07:00,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),005,07:00,07:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),006,07:15,07:30,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),007,07:30,07:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),008,07:45,08:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),009,08:00,08:15,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),010,08:15,08:30,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),011,08:30,08:45,0,,2,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),012,08:45,09:00,1,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),013,09:00,09:15,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),014,09:15,09:30,1,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),015,09:30,09:45,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),016,09:45,10:00,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),017,10:00,10:15,0,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),018,10:15,10:30,0,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),019,10:30,10:45,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),020,10:45,11:00,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),021,11:00,11:15,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),022,11:15,11:30,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),023,11:30,11:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),024,11:45,12:00,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),025,12:00,12:15,1,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),026,12:15,12:30,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),027,12:30,12:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),028,12:45,13:00,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),029,13:00,13:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),030,13:15,13:30,1,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),031,13:30,13:45,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),032,13:45,14:00,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),033,14:00,14:15,1,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),034,14:15,14:30,3,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),035,14:30,14:45,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),036,14:45,15:00,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),037,15:00,15:15,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),038,15:15,15:30,1,,16,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),039,15:30,15:45,0,,20,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),040,15:45,16:00,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),041,16:00,16:15,1,,13,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),042,16:15,16:30,2,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),043,16:30,16:45,0,,17,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),044,16:45,17:00,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),045,17:00,17:15,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),046,17:15,17:30,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),047,17:30,17:45,1,,20,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),048,17:45,18:00,1,,16,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),049,18:00,18:15,2,,12,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),050,18:15,18:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),051,18:30,18:45,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Halberstädter Chaussee (SW),052,18:45,19:00,0,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),001,06:00,06:15,6,,71,5,0,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),002,06:15,06:30,6,,93,6,1,2,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),003,06:30,06:45,12,,154,15,0,0,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),004,06:45,07:00,6,,171,9,4,3,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),005,07:00,07:15,10,,146,9,2,2,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),006,07:15,07:30,11,,165,6,7,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),007,07:30,07:45,7,,154,9,2,1,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),008,07:45,08:00,6,,163,13,4,2,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),009,08:00,08:15,6,,147,16,6,1,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),010,08:15,08:30,4,,153,14,4,3,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),011,08:30,08:45,8,,102,6,3,2,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),012,08:45,09:00,3,,124,3,2,3,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),013,09:00,09:15,6,,118,15,3,2,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),014,09:15,09:30,5,,85,7,4,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),015,09:30,09:45,3,,125,5,1,3,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),016,09:45,10:00,4,,95,2,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),017,10:00,10:15,6,,96,3,2,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),018,10:15,10:30,4,,95,3,2,1,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),019,10:30,10:45,2,,105,4,1,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),020,10:45,11:00,5,,125,0,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),021,11:00,11:15,2,,114,4,7,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),022,11:15,11:30,2,,77,4,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),023,11:30,11:45,1,,77,4,4,0,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),024,11:45,12:00,3,,79,0,4,3,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),025,12:00,12:15,6,,91,3,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),026,12:15,12:30,5,,71,4,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),027,12:30,12:45,3,,89,2,4,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),028,12:45,13:00,9,,89,3,7,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),029,13:00,13:15,3,,111,7,0,0,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),030,13:15,13:30,7,,78,5,1,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),031,13:30,13:45,9,,90,8,3,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),032,13:45,14:00,6,,79,9,5,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),033,14:00,14:15,5,,85,10,3,1,4
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),034,14:15,14:30,0,,98,4,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),035,14:30,14:45,0,,114,3,0,1,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),036,14:45,15:00,0,,108,8,3,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),037,15:00,15:15,4,,94,4,1,0,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),038,15:15,15:30,3,,120,7,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),039,15:30,15:45,8,,96,4,0,0,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),040,15:45,16:00,2,,89,9,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),041,16:00,16:15,10,,125,5,1,1,4
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),042,16:15,16:30,1,,114,1,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),043,16:30,16:45,2,,133,4,2,1,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),044,16:45,17:00,1,,77,1,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),045,17:00,17:15,3,,115,1,2,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),046,17:15,17:30,5,,101,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),047,17:30,17:45,7,,121,1,0,0,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),048,17:45,18:00,3,,104,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),049,18:00,18:15,7,,89,1,0,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),050,18:15,18:30,5,,85,1,0,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),051,18:30,18:45,6,,86,0,0,0,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (SW),052,18:45,19:00,5,,67,1,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),001,06:00,06:15,5,,38,4,0,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),002,06:15,06:30,6,,46,10,0,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),003,06:30,06:45,6,,60,11,1,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),004,06:45,07:00,3,,70,13,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),005,07:00,07:15,2,,63,13,3,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),006,07:15,07:30,2,,77,11,1,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),007,07:30,07:45,5,,89,19,6,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),008,07:45,08:00,2,,87,21,4,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),009,08:00,08:15,3,,89,15,4,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),010,08:15,08:30,8,,85,7,2,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),011,08:30,08:45,3,,92,12,4,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),012,08:45,09:00,5,,81,11,1,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),013,09:00,09:15,4,,91,16,4,1,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),014,09:15,09:30,2,,102,15,3,1,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),015,09:30,09:45,3,,153,8,6,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),016,09:45,10:00,6,,128,6,6,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),017,10:00,10:15,2,,102,5,1,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),018,10:15,10:30,5,,118,8,8,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),019,10:30,10:45,5,,101,4,4,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),020,10:45,11:00,3,,116,14,2,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),021,11:00,11:15,7,,112,2,2,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),022,11:15,11:30,5,,118,5,2,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),023,11:30,11:45,5,,86,4,3,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),024,11:45,12:00,5,,117,8,4,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),025,12:00,12:15,2,,112,5,4,3,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),026,12:15,12:30,4,,100,3,3,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),027,12:30,12:45,4,,112,13,5,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),028,12:45,13:00,1,,75,3,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),029,13:00,13:15,5,,125,16,4,1,3
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),030,13:15,13:30,6,,108,14,5,0,3
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),031,13:30,13:45,3,,88,11,4,0,3
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),032,13:45,14:00,4,,105,12,3,0,3
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),033,14:00,14:15,1,,118,16,5,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),034,14:15,14:30,9,,116,13,3,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),035,14:30,14:45,7,,156,17,1,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),036,14:45,15:00,2,,134,9,1,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),037,15:00,15:15,9,,143,10,1,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),038,15:15,15:30,10,,133,16,3,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),039,15:30,15:45,12,,142,11,3,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),040,15:45,16:00,7,,136,14,1,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),041,16:00,16:15,7,,560,7,1,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),042,16:15,16:30,10,,186,9,3,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),043,16:30,16:45,11,,185,10,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),044,16:45,17:00,17,,204,4,2,1,3
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),045,17:00,17:15,10,,170,6,0,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),046,17:15,17:30,9,,128,2,0,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),047,17:30,17:45,4,,136,3,1,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),048,17:45,18:00,10,,124,4,1,1,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),049,18:00,18:15,8,,101,3,0,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),050,18:15,18:30,6,,125,5,0,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),051,18:30,18:45,10,,119,0,1,0,2
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Halberstädter Chaussee (NO),052,18:45,19:00,5,,103,2,2,0,2
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),001,06:00,06:15,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),002,06:15,06:30,0,,2,3,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),003,06:30,06:45,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),004,06:45,07:00,0,,7,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),005,07:00,07:15,0,,8,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),006,07:15,07:30,0,,9,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),007,07:30,07:45,0,,6,2,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),008,07:45,08:00,0,,4,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),009,08:00,08:15,0,,5,1,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),010,08:15,08:30,0,,17,0,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),011,08:30,08:45,0,,3,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),012,08:45,09:00,0,,10,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),013,09:00,09:15,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),014,09:15,09:30,0,,2,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),015,09:30,09:45,0,,5,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),016,09:45,10:00,0,,8,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),017,10:00,10:15,0,,7,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),018,10:15,10:30,1,,13,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),019,10:30,10:45,0,,5,0,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),020,10:45,11:00,0,,7,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),021,11:00,11:15,0,,5,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),022,11:15,11:30,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),023,11:30,11:45,0,,9,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),024,11:45,12:00,0,,24,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),025,12:00,12:15,0,,29,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),026,12:15,12:30,0,,8,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),027,12:30,12:45,0,,7,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),028,12:45,13:00,1,,5,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),029,13:00,13:15,0,,12,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),030,13:15,13:30,0,,15,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),031,13:30,13:45,0,,6,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),032,13:45,14:00,1,,19,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),033,14:00,14:15,1,,20,0,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),034,14:15,14:30,1,,15,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),035,14:30,14:45,2,,10,3,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),036,14:45,15:00,0,,9,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),037,15:00,15:15,3,,20,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),038,15:15,15:30,2,,30,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),039,15:30,15:45,0,,31,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),040,15:45,16:00,0,,10,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),041,16:00,16:15,0,,24,3,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),042,16:15,16:30,0,,19,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),043,16:30,16:45,3,,21,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),044,16:45,17:00,0,,16,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),045,17:00,17:15,1,,12,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),046,17:15,17:30,0,,24,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),047,17:30,17:45,0,,20,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),048,17:45,18:00,0,,27,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),049,18:00,18:15,1,,11,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),050,18:15,18:30,0,,9,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),051,18:30,18:45,0,,4,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Halberstädter Chaussee (NO),052,18:45,19:00,0,,8,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,001,06:00,06:15,4,,15,6,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,002,06:15,06:30,3,,20,2,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,003,06:30,06:45,3,,32,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,004,06:45,07:00,2,,38,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,005,07:00,07:15,2,,27,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,006,07:15,07:30,2,,40,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,007,07:30,07:45,3,,40,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,008,07:45,08:00,1,,31,2,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,009,08:00,08:15,2,,26,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,010,08:15,08:30,0,,31,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,011,08:30,08:45,0,,15,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,012,08:45,09:00,0,,13,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,013,09:00,09:15,2,,8,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,014,09:15,09:30,1,,7,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,015,09:30,09:45,0,,11,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,016,09:45,10:00,0,,14,2,1,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,017,10:00,10:15,0,,8,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,018,10:15,10:30,0,,20,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,019,10:30,10:45,1,,15,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,020,10:45,11:00,0,,16,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,021,11:00,11:15,0,,11,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,022,11:15,11:30,0,,5,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,023,11:30,11:45,0,,13,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,024,11:45,12:00,0,,13,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,025,12:00,12:15,0,,7,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,026,12:15,12:30,0,,12,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,027,12:30,12:45,0,,12,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,028,12:45,13:00,2,,16,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,029,13:00,13:15,1,,13,3,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,030,13:15,13:30,2,,13,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,031,13:30,13:45,0,,6,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,032,13:45,14:00,1,,20,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,033,14:00,14:15,0,,11,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,034,14:15,14:30,1,,9,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,035,14:30,14:45,0,,18,0,1,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,036,14:45,15:00,0,,16,2,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,037,15:00,15:15,1,,18,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,038,15:15,15:30,0,,28,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,039,15:30,15:45,0,,20,5,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,040,15:45,16:00,0,,13,2,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,041,16:00,16:15,0,,10,2,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,042,16:15,16:30,2,,29,2,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,043,16:30,16:45,0,,18,2,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,044,16:45,17:00,1,,8,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,045,17:00,17:15,0,,17,3,1,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,046,17:15,17:30,2,,15,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,047,17:30,17:45,0,,19,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,048,17:45,18:00,1,,9,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,049,18:00,18:15,0,,10,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,050,18:15,18:30,0,,10,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,051,18:30,18:45,0,,10,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bebelstraße,052,18:45,19:00,0,,7,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,001,06:00,06:15,2,,6,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,002,06:15,06:30,1,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,003,06:30,06:45,1,,10,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,004,06:45,07:00,1,,13,2,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,005,07:00,07:15,1,,5,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,006,07:15,07:30,0,,9,2,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,007,07:30,07:45,0,,7,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,008,07:45,08:00,0,,4,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,009,08:00,08:15,0,,6,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,010,08:15,08:30,0,,13,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,011,08:30,08:45,0,,13,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,012,08:45,09:00,1,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,013,09:00,09:15,0,,3,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,014,09:15,09:30,0,,10,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,015,09:30,09:45,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,016,09:45,10:00,0,,6,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,017,10:00,10:15,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,018,10:15,10:30,0,,6,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,019,10:30,10:45,0,,6,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,020,10:45,11:00,0,,4,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,021,11:00,11:15,0,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,022,11:15,11:30,0,,3,2,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,023,11:30,11:45,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,024,11:45,12:00,0,,8,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,025,12:00,12:15,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,026,12:15,12:30,0,,6,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,027,12:30,12:45,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,028,12:45,13:00,0,,2,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,029,13:00,13:15,1,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,030,13:15,13:30,0,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,031,13:30,13:45,0,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,032,13:45,14:00,0,,6,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,033,14:00,14:15,1,,6,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,034,14:15,14:30,1,,6,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,035,14:30,14:45,1,,8,2,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,036,14:45,15:00,1,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,037,15:00,15:15,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,038,15:15,15:30,2,,12,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,039,15:30,15:45,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,040,15:45,16:00,0,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,041,16:00,16:15,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,042,16:15,16:30,0,,14,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,043,16:30,16:45,0,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,044,16:45,17:00,0,,9,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,045,17:00,17:15,0,,12,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,046,17:15,17:30,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,047,17:30,17:45,0,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,048,17:45,18:00,0,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,049,18:00,18:15,0,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,050,18:15,18:30,0,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,051,18:30,18:45,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Bebelstraße,052,18:45,19:00,0,,5,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,001,06:00,06:15,17,,130,15,0,1,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,002,06:15,06:30,16,,164,21,1,2,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,003,06:30,06:45,23,,260,27,1,0,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,004,06:45,07:00,12,,302,25,4,3,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,005,07:00,07:15,15,,251,24,5,3,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,006,07:15,07:30,15,,304,21,8,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,007,07:30,07:45,15,,297,31,9,2,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,008,07:45,08:00,9,,290,39,8,3,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,009,08:00,08:15,11,,278,32,11,1,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,010,08:15,08:30,12,,303,21,7,4,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,011,08:30,08:45,11,,227,22,7,2,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,012,08:45,09:00,10,,234,15,3,4,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,013,09:00,09:15,12,,224,33,7,3,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,014,09:15,09:30,9,,213,23,7,1,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,015,09:30,09:45,6,,306,14,7,3,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,016,09:45,10:00,10,,257,10,8,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,017,10:00,10:15,8,,224,10,3,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,018,10:15,10:30,10,,257,13,10,2,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,019,10:30,10:45,8,,241,8,6,1,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,020,10:45,11:00,8,,275,15,3,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,021,11:00,11:15,9,,248,7,9,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,022,11:15,11:30,7,,211,11,4,2,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,023,11:30,11:45,6,,190,10,7,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,024,11:45,12:00,8,,251,8,8,4,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,025,12:00,12:15,9,,250,8,5,3,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,026,12:15,12:30,9,,207,9,5,0,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,027,12:30,12:45,7,,228,17,9,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,028,12:45,13:00,13,,193,7,7,0,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,029,13:00,13:15,10,,265,26,4,1,6
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,030,13:15,13:30,16,,224,22,6,0,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,031,13:30,13:45,12,,199,20,7,0,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,032,13:45,14:00,12,,235,22,8,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,033,14:00,14:15,9,,243,27,9,1,6
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,034,14:15,14:30,15,,250,20,5,0,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,035,14:30,14:45,10,,316,25,2,1,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,036,14:45,15:00,3,,279,21,4,1,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,037,15:00,15:15,18,,284,14,2,0,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,038,15:15,15:30,18,,339,23,5,0,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,039,15:30,15:45,20,,314,21,3,1,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,040,15:45,16:00,9,,261,25,1,0,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,041,16:00,16:15,18,,737,17,2,1,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,042,16:15,16:30,15,,372,12,5,0,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,043,16:30,16:45,16,,377,20,2,1,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,044,16:45,17:00,19,,328,7,3,1,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,045,17:00,17:15,14,,340,11,3,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,046,17:15,17:30,16,,281,3,0,0,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,047,17:30,17:45,12,,320,4,1,1,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,048,17:45,18:00,15,,283,6,1,1,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,049,18:00,18:15,18,,227,5,0,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,050,18:15,18:30,11,,233,6,0,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,051,18:30,18:45,16,,228,0,1,0,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QC1 + QD1,052,18:45,19:00,10,,194,3,2,0,3

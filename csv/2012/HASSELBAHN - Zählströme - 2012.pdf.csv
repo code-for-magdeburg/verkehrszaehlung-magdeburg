@@ -1,0 +1,417 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),001,06:00,06:15,0,0,4,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),002,06:15,06:30,0,0,6,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),003,06:30,06:45,0,0,9,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),004,06:45,07:00,0,0,15,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),005,07:00,07:15,0,0,13,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),006,07:15,07:30,0,0,6,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),007,07:30,07:45,1,0,16,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),008,07:45,08:00,0,0,11,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),009,08:00,08:15,2,0,11,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),010,08:15,08:30,0,0,13,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),011,08:30,08:45,1,0,13,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),012,08:45,09:00,1,0,13,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),013,09:00,09:15,0,0,13,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),014,09:15,09:30,1,0,15,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),015,09:30,09:45,0,0,9,,1,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),016,09:45,10:00,2,0,7,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),017,10:00,10:15,0,0,9,,1,0,1
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),018,10:15,10:30,2,0,14,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),019,10:30,10:45,0,0,11,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),020,10:45,11:00,0,0,13,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),021,11:00,11:15,1,0,13,,1,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),022,11:15,11:30,1,0,13,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),023,11:30,11:45,3,0,17,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),024,11:45,12:00,0,0,14,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),025,12:00,12:15,1,0,12,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),026,12:15,12:30,1,1,12,,1,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),027,12:30,12:45,0,0,11,,1,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),028,12:45,13:00,0,0,11,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),029,13:00,13:15,0,0,9,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),030,13:15,13:30,0,0,12,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),031,13:30,13:45,2,0,14,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),032,13:45,14:00,0,0,14,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),033,14:00,14:15,0,1,13,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),034,14:15,14:30,1,0,16,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),035,14:30,14:45,0,0,11,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),036,14:45,15:00,1,0,15,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),037,15:00,15:15,1,1,16,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),038,15:15,15:30,1,0,17,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),039,15:30,15:45,0,0,10,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),040,15:45,16:00,1,0,10,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),041,16:00,16:15,0,1,14,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),042,16:15,16:30,0,0,18,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),043,16:30,16:45,0,0,23,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),044,16:45,17:00,0,0,29,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),045,17:00,17:15,0,0,8,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),046,17:15,17:30,0,0,17,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),047,17:30,17:45,1,0,15,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),048,17:45,18:00,0,0,18,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),049,18:00,18:15,1,0,22,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),050,18:15,18:30,0,0,12,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),051,18:30,18:45,1,1,17,,0,0,0
+1,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Willy-Brandt-Platz (vom Parkplatz),052,18:45,19:00,1,0,18,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,001,06:00,06:15,1,0,0,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,002,06:15,06:30,9,0,0,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,003,06:30,06:45,5,0,2,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,004,06:45,07:00,8,0,2,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,005,07:00,07:15,3,0,1,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,006,07:15,07:30,16,0,3,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,007,07:30,07:45,11,0,1,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,008,07:45,08:00,10,0,0,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,009,08:00,08:15,12,0,5,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,010,08:15,08:30,8,0,4,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,011,08:30,08:45,4,0,6,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,012,08:45,09:00,8,0,4,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,013,09:00,09:15,7,0,6,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,014,09:15,09:30,7,0,2,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,015,09:30,09:45,9,0,9,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,016,09:45,10:00,5,0,3,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,017,10:00,10:15,5,0,6,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,018,10:15,10:30,5,0,9,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,019,10:30,10:45,4,0,11,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,020,10:45,11:00,17,0,3,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,021,11:00,11:15,8,1,11,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,022,11:15,11:30,4,0,11,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,023,11:30,11:45,8,0,11,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,024,11:45,12:00,9,0,6,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,025,12:00,12:15,7,1,9,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,026,12:15,12:30,3,0,5,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,027,12:30,12:45,1,1,13,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,028,12:45,13:00,2,2,1,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,029,13:00,13:15,3,0,12,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,030,13:15,13:30,0,0,7,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,031,13:30,13:45,0,0,9,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,032,13:45,14:00,8,0,4,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,033,14:00,14:15,4,0,4,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,034,14:15,14:30,6,0,9,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,035,14:30,14:45,10,0,8,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,036,14:45,15:00,4,0,12,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,037,15:00,15:15,5,0,14,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,038,15:15,15:30,12,0,21,,1,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,039,15:30,15:45,8,0,25,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,040,15:45,16:00,4,0,17,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,041,16:00,16:15,5,0,29,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,042,16:15,16:30,11,0,25,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,043,16:30,16:45,15,0,23,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,044,16:45,17:00,8,1,13,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,045,17:00,17:15,9,0,30,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,046,17:15,17:30,10,1,13,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,047,17:30,17:45,11,0,11,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,048,17:45,18:00,9,1,12,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,049,18:00,18:15,15,0,19,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,050,18:15,18:30,3,0,13,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,051,18:30,18:45,8,1,7,,0,0,0
+2,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Willy-Brandt-Platz,052,18:45,19:00,7,0,11,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,001,06:00,06:15,0,0,0,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,002,06:15,06:30,1,0,2,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,003,06:30,06:45,1,0,1,,1,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,004,06:45,07:00,4,0,0,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,005,07:00,07:15,4,0,2,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,006,07:15,07:30,3,0,3,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,007,07:30,07:45,3,0,3,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,008,07:45,08:00,4,0,4,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,009,08:00,08:15,3,0,4,,1,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,010,08:15,08:30,0,0,3,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,011,08:30,08:45,1,1,8,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,012,08:45,09:00,0,0,3,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,013,09:00,09:15,2,0,7,,1,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,014,09:15,09:30,0,0,8,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,015,09:30,09:45,0,0,12,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,016,09:45,10:00,2,0,7,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,017,10:00,10:15,2,0,18,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,018,10:15,10:30,1,0,16,,1,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,019,10:30,10:45,2,0,12,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,020,10:45,11:00,0,0,16,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,021,11:00,11:15,2,0,25,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,022,11:15,11:30,0,0,16,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,023,11:30,11:45,2,0,20,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,024,11:45,12:00,1,0,15,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,025,12:00,12:15,0,0,19,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,026,12:15,12:30,0,1,12,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,027,12:30,12:45,1,0,11,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,028,12:45,13:00,7,0,14,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,029,13:00,13:15,0,0,23,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,030,13:15,13:30,0,0,14,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,031,13:30,13:45,0,0,18,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,032,13:45,14:00,0,0,12,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,033,14:00,14:15,1,0,21,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,034,14:15,14:30,2,0,18,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,035,14:30,14:45,0,2,22,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,036,14:45,15:00,0,0,22,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,037,15:00,15:15,2,0,33,,1,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,038,15:15,15:30,0,0,23,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,039,15:30,15:45,0,0,30,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,040,15:45,16:00,1,0,23,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,041,16:00,16:15,3,1,45,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,042,16:15,16:30,0,0,36,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,043,16:30,16:45,0,0,35,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,044,16:45,17:00,0,0,28,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,045,17:00,17:15,0,0,38,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,046,17:15,17:30,0,0,24,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,047,17:30,17:45,1,0,20,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,048,17:45,18:00,1,0,23,,1,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,049,18:00,18:15,1,0,27,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,050,18:15,18:30,4,0,27,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,051,18:30,18:45,2,1,17,,0,0,0
+3,B,2,2,BL...(6),Zählstrom,,LInksabbieger Willy-Brandt-Platz,052,18:45,19:00,3,0,15,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),001,06:00,06:15,0,0,13,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),002,06:15,06:30,0,0,9,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),003,06:30,06:45,0,0,30,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),004,06:45,07:00,0,0,23,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),005,07:00,07:15,0,0,40,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),006,07:15,07:30,0,0,42,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),007,07:30,07:45,0,0,44,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),008,07:45,08:00,0,0,38,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),009,08:00,08:15,0,0,36,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),010,08:15,08:30,0,0,45,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),011,08:30,08:45,0,0,34,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),012,08:45,09:00,0,0,24,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),013,09:00,09:15,0,0,24,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),014,09:15,09:30,0,0,22,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),015,09:30,09:45,0,0,21,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),016,09:45,10:00,0,0,23,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),017,10:00,10:15,0,0,24,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),018,10:15,10:30,0,0,21,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),019,10:30,10:45,0,0,23,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),020,10:45,11:00,0,1,23,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),021,11:00,11:15,0,0,23,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),022,11:15,11:30,0,0,22,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),023,11:30,11:45,0,0,20,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),024,11:45,12:00,0,0,18,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),025,12:00,12:15,0,0,21,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),026,12:15,12:30,0,0,14,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),027,12:30,12:45,0,0,21,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),028,12:45,13:00,0,0,13,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),029,13:00,13:15,0,0,23,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),030,13:15,13:30,0,0,20,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),031,13:30,13:45,0,0,26,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),032,13:45,14:00,0,0,18,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),033,14:00,14:15,0,0,24,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),034,14:15,14:30,0,0,22,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),035,14:30,14:45,0,0,21,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),036,14:45,15:00,0,0,16,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),037,15:00,15:15,0,0,16,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),038,15:15,15:30,0,0,24,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),039,15:30,15:45,0,0,18,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),040,15:45,16:00,0,0,18,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),041,16:00,16:15,0,0,19,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),042,16:15,16:30,0,0,23,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),043,16:30,16:45,0,0,19,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),044,16:45,17:00,0,0,18,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),045,17:00,17:15,0,0,15,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),046,17:15,17:30,0,0,19,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),047,17:30,17:45,0,0,12,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),048,17:45,18:00,0,0,10,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),049,18:00,18:15,0,0,13,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),050,18:15,18:30,0,0,12,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),051,18:30,18:45,0,0,14,,0,0,0
+7,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hasselbachstraße(Einfahrt Tiefgarage City-Carree),052,18:45,19:00,0,0,12,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,001,06:00,06:15,2,0,13,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,002,06:15,06:30,1,0,8,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,003,06:30,06:45,4,0,11,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,004,06:45,07:00,2,1,20,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,005,07:00,07:15,5,0,12,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,006,07:15,07:30,5,0,11,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,007,07:30,07:45,4,0,15,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,008,07:45,08:00,3,1,13,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,009,08:00,08:15,4,0,13,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,010,08:15,08:30,3,0,16,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,011,08:30,08:45,7,0,14,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,012,08:45,09:00,1,0,13,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,013,09:00,09:15,2,1,11,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,014,09:15,09:30,3,1,6,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,015,09:30,09:45,1,0,13,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,016,09:45,10:00,1,1,11,,2,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,017,10:00,10:15,6,0,20,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,018,10:15,10:30,1,0,14,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,019,10:30,10:45,0,0,11,,3,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,020,10:45,11:00,5,0,17,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,021,11:00,11:15,1,1,5,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,022,11:15,11:30,2,0,22,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,023,11:30,11:45,2,0,16,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,024,11:45,12:00,3,1,13,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,025,12:00,12:15,3,0,16,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,026,12:15,12:30,2,1,10,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,027,12:30,12:45,3,0,14,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,028,12:45,13:00,4,0,9,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,029,13:00,13:15,1,0,8,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,030,13:15,13:30,0,0,13,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,031,13:30,13:45,2,0,18,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,032,13:45,14:00,3,0,13,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,033,14:00,14:15,2,0,13,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,034,14:15,14:30,5,0,15,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,035,14:30,14:45,4,0,14,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,036,14:45,15:00,5,0,15,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,037,15:00,15:15,3,0,17,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,038,15:15,15:30,0,0,22,,1,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,039,15:30,15:45,2,0,13,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,040,15:45,16:00,8,0,16,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,041,16:00,16:15,3,2,22,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,042,16:15,16:30,3,0,18,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,043,16:30,16:45,11,1,20,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,044,16:45,17:00,3,0,20,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,045,17:00,17:15,3,1,18,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,046,17:15,17:30,1,0,17,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,047,17:30,17:45,3,0,18,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,048,17:45,18:00,1,0,12,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,049,18:00,18:15,0,0,21,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,050,18:15,18:30,1,0,15,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,051,18:30,18:45,1,2,15,,0,0,0
+8,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hasselbachstraße,052,18:45,19:00,2,1,20,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,001,06:00,06:15,0,0,12,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,002,06:15,06:30,0,0,18,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,003,06:30,06:45,0,0,20,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,004,06:45,07:00,1,0,23,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,005,07:00,07:15,0,0,31,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,006,07:15,07:30,0,0,32,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,007,07:30,07:45,0,0,38,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,008,07:45,08:00,0,0,50,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,009,08:00,08:15,0,0,38,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,010,08:15,08:30,0,0,21,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,011,08:30,08:45,0,0,27,,1,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,012,08:45,09:00,0,0,18,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,013,09:00,09:15,0,0,18,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,014,09:15,09:30,0,0,26,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,015,09:30,09:45,0,0,20,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,016,09:45,10:00,0,1,20,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,017,10:00,10:15,0,0,29,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,018,10:15,10:30,0,0,21,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,019,10:30,10:45,1,0,32,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,020,10:45,11:00,1,0,22,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,021,11:00,11:15,1,0,16,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,022,11:15,11:30,0,1,23,,2,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,023,11:30,11:45,2,2,20,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,024,11:45,12:00,0,1,15,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,025,12:00,12:15,2,0,24,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,026,12:15,12:30,1,1,15,,1,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,027,12:30,12:45,0,0,15,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,028,12:45,13:00,0,2,16,,2,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,029,13:00,13:15,0,0,13,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,030,13:15,13:30,0,0,23,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,031,13:30,13:45,0,0,13,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,032,13:45,14:00,0,1,18,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,033,14:00,14:15,0,0,19,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,034,14:15,14:30,0,1,17,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,035,14:30,14:45,1,0,17,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,036,14:45,15:00,0,0,25,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,037,15:00,15:15,0,1,13,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,038,15:15,15:30,2,0,22,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,039,15:30,15:45,0,0,12,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,040,15:45,16:00,1,0,12,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,041,16:00,16:15,1,0,15,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,042,16:15,16:30,2,0,31,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,043,16:30,16:45,6,0,24,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,044,16:45,17:00,1,0,32,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,045,17:00,17:15,5,0,24,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,046,17:15,17:30,2,0,16,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,047,17:30,17:45,1,0,17,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,048,17:45,18:00,0,0,22,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,049,18:00,18:15,1,0,24,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,050,18:15,18:30,0,0,21,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,051,18:30,18:45,1,0,17,,0,0,0
+9,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hasselbachstraße,052,18:45,19:00,0,0,12,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,001,06:00,06:15,0,0,7,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,002,06:15,06:30,1,1,3,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,003,06:30,06:45,0,0,5,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,004,06:45,07:00,1,0,6,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,005,07:00,07:15,2,0,12,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,006,07:15,07:30,1,0,10,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,007,07:30,07:45,0,0,12,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,008,07:45,08:00,1,0,17,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,009,08:00,08:15,2,0,15,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,010,08:15,08:30,0,0,18,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,011,08:30,08:45,0,0,21,,1,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,012,08:45,09:00,0,0,16,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,013,09:00,09:15,0,0,15,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,014,09:15,09:30,0,0,12,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,015,09:30,09:45,0,0,21,,1,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,016,09:45,10:00,0,0,17,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,017,10:00,10:15,0,0,20,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,018,10:15,10:30,2,0,23,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,019,10:30,10:45,1,0,20,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,020,10:45,11:00,0,0,19,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,021,11:00,11:15,0,0,21,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,022,11:15,11:30,1,0,20,,1,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,023,11:30,11:45,0,0,26,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,024,11:45,12:00,0,0,19,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,025,12:00,12:15,0,0,15,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,026,12:15,12:30,1,0,16,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,027,12:30,12:45,0,0,15,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,028,12:45,13:00,0,0,12,,1,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,029,13:00,13:15,0,0,19,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,030,13:15,13:30,0,0,15,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,031,13:30,13:45,1,0,18,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,032,13:45,14:00,0,0,26,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,033,14:00,14:15,1,0,19,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,034,14:15,14:30,1,0,13,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,035,14:30,14:45,1,0,30,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,036,14:45,15:00,2,1,14,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,037,15:00,15:15,0,0,29,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,038,15:15,15:30,0,0,22,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,039,15:30,15:45,1,0,24,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,040,15:45,16:00,0,0,21,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,041,16:00,16:15,0,0,30,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,042,16:15,16:30,0,0,36,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,043,16:30,16:45,0,0,32,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,044,16:45,17:00,0,0,27,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,045,17:00,17:15,0,0,31,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,046,17:15,17:30,0,0,23,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,047,17:30,17:45,0,0,24,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,048,17:45,18:00,0,0,20,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,049,18:00,18:15,0,0,31,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,050,18:15,18:30,1,0,20,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,051,18:30,18:45,0,0,25,,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Bahnhofstraße,052,18:45,19:00,1,0,18,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,001,06:00,06:15,5,0,0,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,002,06:15,06:30,1,0,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,003,06:30,06:45,7,0,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,004,06:45,07:00,10,2,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,005,07:00,07:15,4,0,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,006,07:15,07:30,9,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,007,07:30,07:45,6,0,6,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,008,07:45,08:00,14,0,8,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,009,08:00,08:15,9,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,010,08:15,08:30,13,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,011,08:30,08:45,8,0,6,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,012,08:45,09:00,6,0,5,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,013,09:00,09:15,3,0,1,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,014,09:15,09:30,6,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,015,09:30,09:45,2,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,016,09:45,10:00,1,1,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,017,10:00,10:15,5,0,5,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,018,10:15,10:30,0,1,6,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,019,10:30,10:45,1,0,6,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,020,10:45,11:00,3,0,4,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,021,11:00,11:15,4,0,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,022,11:15,11:30,2,0,4,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,023,11:30,11:45,3,0,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,024,11:45,12:00,5,0,4,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,025,12:00,12:15,4,0,0,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,026,12:15,12:30,2,0,4,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,027,12:30,12:45,3,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,028,12:45,13:00,3,0,1,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,029,13:00,13:15,5,1,5,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,030,13:15,13:30,2,0,6,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,031,13:30,13:45,7,0,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,032,13:45,14:00,4,0,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,033,14:00,14:15,7,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,034,14:15,14:30,5,0,4,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,035,14:30,14:45,4,0,5,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,036,14:45,15:00,5,0,4,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,037,15:00,15:15,6,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,038,15:15,15:30,2,0,7,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,039,15:30,15:45,4,0,7,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,040,15:45,16:00,14,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,041,16:00,16:15,5,0,8,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,042,16:15,16:30,9,0,5,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,043,16:30,16:45,9,0,6,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,044,16:45,17:00,10,0,7,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,045,17:00,17:15,5,0,7,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,046,17:15,17:30,2,0,3,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,047,17:30,17:45,2,0,5,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,048,17:45,18:00,5,0,7,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,049,18:00,18:15,3,0,4,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,050,18:15,18:30,2,0,2,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,051,18:30,18:45,1,0,4,,0,0,0
+14,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Bahnhofstraße,052,18:45,19:00,2,0,5,,0,0,0

@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,001,06:00,06:15,0,,0,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,002,06:15,06:30,0,,4,2,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,003,06:30,06:45,1,,12,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,004,06:45,07:00,0,,8,4,1,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,005,07:00,07:15,0,,3,0,1,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,006,07:15,07:30,0,,3,2,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,007,07:30,07:45,3,,5,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,008,07:45,08:00,0,,2,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,009,08:00,08:15,0,,3,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,010,08:15,08:30,0,,1,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,011,08:30,08:45,0,,6,1,1,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,012,08:45,09:00,0,,1,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,013,09:00,09:15,1,,3,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,014,09:15,09:30,0,,3,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,015,09:30,09:45,0,,7,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,016,09:45,10:00,1,,6,2,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,017,10:00,10:15,0,,4,1,1,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,018,10:15,10:30,0,,5,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,019,10:30,10:45,0,,4,1,1,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,020,10:45,11:00,0,,0,2,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,021,11:00,11:15,0,,3,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,022,11:15,11:30,0,,0,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,023,11:30,11:45,0,,3,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,024,11:45,12:00,2,,4,1,1,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,025,12:00,12:15,0,,7,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,026,12:15,12:30,0,,5,2,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,027,12:30,12:45,0,,3,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,028,12:45,13:00,1,,3,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,029,13:00,13:15,1,,9,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,030,13:15,13:30,0,,2,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,031,13:30,13:45,0,,4,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,032,13:45,14:00,2,,4,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,033,14:00,14:15,1,,6,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,034,14:15,14:30,1,,4,0,0,1,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,035,14:30,14:45,0,,5,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,036,14:45,15:00,1,,2,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,037,15:00,15:15,2,,3,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,038,15:15,15:30,0,,7,2,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,039,15:30,15:45,0,,5,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,040,15:45,16:00,0,,9,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,041,16:00,16:15,1,,16,1,0,0,1
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,042,16:15,16:30,1,,9,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,043,16:30,16:45,0,,5,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,044,16:45,17:00,0,,15,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,045,17:00,17:15,0,,8,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,046,17:15,17:30,0,,5,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,047,17:30,17:45,0,,8,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,048,17:45,18:00,1,,4,1,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,049,18:00,18:15,0,,6,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,050,18:15,18:30,0,,9,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,051,18:30,18:45,0,,6,0,0,0,0
+1,A,1,1,A.R..(1),Zählstrom,,Rechtsabbieger Brückstraße,052,18:45,19:00,0,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,001,06:00,06:15,4,,24,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,002,06:15,06:30,3,,28,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,003,06:30,06:45,5,,32,3,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,004,06:45,07:00,3,,44,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,005,07:00,07:15,4,,33,4,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,006,07:15,07:30,1,,52,0,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,007,07:30,07:45,4,,52,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,008,07:45,08:00,9,,58,3,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,009,08:00,08:15,5,,52,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,010,08:15,08:30,5,,59,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,011,08:30,08:45,9,,55,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,012,08:45,09:00,1,,45,2,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,013,09:00,09:15,0,,46,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,014,09:15,09:30,3,,56,4,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,015,09:30,09:45,1,,39,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,016,09:45,10:00,2,,34,5,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,017,10:00,10:15,4,,40,2,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,018,10:15,10:30,3,,38,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,019,10:30,10:45,4,,47,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,020,10:45,11:00,2,,45,1,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,021,11:00,11:15,4,,48,4,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,022,11:15,11:30,3,,50,3,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,023,11:30,11:45,4,,48,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,024,11:45,12:00,4,,40,6,6,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,025,12:00,12:15,5,,49,3,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,026,12:15,12:30,3,,56,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,027,12:30,12:45,6,,52,6,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,028,12:45,13:00,7,,50,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,029,13:00,13:15,5,,57,3,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,030,13:15,13:30,4,,70,6,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,031,13:30,13:45,2,,42,4,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,032,13:45,14:00,2,,33,5,0,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,033,14:00,14:15,3,,45,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,034,14:15,14:30,6,,68,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,035,14:30,14:45,5,,60,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,036,14:45,15:00,5,,56,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,037,15:00,15:15,5,,66,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,038,15:15,15:30,7,,74,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,039,15:30,15:45,7,,94,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,040,15:45,16:00,9,,65,3,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,041,16:00,16:15,13,,103,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,042,16:15,16:30,5,,109,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,043,16:30,16:45,2,,45,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,044,16:45,17:00,3,,130,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,045,17:00,17:15,10,,93,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,046,17:15,17:30,9,,83,3,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,047,17:30,17:45,5,,69,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,048,17:45,18:00,11,,69,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,049,18:00,18:15,8,,70,7,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,050,18:15,18:30,18,,78,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,051,18:30,18:45,1,,66,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brückstraße,052,18:45,19:00,6,,67,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,001,06:00,06:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,002,06:15,06:30,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,003,06:30,06:45,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,004,06:45,07:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,005,07:00,07:15,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,006,07:15,07:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,007,07:30,07:45,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,008,07:45,08:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,009,08:00,08:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,010,08:15,08:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,011,08:30,08:45,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,012,08:45,09:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,013,09:00,09:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,014,09:15,09:30,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,015,09:30,09:45,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,016,09:45,10:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,017,10:00,10:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,018,10:15,10:30,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,019,10:30,10:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,020,10:45,11:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,021,11:00,11:15,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,022,11:15,11:30,0,,0,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,023,11:30,11:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,024,11:45,12:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,025,12:00,12:15,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,026,12:15,12:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,027,12:30,12:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,028,12:45,13:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,029,13:00,13:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,030,13:15,13:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,031,13:30,13:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,032,13:45,14:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,033,14:00,14:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,034,14:15,14:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,035,14:30,14:45,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,036,14:45,15:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,037,15:00,15:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,038,15:15,15:30,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,039,15:30,15:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,040,15:45,16:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,041,16:00,16:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,042,16:15,16:30,1,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,043,16:30,16:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,044,16:45,17:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,045,17:00,17:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,046,17:15,17:30,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,047,17:30,17:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,048,17:45,18:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,049,18:00,18:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,050,18:15,18:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,051,18:30,18:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brückstraße,052,18:45,19:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,001,06:00,06:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,002,06:15,06:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,003,06:30,06:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,004,06:45,07:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,005,07:00,07:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,006,07:15,07:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,007,07:30,07:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,008,07:45,08:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,009,08:00,08:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,010,08:15,08:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,011,08:30,08:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,012,08:45,09:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,013,09:00,09:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,014,09:15,09:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,015,09:30,09:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,016,09:45,10:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,017,10:00,10:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,018,10:15,10:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,019,10:30,10:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,020,10:45,11:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,021,11:00,11:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,022,11:15,11:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,023,11:30,11:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,024,11:45,12:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,025,12:00,12:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,026,12:15,12:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,027,12:30,12:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,028,12:45,13:00,0,,0,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,029,13:00,13:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,030,13:15,13:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,031,13:30,13:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,032,13:45,14:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,033,14:00,14:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,034,14:15,14:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,035,14:30,14:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,036,14:45,15:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,037,15:00,15:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,038,15:15,15:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,039,15:30,15:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,040,15:45,16:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,041,16:00,16:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,042,16:15,16:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,043,16:30,16:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,044,16:45,17:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,045,17:00,17:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,046,17:15,17:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,047,17:30,17:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,048,17:45,18:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,049,18:00,18:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,050,18:15,18:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,051,18:30,18:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Landeshauptarchiv,052,18:45,19:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,001,06:00,06:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,002,06:15,06:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,003,06:30,06:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,004,06:45,07:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,005,07:00,07:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,006,07:15,07:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,007,07:30,07:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,008,07:45,08:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,009,08:00,08:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,010,08:15,08:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,011,08:30,08:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,012,08:45,09:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,013,09:00,09:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,014,09:15,09:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,015,09:30,09:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,016,09:45,10:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,017,10:00,10:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,018,10:15,10:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,019,10:30,10:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,020,10:45,11:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,021,11:00,11:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,022,11:15,11:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,023,11:30,11:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,024,11:45,12:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,025,12:00,12:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,026,12:15,12:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,027,12:30,12:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,028,12:45,13:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,029,13:00,13:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,030,13:15,13:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,031,13:30,13:45,0,,0,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,032,13:45,14:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,033,14:00,14:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,034,14:15,14:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,035,14:30,14:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,036,14:45,15:00,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,037,15:00,15:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,038,15:15,15:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,039,15:30,15:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,040,15:45,16:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,041,16:00,16:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,042,16:15,16:30,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,043,16:30,16:45,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,044,16:45,17:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,045,17:00,17:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,046,17:15,17:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,047,17:30,17:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,048,17:45,18:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,049,18:00,18:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,050,18:15,18:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,051,18:30,18:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Landeshauptarchiv,052,18:45,19:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,001,06:00,06:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,002,06:15,06:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,003,06:30,06:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,004,06:45,07:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,005,07:00,07:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,006,07:15,07:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,007,07:30,07:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,008,07:45,08:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,009,08:00,08:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,010,08:15,08:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,011,08:30,08:45,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,012,08:45,09:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,013,09:00,09:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,014,09:15,09:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,015,09:30,09:45,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,016,09:45,10:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,017,10:00,10:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,018,10:15,10:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,019,10:30,10:45,0,,2,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,020,10:45,11:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,021,11:00,11:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,022,11:15,11:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,023,11:30,11:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,024,11:45,12:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,025,12:00,12:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,026,12:15,12:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,027,12:30,12:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,028,12:45,13:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,029,13:00,13:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,030,13:15,13:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,031,13:30,13:45,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,032,13:45,14:00,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,033,14:00,14:15,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,034,14:15,14:30,0,,6,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,035,14:30,14:45,0,,2,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,036,14:45,15:00,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,037,15:00,15:15,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,038,15:15,15:30,0,,5,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,039,15:30,15:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,040,15:45,16:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,041,16:00,16:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,042,16:15,16:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,043,16:30,16:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,044,16:45,17:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,045,17:00,17:15,0,,3,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,046,17:15,17:30,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,047,17:30,17:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,048,17:45,18:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,049,18:00,18:15,0,,2,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,050,18:15,18:30,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,051,18:30,18:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Landeshauptarchiv,052,18:45,19:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,001,06:00,06:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,002,06:15,06:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,003,06:30,06:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,004,06:45,07:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,006,07:15,07:30,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,007,07:30,07:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,008,07:45,08:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,009,08:00,08:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,010,08:15,08:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,011,08:30,08:45,1,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,012,08:45,09:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,013,09:00,09:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,014,09:15,09:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,015,09:30,09:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,016,09:45,10:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,017,10:00,10:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,018,10:15,10:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,019,10:30,10:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,020,10:45,11:00,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,021,11:00,11:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,022,11:15,11:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,023,11:30,11:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,024,11:45,12:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,025,12:00,12:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,026,12:15,12:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,027,12:30,12:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,028,12:45,13:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,029,13:00,13:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,030,13:15,13:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,031,13:30,13:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,032,13:45,14:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,033,14:00,14:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,034,14:15,14:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,035,14:30,14:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,036,14:45,15:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,037,15:00,15:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,038,15:15,15:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,039,15:30,15:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,040,15:45,16:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,041,16:00,16:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,042,16:15,16:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,043,16:30,16:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,044,16:45,17:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,045,17:00,17:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,046,17:15,17:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,047,17:30,17:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,048,17:45,18:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,049,18:00,18:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,051,18:30,18:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee,052,18:45,19:00,0,,0,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,001,06:00,06:15,4,,31,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,002,06:15,06:30,3,,41,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,003,06:30,06:45,2,,76,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,004,06:45,07:00,3,,109,5,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,005,07:00,07:15,9,,80,6,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,006,07:15,07:30,6,,64,4,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,007,07:30,07:45,5,,61,1,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,008,07:45,08:00,7,,58,3,1,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,009,08:00,08:15,2,,45,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,010,08:15,08:30,3,,74,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,011,08:30,08:45,5,,56,2,4,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,012,08:45,09:00,3,,48,2,1,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,013,09:00,09:15,0,,35,3,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,014,09:15,09:30,4,,30,2,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,015,09:30,09:45,3,,73,11,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,016,09:45,10:00,11,,55,4,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,017,10:00,10:15,4,,48,2,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,018,10:15,10:30,5,,38,3,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,019,10:30,10:45,3,,35,3,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,020,10:45,11:00,5,,60,10,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,021,11:00,11:15,1,,63,4,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,022,11:15,11:30,2,,55,5,4,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,023,11:30,11:45,2,,54,3,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,024,11:45,12:00,1,,43,0,4,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,025,12:00,12:15,4,,51,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,026,12:15,12:30,4,,44,5,0,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,027,12:30,12:45,4,,56,4,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,028,12:45,13:00,3,,45,3,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,029,13:00,13:15,4,,41,11,2,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,030,13:15,13:30,8,,57,5,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,031,13:30,13:45,7,,41,3,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,032,13:45,14:00,6,,35,2,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,033,14:00,14:15,3,,44,8,1,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,034,14:15,14:30,7,,48,5,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,035,14:30,14:45,2,,51,4,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,036,14:45,15:00,3,,56,4,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,037,15:00,15:15,4,,65,2,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,038,15:15,15:30,2,,49,4,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,039,15:30,15:45,5,,30,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,040,15:45,16:00,5,,68,4,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,041,16:00,16:15,7,,76,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,042,16:15,16:30,9,,72,5,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,043,16:30,16:45,4,,70,3,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,044,16:45,17:00,7,,88,4,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,045,17:00,17:15,8,,68,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,046,17:15,17:30,4,,66,3,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,047,17:30,17:45,5,,67,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,048,17:45,18:00,6,,64,2,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,049,18:00,18:15,6,,67,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,050,18:15,18:30,5,,60,0,1,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,051,18:30,18:45,0,,46,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee,052,18:45,19:00,2,,53,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,001,06:00,06:15,0,,4,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,002,06:15,06:30,0,,4,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,003,06:30,06:45,1,,5,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,004,06:45,07:00,1,,3,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,005,07:00,07:15,3,,12,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,006,07:15,07:30,0,,4,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,007,07:30,07:45,0,,13,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,008,07:45,08:00,0,,6,4,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,009,08:00,08:15,0,,2,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,010,08:15,08:30,0,,3,3,1,1,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,011,08:30,08:45,0,,5,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,012,08:45,09:00,0,,6,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,013,09:00,09:15,0,,4,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,014,09:15,09:30,0,,2,2,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,015,09:30,09:45,0,,8,1,0,1,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,016,09:45,10:00,0,,11,4,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,017,10:00,10:15,1,,16,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,018,10:15,10:30,0,,15,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,019,10:30,10:45,0,,16,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,020,10:45,11:00,1,,6,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,021,11:00,11:15,0,,13,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,022,11:15,11:30,0,,9,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,023,11:30,11:45,0,,11,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,024,11:45,12:00,0,,6,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,025,12:00,12:15,1,,7,1,1,1,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,026,12:15,12:30,0,,11,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,027,12:30,12:45,2,,7,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,028,12:45,13:00,0,,10,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,029,13:00,13:15,1,,7,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,030,13:15,13:30,3,,4,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,031,13:30,13:45,0,,3,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,032,13:45,14:00,0,,2,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,033,14:00,14:15,1,,8,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,034,14:15,14:30,2,,9,2,2,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,035,14:30,14:45,0,,12,0,1,1,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,036,14:45,15:00,0,,9,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,037,15:00,15:15,3,,3,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,038,15:15,15:30,0,,9,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,039,15:30,15:45,0,,12,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,040,15:45,16:00,0,,8,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,041,16:00,16:15,7,,76,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,042,16:15,16:30,9,,72,5,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,043,16:30,16:45,4,,70,3,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,044,16:45,17:00,7,,88,4,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,045,17:00,17:15,8,,68,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,046,17:15,17:30,4,,65,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,047,17:30,17:45,5,,67,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,048,17:45,18:00,6,,64,2,2,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,049,18:00,18:15,6,,67,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,050,18:15,18:30,5,,60,0,1,1,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,051,18:30,18:45,0,,46,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Berliner Chaussee,052,18:45,19:00,2,,53,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,001,06:00,06:15,1,,8,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,002,06:15,06:30,0,,13,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,003,06:30,06:45,1,,28,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,004,06:45,07:00,4,,22,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,005,07:00,07:15,0,,21,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,006,07:15,07:30,2,,37,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,007,07:30,07:45,0,,21,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,008,07:45,08:00,0,,26,4,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,009,08:00,08:15,1,,14,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,010,08:15,08:30,0,,15,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,011,08:30,08:45,2,,15,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,012,08:45,09:00,2,,10,2,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,013,09:00,09:15,0,,7,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,014,09:15,09:30,1,,10,3,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,015,09:30,09:45,1,,13,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,016,09:45,10:00,1,,7,7,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,017,10:00,10:15,0,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,018,10:15,10:30,0,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,019,10:30,10:45,0,,7,2,0,0,1
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,020,10:45,11:00,0,,9,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,021,11:00,11:15,0,,9,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,022,11:15,11:30,0,,7,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,023,11:30,11:45,0,,7,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,024,11:45,12:00,0,,9,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,025,12:00,12:15,0,,10,2,2,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,026,12:15,12:30,0,,12,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,027,12:30,12:45,0,,14,3,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,028,12:45,13:00,1,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,029,13:00,13:15,1,,8,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,030,13:15,13:30,3,,10,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,031,13:30,13:45,1,,16,2,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,032,13:45,14:00,0,,7,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,033,14:00,14:15,1,,4,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,034,14:15,14:30,1,,7,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,035,14:30,14:45,2,,10,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,036,14:45,15:00,3,,7,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,037,15:00,15:15,2,,15,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,038,15:15,15:30,2,,6,1,0,0,2
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,039,15:30,15:45,1,,12,3,2,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,040,15:45,16:00,3,,10,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,041,16:00,16:15,0,,25,8,1,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,042,16:15,16:30,1,,13,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,043,16:30,16:45,1,,10,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,044,16:45,17:00,2,,14,6,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,045,17:00,17:15,0,,3,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,046,17:15,17:30,1,,9,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,047,17:30,17:45,0,,8,5,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,048,17:45,18:00,0,,9,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,049,18:00,18:15,0,,10,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,050,18:15,18:30,2,,13,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,051,18:30,18:45,1,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Zuckerbusch,052,18:45,19:00,0,,6,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,001,06:00,06:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,002,06:15,06:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,003,06:30,06:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,004,06:45,07:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,005,07:00,07:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,006,07:15,07:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,007,07:30,07:45,0,,1,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,008,07:45,08:00,0,,1,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,009,08:00,08:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,010,08:15,08:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,011,08:30,08:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,012,08:45,09:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,013,09:00,09:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,014,09:15,09:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,015,09:30,09:45,0,,1,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,016,09:45,10:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,017,10:00,10:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,018,10:15,10:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,019,10:30,10:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,020,10:45,11:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,021,11:00,11:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,022,11:15,11:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,023,11:30,11:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,024,11:45,12:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,025,12:00,12:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,026,12:15,12:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,027,12:30,12:45,0,,1,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,028,12:45,13:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,029,13:00,13:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,030,13:15,13:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,031,13:30,13:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,032,13:45,14:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,033,14:00,14:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,034,14:15,14:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,035,14:30,14:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,036,14:45,15:00,0,,1,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,037,15:00,15:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,038,15:15,15:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,039,15:30,15:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,040,15:45,16:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,041,16:00,16:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,042,16:15,16:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,043,16:30,16:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,044,16:45,17:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,045,17:00,17:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,046,17:15,17:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,047,17:30,17:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,048,17:45,18:00,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,049,18:00,18:15,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,050,18:15,18:30,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,051,18:30,18:45,0,,0,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Zuckerbusch,052,18:45,19:00,0,,0,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,001,06:00,06:15,0,,4,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,002,06:15,06:30,2,,12,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,003,06:30,06:45,2,,37,0,1,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,004,06:45,07:00,1,,60,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,005,07:00,07:15,0,,42,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,006,07:15,07:30,0,,42,1,1,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,007,07:30,07:45,0,,48,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,008,07:45,08:00,0,,41,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,009,08:00,08:15,0,,13,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,010,08:15,08:30,1,,20,1,1,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,011,08:30,08:45,0,,13,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,012,08:45,09:00,0,,6,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,013,09:00,09:15,0,,11,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,014,09:15,09:30,0,,12,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,015,09:30,09:45,0,,8,2,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,016,09:45,10:00,0,,12,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,017,10:00,10:15,0,,11,2,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,018,10:15,10:30,1,,10,1,1,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,019,10:30,10:45,0,,10,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,020,10:45,11:00,0,,17,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,021,11:00,11:15,0,,3,1,1,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,022,11:15,11:30,2,,2,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,023,11:30,11:45,0,,1,3,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,024,11:45,12:00,0,,2,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,025,12:00,12:15,1,,6,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,026,12:15,12:30,0,,7,2,1,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,027,12:30,12:45,0,,8,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,028,12:45,13:00,0,,3,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,029,13:00,13:15,0,,7,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,030,13:15,13:30,0,,9,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,031,13:30,13:45,0,,7,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,032,13:45,14:00,0,,6,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,033,14:00,14:15,2,,11,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,034,14:15,14:30,0,,9,3,1,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,035,14:30,14:45,0,,11,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,036,14:45,15:00,0,,16,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,037,15:00,15:15,0,,9,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,038,15:15,15:30,0,,16,1,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,039,15:30,15:45,0,,13,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,040,15:45,16:00,0,,13,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,041,16:00,16:15,0,,10,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,042,16:15,16:30,0,,5,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,043,16:30,16:45,0,,5,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,044,16:45,17:00,1,,6,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,045,17:00,17:15,3,,7,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,046,17:15,17:30,0,,5,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,047,17:30,17:45,0,,8,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,048,17:45,18:00,0,,6,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,049,18:00,18:15,0,,3,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,050,18:15,18:30,0,,6,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,051,18:30,18:45,0,,1,0,0,0,0
+21,D,2,2,DL..(12),Zählstrom,,Linksabbieger Zuckerbusch,052,18:45,19:00,2,,5,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,9,,71,7,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,8,,103,8,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,12,,194,7,1,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,12,,249,16,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,16,,192,16,3,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,9,,204,9,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,12,,203,8,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,16,,195,15,2,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,8,,129,7,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,9,,173,7,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,17,,157,9,5,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,6,,119,7,3,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,1,,106,9,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,8,,116,13,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,5,,155,20,0,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,15,,126,22,1,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,9,,126,10,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,9,,111,9,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,7,,122,13,4,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,8,,137,15,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,5,,142,11,2,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,7,,123,11,7,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,6,,125,9,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,7,,104,11,11,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,11,,131,8,3,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,7,,137,13,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,12,,142,17,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,12,,119,8,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,12,,130,18,3,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,18,,156,13,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,10,,116,11,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,10,,90,7,2,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,11,,118,16,1,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,17,,152,14,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,9,,153,10,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,12,,151,8,1,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,16,,163,7,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,11,,167,12,3,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,13,,167,10,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,17,,173,8,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,28,,306,15,1,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,27,,281,15,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,11,,208,9,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,20,,342,15,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,29,,250,6,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,18,,235,11,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,15,,227,14,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,24,,218,8,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,20,,225,9,2,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,30,,230,3,2,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,2,,170,2,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,12,,191,5,0,0,0

@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,001,06:00,06:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,002,06:15,06:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,003,06:30,06:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,004,06:45,07:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,005,07:00,07:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,006,07:15,07:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,007,07:30,07:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,008,07:45,08:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,009,08:00,08:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,010,08:15,08:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,011,08:30,08:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,012,08:45,09:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,013,09:00,09:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,014,09:15,09:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,015,09:30,09:45,3,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,016,09:45,10:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,017,10:00,10:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,018,10:15,10:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,019,10:30,10:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,020,10:45,11:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,021,11:00,11:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,022,11:15,11:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,023,11:30,11:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,024,11:45,12:00,2,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,025,12:00,12:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,026,12:15,12:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,027,12:30,12:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,028,12:45,13:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,029,13:00,13:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,030,13:15,13:30,2,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,031,13:30,13:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,032,13:45,14:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,033,14:00,14:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,034,14:15,14:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,035,14:30,14:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,036,14:45,15:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,037,15:00,15:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,038,15:15,15:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,039,15:30,15:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,040,15:45,16:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,041,16:00,16:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,042,16:15,16:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,043,16:30,16:45,2,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,044,16:45,17:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,045,17:00,17:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,046,17:15,17:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,047,17:30,17:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,048,17:45,18:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,049,18:00,18:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,050,18:15,18:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,051,18:30,18:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Greifenwerder,052,18:45,19:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,001,06:00,06:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,002,06:15,06:30,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,003,06:30,06:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,004,06:45,07:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,005,07:00,07:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,006,07:15,07:30,1,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,007,07:30,07:45,1,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,008,07:45,08:00,1,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,009,08:00,08:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,010,08:15,08:30,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,011,08:30,08:45,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,012,08:45,09:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,013,09:00,09:15,4,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,014,09:15,09:30,4,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,015,09:30,09:45,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,016,09:45,10:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,017,10:00,10:15,2,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,018,10:15,10:30,4,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,019,10:30,10:45,2,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,020,10:45,11:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,021,11:00,11:15,2,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,022,11:15,11:30,2,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,023,11:30,11:45,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,024,11:45,12:00,2,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,025,12:00,12:15,2,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,026,12:15,12:30,6,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,027,12:30,12:45,2,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,028,12:45,13:00,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,029,13:00,13:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,030,13:15,13:30,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,031,13:30,13:45,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,032,13:45,14:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,033,14:00,14:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,034,14:15,14:30,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,035,14:30,14:45,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,036,14:45,15:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,037,15:00,15:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,038,15:15,15:30,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,039,15:30,15:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,040,15:45,16:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,041,16:00,16:15,1,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,042,16:15,16:30,1,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,043,16:30,16:45,1,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,044,16:45,17:00,1,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,045,17:00,17:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,046,17:15,17:30,2,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,047,17:30,17:45,1,,0,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,048,17:45,18:00,1,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,049,18:00,18:15,1,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,050,18:15,18:30,2,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,051,18:30,18:45,1,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Greifenwerder,052,18:45,19:00,1,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),001,06:00,06:15,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),002,06:15,06:30,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),003,06:30,06:45,3,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),004,06:45,07:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),005,07:00,07:15,1,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),006,07:15,07:30,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),007,07:30,07:45,0,,0,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),008,07:45,08:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),009,08:00,08:15,1,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),010,08:15,08:30,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),011,08:30,08:45,1,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),012,08:45,09:00,1,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),013,09:00,09:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),014,09:15,09:30,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),015,09:30,09:45,2,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),016,09:45,10:00,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),017,10:00,10:15,3,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),018,10:15,10:30,6,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),019,10:30,10:45,1,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),020,10:45,11:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),021,11:00,11:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),022,11:15,11:30,6,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),023,11:30,11:45,1,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),024,11:45,12:00,2,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),025,12:00,12:15,2,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),026,12:15,12:30,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),027,12:30,12:45,3,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),028,12:45,13:00,1,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),029,13:00,13:15,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),030,13:15,13:30,2,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),031,13:30,13:45,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),032,13:45,14:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),033,14:00,14:15,4,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),034,14:15,14:30,34,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),035,14:30,14:45,2,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),036,14:45,15:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),037,15:00,15:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),038,15:15,15:30,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),039,15:30,15:45,6,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),040,15:45,16:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),041,16:00,16:15,1,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),042,16:15,16:30,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),043,16:30,16:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),044,16:45,17:00,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),045,17:00,17:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),046,17:15,17:30,0,,2,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),047,17:30,17:45,3,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),048,17:45,18:00,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),049,18:00,18:15,2,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),050,18:15,18:30,1,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),051,18:30,18:45,2,,1,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zur Kreuzhorst (N),052,18:45,19:00,2,,0,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,001,06:00,06:15,0,,7,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,002,06:15,06:30,0,,10,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,003,06:30,06:45,0,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,004,06:45,07:00,0,,7,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,005,07:00,07:15,0,,11,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,006,07:15,07:30,1,,9,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,007,07:30,07:45,0,,8,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,008,07:45,08:00,0,,10,1,2,0,0
+7,B,1,2,BG...(5),Zählstrom,,,009,08:00,08:15,0,,3,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,010,08:15,08:30,1,,6,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,011,08:30,08:45,1,,3,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,012,08:45,09:00,0,,8,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,013,09:00,09:15,0,,6,1,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,014,09:15,09:30,0,,8,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,015,09:30,09:45,2,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,016,09:45,10:00,1,,4,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,017,10:00,10:15,1,,6,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,018,10:15,10:30,3,,7,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,019,10:30,10:45,0,,1,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,020,10:45,11:00,1,,7,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,021,11:00,11:15,0,,3,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,022,11:15,11:30,0,,4,2,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,023,11:30,11:45,1,,3,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,024,11:45,12:00,0,,1,1,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,025,12:00,12:15,1,,0,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,026,12:15,12:30,0,,0,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,027,12:30,12:45,2,,3,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,028,12:45,13:00,0,,5,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,029,13:00,13:15,1,,3,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,030,13:15,13:30,0,,1,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,031,13:30,13:45,0,,3,2,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,032,13:45,14:00,5,,0,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,033,14:00,14:15,0,,7,3,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,034,14:15,14:30,0,,2,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,035,14:30,14:45,0,,2,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,036,14:45,15:00,0,,2,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,037,15:00,15:15,2,,2,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,038,15:15,15:30,0,,2,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,039,15:30,15:45,0,,3,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,040,15:45,16:00,4,,0,2,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,041,16:00,16:15,2,,3,1,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,042,16:15,16:30,2,,2,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,043,16:30,16:45,4,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,044,16:45,17:00,1,,3,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,045,17:00,17:15,0,,2,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,046,17:15,17:30,1,,4,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,047,17:30,17:45,0,,4,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,048,17:45,18:00,0,,1,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,049,18:00,18:15,1,,4,1,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,,050,18:15,18:30,1,,5,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,051,18:30,18:45,2,,3,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,,052,18:45,19:00,0,,2,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),001,06:00,06:15,1,,0,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),002,06:15,06:30,0,,0,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),003,06:30,06:45,0,,1,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),004,06:45,07:00,0,,1,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),005,07:00,07:15,0,,2,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),006,07:15,07:30,0,,1,0,1,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),007,07:30,07:45,0,,5,0,2,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),008,07:45,08:00,1,,4,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),009,08:00,08:15,0,,7,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),010,08:15,08:30,1,,2,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),011,08:30,08:45,1,,1,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),012,08:45,09:00,0,,1,1,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),013,09:00,09:15,1,,2,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),014,09:15,09:30,2,,2,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),015,09:30,09:45,2,,1,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),016,09:45,10:00,0,,1,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),017,10:00,10:15,0,,5,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),018,10:15,10:30,0,,1,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),019,10:30,10:45,0,,3,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),020,10:45,11:00,0,,9,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),021,11:00,11:15,0,,3,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),022,11:15,11:30,0,,4,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),023,11:30,11:45,0,,3,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),024,11:45,12:00,0,,7,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),025,12:00,12:15,0,,7,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),026,12:15,12:30,3,,5,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),027,12:30,12:45,0,,3,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),028,12:45,13:00,0,,5,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),029,13:00,13:15,0,,6,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),030,13:15,13:30,0,,3,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),031,13:30,13:45,0,,3,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),032,13:45,14:00,0,,5,1,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),033,14:00,14:15,0,,1,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),034,14:15,14:30,0,,0,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),035,14:30,14:45,0,,2,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),036,14:45,15:00,4,,3,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),037,15:00,15:15,0,,5,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),038,15:15,15:30,0,,4,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),039,15:30,15:45,0,,5,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),040,15:45,16:00,0,,3,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),041,16:00,16:15,1,,8,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),042,16:15,16:30,2,,9,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),043,16:30,16:45,0,,9,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),044,16:45,17:00,0,,9,1,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),045,17:00,17:15,0,,5,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),046,17:15,17:30,1,,5,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),047,17:30,17:45,0,,8,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),048,17:45,18:00,2,,14,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),049,18:00,18:15,1,,7,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),050,18:15,18:30,1,,8,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),051,18:30,18:45,2,,6,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Zur Kreuzhorst (S),052,18:45,19:00,0,,5,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),001,06:00,06:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),002,06:15,06:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),003,06:30,06:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),004,06:45,07:00,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),005,07:00,07:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),006,07:15,07:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),007,07:30,07:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),008,07:45,08:00,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),009,08:00,08:15,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),010,08:15,08:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),011,08:30,08:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),012,08:45,09:00,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),013,09:00,09:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),014,09:15,09:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),015,09:30,09:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),016,09:45,10:00,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),017,10:00,10:15,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),018,10:15,10:30,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),019,10:30,10:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),020,10:45,11:00,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),021,11:00,11:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),022,11:15,11:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),023,11:30,11:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),024,11:45,12:00,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),025,12:00,12:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),026,12:15,12:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),027,12:30,12:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),028,12:45,13:00,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),029,13:00,13:15,0,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),030,13:15,13:30,1,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),031,13:30,13:45,2,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),032,13:45,14:00,2,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),033,14:00,14:15,5,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),034,14:15,14:30,7,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),035,14:30,14:45,3,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),036,14:45,15:00,3,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),037,15:00,15:15,1,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),038,15:15,15:30,1,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),039,15:30,15:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),040,15:45,16:00,1,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),041,16:00,16:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),042,16:15,16:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),043,16:30,16:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),044,16:45,17:00,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),045,17:00,17:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),046,17:15,17:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),047,17:30,17:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),048,17:45,18:00,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),049,18:00,18:15,0,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),050,18:15,18:30,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),051,18:30,18:45,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Zur Kreuzhorst (S),052,18:45,19:00,0,,1,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,001,06:00,06:15,1,,10,0,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,002,06:15,06:30,0,,10,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,003,06:30,06:45,3,,8,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,004,06:45,07:00,0,,8,0,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,005,07:00,07:15,1,,14,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,006,07:15,07:30,2,,12,0,1,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,007,07:30,07:45,1,,13,1,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,008,07:45,08:00,2,,16,1,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,009,08:00,08:15,1,,12,0,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,010,08:15,08:30,2,,8,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,011,08:30,08:45,3,,4,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,012,08:45,09:00,1,,12,1,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,013,09:00,09:15,5,,9,1,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,014,09:15,09:30,6,,12,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,015,09:30,09:45,9,,7,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,016,09:45,10:00,1,,6,0,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,017,10:00,10:15,6,,14,0,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,018,10:15,10:30,13,,10,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,019,10:30,10:45,3,,6,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,020,10:45,11:00,1,,17,0,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,021,11:00,11:15,2,,7,1,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,022,11:15,11:30,8,,11,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,023,11:30,11:45,2,,6,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,024,11:45,12:00,6,,9,1,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,025,12:00,12:15,5,,7,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,026,12:15,12:30,9,,7,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,027,12:30,12:45,7,,8,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,028,12:45,13:00,1,,15,1,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,029,13:00,13:15,1,,13,2,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,030,13:15,13:30,5,,7,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,031,13:30,13:45,2,,7,4,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,032,13:45,14:00,7,,5,1,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,033,14:00,14:15,9,,9,3,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,034,14:15,14:30,41,,4,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,035,14:30,14:45,5,,4,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,036,14:45,15:00,7,,5,0,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,037,15:00,15:15,3,,8,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,038,15:15,15:30,1,,8,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,039,15:30,15:45,6,,9,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,040,15:45,16:00,5,,3,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,041,16:00,16:15,5,,13,1,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,042,16:15,16:30,5,,13,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,043,16:30,16:45,7,,16,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,044,16:45,17:00,2,,15,1,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,045,17:00,17:15,0,,8,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,046,17:15,17:30,4,,11,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,047,17:30,17:45,4,,13,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,048,17:45,18:00,3,,21,0,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,049,18:00,18:15,5,,15,1,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,050,18:15,18:30,5,,17,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,051,18:30,18:45,7,,15,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,052,18:45,19:00,3,,10,0,0,0,0

@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),001,06:00,06:15,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),002,06:15,06:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),003,06:30,06:45,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),004,06:45,07:00,1,,4,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),005,07:00,07:15,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),006,07:15,07:30,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),007,07:30,07:45,0,,8,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),008,07:45,08:00,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),009,08:00,08:15,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),010,08:15,08:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),011,08:30,08:45,0,,3,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),012,08:45,09:00,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),013,09:00,09:15,0,,8,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),014,09:15,09:30,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),015,09:30,09:45,0,,5,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),016,09:45,10:00,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),017,10:00,10:15,0,,5,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),018,10:15,10:30,0,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),019,10:30,10:45,0,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),020,10:45,11:00,0,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),021,11:00,11:15,0,,2,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),022,11:15,11:30,1,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),023,11:30,11:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),024,11:45,12:00,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),025,12:00,12:15,0,,5,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),026,12:15,12:30,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),027,12:30,12:45,0,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),028,12:45,13:00,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),029,13:00,13:15,0,,11,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),030,13:15,13:30,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),031,13:30,13:45,0,,18,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),032,13:45,14:00,0,,11,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),033,14:00,14:15,0,,11,2,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),034,14:15,14:30,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),035,14:30,14:45,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),036,14:45,15:00,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),037,15:00,15:15,0,,9,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),038,15:15,15:30,0,,20,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),039,15:30,15:45,0,,20,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),040,15:45,16:00,0,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),041,16:00,16:15,0,,20,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),042,16:15,16:30,0,,17,0,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),043,16:30,16:45,0,,13,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),044,16:45,17:00,0,,18,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),045,17:00,17:15,0,,9,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),046,17:15,17:30,2,,23,2,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),047,17:30,17:45,0,,14,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),048,17:45,18:00,0,,13,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),049,18:00,18:15,0,,21,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),050,18:15,18:30,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),051,18:30,18:45,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rehtsabbieger Beyendorfer Dorfstraße (W),052,18:45,19:00,0,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),001,06:00,06:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),002,06:15,06:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),003,06:30,06:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),004,06:45,07:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),005,07:00,07:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),006,07:15,07:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),007,07:30,07:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),008,07:45,08:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),009,08:00,08:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),010,08:15,08:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),011,08:30,08:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),012,08:45,09:00,0,,1,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),013,09:00,09:15,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),014,09:15,09:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),015,09:30,09:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),016,09:45,10:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),017,10:00,10:15,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),018,10:15,10:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),019,10:30,10:45,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),020,10:45,11:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),021,11:00,11:15,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),022,11:15,11:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),023,11:30,11:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),024,11:45,12:00,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),025,12:00,12:15,0,,1,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),026,12:15,12:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),027,12:30,12:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),028,12:45,13:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),029,13:00,13:15,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),030,13:15,13:30,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),031,13:30,13:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),032,13:45,14:00,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),033,14:00,14:15,1,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),034,14:15,14:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),035,14:30,14:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),036,14:45,15:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),037,15:00,15:15,0,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),038,15:15,15:30,0,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),039,15:30,15:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),040,15:45,16:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),041,16:00,16:15,2,,7,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),042,16:15,16:30,0,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),043,16:30,16:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),044,16:45,17:00,0,,3,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),045,17:00,17:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),046,17:15,17:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),047,17:30,17:45,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),048,17:45,18:00,0,,5,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),049,18:00,18:15,1,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),050,18:15,18:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),051,18:30,18:45,0,,7,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (W),052,18:45,19:00,1,,0,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),001,06:00,06:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),002,06:15,06:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),003,06:30,06:45,1,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),004,06:45,07:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),005,07:00,07:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),006,07:15,07:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),007,07:30,07:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),008,07:45,08:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),009,08:00,08:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),010,08:15,08:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),011,08:30,08:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),012,08:45,09:00,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),013,09:00,09:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),014,09:15,09:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),015,09:30,09:45,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),016,09:45,10:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),017,10:00,10:15,0,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),018,10:15,10:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),019,10:30,10:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),020,10:45,11:00,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),021,11:00,11:15,1,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),022,11:15,11:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),023,11:30,11:45,0,,0,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),024,11:45,12:00,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),025,12:00,12:15,0,,6,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),026,12:15,12:30,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),027,12:30,12:45,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),028,12:45,13:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),029,13:00,13:15,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),030,13:15,13:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),031,13:30,13:45,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),032,13:45,14:00,0,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),033,14:00,14:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),034,14:15,14:30,0,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),035,14:30,14:45,0,,10,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),036,14:45,15:00,0,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),037,15:00,15:15,0,,7,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),038,15:15,15:30,0,,10,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),039,15:30,15:45,0,,4,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),040,15:45,16:00,0,,6,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),041,16:00,16:15,0,,7,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),042,16:15,16:30,0,,6,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),043,16:30,16:45,0,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),044,16:45,17:00,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),045,17:00,17:15,0,,6,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),046,17:15,17:30,0,,11,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),047,17:30,17:45,0,,9,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),048,17:45,18:00,1,,7,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),049,18:00,18:15,1,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),050,18:15,18:30,0,,9,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),051,18:30,18:45,0,,6,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (W),052,18:45,19:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,001,06:00,06:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,002,06:15,06:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,003,06:30,06:45,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,004,06:45,07:00,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,005,07:00,07:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,006,07:15,07:30,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,007,07:30,07:45,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,008,07:45,08:00,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,009,08:00,08:15,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,010,08:15,08:30,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,011,08:30,08:45,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,012,08:45,09:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,013,09:00,09:15,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,014,09:15,09:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,015,09:30,09:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,016,09:45,10:00,0,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,017,10:00,10:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,018,10:15,10:30,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,019,10:30,10:45,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,020,10:45,11:00,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,021,11:00,11:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,022,11:15,11:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,023,11:30,11:45,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,024,11:45,12:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,025,12:00,12:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,026,12:15,12:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,027,12:30,12:45,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,028,12:45,13:00,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,029,13:00,13:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,030,13:15,13:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,031,13:30,13:45,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,032,13:45,14:00,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,033,14:00,14:15,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,034,14:15,14:30,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,035,14:30,14:45,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,036,14:45,15:00,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,037,15:00,15:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,038,15:15,15:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,039,15:30,15:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,040,15:45,16:00,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,041,16:00,16:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,042,16:15,16:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,043,16:30,16:45,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,044,16:45,17:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,045,17:00,17:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,046,17:15,17:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,047,17:30,17:45,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,048,17:45,18:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,049,18:00,18:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,050,18:15,18:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,051,18:30,18:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Bahnhof,052,18:45,19:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,001,06:00,06:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,002,06:15,06:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,003,06:30,06:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,004,06:45,07:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,005,07:00,07:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,006,07:15,07:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,007,07:30,07:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,008,07:45,08:00,0,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,009,08:00,08:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,010,08:15,08:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,011,08:30,08:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,012,08:45,09:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,013,09:00,09:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,014,09:15,09:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,015,09:30,09:45,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,016,09:45,10:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,017,10:00,10:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,018,10:15,10:30,0,,0,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,019,10:30,10:45,0,,0,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,020,10:45,11:00,0,,0,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,021,11:00,11:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,022,11:15,11:30,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,023,11:30,11:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,024,11:45,12:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,025,12:00,12:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,026,12:15,12:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,027,12:30,12:45,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,028,12:45,13:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,029,13:00,13:15,0,,1,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,030,13:15,13:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,031,13:30,13:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,032,13:45,14:00,0,,1,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,033,14:00,14:15,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,034,14:15,14:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,035,14:30,14:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,036,14:45,15:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,037,15:00,15:15,0,,3,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,038,15:15,15:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,039,15:30,15:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,040,15:45,16:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,041,16:00,16:15,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,042,16:15,16:30,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,043,16:30,16:45,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,044,16:45,17:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,045,17:00,17:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,046,17:15,17:30,0,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,047,17:30,17:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,048,17:45,18:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,049,18:00,18:15,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,050,18:15,18:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,051,18:30,18:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Zum Bahnhof,052,18:45,19:00,1,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,001,06:00,06:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,002,06:15,06:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,003,06:30,06:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,004,06:45,07:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,005,07:00,07:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,006,07:15,07:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,007,07:30,07:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,008,07:45,08:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,009,08:00,08:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,010,08:15,08:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,011,08:30,08:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,012,08:45,09:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,013,09:00,09:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,014,09:15,09:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,015,09:30,09:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,016,09:45,10:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,017,10:00,10:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,018,10:15,10:30,1,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,019,10:30,10:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,020,10:45,11:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,021,11:00,11:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,022,11:15,11:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,023,11:30,11:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,024,11:45,12:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,025,12:00,12:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,026,12:15,12:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,027,12:30,12:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,028,12:45,13:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,029,13:00,13:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,030,13:15,13:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,031,13:30,13:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,032,13:45,14:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,033,14:00,14:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,034,14:15,14:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,035,14:30,14:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,036,14:45,15:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,037,15:00,15:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,038,15:15,15:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,039,15:30,15:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,040,15:45,16:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,041,16:00,16:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,042,16:15,16:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,043,16:30,16:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,044,16:45,17:00,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,045,17:00,17:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,046,17:15,17:30,1,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,047,17:30,17:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,048,17:45,18:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,049,18:00,18:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,050,18:15,18:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,051,18:30,18:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Zum Bahnhof,052,18:45,19:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),001,06:00,06:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),002,06:15,06:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),003,06:30,06:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),004,06:45,07:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),006,07:15,07:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),007,07:30,07:45,0,,0,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),008,07:45,08:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),009,08:00,08:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),010,08:15,08:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),011,08:30,08:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),012,08:45,09:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),013,09:00,09:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),014,09:15,09:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),015,09:30,09:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),016,09:45,10:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),017,10:00,10:15,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),018,10:15,10:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),019,10:30,10:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),020,10:45,11:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),021,11:00,11:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),022,11:15,11:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),023,11:30,11:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),024,11:45,12:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),025,12:00,12:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),026,12:15,12:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),027,12:30,12:45,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),028,12:45,13:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),029,13:00,13:15,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),030,13:15,13:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),031,13:30,13:45,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),032,13:45,14:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),033,14:00,14:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),034,14:15,14:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),035,14:30,14:45,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),036,14:45,15:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),037,15:00,15:15,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),038,15:15,15:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),039,15:30,15:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),040,15:45,16:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),041,16:00,16:15,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),042,16:15,16:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),043,16:30,16:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),044,16:45,17:00,0,,0,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),045,17:00,17:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),046,17:15,17:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),047,17:30,17:45,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),048,17:45,18:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),049,18:00,18:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),051,18:30,18:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Beyendorfer Dorfstr. (Ost),052,18:45,19:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),001,06:00,06:15,0,,4,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),002,06:15,06:30,0,,3,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),003,06:30,06:45,0,,3,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),004,06:45,07:00,0,,6,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),005,07:00,07:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),006,07:15,07:30,0,,5,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),007,07:30,07:45,0,,5,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),008,07:45,08:00,0,,4,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),009,08:00,08:15,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),010,08:15,08:30,0,,4,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),011,08:30,08:45,0,,5,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),012,08:45,09:00,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),013,09:00,09:15,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),014,09:15,09:30,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),015,09:30,09:45,1,,3,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),016,09:45,10:00,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),017,10:00,10:15,0,,2,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),018,10:15,10:30,1,,3,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),019,10:30,10:45,1,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),020,10:45,11:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),021,11:00,11:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),022,11:15,11:30,0,,4,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),023,11:30,11:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),024,11:45,12:00,0,,3,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),025,12:00,12:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),026,12:15,12:30,0,,3,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),027,12:30,12:45,0,,3,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),028,12:45,13:00,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),029,13:00,13:15,1,,4,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),030,13:15,13:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),031,13:30,13:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),032,13:45,14:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),033,14:00,14:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),034,14:15,14:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),035,14:30,14:45,0,,1,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),036,14:45,15:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),037,15:00,15:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),038,15:15,15:30,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),039,15:30,15:45,1,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),040,15:45,16:00,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),041,16:00,16:15,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),042,16:15,16:30,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),043,16:30,16:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),044,16:45,17:00,0,,5,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),045,17:00,17:15,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),046,17:15,17:30,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),047,17:30,17:45,1,,6,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),048,17:45,18:00,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),049,18:00,18:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),050,18:15,18:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),051,18:30,18:45,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Beyendorfer Dorfstraße (O),052,18:45,19:00,1,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),001,06:00,06:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),002,06:15,06:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),003,06:30,06:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),004,06:45,07:00,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),005,07:00,07:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),006,07:15,07:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),007,07:30,07:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),008,07:45,08:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),009,08:00,08:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),010,08:15,08:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),011,08:30,08:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),012,08:45,09:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),013,09:00,09:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),014,09:15,09:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),015,09:30,09:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),016,09:45,10:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),017,10:00,10:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),018,10:15,10:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),019,10:30,10:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),020,10:45,11:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),021,11:00,11:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),022,11:15,11:30,0,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),023,11:30,11:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),024,11:45,12:00,0,,1,0,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),025,12:00,12:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),026,12:15,12:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),027,12:30,12:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),028,12:45,13:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),029,13:00,13:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),030,13:15,13:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),031,13:30,13:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),032,13:45,14:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),033,14:00,14:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),034,14:15,14:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),035,14:30,14:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),036,14:45,15:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),037,15:00,15:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),038,15:15,15:30,0,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),039,15:30,15:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),040,15:45,16:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),041,16:00,16:15,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),042,16:15,16:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),043,16:30,16:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),044,16:45,17:00,0,,1,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),045,17:00,17:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),046,17:15,17:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),047,17:30,17:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),048,17:45,18:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),049,18:00,18:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),050,18:15,18:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),051,18:30,18:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Beyendorfer Dorfstraße (O),052,18:45,19:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,001,06:00,06:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,002,06:15,06:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,003,06:30,06:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,004,06:45,07:00,2,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,005,07:00,07:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,006,07:15,07:30,1,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,007,07:30,07:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,008,07:45,08:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,009,08:00,08:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,010,08:15,08:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,011,08:30,08:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,012,08:45,09:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,013,09:00,09:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,014,09:15,09:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,015,09:30,09:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,016,09:45,10:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,017,10:00,10:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,018,10:15,10:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,019,10:30,10:45,1,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,020,10:45,11:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,021,11:00,11:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,022,11:15,11:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,023,11:30,11:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,024,11:45,12:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,025,12:00,12:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,026,12:15,12:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,027,12:30,12:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,028,12:45,13:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,029,13:00,13:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,030,13:15,13:30,1,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,031,13:30,13:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,032,13:45,14:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,033,14:00,14:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,034,14:15,14:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,035,14:30,14:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,036,14:45,15:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,037,15:00,15:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,038,15:15,15:30,1,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,039,15:30,15:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,040,15:45,16:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,041,16:00,16:15,1,,0,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,042,16:15,16:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,043,16:30,16:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,044,16:45,17:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,045,17:00,17:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,046,17:15,17:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,047,17:30,17:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,048,17:45,18:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,049,18:00,18:15,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,050,18:15,18:30,0,,0,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,051,18:30,18:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Obere Siedlung,052,18:45,19:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,001,06:00,06:15,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,002,06:15,06:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,003,06:30,06:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,004,06:45,07:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,005,07:00,07:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,006,07:15,07:30,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,007,07:30,07:45,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,008,07:45,08:00,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,009,08:00,08:15,0,,2,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,010,08:15,08:30,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,011,08:30,08:45,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,012,08:45,09:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,013,09:00,09:15,2,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,014,09:15,09:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,015,09:30,09:45,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,016,09:45,10:00,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,017,10:00,10:15,0,,1,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,018,10:15,10:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,019,10:30,10:45,0,,1,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,020,10:45,11:00,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,021,11:00,11:15,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,022,11:15,11:30,0,,1,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,023,11:30,11:45,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,024,11:45,12:00,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,025,12:00,12:15,0,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,026,12:15,12:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,027,12:30,12:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,028,12:45,13:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,029,13:00,13:15,0,,4,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,030,13:15,13:30,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,031,13:30,13:45,0,,1,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,032,13:45,14:00,0,,1,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,033,14:00,14:15,0,,2,0,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,034,14:15,14:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,035,14:30,14:45,0,,2,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,036,14:45,15:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,037,15:00,15:15,0,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,038,15:15,15:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,039,15:30,15:45,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,040,15:45,16:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,041,16:00,16:15,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,042,16:15,16:30,0,,2,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,043,16:30,16:45,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,044,16:45,17:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,045,17:00,17:15,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,046,17:15,17:30,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,047,17:30,17:45,0,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,048,17:45,18:00,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,049,18:00,18:15,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,050,18:15,18:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,051,18:30,18:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Obere Siedlung,052,18:45,19:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,001,06:00,06:15,0,,15,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,002,06:15,06:30,0,,11,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,003,06:30,06:45,1,,22,2,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,004,06:45,07:00,0,,14,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,005,07:00,07:15,0,,19,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,006,07:15,07:30,0,,31,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,007,07:30,07:45,0,,14,1,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,008,07:45,08:00,0,,14,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,009,08:00,08:15,0,,16,1,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,010,08:15,08:30,1,,11,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,011,08:30,08:45,0,,7,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,012,08:45,09:00,0,,6,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,013,09:00,09:15,0,,8,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,014,09:15,09:30,0,,11,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,015,09:30,09:45,0,,10,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,016,09:45,10:00,0,,8,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,017,10:00,10:15,0,,8,0,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,018,10:15,10:30,0,,4,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,019,10:30,10:45,0,,6,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,020,10:45,11:00,1,,8,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,021,11:00,11:15,0,,5,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,022,11:15,11:30,0,,10,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,023,11:30,11:45,0,,9,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,024,11:45,12:00,0,,6,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,025,12:00,12:15,0,,4,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,026,12:15,12:30,0,,5,0,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,027,12:30,12:45,0,,5,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,028,12:45,13:00,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,029,13:00,13:15,1,,13,1,1,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,030,13:15,13:30,0,,6,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,031,13:30,13:45,0,,8,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,032,13:45,14:00,0,,11,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,033,14:00,14:15,0,,7,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,034,14:15,14:30,0,,5,0,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,035,14:30,14:45,0,,14,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,036,14:45,15:00,0,,8,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,037,15:00,15:15,0,,9,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,038,15:15,15:30,0,,8,0,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,039,15:30,15:45,0,,6,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,040,15:45,16:00,0,,8,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,041,16:00,16:15,0,,10,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,042,16:15,16:30,0,,10,1,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,043,16:30,16:45,0,,2,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,044,16:45,17:00,0,,11,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,045,17:00,17:15,1,,4,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,046,17:15,17:30,0,,11,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,047,17:30,17:45,0,,12,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,048,17:45,18:00,0,,11,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,049,18:00,18:15,0,,7,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,050,18:15,18:30,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,051,18:30,18:45,0,,4,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Obere Siedlung,052,18:45,19:00,0,,6,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,0,,27,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,0,,20,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,2,,50,4,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,3,,34,3,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,0,,32,2,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,2,,52,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,0,,35,3,1,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,0,,34,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,0,,31,2,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,1,,24,1,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,1,,23,2,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,0,,14,2,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,2,,29,1,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,0,,20,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,1,,26,2,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,0,,24,5,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,1,,28,4,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,2,,23,3,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,2,,24,2,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,1,,24,2,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,1,,19,0,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,1,,31,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,0,,20,0,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,0,,30,0,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,0,,28,2,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,0,,25,0,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,2,,23,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,0,,14,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,4,,46,2,1,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,1,,22,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,1,,35,4,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,0,,35,6,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,2,,29,3,0,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,0,,24,0,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,2,,42,1,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,0,,25,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,2,,39,1,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,1,,50,1,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,1,,35,3,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,0,,27,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,4,,58,6,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,0,,49,2,0,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,0,,33,4,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,0,,46,4,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,1,,26,3,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,3,,53,3,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,1,,52,4,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,1,,43,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,2,,43,3,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,0,,20,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,0,,36,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,3,,18,1,0,0,0

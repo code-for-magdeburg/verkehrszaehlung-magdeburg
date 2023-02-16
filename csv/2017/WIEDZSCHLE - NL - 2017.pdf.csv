@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),001,06:00,06:15,1,,15,0,2,3,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),002,06:15,06:30,2,,7,2,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),003,06:30,06:45,0,,14,3,0,0,1
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),004,06:45,07:00,0,,6,0,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),005,07:00,07:15,1,,18,0,2,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),006,07:15,07:30,0,,10,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),007,07:30,07:45,2,,14,0,4,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),008,07:45,08:00,0,,14,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),009,08:00,08:15,1,,15,1,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),010,08:15,08:30,0,,11,3,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),011,08:30,08:45,2,,18,2,2,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),012,08:45,09:00,1,,16,0,3,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),013,09:00,09:15,0,,10,1,0,1,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),014,09:15,09:30,1,,8,3,3,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),015,09:30,09:45,0,,11,2,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),016,09:45,10:00,1,,17,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),017,10:00,10:15,0,,14,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),018,10:15,10:30,2,,12,1,0,1,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),019,10:30,10:45,3,,8,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),020,10:45,11:00,5,,5,0,0,1,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),021,11:00,11:15,0,,12,0,1,1,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),022,11:15,11:30,1,,11,2,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),023,11:30,11:45,1,,10,0,2,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),024,11:45,12:00,0,,8,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),025,12:00,12:15,2,,12,2,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),026,12:15,12:30,0,,9,1,1,1,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),027,12:30,12:45,0,,9,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),028,12:45,13:00,0,,7,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),029,13:00,13:15,1,,14,0,0,2,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),030,13:15,13:30,2,,9,4,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),031,13:30,13:45,1,,9,0,3,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),032,13:45,14:00,4,,6,0,2,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),033,14:00,14:15,5,,8,3,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),034,14:15,14:30,1,,9,0,2,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),035,14:30,14:45,0,,14,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),036,14:45,15:00,1,,6,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),037,15:00,15:15,0,,11,1,3,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),038,15:15,15:30,0,,11,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),039,15:30,15:45,1,,12,2,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),040,15:45,16:00,1,,8,0,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),041,16:00,16:15,0,,16,1,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),042,16:15,16:30,0,,11,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),043,16:30,16:45,2,,20,3,2,2,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),044,16:45,17:00,0,,14,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),045,17:00,17:15,0,,20,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),046,17:15,17:30,0,,10,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),047,17:30,17:45,0,,14,0,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),048,17:45,18:00,1,,12,0,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),049,18:00,18:15,1,,15,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),050,18:15,18:30,0,,10,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),051,18:30,18:45,1,,4,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (N),052,18:45,19:00,1,,3,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),001,06:00,06:15,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),002,06:15,06:30,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),003,06:30,06:45,0,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),004,06:45,07:00,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),005,07:00,07:15,0,,0,0,0,1,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),006,07:15,07:30,0,,0,0,0,1,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),007,07:30,07:45,0,,1,1,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),008,07:45,08:00,0,,1,0,1,1,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),009,08:00,08:15,0,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),010,08:15,08:30,0,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),011,08:30,08:45,0,,2,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),012,08:45,09:00,0,,0,0,0,1,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),013,09:00,09:15,0,,1,0,1,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),014,09:15,09:30,1,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),015,09:30,09:45,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),016,09:45,10:00,1,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),017,10:00,10:15,1,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),018,10:15,10:30,0,,2,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),019,10:30,10:45,0,,0,1,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),020,10:45,11:00,1,,1,1,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),021,11:00,11:15,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),022,11:15,11:30,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),023,11:30,11:45,0,,2,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),024,11:45,12:00,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),025,12:00,12:15,0,,1,0,0,1,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),026,12:15,12:30,0,,2,0,0,1,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),027,12:30,12:45,0,,3,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),028,12:45,13:00,0,,2,0,0,1,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),029,13:00,13:15,0,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),030,13:15,13:30,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),031,13:30,13:45,0,,1,1,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),032,13:45,14:00,0,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),033,14:00,14:15,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),034,14:15,14:30,0,,2,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),035,14:30,14:45,0,,3,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),036,14:45,15:00,0,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),037,15:00,15:15,1,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),038,15:15,15:30,0,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),039,15:30,15:45,1,,3,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),040,15:45,16:00,1,,2,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),041,16:00,16:15,0,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),042,16:15,16:30,1,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),043,16:30,16:45,2,,0,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),044,16:45,17:00,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),045,17:00,17:15,1,,2,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),046,17:15,17:30,0,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),047,17:30,17:45,0,,3,0,1,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),048,17:45,18:00,0,,1,1,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),049,18:00,18:15,0,,2,1,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),050,18:15,18:30,0,,2,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),051,18:30,18:45,1,,1,0,0,0,0
+2,B,1,2,BL...(6),Zählstrom,,Linksabbieger Wiedersdorfer Straße (N),052,18:45,19:00,1,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,001,06:00,06:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,002,06:15,06:30,0,,0,0,2,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,003,06:30,06:45,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,004,06:45,07:00,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,005,07:00,07:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,006,07:15,07:30,0,,0,1,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,007,07:30,07:45,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,008,07:45,08:00,0,,0,1,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,009,08:00,08:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,010,08:15,08:30,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,011,08:30,08:45,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,012,08:45,09:00,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,013,09:00,09:15,0,,1,1,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,014,09:15,09:30,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,015,09:30,09:45,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,016,09:45,10:00,0,,0,0,0,1,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,017,10:00,10:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,018,10:15,10:30,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,019,10:30,10:45,0,,0,2,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,020,10:45,11:00,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,021,11:00,11:15,0,,1,1,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,022,11:15,11:30,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,023,11:30,11:45,0,,0,0,0,1,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,024,11:45,12:00,0,,0,1,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,025,12:00,12:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,026,12:15,12:30,0,,2,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,027,12:30,12:45,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,028,12:45,13:00,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,029,13:00,13:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,030,13:15,13:30,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,031,13:30,13:45,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,032,13:45,14:00,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,033,14:00,14:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,034,14:15,14:30,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,035,14:30,14:45,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,036,14:45,15:00,0,,5,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,037,15:00,15:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,038,15:15,15:30,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,039,15:30,15:45,0,,2,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,040,15:45,16:00,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,041,16:00,16:15,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,042,16:15,16:30,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,043,16:30,16:45,0,,2,1,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,044,16:45,17:00,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,045,17:00,17:15,3,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,046,17:15,17:30,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,047,17:30,17:45,0,,0,1,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,048,17:45,18:00,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,049,18:00,18:15,0,,1,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,050,18:15,18:30,0,,3,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,051,18:30,18:45,0,,0,0,0,0,0
+6,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zur Schleuse,052,18:45,19:00,0,,0,1,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,001,06:00,06:15,1,,5,0,0,4,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,002,06:15,06:30,0,,4,0,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,003,06:30,06:45,0,,0,0,1,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,004,06:45,07:00,0,,8,0,0,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,005,07:00,07:15,0,,1,2,0,3,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,006,07:15,07:30,0,,4,3,1,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,007,07:30,07:45,0,,7,1,2,2,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,008,07:45,08:00,0,,7,0,1,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,009,08:00,08:15,0,,6,0,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,010,08:15,08:30,1,,2,3,0,3,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,011,08:30,08:45,0,,3,0,0,4,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,012,08:45,09:00,0,,3,0,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,013,09:00,09:15,0,,6,2,2,2,1
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,014,09:15,09:30,0,,3,0,1,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,015,09:30,09:45,0,,5,1,0,0,3
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,016,09:45,10:00,0,,3,2,1,2,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,017,10:00,10:15,0,,5,1,0,2,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,018,10:15,10:30,0,,8,2,3,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,019,10:30,10:45,0,,6,2,1,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,020,10:45,11:00,1,,2,0,1,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,021,11:00,11:15,0,,3,1,1,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,022,11:15,11:30,2,,4,2,3,3,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,023,11:30,11:45,1,,3,0,2,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,024,11:45,12:00,1,,3,2,0,2,1
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,025,12:00,12:15,0,,4,2,1,4,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,026,12:15,12:30,0,,6,0,0,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,027,12:30,12:45,1,,4,3,3,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,028,12:45,13:00,0,,3,2,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,029,13:00,13:15,0,,12,1,1,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,030,13:15,13:30,0,,9,0,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,031,13:30,13:45,0,,2,1,0,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,032,13:45,14:00,0,,6,1,2,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,033,14:00,14:15,0,,4,2,2,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,034,14:15,14:30,0,,5,0,2,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,035,14:30,14:45,0,,5,0,2,2,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,036,14:45,15:00,3,,13,0,1,5,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,037,15:00,15:15,1,,5,0,2,2,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,038,15:15,15:30,0,,11,2,0,4,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,039,15:30,15:45,0,,7,1,1,2,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,040,15:45,16:00,0,,5,2,2,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,041,16:00,16:15,0,,6,0,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,042,16:15,16:30,1,,4,0,0,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,043,16:30,16:45,0,,6,1,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,044,16:45,17:00,0,,8,4,0,1,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,045,17:00,17:15,0,,6,1,1,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,046,17:15,17:30,1,,8,1,0,2,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,047,17:30,17:45,1,,3,1,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,048,17:45,18:00,1,,3,4,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,049,18:00,18:15,0,,6,0,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,050,18:15,18:30,0,,2,0,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,051,18:30,18:45,0,,3,0,0,0,0
+7,C,0,2,CL...(9),Zählstrom,,Linksabbieger Zur Schleuse,052,18:45,19:00,1,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),001,06:00,06:15,0,,3,0,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),002,06:15,06:30,0,,0,0,3,7,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),003,06:30,06:45,0,,3,0,0,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),004,06:45,07:00,0,,0,1,1,5,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),005,07:00,07:15,0,,3,1,0,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),006,07:15,07:30,0,,3,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),007,07:30,07:45,0,,2,3,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),008,07:45,08:00,0,,0,1,1,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),009,08:00,08:15,0,,4,3,1,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),010,08:15,08:30,0,,1,0,0,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),011,08:30,08:45,0,,6,1,1,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),012,08:45,09:00,1,,3,2,1,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),013,09:00,09:15,0,,6,1,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),014,09:15,09:30,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),015,09:30,09:45,0,,2,0,1,0,2
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),016,09:45,10:00,0,,2,0,0,3,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),017,10:00,10:15,2,,11,0,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),018,10:15,10:30,1,,4,1,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),019,10:30,10:45,0,,3,0,0,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),020,10:45,11:00,0,,4,4,0,0,1
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),021,11:00,11:15,0,,9,2,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),022,11:15,11:30,0,,4,0,0,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),023,11:30,11:45,0,,4,2,1,1,1
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),024,11:45,12:00,0,,3,0,1,0,1
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),025,12:00,12:15,0,,6,1,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),026,12:15,12:30,0,,3,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),027,12:30,12:45,0,,6,1,1,4,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),028,12:45,13:00,0,,5,3,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),029,13:00,13:15,0,,11,0,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),030,13:15,13:30,0,,6,1,0,2,1
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),031,13:30,13:45,0,,9,1,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),032,13:45,14:00,0,,2,1,0,4,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),033,14:00,14:15,0,,7,1,0,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),034,14:15,14:30,0,,4,1,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),035,14:30,14:45,0,,6,1,1,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),036,14:45,15:00,0,,4,2,1,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),037,15:00,15:15,0,,7,2,0,4,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),038,15:15,15:30,0,,9,1,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),039,15:30,15:45,0,,11,0,0,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),040,15:45,16:00,0,,5,0,0,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),041,16:00,16:15,0,,4,1,1,2,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),042,16:15,16:30,0,,7,2,1,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),043,16:30,16:45,0,,11,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),044,16:45,17:00,0,,10,0,0,3,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),045,17:00,17:15,0,,6,2,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),046,17:15,17:30,0,,8,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),047,17:30,17:45,0,,2,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),048,17:45,18:00,0,,5,0,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),049,18:00,18:15,0,,3,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),050,18:15,18:30,0,,3,0,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),051,18:30,18:45,1,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Wiedersdorfer Straße (S),052,18:45,19:00,0,,2,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),001,06:00,06:15,1,,1,1,3,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),002,06:15,06:30,0,,5,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),003,06:30,06:45,1,,5,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),004,06:45,07:00,0,,4,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),005,07:00,07:15,0,,2,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),006,07:15,07:30,0,,5,0,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),007,07:30,07:45,0,,5,1,3,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),008,07:45,08:00,0,,4,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),009,08:00,08:15,2,,7,2,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),010,08:15,08:30,0,,3,3,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),011,08:30,08:45,0,,3,1,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),012,08:45,09:00,0,,9,3,2,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),013,09:00,09:15,0,,5,0,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),014,09:15,09:30,0,,10,2,1,2,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),015,09:30,09:45,0,,12,1,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),016,09:45,10:00,0,,7,1,0,1,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),017,10:00,10:15,0,,7,2,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),018,10:15,10:30,1,,6,3,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),019,10:30,10:45,1,,6,1,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),020,10:45,11:00,2,,15,3,2,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),021,11:00,11:15,0,,4,1,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),022,11:15,11:30,0,,14,0,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),023,11:30,11:45,0,,16,1,2,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),024,11:45,12:00,2,,11,1,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),025,12:00,12:15,1,,13,0,2,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),026,12:15,12:30,0,,11,0,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),027,12:30,12:45,0,,9,2,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),028,12:45,13:00,2,,7,0,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),029,13:00,13:15,0,,10,1,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),030,13:15,13:30,0,,2,3,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),031,13:30,13:45,1,,13,2,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),032,13:45,14:00,2,,8,0,2,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),033,14:00,14:15,1,,8,1,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),034,14:15,14:30,1,,10,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),035,14:30,14:45,0,,13,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),036,14:45,15:00,0,,8,1,2,1,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),037,15:00,15:15,0,,16,0,2,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),038,15:15,15:30,1,,12,0,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),039,15:30,15:45,0,,17,2,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),040,15:45,16:00,1,,14,1,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),041,16:00,16:15,0,,12,1,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),042,16:15,16:30,0,,17,0,0,1,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),043,16:30,16:45,0,,15,2,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),044,16:45,17:00,2,,20,1,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),045,17:00,17:15,1,,17,0,1,2,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),046,17:15,17:30,2,,23,2,2,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),047,17:30,17:45,0,,21,3,1,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),048,17:45,18:00,1,,15,1,0,1,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),049,18:00,18:15,0,,21,0,0,1,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),050,18:15,18:30,0,,15,1,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),051,18:30,18:45,3,,10,0,0,0,0
+12,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Wiedersdorfer Straße (S),052,18:45,19:00,0,,9,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,001,06:00,06:15,3,,25,1,5,8,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,002,06:15,06:30,2,,17,2,6,7,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,003,06:30,06:45,1,,22,3,1,3,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,004,06:45,07:00,0,,20,1,2,6,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,005,07:00,07:15,1,,24,3,2,6,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,006,07:15,07:30,0,,22,5,2,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,007,07:30,07:45,2,,30,6,9,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,008,07:45,08:00,0,,26,2,3,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,009,08:00,08:15,3,,32,6,3,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,010,08:15,08:30,1,,17,9,2,5,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,011,08:30,08:45,2,,32,4,4,5,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,012,08:45,09:00,2,,31,5,6,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,013,09:00,09:15,0,,29,5,4,4,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,014,09:15,09:30,2,,25,5,5,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,015,09:30,09:45,0,,31,4,2,0,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,016,09:45,10:00,2,,29,3,1,7,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,017,10:00,10:15,3,,38,3,1,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,018,10:15,10:30,4,,33,7,3,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,019,10:30,10:45,4,,23,6,1,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,020,10:45,11:00,9,,27,8,3,2,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,021,11:00,11:15,0,,30,5,3,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,022,11:15,11:30,3,,35,4,4,5,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,023,11:30,11:45,2,,35,3,7,3,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,024,11:45,12:00,3,,26,5,1,2,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,025,12:00,12:15,3,,36,5,3,6,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,026,12:15,12:30,0,,33,2,2,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,027,12:30,12:45,1,,31,6,5,4,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,028,12:45,13:00,2,,24,5,1,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,029,13:00,13:15,1,,47,2,1,4,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,030,13:15,13:30,2,,28,8,2,2,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,031,13:30,13:45,2,,35,5,4,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,032,13:45,14:00,6,,22,2,6,5,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,033,14:00,14:15,6,,28,7,3,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,034,14:15,14:30,2,,30,1,4,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,035,14:30,14:45,0,,41,1,3,4,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,036,14:45,15:00,4,,36,4,4,8,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,037,15:00,15:15,2,,40,3,7,6,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,038,15:15,15:30,1,,44,4,1,5,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,039,15:30,15:45,2,,52,5,2,4,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,040,15:45,16:00,3,,34,3,4,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,041,16:00,16:15,0,,38,3,2,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,042,16:15,16:30,2,,41,2,1,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,043,16:30,16:45,4,,54,7,2,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,044,16:45,17:00,2,,54,5,1,4,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,045,17:00,17:15,5,,52,4,2,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,046,17:15,17:30,3,,51,4,2,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,047,17:30,17:45,1,,43,6,3,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,048,17:45,18:00,3,,37,6,1,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,049,18:00,18:15,1,,48,2,0,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,050,18:15,18:30,0,,35,1,0,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,051,18:30,18:45,6,,22,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QB1 + QC1 + QD1,052,18:45,19:00,3,,17,3,0,0,0

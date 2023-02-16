@@ -1,0 +1,989 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,001,06:00,06:15,0,,0,0,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,002,06:15,06:30,0,,2,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,003,06:30,06:45,0,,0,0,2,4,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,004,06:45,07:00,0,,3,2,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,005,07:00,07:15,0,,2,3,3,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,006,07:15,07:30,0,,3,1,2,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,007,07:30,07:45,0,,2,2,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,008,07:45,08:00,0,,6,0,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,009,08:00,08:15,0,,4,4,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,010,08:15,08:30,0,,1,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,011,08:30,08:45,0,,4,4,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,012,08:45,09:00,0,,2,0,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,013,09:00,09:15,0,,2,0,2,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,014,09:15,09:30,0,,1,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,015,09:30,09:45,0,,4,1,3,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,016,09:45,10:00,0,,3,0,3,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,017,10:00,10:15,0,,7,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,018,10:15,10:30,0,,6,0,2,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,019,10:30,10:45,0,,3,1,0,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,020,10:45,11:00,0,,1,3,1,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,021,11:00,11:15,0,,5,3,0,4,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,022,11:15,11:30,0,,3,1,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,023,11:30,11:45,0,,7,2,0,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,024,11:45,12:00,0,,1,3,1,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,025,12:00,12:15,0,,1,1,2,4,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,026,12:15,12:30,0,,2,3,1,4,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,027,12:30,12:45,0,,4,1,1,6,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,028,12:45,13:00,0,,3,0,0,4,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,029,13:00,13:15,0,,4,1,1,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,030,13:15,13:30,0,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,031,13:30,13:45,0,,5,5,0,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,032,13:45,14:00,0,,4,1,5,4,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,033,14:00,14:15,2,,5,3,5,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,034,14:15,14:30,0,,8,1,1,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,035,14:30,14:45,0,,19,3,0,6,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,036,14:45,15:00,0,,19,0,0,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,037,15:00,15:15,0,,13,1,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,038,15:15,15:30,0,,8,4,2,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,039,15:30,15:45,0,,8,3,2,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,040,15:45,16:00,0,,15,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,041,16:00,16:15,0,,14,0,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,042,16:15,16:30,0,,13,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,043,16:30,16:45,0,,4,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,044,16:45,17:00,0,,14,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,045,17:00,17:15,0,,4,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,046,17:15,17:30,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,047,17:30,17:45,0,,2,0,0,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,048,17:45,18:00,0,,2,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,049,18:00,18:15,0,,4,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,050,18:15,18:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,051,18:30,18:45,0,,7,0,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Grabower Straße,052,18:45,19:00,0,,3,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,001,06:00,06:15,0,,0,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,002,06:15,06:30,0,,2,0,3,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,003,06:30,06:45,0,,1,2,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,004,06:45,07:00,0,,2,0,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,005,07:00,07:15,0,,0,1,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,006,07:15,07:30,0,,2,0,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,007,07:30,07:45,0,,1,6,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,008,07:45,08:00,0,,1,0,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,009,08:00,08:15,0,,1,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,010,08:15,08:30,0,,0,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,011,08:30,08:45,0,,3,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,012,08:45,09:00,1,,0,0,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,013,09:00,09:15,0,,2,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,014,09:15,09:30,0,,3,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,015,09:30,09:45,0,,0,1,2,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,016,09:45,10:00,0,,0,0,1,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,017,10:00,10:15,0,,2,0,5,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,018,10:15,10:30,0,,0,0,1,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,019,10:30,10:45,0,,0,0,0,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,020,10:45,11:00,0,,1,0,0,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,021,11:00,11:15,0,,0,0,0,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,022,11:15,11:30,0,,0,0,1,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,023,11:30,11:45,0,,0,1,0,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,024,11:45,12:00,0,,0,0,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,025,12:00,12:15,0,,0,0,1,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,026,12:15,12:30,0,,2,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,027,12:30,12:45,0,,0,0,0,7,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,028,12:45,13:00,0,,0,4,0,7,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,029,13:00,13:15,0,,5,1,1,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,030,13:15,13:30,0,,1,0,1,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,031,13:30,13:45,0,,3,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,032,13:45,14:00,0,,1,1,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,033,14:00,14:15,0,,0,0,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,034,14:15,14:30,0,,0,0,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,035,14:30,14:45,0,,1,1,0,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,036,14:45,15:00,0,,2,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,037,15:00,15:15,0,,1,1,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,038,15:15,15:30,0,,0,0,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,039,15:30,15:45,0,,0,0,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,040,15:45,16:00,0,,1,0,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,041,16:00,16:15,0,,1,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,042,16:15,16:30,0,,2,3,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,043,16:30,16:45,0,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,044,16:45,17:00,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,045,17:00,17:15,0,,5,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,046,17:15,17:30,0,,0,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,047,17:30,17:45,0,,0,0,0,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,048,17:45,18:00,0,,0,0,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,049,18:00,18:15,0,,0,0,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,050,18:15,18:30,0,,0,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,051,18:30,18:45,0,,0,0,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Grabower Straße,052,18:45,19:00,0,,0,1,0,2,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,001,06:00,06:15,0,,0,2,12,0,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,002,06:15,06:30,0,,1,3,3,11,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,003,06:30,06:45,0,,0,1,5,20,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,004,06:45,07:00,0,,2,0,5,16,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,005,07:00,07:15,0,,1,7,11,0,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,006,07:15,07:30,0,,1,1,10,13,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,007,07:30,07:45,0,,3,1,17,10,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,008,07:45,08:00,0,,1,5,13,0,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,009,08:00,08:15,0,,0,1,8,17,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,010,08:15,08:30,0,,4,1,2,19,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,011,08:30,08:45,0,,4,1,3,13,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,012,08:45,09:00,0,,1,5,5,12,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,013,09:00,09:15,0,,0,3,4,5,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,014,09:15,09:30,0,,1,2,2,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,015,09:30,09:45,0,,13,5,5,11,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,016,09:45,10:00,0,,14,2,3,9,1
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,017,10:00,10:15,0,,8,0,3,13,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,018,10:15,10:30,0,,6,2,1,10,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,019,10:30,10:45,0,,6,3,0,9,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,020,10:45,11:00,0,,4,0,1,10,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,021,11:00,11:15,0,,6,2,1,4,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,022,11:15,11:30,0,,4,3,1,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,023,11:30,11:45,0,,4,2,5,5,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,024,11:45,12:00,0,,9,1,4,4,1
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,025,12:00,12:15,0,,14,0,0,8,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,026,12:15,12:30,0,,5,1,2,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,027,12:30,12:45,0,,9,2,6,0,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,028,12:45,13:00,0,,7,2,0,3,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,029,13:00,13:15,0,,8,1,0,9,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,030,13:15,13:30,0,,7,6,1,5,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,031,13:30,13:45,0,,7,1,2,5,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,032,13:45,14:00,0,,1,3,0,10,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,033,14:00,14:15,0,,3,4,2,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,034,14:15,14:30,0,,4,2,0,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,035,14:30,14:45,0,,9,1,0,1,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,036,14:45,15:00,0,,8,1,1,3,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,037,15:00,15:15,0,,10,0,1,8,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,038,15:15,15:30,0,,16,1,4,11,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,039,15:30,15:45,0,,12,0,5,9,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,040,15:45,16:00,0,,10,0,0,11,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,041,16:00,16:15,0,,36,2,1,9,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,042,16:15,16:30,0,,36,1,0,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,043,16:30,16:45,0,,29,3,2,9,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,044,16:45,17:00,0,,44,5,0,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,045,17:00,17:15,0,,36,1,1,4,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,046,17:15,17:30,0,,16,1,0,5,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,047,17:30,17:45,0,,23,1,0,5,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,048,17:45,18:00,0,,26,3,1,4,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,049,18:00,18:15,0,,25,0,2,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,050,18:15,18:30,0,,16,0,2,4,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,051,18:30,18:45,0,,11,0,1,7,0
+3,A,2,1,AL1,Zählstrom,,Geradeausfahrer 1 Grabower Straße,052,18:45,19:00,0,,12,2,2,11,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,001,06:00,06:15,0,,3,1,1,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,002,06:15,06:30,0,,2,0,0,1,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,003,06:30,06:45,0,,8,0,1,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,004,06:45,07:00,0,,3,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,005,07:00,07:15,0,,2,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,006,07:15,07:30,0,,3,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,007,07:30,07:45,0,,7,5,5,1,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,008,07:45,08:00,0,,6,2,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,009,08:00,08:15,0,,2,7,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,010,08:15,08:30,0,,4,2,0,1,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,011,08:30,08:45,1,,7,2,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,012,08:45,09:00,0,,4,6,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,013,09:00,09:15,0,,2,4,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,014,09:15,09:30,0,,3,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,015,09:30,09:45,0,,6,5,5,4,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,016,09:45,10:00,0,,5,5,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,017,10:00,10:15,0,,4,2,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,018,10:15,10:30,0,,3,3,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,019,10:30,10:45,0,,2,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,020,10:45,11:00,0,,0,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,021,11:00,11:15,0,,3,1,2,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,022,11:15,11:30,0,,3,2,0,1,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,023,11:30,11:45,0,,2,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,024,11:45,12:00,0,,1,2,1,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,025,12:00,12:15,0,,7,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,026,12:15,12:30,0,,1,2,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,027,12:30,12:45,0,,6,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,028,12:45,13:00,0,,0,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,029,13:00,13:15,0,,7,2,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,030,13:15,13:30,0,,5,2,0,1,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,031,13:30,13:45,0,,4,2,0,1,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,032,13:45,14:00,0,,4,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,033,14:00,14:15,0,,4,2,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,034,14:15,14:30,0,,5,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,035,14:30,14:45,0,,13,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,036,14:45,15:00,0,,15,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,037,15:00,15:15,0,,17,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,038,15:15,15:30,0,,30,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,039,15:30,15:45,0,,35,1,1,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,040,15:45,16:00,0,,18,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,041,16:00,16:15,0,,18,2,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,042,16:15,16:30,0,,15,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,043,16:30,16:45,0,,9,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,044,16:45,17:00,0,,13,4,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,045,17:00,17:15,0,,4,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,046,17:15,17:30,0,,10,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,047,17:30,17:45,0,,8,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,048,17:45,18:00,0,,8,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,049,18:00,18:15,0,,8,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,050,18:15,18:30,0,,2,1,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,051,18:30,18:45,0,,5,0,0,0,0
+4,A,3,1,AL2,Zählstrom,,Linksabbieger 2  Grabower Straße,052,18:45,19:00,0,,2,1,0,0,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,001,06:00,06:15,0,,3,3,13,0,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,002,06:15,06:30,0,,3,3,3,12,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,003,06:30,06:45,0,,8,1,6,20,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,004,06:45,07:00,0,,5,1,5,16,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,005,07:00,07:15,0,,3,8,11,0,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,006,07:15,07:30,0,,4,1,10,13,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,007,07:30,07:45,0,,10,6,22,11,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,008,07:45,08:00,0,,7,7,13,0,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,009,08:00,08:15,0,,2,8,8,17,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,010,08:15,08:30,0,,8,3,2,20,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,011,08:30,08:45,1,,11,3,3,13,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,012,08:45,09:00,0,,5,11,5,12,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,013,09:00,09:15,0,,2,7,4,5,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,014,09:15,09:30,0,,4,3,2,7,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,015,09:30,09:45,0,,19,10,10,15,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,016,09:45,10:00,0,,19,7,3,9,1
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,017,10:00,10:15,0,,12,2,3,13,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,018,10:15,10:30,0,,9,5,1,10,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,019,10:30,10:45,0,,8,3,0,9,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,020,10:45,11:00,0,,4,0,1,10,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,021,11:00,11:15,0,,9,3,3,4,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,022,11:15,11:30,0,,7,5,1,8,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,023,11:30,11:45,0,,6,3,5,5,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,024,11:45,12:00,0,,10,3,5,4,1
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,025,12:00,12:15,0,,21,0,0,8,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,026,12:15,12:30,0,,6,3,2,7,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,027,12:30,12:45,0,,15,3,6,0,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,028,12:45,13:00,0,,7,3,0,3,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,029,13:00,13:15,0,,15,3,0,9,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,030,13:15,13:30,0,,12,8,1,6,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,031,13:30,13:45,0,,11,3,2,6,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,032,13:45,14:00,0,,5,3,0,10,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,033,14:00,14:15,0,,7,6,2,7,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,034,14:15,14:30,0,,9,2,0,7,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,035,14:30,14:45,0,,22,2,0,1,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,036,14:45,15:00,0,,23,1,1,3,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,037,15:00,15:15,0,,27,1,1,8,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,038,15:15,15:30,0,,46,1,4,11,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,039,15:30,15:45,0,,47,1,6,9,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,040,15:45,16:00,0,,28,1,0,11,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,041,16:00,16:15,0,,54,4,1,9,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,042,16:15,16:30,0,,51,2,0,7,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,043,16:30,16:45,0,,38,3,2,9,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,044,16:45,17:00,0,,57,9,0,7,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,045,17:00,17:15,0,,40,2,1,4,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,046,17:15,17:30,0,,26,2,0,5,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,047,17:30,17:45,0,,31,2,0,5,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,048,17:45,18:00,0,,34,4,1,4,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,049,18:00,18:15,0,,33,1,2,7,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,050,18:15,18:30,0,,18,1,2,4,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,051,18:30,18:45,0,,16,0,1,7,0
+5,A,0,0,AL...(3),summierter Strom,3+4,AL1 + AL2,052,18:45,19:00,0,,14,3,2,11,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),001,06:00,06:15,0,,26,3,7,2,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),002,06:15,06:30,0,,29,1,1,10,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),003,06:30,06:45,0,,28,6,2,9,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),004,06:45,07:00,0,,30,5,12,0,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),005,07:00,07:15,0,,32,3,1,5,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),006,07:15,07:30,0,,39,4,3,12,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),007,07:30,07:45,0,,37,4,6,15,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),008,07:45,08:00,0,,45,6,1,12,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),009,08:00,08:15,0,,32,7,0,12,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),010,08:15,08:30,0,,21,2,1,6,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),011,08:30,08:45,0,,16,2,3,7,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),012,08:45,09:00,0,,19,7,2,13,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),013,09:00,09:15,0,,9,2,0,1,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),014,09:15,09:30,0,,0,2,0,8,1
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),015,09:30,09:45,0,,6,1,2,19,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),016,09:45,10:00,0,,6,2,3,16,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),017,10:00,10:15,0,,5,1,4,9,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),018,10:15,10:30,0,,4,0,2,9,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),019,10:30,10:45,0,,7,4,0,11,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),020,10:45,11:00,0,,5,1,1,7,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),021,11:00,11:15,0,,3,3,1,9,1
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),022,11:15,11:30,0,,2,1,5,8,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),023,11:30,11:45,0,,2,3,2,11,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),024,11:45,12:00,0,,8,5,5,12,1
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),025,12:00,12:15,0,,6,4,1,10,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),026,12:15,12:30,0,,2,3,1,19,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),027,12:30,12:45,0,,10,2,2,8,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),028,12:45,13:00,0,,8,0,2,12,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),029,13:00,13:15,0,,16,4,7,12,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),030,13:15,13:30,0,,9,5,1,9,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),031,13:30,13:45,0,,5,4,5,16,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),032,13:45,14:00,0,,10,2,6,15,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),033,14:00,14:15,0,,16,2,8,11,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),034,14:15,14:30,0,,5,4,5,16,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),035,14:30,14:45,0,,7,2,2,15,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),036,14:45,15:00,0,,6,2,6,17,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),037,15:00,15:15,0,,9,3,2,19,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),038,15:15,15:30,0,,7,3,6,17,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),039,15:30,15:45,0,,2,1,2,6,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),040,15:45,16:00,0,,8,1,1,10,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),041,16:00,16:15,0,,8,0,6,7,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),042,16:15,16:30,0,,4,0,0,15,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),043,16:30,16:45,0,,3,5,3,11,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),044,16:45,17:00,0,,5,5,3,8,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),045,17:00,17:15,0,,3,1,0,11,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),046,17:15,17:30,0,,2,1,1,6,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),047,17:30,17:45,0,,1,1,0,4,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),048,17:45,18:00,0,,6,1,1,11,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),049,18:00,18:15,0,,2,2,3,7,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),050,18:15,18:30,0,,5,0,1,4,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),051,18:30,18:45,0,,6,1,0,9,0
+9,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger August-Bebel-Damm(N),052,18:45,19:00,0,,3,0,2,8,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),001,06:00,06:15,0,,27,0,4,6,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),002,06:15,06:30,0,,35,4,3,9,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),003,06:30,06:45,0,,40,6,2,4,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),004,06:45,07:00,0,,37,7,7,12,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),005,07:00,07:15,0,,48,2,5,15,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),006,07:15,07:30,0,,37,7,4,15,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),007,07:30,07:45,0,,30,3,3,20,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),008,07:45,08:00,0,,43,7,3,11,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),009,08:00,08:15,1,,30,8,1,14,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),010,08:15,08:30,0,,21,4,4,7,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),011,08:30,08:45,0,,21,6,3,11,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),012,08:45,09:00,0,,21,7,5,8,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),013,09:00,09:15,0,,25,10,1,12,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),014,09:15,09:30,0,,20,2,1,13,1
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),015,09:30,09:45,0,,28,2,3,3,23
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),016,09:45,10:00,1,,23,3,1,10,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),017,10:00,10:15,2,,30,1,0,13,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),018,10:15,10:30,3,,22,1,6,16,1
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),019,10:30,10:45,0,,28,0,2,10,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),020,10:45,11:00,0,,1,4,7,6,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),021,11:00,11:15,2,,30,7,3,15,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),022,11:15,11:30,1,,19,6,1,16,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),023,11:30,11:45,1,,20,1,2,18,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),024,11:45,12:00,1,,20,3,3,16,1
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),025,12:00,12:15,2,,11,3,3,11,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),026,12:15,12:30,1,,21,9,2,13,1
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),027,12:30,12:45,0,,16,2,2,16,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),028,12:45,13:00,2,,14,3,2,16,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),029,13:00,13:15,1,,26,1,2,14,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),030,13:15,13:30,1,,38,3,2,22,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),031,13:30,13:45,0,,28,4,5,4,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),032,13:45,14:00,0,,13,10,5,13,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),033,14:00,14:15,1,,33,5,5,16,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),034,14:15,14:30,0,,10,7,1,20,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),035,14:30,14:45,0,,22,8,6,14,1
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),036,14:45,15:00,1,,33,8,3,27,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),037,15:00,15:15,0,,34,6,2,17,1
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),038,15:15,15:30,0,,21,5,3,13,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),039,15:30,15:45,0,,20,2,0,8,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),040,15:45,16:00,0,,25,2,0,7,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),041,16:00,16:15,1,,38,5,7,9,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),042,16:15,16:30,0,,25,3,2,5,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),043,16:30,16:45,3,,20,5,1,5,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),044,16:45,17:00,1,,27,2,2,6,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),045,17:00,17:15,2,,22,1,1,6,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),046,17:15,17:30,0,,23,0,0,7,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),047,17:30,17:45,2,,12,2,1,6,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),048,17:45,18:00,1,,20,2,1,8,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),049,18:00,18:15,1,,27,1,0,5,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),050,18:15,18:30,3,,14,2,0,4,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),051,18:30,18:45,1,,22,0,0,4,0
+10,B,2,1,BG1,Zählstrom,,Geradeausfahrer 1 August-Bebel-Damm (N),052,18:45,19:00,3,,15,0,1,4,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),001,06:00,06:15,0,,38,1,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),002,06:15,06:30,0,,44,0,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),003,06:30,06:45,0,,47,2,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),004,06:45,07:00,0,,67,2,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),005,07:00,07:15,0,,45,0,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),006,07:15,07:30,0,,73,2,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),007,07:30,07:45,0,,84,5,2,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),008,07:45,08:00,0,,74,3,1,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),009,08:00,08:15,0,,34,7,0,3,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),010,08:15,08:30,0,,22,1,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),011,08:30,08:45,0,,27,2,0,2,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),012,08:45,09:00,0,,19,4,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),013,09:00,09:15,0,,20,2,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),014,09:15,09:30,0,,12,1,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),015,09:30,09:45,0,,22,2,0,3,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),016,09:45,10:00,0,,19,3,2,2,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),017,10:00,10:15,0,,17,0,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),018,10:15,10:30,0,,14,4,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),019,10:30,10:45,0,,18,3,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),020,10:45,11:00,0,,12,4,1,2,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),021,11:00,11:15,0,,11,3,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),022,11:15,11:30,0,,15,0,0,2,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),023,11:30,11:45,0,,17,2,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),024,11:45,12:00,0,,12,3,1,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),025,12:00,12:15,0,,15,1,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),026,12:15,12:30,0,,22,2,1,3,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),027,12:30,12:45,0,,17,0,0,3,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),028,12:45,13:00,0,,30,1,0,2,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),029,13:00,13:15,0,,32,4,0,3,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),030,13:15,13:30,0,,47,5,1,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),031,13:30,13:45,0,,34,4,4,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),032,13:45,14:00,0,,31,5,2,2,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),033,14:00,14:15,0,,21,6,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),034,14:15,14:30,0,,29,3,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),035,14:30,14:45,0,,36,4,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),036,14:45,15:00,0,,53,6,3,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),037,15:00,15:15,0,,43,4,1,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),038,15:15,15:30,0,,21,4,0,2,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),039,15:30,15:45,0,,7,4,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),040,15:45,16:00,0,,12,0,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),041,16:00,16:15,0,,27,0,3,3,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),042,16:15,16:30,0,,17,2,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),043,16:30,16:45,0,,11,0,0,2,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),044,16:45,17:00,0,,14,1,3,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),045,17:00,17:15,0,,6,1,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),046,17:15,17:30,0,,7,1,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),047,17:30,17:45,0,,6,0,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),048,17:45,18:00,0,,16,1,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),049,18:00,18:15,0,,6,1,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),050,18:15,18:30,0,,9,0,0,0,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),051,18:30,18:45,0,,4,1,0,1,0
+11,B,3,1,BG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (N),052,18:45,19:00,0,,10,0,0,0,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,001,06:00,06:15,0,,65,1,4,6,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,002,06:15,06:30,0,,79,4,3,9,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,003,06:30,06:45,0,,87,8,2,5,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,004,06:45,07:00,0,,104,9,7,12,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,005,07:00,07:15,0,,93,2,5,15,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,006,07:15,07:30,0,,110,9,4,15,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,007,07:30,07:45,0,,114,8,5,20,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,008,07:45,08:00,0,,117,10,4,11,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,009,08:00,08:15,1,,64,15,1,17,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,010,08:15,08:30,0,,43,5,4,7,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,011,08:30,08:45,0,,48,8,3,13,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,012,08:45,09:00,0,,40,11,5,9,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,013,09:00,09:15,0,,45,12,1,13,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,014,09:15,09:30,0,,32,3,1,13,1
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,015,09:30,09:45,0,,50,4,3,6,23
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,016,09:45,10:00,1,,42,6,3,12,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,017,10:00,10:15,2,,47,1,0,14,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,018,10:15,10:30,3,,36,5,6,16,1
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,019,10:30,10:45,0,,46,3,2,11,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,020,10:45,11:00,0,,13,8,8,8,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,021,11:00,11:15,2,,41,10,3,15,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,022,11:15,11:30,1,,34,6,1,18,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,023,11:30,11:45,1,,37,3,2,19,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,024,11:45,12:00,1,,32,6,4,17,1
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,025,12:00,12:15,2,,26,4,3,12,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,026,12:15,12:30,1,,43,11,3,16,1
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,027,12:30,12:45,0,,33,2,2,19,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,028,12:45,13:00,2,,44,4,2,18,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,029,13:00,13:15,1,,58,5,2,17,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,030,13:15,13:30,1,,85,8,3,22,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,031,13:30,13:45,0,,62,8,9,5,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,032,13:45,14:00,0,,44,15,7,15,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,033,14:00,14:15,1,,54,11,5,16,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,034,14:15,14:30,0,,39,10,1,20,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,035,14:30,14:45,0,,58,12,6,14,1
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,036,14:45,15:00,1,,86,14,6,27,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,037,15:00,15:15,0,,77,10,3,18,1
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,038,15:15,15:30,0,,42,9,3,15,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,039,15:30,15:45,0,,27,6,0,8,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,040,15:45,16:00,0,,37,2,0,7,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,041,16:00,16:15,1,,65,5,10,12,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,042,16:15,16:30,0,,42,5,2,6,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,043,16:30,16:45,3,,31,5,1,7,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,044,16:45,17:00,1,,41,3,5,6,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,045,17:00,17:15,2,,28,2,1,6,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,046,17:15,17:30,0,,30,1,0,7,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,047,17:30,17:45,2,,18,2,1,6,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,048,17:45,18:00,1,,36,3,1,9,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,049,18:00,18:15,1,,33,2,0,6,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,050,18:15,18:30,3,,23,2,0,4,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,051,18:30,18:45,1,,26,1,0,5,0
+12,B,0,0,BG...(5),summierter Strom,10+11,BG1 + BG2,052,18:45,19:00,3,,25,0,1,4,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),001,06:00,06:15,0,,1,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),002,06:15,06:30,0,,2,2,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),003,06:30,06:45,0,,3,2,0,2,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),004,06:45,07:00,0,,2,1,1,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),005,07:00,07:15,0,,0,1,0,1,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),006,07:15,07:30,0,,1,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),007,07:30,07:45,0,,0,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),008,07:45,08:00,0,,0,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),009,08:00,08:15,0,,1,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),010,08:15,08:30,0,,0,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),011,08:30,08:45,0,,0,0,1,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),012,08:45,09:00,1,,0,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),013,09:00,09:15,0,,1,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),014,09:15,09:30,0,,0,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),015,09:30,09:45,0,,2,1,0,3,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),016,09:45,10:00,0,,1,3,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),017,10:00,10:15,0,,0,2,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),018,10:15,10:30,0,,0,2,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),019,10:30,10:45,0,,0,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),020,10:45,11:00,0,,2,4,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),021,11:00,11:15,0,,1,2,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),022,11:15,11:30,0,,2,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),023,11:30,11:45,0,,0,3,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),024,11:45,12:00,0,,1,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),025,12:00,12:15,0,,1,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),026,12:15,12:30,0,,2,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),027,12:30,12:45,0,,4,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),028,12:45,13:00,0,,3,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),029,13:00,13:15,0,,1,4,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),030,13:15,13:30,0,,3,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),031,13:30,13:45,0,,0,5,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),032,13:45,14:00,0,,2,3,1,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),033,14:00,14:15,0,,2,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),034,14:15,14:30,0,,1,1,1,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),035,14:30,14:45,0,,0,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),036,14:45,15:00,0,,0,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),037,15:00,15:15,0,,0,5,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),038,15:15,15:30,0,,0,2,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),039,15:30,15:45,1,,0,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),040,15:45,16:00,0,,4,4,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),041,16:00,16:15,0,,1,2,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),042,16:15,16:30,0,,3,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),043,16:30,16:45,0,,1,0,0,1,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),044,16:45,17:00,0,,1,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),045,17:00,17:15,0,,1,2,0,1,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),046,17:15,17:30,0,,2,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),047,17:30,17:45,0,,0,1,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),048,17:45,18:00,0,,1,2,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),049,18:00,18:15,0,,0,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),050,18:15,18:30,1,,0,0,0,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),051,18:30,18:45,0,,0,0,1,0,0
+13,B,4,1,BL...(6),Zählstrom,,Linksabbieger August-Bebel-Damm(N),052,18:45,19:00,0,,0,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,001,06:00,06:15,0,,1,0,1,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,002,06:15,06:30,0,,1,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,003,06:30,06:45,0,,1,1,1,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,004,06:45,07:00,0,,2,3,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,005,07:00,07:15,0,,2,2,1,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,006,07:15,07:30,0,,1,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,007,07:30,07:45,0,,2,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,008,07:45,08:00,0,,1,0,2,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,009,08:00,08:15,0,,3,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,010,08:15,08:30,0,,1,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,011,08:30,08:45,0,,2,1,1,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,012,08:45,09:00,0,,2,0,1,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,013,09:00,09:15,0,,0,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,014,09:15,09:30,0,,0,0,1,1,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,015,09:30,09:45,0,,2,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,016,09:45,10:00,0,,0,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,017,10:00,10:15,0,,1,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,018,10:15,10:30,0,,1,0,0,1,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,019,10:30,10:45,0,,1,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,020,10:45,11:00,0,,0,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,021,11:00,11:15,0,,0,2,0,1,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,022,11:15,11:30,0,,0,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,023,11:30,11:45,0,,1,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,024,11:45,12:00,0,,1,0,0,1,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,025,12:00,12:15,0,,0,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,026,12:15,12:30,0,,0,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,027,12:30,12:45,0,,0,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,028,12:45,13:00,0,,1,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,029,13:00,13:15,0,,0,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,030,13:15,13:30,0,,0,3,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,031,13:30,13:45,1,,0,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,032,13:45,14:00,0,,1,0,0,1,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,033,14:00,14:15,0,,2,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,034,14:15,14:30,0,,1,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,035,14:30,14:45,2,,2,2,1,1,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,036,14:45,15:00,0,,1,0,1,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,037,15:00,15:15,0,,1,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,038,15:15,15:30,0,,0,3,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,039,15:30,15:45,0,,2,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,040,15:45,16:00,0,,0,0,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,041,16:00,16:15,0,,0,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,042,16:15,16:30,0,,5,1,0,1,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,043,16:30,16:45,0,,1,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,044,16:45,17:00,0,,2,2,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,045,17:00,17:15,0,,1,1,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,046,17:15,17:30,0,,0,2,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,047,17:30,17:45,0,,0,2,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,048,17:45,18:00,0,,0,2,1,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,049,18:00,18:15,0,,2,3,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,050,18:15,18:30,0,,1,3,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,051,18:30,18:45,0,,1,6,0,0,0
+17,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Hamburger Damm,052,18:45,19:00,0,,0,0,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,001,06:00,06:15,0,,1,0,1,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,002,06:15,06:30,0,,0,0,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,003,06:30,06:45,0,,1,1,1,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,004,06:45,07:00,0,,3,1,1,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,005,07:00,07:15,0,,0,2,1,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,006,07:15,07:30,0,,1,0,0,3,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,007,07:30,07:45,0,,0,1,0,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,008,07:45,08:00,0,,1,2,0,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,009,08:00,08:15,0,,1,1,3,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,010,08:15,08:30,0,,2,0,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,011,08:30,08:45,0,,0,1,0,3,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,012,08:45,09:00,0,,0,0,0,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,013,09:00,09:15,0,,2,1,0,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,014,09:15,09:30,0,,0,0,0,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,015,09:30,09:45,0,,0,0,2,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,016,09:45,10:00,0,,0,0,0,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,017,10:00,10:15,0,,1,0,1,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,018,10:15,10:30,0,,0,0,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,019,10:30,10:45,0,,1,2,2,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,020,10:45,11:00,0,,0,0,1,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,021,11:00,11:15,0,,1,0,2,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,022,11:15,11:30,0,,0,0,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,023,11:30,11:45,0,,0,1,0,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,024,11:45,12:00,0,,0,0,0,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,025,12:00,12:15,0,,0,0,1,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,026,12:15,12:30,0,,0,0,0,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,027,12:30,12:45,1,,1,1,1,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,028,12:45,13:00,0,,0,0,2,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,029,13:00,13:15,0,,1,0,0,5,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,030,13:15,13:30,0,,2,0,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,031,13:30,13:45,0,,0,3,2,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,032,13:45,14:00,0,,0,0,3,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,033,14:00,14:15,0,,1,4,1,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,034,14:15,14:30,0,,0,1,2,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,035,14:30,14:45,0,,2,0,1,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,036,14:45,15:00,0,,1,2,2,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,037,15:00,15:15,0,,3,1,0,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,038,15:15,15:30,0,,0,2,1,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,039,15:30,15:45,0,,1,1,1,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,040,15:45,16:00,0,,2,0,2,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,041,16:00,16:15,0,,1,0,0,2,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,042,16:15,16:30,0,,0,0,0,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,043,16:30,16:45,0,,0,0,2,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,044,16:45,17:00,0,,0,0,0,1,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,045,17:00,17:15,0,,0,1,1,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,046,17:15,17:30,0,,0,1,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,047,17:30,17:45,0,,0,1,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,048,17:45,18:00,0,,0,0,1,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,049,18:00,18:15,0,,1,1,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,050,18:15,18:30,0,,0,0,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,051,18:30,18:45,0,,0,0,0,0,0
+18,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Hamburger Straße,052,18:45,19:00,0,,0,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,001,06:00,06:15,0,,4,0,0,1,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,002,06:15,06:30,0,,2,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,003,06:30,06:45,0,,2,0,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,004,06:45,07:00,0,,4,0,1,1,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,005,07:00,07:15,0,,5,2,2,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,006,07:15,07:30,0,,1,1,3,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,007,07:30,07:45,0,,0,3,2,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,008,07:45,08:00,0,,3,3,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,009,08:00,08:15,0,,3,2,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,010,08:15,08:30,0,,0,1,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,011,08:30,08:45,0,,0,0,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,012,08:45,09:00,0,,0,0,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,013,09:00,09:15,0,,3,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,014,09:15,09:30,0,,1,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,015,09:30,09:45,0,,1,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,016,09:45,10:00,0,,0,0,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,017,10:00,10:15,0,,2,0,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,018,10:15,10:30,0,,0,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,019,10:30,10:45,0,,1,2,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,020,10:45,11:00,0,,0,1,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,021,11:00,11:15,0,,0,1,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,022,11:15,11:30,0,,3,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,023,11:30,11:45,0,,1,0,0,2,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,024,11:45,12:00,0,,1,0,0,2,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,025,12:00,12:15,0,,1,1,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,026,12:15,12:30,0,,1,0,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,027,12:30,12:45,0,,0,0,1,1,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,028,12:45,13:00,0,,2,1,0,1,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,029,13:00,13:15,0,,2,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,030,13:15,13:30,2,,3,1,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,031,13:30,13:45,0,,4,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,032,13:45,14:00,0,,2,1,2,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,033,14:00,14:15,1,,15,1,4,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,034,14:15,14:30,0,,7,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,035,14:30,14:45,1,,12,1,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,036,14:45,15:00,0,,4,1,0,1,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,037,15:00,15:15,0,,7,1,1,1,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,038,15:15,15:30,0,,2,0,1,1,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,039,15:30,15:45,0,,4,2,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,040,15:45,16:00,1,,3,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,041,16:00,16:15,0,,3,2,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,042,16:15,16:30,0,,3,2,1,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,043,16:30,16:45,0,,1,1,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,044,16:45,17:00,0,,2,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,045,17:00,17:15,0,,1,1,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,046,17:15,17:30,0,,2,0,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,047,17:30,17:45,0,,3,1,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,048,17:45,18:00,0,,2,1,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,049,18:00,18:15,0,,4,2,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,050,18:15,18:30,0,,1,2,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,051,18:30,18:45,0,,0,2,0,0,0
+19,C,2,1,CL...(9),Zählstrom,,Linksabbieger Hamburger Straße,052,18:45,19:00,0,,0,0,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),001,06:00,06:15,1,,2,0,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),002,06:15,06:30,0,,1,5,0,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),003,06:30,06:45,2,,1,7,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),004,06:45,07:00,3,,1,2,1,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),005,07:00,07:15,0,,2,2,3,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),006,07:15,07:30,0,,2,0,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),007,07:30,07:45,0,,5,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),008,07:45,08:00,0,,2,3,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),009,08:00,08:15,0,,2,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),010,08:15,08:30,0,,2,2,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),011,08:30,08:45,0,,3,1,1,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),012,08:45,09:00,0,,0,1,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),013,09:00,09:15,0,,1,1,0,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),014,09:15,09:30,0,,2,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),015,09:30,09:45,0,,1,2,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),016,09:45,10:00,0,,1,1,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),017,10:00,10:15,0,,4,0,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),018,10:15,10:30,0,,1,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),019,10:30,10:45,0,,1,4,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),020,10:45,11:00,1,,2,1,0,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),021,11:00,11:15,0,,2,2,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),022,11:15,11:30,0,,7,2,0,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),023,11:30,11:45,0,,2,1,0,2,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),024,11:45,12:00,3,,4,2,1,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),025,12:00,12:15,0,,2,2,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),026,12:15,12:30,1,,1,0,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),027,12:30,12:45,0,,2,3,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),028,12:45,13:00,1,,2,2,0,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),029,13:00,13:15,1,,2,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),030,13:15,13:30,0,,2,0,1,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),031,13:30,13:45,0,,4,1,0,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),032,13:45,14:00,1,,7,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),033,14:00,14:15,1,,2,1,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),034,14:15,14:30,0,,7,2,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),035,14:30,14:45,0,,4,2,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),036,14:45,15:00,0,,3,4,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),037,15:00,15:15,0,,4,0,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),038,15:15,15:30,0,,6,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),039,15:30,15:45,1,,3,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),040,15:45,16:00,0,,1,1,1,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),041,16:00,16:15,0,,4,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),042,16:15,16:30,1,,3,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),043,16:30,16:45,1,,1,2,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),044,16:45,17:00,0,,2,2,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),045,17:00,17:15,2,,2,0,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),046,17:15,17:30,0,,1,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),047,17:30,17:45,0,,4,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),048,17:45,18:00,0,,1,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),049,18:00,18:15,0,,0,1,0,1,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),050,18:15,18:30,0,,0,1,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),051,18:30,18:45,0,,1,2,0,0,0
+23,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger August-Bebel-Damm(S),052,18:45,19:00,0,,0,0,0,0,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),001,06:00,06:15,1,,15,4,3,11,2
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),002,06:15,06:30,1,,20,2,4,13,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),003,06:30,06:45,1,,10,0,4,15,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),004,06:45,07:00,0,,13,6,11,13,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),005,07:00,07:15,0,,18,3,8,11,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),006,07:15,07:30,0,,10,8,8,7,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),007,07:30,07:45,0,,17,4,6,16,16
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),008,07:45,08:00,1,,12,4,10,17,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),009,08:00,08:15,0,,11,3,6,12,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),010,08:15,08:30,0,,8,4,14,15,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),011,08:30,08:45,0,,23,5,4,16,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),012,08:45,09:00,2,,23,4,6,12,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),013,09:00,09:15,3,,19,5,11,14,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),014,09:15,09:30,3,,26,0,6,14,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),015,09:30,09:45,3,,20,0,9,7,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),016,09:45,10:00,0,,25,4,9,9,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),017,10:00,10:15,0,,25,7,19,9,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),018,10:15,10:30,0,,27,6,3,11,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),019,10:30,10:45,0,,15,1,6,14,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),020,10:45,11:00,0,,25,4,5,7,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),021,11:00,11:15,0,,25,4,6,6,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),022,11:15,11:30,0,,23,6,5,8,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),023,11:30,11:45,1,,22,3,4,10,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),024,11:45,12:00,2,,28,4,10,6,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),025,12:00,12:15,2,,23,9,4,6,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),026,12:15,12:30,0,,22,2,4,7,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),027,12:30,12:45,0,,13,9,7,9,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),028,12:45,13:00,0,,19,4,2,12,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),029,13:00,13:15,2,,37,3,3,8,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),030,13:15,13:30,0,,23,0,1,7,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),031,13:30,13:45,0,,19,1,5,11,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),032,13:45,14:00,4,,28,0,1,8,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),033,14:00,14:15,1,,32,1,2,3,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),034,14:15,14:30,1,,53,1,7,6,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),035,14:30,14:45,1,,31,4,9,4,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),036,14:45,15:00,1,,47,4,0,3,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),037,15:00,15:15,1,,47,5,6,5,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),038,15:15,15:30,0,,56,2,3,5,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),039,15:30,15:45,2,,69,3,4,6,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),040,15:45,16:00,2,,61,3,1,9,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),041,16:00,16:15,0,,60,5,7,13,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),042,16:15,16:30,1,,73,8,4,7,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),043,16:30,16:45,4,,55,4,6,6,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),044,16:45,17:00,2,,52,5,0,9,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),045,17:00,17:15,0,,44,1,0,8,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),046,17:15,17:30,0,,42,5,0,5,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),047,17:30,17:45,3,,34,3,1,7,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),048,17:45,18:00,2,,42,4,7,0,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),049,18:00,18:15,2,,21,2,0,4,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),050,18:15,18:30,1,,17,0,0,7,0
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),051,18:30,18:45,0,,24,2,4,2,1
+24,D,2,1,DG1,Zählstrom,,Geradeausfahrer 1 Augsut-Bebel-Damm (S),052,18:45,19:00,0,,18,1,0,3,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),001,06:00,06:15,0,,27,1,0,2,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),002,06:15,06:30,0,,36,1,2,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),003,06:30,06:45,0,,24,0,1,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),004,06:45,07:00,0,,17,2,4,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),005,07:00,07:15,0,,14,3,1,2,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),006,07:15,07:30,0,,19,3,1,2,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),007,07:30,07:45,0,,17,4,2,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),008,07:45,08:00,0,,16,1,1,1,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),009,08:00,08:15,0,,11,2,0,2,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),010,08:15,08:30,0,,10,4,0,1,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),011,08:30,08:45,0,,18,1,2,0,1
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),012,08:45,09:00,0,,16,3,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),013,09:00,09:15,0,,16,4,2,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),014,09:15,09:30,0,,19,3,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),015,09:30,09:45,0,,10,3,1,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),016,09:45,10:00,0,,13,0,1,2,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),017,10:00,10:15,0,,17,3,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),018,10:15,10:30,0,,18,2,1,3,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),019,10:30,10:45,0,,14,2,1,2,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),020,10:45,11:00,0,,17,0,2,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),021,11:00,11:15,0,,19,3,3,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),022,11:15,11:30,0,,17,1,0,2,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),023,11:30,11:45,0,,20,1,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),024,11:45,12:00,0,,14,3,3,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),025,12:00,12:15,0,,12,4,1,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),026,12:15,12:30,0,,11,0,0,1,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),027,12:30,12:45,0,,27,1,2,1,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),028,12:45,13:00,0,,24,0,1,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),029,13:00,13:15,0,,26,3,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),030,13:15,13:30,0,,13,0,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),031,13:30,13:45,0,,17,1,1,1,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),032,13:45,14:00,0,,18,0,1,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),033,14:00,14:15,0,,33,1,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),034,14:15,14:30,0,,34,0,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),035,14:30,14:45,0,,29,2,0,2,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),036,14:45,15:00,0,,33,2,0,1,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),037,15:00,15:15,0,,39,2,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),038,15:15,15:30,0,,41,2,0,1,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),039,15:30,15:45,0,,55,1,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),040,15:45,16:00,0,,75,2,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),041,16:00,16:15,0,,73,5,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),042,16:15,16:30,0,,77,8,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),043,16:30,16:45,0,,64,5,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),044,16:45,17:00,0,,59,2,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),045,17:00,17:15,0,,51,4,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),046,17:15,17:30,0,,33,2,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),047,17:30,17:45,0,,24,2,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),048,17:45,18:00,0,,35,2,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),049,18:00,18:15,0,,24,0,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),050,18:15,18:30,0,,19,0,2,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),051,18:30,18:45,0,,15,2,0,0,0
+25,D,3,1,AG2,Zählstrom,,Geradeausfahrer 2 August-Bebel-Damm (S),052,18:45,19:00,0,,5,0,0,0,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,001,06:00,06:15,1,,42,5,3,13,2
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,002,06:15,06:30,1,,56,3,6,13,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,003,06:30,06:45,1,,34,0,5,15,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,004,06:45,07:00,0,,30,8,15,13,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,005,07:00,07:15,0,,32,6,9,13,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,006,07:15,07:30,0,,29,11,9,9,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,007,07:30,07:45,0,,34,8,8,16,16
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,008,07:45,08:00,1,,28,5,11,18,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,009,08:00,08:15,0,,22,5,6,14,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,010,08:15,08:30,0,,18,8,14,16,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,011,08:30,08:45,0,,41,6,6,16,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,012,08:45,09:00,2,,39,7,6,12,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,013,09:00,09:15,3,,35,9,13,14,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,014,09:15,09:30,3,,45,3,6,14,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,015,09:30,09:45,3,,30,3,10,7,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,016,09:45,10:00,0,,38,4,10,11,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,017,10:00,10:15,0,,42,10,19,9,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,018,10:15,10:30,0,,45,8,4,14,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,019,10:30,10:45,0,,29,3,7,16,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,020,10:45,11:00,0,,42,4,7,7,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,021,11:00,11:15,0,,44,7,9,6,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,022,11:15,11:30,0,,40,7,5,10,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,023,11:30,11:45,1,,42,4,4,10,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,024,11:45,12:00,2,,42,7,13,6,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,025,12:00,12:15,2,,35,13,5,6,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,026,12:15,12:30,0,,33,2,4,8,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,027,12:30,12:45,0,,40,10,9,10,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,028,12:45,13:00,0,,43,4,3,12,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,029,13:00,13:15,2,,63,6,3,8,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,030,13:15,13:30,0,,36,0,1,7,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,031,13:30,13:45,0,,36,2,6,12,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,032,13:45,14:00,4,,46,0,2,8,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,033,14:00,14:15,1,,65,2,2,3,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,034,14:15,14:30,1,,87,1,7,6,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,035,14:30,14:45,1,,60,6,9,6,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,036,14:45,15:00,1,,80,6,0,4,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,037,15:00,15:15,1,,86,7,6,5,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,038,15:15,15:30,0,,97,4,3,6,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,039,15:30,15:45,2,,124,4,4,6,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,040,15:45,16:00,2,,136,5,1,9,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,041,16:00,16:15,0,,133,10,7,13,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,042,16:15,16:30,1,,150,16,4,7,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,043,16:30,16:45,4,,119,9,6,6,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,044,16:45,17:00,2,,111,7,0,9,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,045,17:00,17:15,0,,95,5,0,8,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,046,17:15,17:30,0,,75,7,0,5,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,047,17:30,17:45,3,,58,5,1,7,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,048,17:45,18:00,2,,77,6,7,0,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,049,18:00,18:15,2,,45,2,0,4,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,050,18:15,18:30,1,,36,0,2,7,0
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,051,18:30,18:45,0,,39,4,4,2,1
+26,D,0,0,DG..(11),summierter Strom,24+25,DG1 + AG2,052,18:45,19:00,0,,23,1,0,3,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),001,06:00,06:15,1,,2,0,8,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),002,06:15,06:30,0,,2,0,5,5,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),003,06:30,06:45,0,,7,4,2,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),004,06:45,07:00,0,,7,3,1,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),005,07:00,07:15,0,,13,2,3,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),006,07:15,07:30,0,,8,0,0,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),007,07:30,07:45,0,,9,0,1,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),008,07:45,08:00,0,,11,4,1,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),009,08:00,08:15,0,,12,2,0,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),010,08:15,08:30,1,,8,2,1,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),011,08:30,08:45,1,,4,0,2,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),012,08:45,09:00,0,,12,5,1,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),013,09:00,09:15,0,,6,1,4,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),014,09:15,09:30,0,,6,3,0,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),015,09:30,09:45,0,,0,1,0,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),016,09:45,10:00,0,,3,4,1,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),017,10:00,10:15,0,,4,2,1,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),018,10:15,10:30,0,,5,2,1,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),019,10:30,10:45,0,,5,5,5,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),020,10:45,11:00,0,,4,2,5,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),021,11:00,11:15,0,,2,1,1,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),022,11:15,11:30,0,,5,2,0,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),023,11:30,11:45,0,,2,0,0,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),024,11:45,12:00,0,,7,3,7,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),025,12:00,12:15,0,,3,1,2,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),026,12:15,12:30,0,,4,1,1,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),027,12:30,12:45,0,,3,2,0,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),028,12:45,13:00,0,,1,2,1,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),029,13:00,13:15,0,,3,1,1,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),030,13:15,13:30,0,,8,2,0,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),031,13:30,13:45,1,,12,2,4,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),032,13:45,14:00,0,,7,2,5,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),033,14:00,14:15,0,,13,4,2,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),034,14:15,14:30,0,,9,6,1,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),035,14:30,14:45,2,,7,2,3,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),036,14:45,15:00,0,,8,1,6,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),037,15:00,15:15,0,,3,3,1,3,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),038,15:15,15:30,0,,7,0,7,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),039,15:30,15:45,0,,4,2,2,3,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),040,15:45,16:00,1,,10,3,0,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),041,16:00,16:15,0,,2,1,0,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),042,16:15,16:30,0,,5,0,0,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),043,16:30,16:45,0,,6,0,2,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),044,16:45,17:00,0,,3,0,0,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),045,17:00,17:15,0,,3,0,1,1,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),046,17:15,17:30,0,,2,0,0,2,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),047,17:30,17:45,0,,2,0,0,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),048,17:45,18:00,0,,5,0,0,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),049,18:00,18:15,0,,1,1,3,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),050,18:15,18:30,0,,1,2,3,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),051,18:30,18:45,0,,1,0,0,0,0
+27,D,4,1,DL..(12),Zählstrom,,Linksabbieger August-Bebel-Damm(S),052,18:45,19:00,0,,2,0,4,0,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,3,,147,12,40,22,2
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,1,,179,19,22,52,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,3,,173,32,24,57,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,3,,193,35,47,48,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,0,,184,34,41,39,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,0,,201,28,33,55,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,0,,214,39,45,66,16
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,1,,222,40,37,47,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,1,,147,47,20,64,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,1,,104,32,23,50,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,2,,132,28,23,55,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,4,,119,42,27,49,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,3,,108,35,24,37,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,3,,94,19,12,47,2
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,3,,115,24,32,56,24
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,1,,113,28,26,53,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,2,,127,20,36,48,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,3,,107,23,17,56,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,0,,102,28,17,52,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,1,,74,25,24,41,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,2,,108,34,19,45,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,1,,103,24,15,51,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,2,,100,22,13,60,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,6,,107,29,36,47,3
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,4,,96,27,16,46,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,2,,96,24,13,56,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,1,,112,25,22,53,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,3,,114,20,10,60,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,4,,170,26,15,58,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,3,,167,29,9,50,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,2,,142,33,29,44,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,5,,129,29,31,57,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,6,,182,35,31,41,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,1,,173,28,20,55,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,6,,194,33,23,47,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,2,,233,33,23,58,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,1,,231,34,15,58,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,0,,215,29,28,52,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,4,,222,22,20,36,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,4,,245,18,6,41,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,1,,286,27,25,45,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,2,,281,32,7,39,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,8,,211,26,17,35,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,3,,241,28,9,31,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,4,,183,19,5,31,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,0,,145,16,1,25,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,5,,119,16,2,27,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,3,,164,20,12,27,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,3,,125,19,9,26,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,5,,87,14,8,19,0
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,1,,97,16,8,24,1
+31,,0,0,SUMME ZU,summierter Strom,6+14+20+28,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,3,,70,9,9,28,0

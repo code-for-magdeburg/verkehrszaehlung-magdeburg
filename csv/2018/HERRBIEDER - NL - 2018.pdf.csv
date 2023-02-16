@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,001,06:00,06:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,002,06:15,06:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,003,06:30,06:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,004,06:45,07:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,005,07:00,07:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,006,07:15,07:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,007,07:30,07:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,008,07:45,08:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,009,08:00,08:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,010,08:15,08:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,011,08:30,08:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,012,08:45,09:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,013,09:00,09:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,014,09:15,09:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,015,09:30,09:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,016,09:45,10:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,017,10:00,10:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,018,10:15,10:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,019,10:30,10:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,020,10:45,11:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,021,11:00,11:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,022,11:15,11:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,023,11:30,11:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,024,11:45,12:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,025,12:00,12:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,026,12:15,12:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,027,12:30,12:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,028,12:45,13:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,029,13:00,13:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,030,13:15,13:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,031,13:30,13:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,032,13:45,14:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,033,14:00,14:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,034,14:15,14:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,035,14:30,14:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,036,14:45,15:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,037,15:00,15:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,038,15:15,15:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,039,15:30,15:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,040,15:45,16:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,041,16:00,16:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,042,16:15,16:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,043,16:30,16:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,044,16:45,17:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,045,17:00,17:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,046,17:15,17:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,047,17:30,17:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,048,17:45,18:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,049,18:00,18:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,050,18:15,18:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,051,18:30,18:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Unterbär,052,18:45,19:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,001,06:00,06:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,002,06:15,06:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,003,06:30,06:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,004,06:45,07:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,005,07:00,07:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,006,07:15,07:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,007,07:30,07:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,008,07:45,08:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,009,08:00,08:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,010,08:15,08:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,011,08:30,08:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,012,08:45,09:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,013,09:00,09:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,014,09:15,09:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,015,09:30,09:45,2,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,016,09:45,10:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,017,10:00,10:15,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,018,10:15,10:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,019,10:30,10:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,020,10:45,11:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,021,11:00,11:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,022,11:15,11:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,023,11:30,11:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,024,11:45,12:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,025,12:00,12:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,026,12:15,12:30,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,027,12:30,12:45,0,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,028,12:45,13:00,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,029,13:00,13:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,030,13:15,13:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,031,13:30,13:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,032,13:45,14:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,033,14:00,14:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,034,14:15,14:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,035,14:30,14:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,036,14:45,15:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,037,15:00,15:15,2,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,038,15:15,15:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,039,15:30,15:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,040,15:45,16:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,041,16:00,16:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,042,16:15,16:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,043,16:30,16:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,044,16:45,17:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,045,17:00,17:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,046,17:15,17:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,047,17:30,17:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,048,17:45,18:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,049,18:00,18:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,050,18:15,18:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,051,18:30,18:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Unterbär,052,18:45,19:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,001,06:00,06:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,002,06:15,06:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,003,06:30,06:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,004,06:45,07:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,005,07:00,07:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,006,07:15,07:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,007,07:30,07:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,008,07:45,08:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,009,08:00,08:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,010,08:15,08:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,011,08:30,08:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,012,08:45,09:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,013,09:00,09:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,014,09:15,09:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,015,09:30,09:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,016,09:45,10:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,017,10:00,10:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,018,10:15,10:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,019,10:30,10:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,020,10:45,11:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,021,11:00,11:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,022,11:15,11:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,023,11:30,11:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,024,11:45,12:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,025,12:00,12:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,026,12:15,12:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,027,12:30,12:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,028,12:45,13:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,029,13:00,13:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,030,13:15,13:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,031,13:30,13:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,032,13:45,14:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,033,14:00,14:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,034,14:15,14:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,035,14:30,14:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,036,14:45,15:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,037,15:00,15:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,038,15:15,15:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,039,15:30,15:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,040,15:45,16:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,041,16:00,16:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,042,16:15,16:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,043,16:30,16:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,044,16:45,17:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,045,17:00,17:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,046,17:15,17:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,047,17:30,17:45,1,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,048,17:45,18:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,049,18:00,18:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,050,18:15,18:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,051,18:30,18:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Unterbär,052,18:45,19:00,2,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),001,06:00,06:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),002,06:15,06:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),003,06:30,06:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),004,06:45,07:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),005,07:00,07:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),006,07:15,07:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),007,07:30,07:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),008,07:45,08:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),009,08:00,08:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),010,08:15,08:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),011,08:30,08:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),012,08:45,09:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),013,09:00,09:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),014,09:15,09:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),015,09:30,09:45,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),016,09:45,10:00,2,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),017,10:00,10:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),018,10:15,10:30,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),019,10:30,10:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),020,10:45,11:00,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),021,11:00,11:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),022,11:15,11:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),023,11:30,11:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),024,11:45,12:00,2,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),025,12:00,12:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),026,12:15,12:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),027,12:30,12:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),028,12:45,13:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),029,13:00,13:15,2,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),030,13:15,13:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),031,13:30,13:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),032,13:45,14:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),033,14:00,14:15,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),034,14:15,14:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),035,14:30,14:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),036,14:45,15:00,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),037,15:00,15:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),038,15:15,15:30,1,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),039,15:30,15:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),040,15:45,16:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),041,16:00,16:15,1,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),042,16:15,16:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),043,16:30,16:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),044,16:45,17:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),045,17:00,17:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),046,17:15,17:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),047,17:30,17:45,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),048,17:45,18:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),049,18:00,18:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),050,18:15,18:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),051,18:30,18:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Herrenkrugstraße(N),052,18:45,19:00,0,,0,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),001,06:00,06:15,2,,3,0,0,0,1
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),002,06:15,06:30,2,,6,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),003,06:30,06:45,8,,20,1,1,2,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),004,06:45,07:00,4,,22,8,1,1,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),005,07:00,07:15,3,,23,4,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),006,07:15,07:30,7,,30,5,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),007,07:30,07:45,8,,32,1,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),008,07:45,08:00,2,,16,1,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),009,08:00,08:15,2,,3,2,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),010,08:15,08:30,3,,13,1,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),011,08:30,08:45,4,,12,1,1,1,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),012,08:45,09:00,3,,8,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),013,09:00,09:15,5,,11,0,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),014,09:15,09:30,5,,12,0,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),015,09:30,09:45,6,,16,3,2,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),016,09:45,10:00,3,,17,2,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),017,10:00,10:15,1,,10,1,2,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),018,10:15,10:30,4,,10,2,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),019,10:30,10:45,4,,9,4,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),020,10:45,11:00,2,,18,1,3,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),021,11:00,11:15,3,,11,1,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),022,11:15,11:30,2,,15,1,2,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),023,11:30,11:45,3,,16,1,3,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),024,11:45,12:00,1,,14,1,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),025,12:00,12:15,1,,16,2,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),026,12:15,12:30,2,,14,2,1,0,1
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),027,12:30,12:45,1,,8,1,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),028,12:45,13:00,1,,10,1,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),029,13:00,13:15,4,,8,3,1,0,1
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),030,13:15,13:30,4,,16,2,2,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),031,13:30,13:45,4,,15,2,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),032,13:45,14:00,9,,18,2,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),033,14:00,14:15,3,,18,2,0,0,1
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),034,14:15,14:30,12,,14,0,1,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),035,14:30,14:45,7,,19,2,0,1,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),036,14:45,15:00,8,,7,2,2,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),037,15:00,15:15,7,,20,2,1,0,1
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),038,15:15,15:30,3,,23,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),039,15:30,15:45,10,,12,2,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),040,15:45,16:00,9,,25,2,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),041,16:00,16:15,14,,1,13,0,0,1
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),042,16:15,16:30,8,,23,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),043,16:30,16:45,4,,13,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),044,16:45,17:00,1,,12,1,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),045,17:00,17:15,3,,15,1,0,0,1
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),046,17:15,17:30,3,,11,1,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),047,17:30,17:45,4,,10,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),048,17:45,18:00,9,,7,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),049,18:00,18:15,5,,6,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),050,18:15,18:30,3,,8,0,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),051,18:30,18:45,2,,7,1,0,0,0
+8,B,1,2,BG...(4),Zählstrom,,Geradeausfahrer Herrenkrugstraße(N),052,18:45,19:00,3,,4,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),001,06:00,06:15,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),002,06:15,06:30,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),003,06:30,06:45,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),004,06:45,07:00,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),005,07:00,07:15,0,,0,1,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),006,07:15,07:30,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),007,07:30,07:45,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),008,07:45,08:00,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),009,08:00,08:15,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),010,08:15,08:30,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),011,08:30,08:45,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),012,08:45,09:00,0,,1,1,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),013,09:00,09:15,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),014,09:15,09:30,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),015,09:30,09:45,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),016,09:45,10:00,2,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),017,10:00,10:15,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),018,10:15,10:30,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),019,10:30,10:45,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),020,10:45,11:00,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),021,11:00,11:15,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),022,11:15,11:30,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),023,11:30,11:45,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),024,11:45,12:00,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),025,12:00,12:15,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),026,12:15,12:30,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),027,12:30,12:45,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),028,12:45,13:00,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),029,13:00,13:15,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),030,13:15,13:30,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),031,13:30,13:45,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),032,13:45,14:00,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),033,14:00,14:15,2,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),034,14:15,14:30,0,,2,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),035,14:30,14:45,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),036,14:45,15:00,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),037,15:00,15:15,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),038,15:15,15:30,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),039,15:30,15:45,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),040,15:45,16:00,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),041,16:00,16:15,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),042,16:15,16:30,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),043,16:30,16:45,0,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),044,16:45,17:00,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),045,17:00,17:15,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),046,17:15,17:30,0,,3,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),047,17:30,17:45,1,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),048,17:45,18:00,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),049,18:00,18:15,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),050,18:15,18:30,0,,1,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),051,18:30,18:45,1,,0,0,0,0,0
+9,B,1,3,BL...(5),Zählstrom,,Linksabbieger Herrenkrugstraße (N),052,18:45,19:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,001,06:00,06:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,002,06:15,06:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,003,06:30,06:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,004,06:45,07:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,006,07:15,07:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,007,07:30,07:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,008,07:45,08:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,009,08:00,08:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,010,08:15,08:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,011,08:30,08:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,012,08:45,09:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,013,09:00,09:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,014,09:15,09:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,015,09:30,09:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,016,09:45,10:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,017,10:00,10:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,018,10:15,10:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,019,10:30,10:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,020,10:45,11:00,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,021,11:00,11:15,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,022,11:15,11:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,023,11:30,11:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,024,11:45,12:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,025,12:00,12:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,026,12:15,12:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,027,12:30,12:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,028,12:45,13:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,029,13:00,13:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,030,13:15,13:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,031,13:30,13:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,032,13:45,14:00,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,033,14:00,14:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,034,14:15,14:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,035,14:30,14:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,036,14:45,15:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,037,15:00,15:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,038,15:15,15:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,039,15:30,15:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,040,15:45,16:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,041,16:00,16:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,042,16:15,16:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,043,16:30,16:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,044,16:45,17:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,045,17:00,17:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,046,17:15,17:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,047,17:30,17:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,048,17:45,18:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,049,18:00,18:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,051,18:30,18:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Biederitzer Weg,052,18:45,19:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,001,06:00,06:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,002,06:15,06:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,003,06:30,06:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,004,06:45,07:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,005,07:00,07:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,006,07:15,07:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,007,07:30,07:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,008,07:45,08:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,009,08:00,08:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,010,08:15,08:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,011,08:30,08:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,012,08:45,09:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,013,09:00,09:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,014,09:15,09:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,015,09:30,09:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,016,09:45,10:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,017,10:00,10:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,018,10:15,10:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,019,10:30,10:45,1,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,020,10:45,11:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,021,11:00,11:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,022,11:15,11:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,023,11:30,11:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,024,11:45,12:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,025,12:00,12:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,026,12:15,12:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,027,12:30,12:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,028,12:45,13:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,029,13:00,13:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,030,13:15,13:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,031,13:30,13:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,032,13:45,14:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,033,14:00,14:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,034,14:15,14:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,035,14:30,14:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,036,14:45,15:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,037,15:00,15:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,038,15:15,15:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,039,15:30,15:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,040,15:45,16:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,041,16:00,16:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,042,16:15,16:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,043,16:30,16:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,044,16:45,17:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,045,17:00,17:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,046,17:15,17:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,047,17:30,17:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,048,17:45,18:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,049,18:00,18:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,050,18:15,18:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,051,18:30,18:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Biederitzer Weg,052,18:45,19:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,001,06:00,06:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,002,06:15,06:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,003,06:30,06:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,004,06:45,07:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,005,07:00,07:15,1,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,006,07:15,07:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,007,07:30,07:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,008,07:45,08:00,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,009,08:00,08:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,010,08:15,08:30,1,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,011,08:30,08:45,1,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,012,08:45,09:00,1,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,013,09:00,09:15,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,014,09:15,09:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,015,09:30,09:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,016,09:45,10:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,017,10:00,10:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,018,10:15,10:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,019,10:30,10:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,020,10:45,11:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,021,11:00,11:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,022,11:15,11:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,023,11:30,11:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,024,11:45,12:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,025,12:00,12:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,026,12:15,12:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,027,12:30,12:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,028,12:45,13:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,029,13:00,13:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,030,13:15,13:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,031,13:30,13:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,032,13:45,14:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,033,14:00,14:15,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,034,14:15,14:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,035,14:30,14:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,036,14:45,15:00,1,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,037,15:00,15:15,0,,4,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,038,15:15,15:30,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,039,15:30,15:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,040,15:45,16:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,041,16:00,16:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,042,16:15,16:30,1,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,043,16:30,16:45,1,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,044,16:45,17:00,2,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,045,17:00,17:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,046,17:15,17:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,047,17:30,17:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,048,17:45,18:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,049,18:00,18:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,050,18:15,18:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,051,18:30,18:45,2,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Biederitzer Weg,052,18:45,19:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),001,06:00,06:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),002,06:15,06:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),003,06:30,06:45,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),004,06:45,07:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),005,07:00,07:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),006,07:15,07:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),007,07:30,07:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),008,07:45,08:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),009,08:00,08:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),010,08:15,08:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),011,08:30,08:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),012,08:45,09:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),013,09:00,09:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),014,09:15,09:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),015,09:30,09:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),016,09:45,10:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),017,10:00,10:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),018,10:15,10:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),019,10:30,10:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),020,10:45,11:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),021,11:00,11:15,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),022,11:15,11:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),023,11:30,11:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),024,11:45,12:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),025,12:00,12:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),026,12:15,12:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),027,12:30,12:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),028,12:45,13:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),029,13:00,13:15,1,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),030,13:15,13:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),031,13:30,13:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),032,13:45,14:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),033,14:00,14:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),034,14:15,14:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),035,14:30,14:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),036,14:45,15:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),037,15:00,15:15,1,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),038,15:15,15:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),039,15:30,15:45,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),040,15:45,16:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),041,16:00,16:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),042,16:15,16:30,1,,0,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),043,16:30,16:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),044,16:45,17:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),045,17:00,17:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),046,17:15,17:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),047,17:30,17:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),048,17:45,18:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),049,18:00,18:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),050,18:15,18:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),051,18:30,18:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Herrenkrugstraße(S),052,18:45,19:00,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),001,06:00,06:15,3,,11,2,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),002,06:15,06:30,0,,24,2,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),003,06:30,06:45,3,,30,2,2,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),004,06:45,07:00,5,,26,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),005,07:00,07:15,2,,29,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),006,07:15,07:30,1,,24,4,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),007,07:30,07:45,1,,27,3,1,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),008,07:45,08:00,6,,28,0,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),009,08:00,08:15,2,,21,2,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),010,08:15,08:30,4,,17,2,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),011,08:30,08:45,2,,24,4,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),012,08:45,09:00,5,,17,2,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),013,09:00,09:15,1,,14,5,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),014,09:15,09:30,2,,16,3,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),015,09:30,09:45,3,,24,4,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),016,09:45,10:00,1,,17,1,5,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),017,10:00,10:15,4,,28,4,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),018,10:15,10:30,1,,16,1,2,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),019,10:30,10:45,3,,13,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),020,10:45,11:00,0,,21,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),021,11:00,11:15,3,,23,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),022,11:15,11:30,1,,10,5,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),023,11:30,11:45,0,,18,5,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),024,11:45,12:00,0,,21,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),025,12:00,12:15,1,,30,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),026,12:15,12:30,0,,23,1,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),027,12:30,12:45,1,,28,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),028,12:45,13:00,0,,15,2,2,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),029,13:00,13:15,2,,19,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),030,13:15,13:30,1,,13,1,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),031,13:30,13:45,0,,22,0,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),032,13:45,14:00,2,,9,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),033,14:00,14:15,2,,29,5,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),034,14:15,14:30,3,,12,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),035,14:30,14:45,3,,16,0,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),036,14:45,15:00,0,,26,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),037,15:00,15:15,2,,33,2,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),038,15:15,15:30,3,,17,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),039,15:30,15:45,4,,17,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),040,15:45,16:00,3,,13,2,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),041,16:00,16:15,0,,26,4,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),042,16:15,16:30,1,,15,3,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),043,16:30,16:45,1,,20,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),044,16:45,17:00,1,,22,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),045,17:00,17:15,0,,26,1,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),046,17:15,17:30,0,,23,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),047,17:30,17:45,3,,17,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),048,17:45,18:00,0,,25,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),049,18:00,18:15,2,,19,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),050,18:15,18:30,0,,14,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),051,18:30,18:45,2,,18,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Herrenkrugstraße(S),052,18:45,19:00,0,,10,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),001,06:00,06:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),002,06:15,06:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),003,06:30,06:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),004,06:45,07:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),005,07:00,07:15,1,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),006,07:15,07:30,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),007,07:30,07:45,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),008,07:45,08:00,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),009,08:00,08:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),010,08:15,08:30,1,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),011,08:30,08:45,1,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),012,08:45,09:00,1,,1,0,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),013,09:00,09:15,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),014,09:15,09:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),015,09:30,09:45,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),016,09:45,10:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),017,10:00,10:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),018,10:15,10:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),019,10:30,10:45,1,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),020,10:45,11:00,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),021,11:00,11:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),022,11:15,11:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),023,11:30,11:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),024,11:45,12:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),025,12:00,12:15,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),026,12:15,12:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),027,12:30,12:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),028,12:45,13:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),029,13:00,13:15,1,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),030,13:15,13:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),031,13:30,13:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),032,13:45,14:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),033,14:00,14:15,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),034,14:15,14:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),035,14:30,14:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),036,14:45,15:00,1,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),037,15:00,15:15,0,,4,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),038,15:15,15:30,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),039,15:30,15:45,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),040,15:45,16:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),041,16:00,16:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),042,16:15,16:30,1,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),043,16:30,16:45,1,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),044,16:45,17:00,2,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),045,17:00,17:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),046,17:15,17:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),047,17:30,17:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),048,17:45,18:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),049,18:00,18:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),050,18:15,18:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),051,18:30,18:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Herrenkrugstra0e (S),052,18:45,19:00,0,,0,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,3,,11,2,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,0,,25,2,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,3,,32,3,2,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,5,,28,3,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,4,,29,3,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,1,,27,4,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,1,,31,3,1,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,6,,33,0,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,2,,23,2,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,6,,20,2,1,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,4,,28,4,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,7,,21,3,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,1,,22,5,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,2,,17,3,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,6,,27,4,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,5,,18,1,5,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,5,,31,4,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,2,,17,1,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,5,,16,1,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,1,,23,2,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,3,,30,1,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,1,,11,5,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,0,,18,5,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,2,,22,2,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,1,,34,1,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,1,,24,1,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,1,,33,3,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,1,,16,2,2,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,6,,20,1,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,1,,15,1,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,0,,23,0,0,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,2,,9,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,5,,34,5,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,3,,17,0,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,3,,18,0,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,3,,28,1,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,5,,42,2,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,4,,24,0,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,4,,23,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,3,,15,2,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,1,,28,4,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,4,,22,4,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,3,,22,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,5,,24,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,0,,29,1,0,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,0,,26,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,6,,18,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,0,,29,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,2,,21,2,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,0,,17,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,5,,21,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,2,,13,0,0,0,0

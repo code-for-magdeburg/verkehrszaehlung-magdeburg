@@ -1,0 +1,625 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,001,06:00,06:15,2,,38,2,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,002,06:15,06:30,7,,40,3,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,003,06:30,06:45,12,,93,2,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,004,06:45,07:00,20,,97,7,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,005,07:00,07:15,9,,68,7,2,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,006,07:15,07:30,7,,55,4,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,007,07:30,07:45,4,,83,5,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,008,07:45,08:00,8,,79,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,009,08:00,08:15,6,,74,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,010,08:15,08:30,8,,37,9,2,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,011,08:30,08:45,3,,34,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,012,08:45,09:00,4,,49,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,013,09:00,09:15,1,,36,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,014,09:15,09:30,5,,44,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,015,09:30,09:45,4,,55,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,016,09:45,10:00,7,,51,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,017,10:00,10:15,8,,48,3,2,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,018,10:15,10:30,13,,50,5,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,019,10:30,10:45,7,,57,5,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,020,10:45,11:00,2,,52,3,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,021,11:00,11:15,8,,48,2,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,022,11:15,11:30,4,,62,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,023,11:30,11:45,8,,46,8,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,024,11:45,12:00,10,,66,5,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,025,12:00,12:15,9,,50,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,026,12:15,12:30,13,,67,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,027,12:30,12:45,8,,39,5,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,028,12:45,13:00,11,,45,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,029,13:00,13:15,5,,53,2,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,030,13:15,13:30,5,,48,1,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,031,13:30,13:45,11,,76,1,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,032,13:45,14:00,6,,43,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,033,14:00,14:15,5,,71,6,1,1,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,034,14:15,14:30,7,,61,3,0,0,3
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,035,14:30,14:45,9,,58,12,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,036,14:45,15:00,8,,78,9,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,037,15:00,15:15,8,,97,4,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,038,15:15,15:30,5,,83,7,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,039,15:30,15:45,4,,59,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,040,15:45,16:00,4,,68,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,041,16:00,16:15,9,,76,3,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,042,16:15,16:30,11,,122,10,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,043,16:30,16:45,10,,114,9,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,044,16:45,17:00,11,,99,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,045,17:00,17:15,17,,92,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,046,17:15,17:30,12,,99,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,047,17:30,17:45,13,,106,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,048,17:45,18:00,3,,88,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,049,18:00,18:15,18,,86,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,050,18:15,18:30,6,,84,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,051,18:30,18:45,11,,83,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Anna-Ebert-Brücke,052,18:45,19:00,14,,73,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,001,06:00,06:15,1,,17,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,002,06:15,06:30,8,,19,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,003,06:30,06:45,10,,50,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,004,06:45,07:00,18,,41,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,005,07:00,07:15,7,,28,7,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,006,07:15,07:30,6,,31,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,007,07:30,07:45,9,,48,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,008,07:45,08:00,6,,57,7,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,009,08:00,08:15,4,,33,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,010,08:15,08:30,5,,28,3,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,011,08:30,08:45,5,,28,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,012,08:45,09:00,6,,29,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,013,09:00,09:15,2,,26,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,014,09:15,09:30,7,,25,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,015,09:30,09:45,3,,53,6,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,016,09:45,10:00,5,,34,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,017,10:00,10:15,5,,34,10,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,018,10:15,10:30,9,,45,5,4,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,019,10:30,10:45,10,,42,6,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,020,10:45,11:00,4,,39,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,021,11:00,11:15,4,,38,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,022,11:15,11:30,3,,47,2,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,023,11:30,11:45,8,,43,4,2,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,024,11:45,12:00,8,,61,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,025,12:00,12:15,5,,55,4,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,026,12:15,12:30,6,,68,2,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,027,12:30,12:45,6,,40,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,028,12:45,13:00,8,,47,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,029,13:00,13:15,4,,40,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,030,13:15,13:30,5,,33,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,031,13:30,13:45,11,,55,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,032,13:45,14:00,2,,45,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,033,14:00,14:15,5,,63,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,034,14:15,14:30,7,,56,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,035,14:30,14:45,4,,59,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,036,14:45,15:00,2,,50,8,1,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,037,15:00,15:15,7,,94,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,038,15:15,15:30,3,,75,7,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,039,15:30,15:45,0,,63,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,040,15:45,16:00,2,,61,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,041,16:00,16:15,17,,96,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,042,16:15,16:30,22,,109,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,043,16:30,16:45,11,,118,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,044,16:45,17:00,21,,100,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,045,17:00,17:15,31,,109,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,046,17:15,17:30,23,,114,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,047,17:30,17:45,22,,116,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,048,17:45,18:00,19,,91,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,049,18:00,18:15,11,,75,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,050,18:15,18:30,8,,87,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,051,18:30,18:45,9,,62,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Anna-Ebert-Brücke,052,18:45,19:00,11,,56,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,001,06:00,06:15,1,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,002,06:15,06:30,2,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,003,06:30,06:45,1,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,004,06:45,07:00,3,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,005,07:00,07:15,8,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,006,07:15,07:30,3,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,007,07:30,07:45,3,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,008,07:45,08:00,1,,10,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,009,08:00,08:15,3,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,010,08:15,08:30,4,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,011,08:30,08:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,012,08:45,09:00,2,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,013,09:00,09:15,1,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,014,09:15,09:30,1,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,015,09:30,09:45,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,016,09:45,10:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,017,10:00,10:15,0,,3,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,018,10:15,10:30,0,,0,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,019,10:30,10:45,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,020,10:45,11:00,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,021,11:00,11:15,1,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,022,11:15,11:30,3,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,023,11:30,11:45,1,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,024,11:45,12:00,1,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,025,12:00,12:15,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,026,12:15,12:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,027,12:30,12:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,028,12:45,13:00,1,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,029,13:00,13:15,2,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,030,13:15,13:30,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,031,13:30,13:45,2,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,032,13:45,14:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,033,14:00,14:15,5,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,034,14:15,14:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,035,14:30,14:45,4,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,036,14:45,15:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,037,15:00,15:15,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,038,15:15,15:30,1,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,039,15:30,15:45,1,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,040,15:45,16:00,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,041,16:00,16:15,1,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,042,16:15,16:30,1,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,043,16:30,16:45,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,044,16:45,17:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,045,17:00,17:15,2,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,046,17:15,17:30,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,047,17:30,17:45,1,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,048,17:45,18:00,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,049,18:00,18:15,2,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,050,18:15,18:30,2,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,051,18:30,18:45,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Anna-Ebert-Brücke,052,18:45,19:00,1,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),001,06:00,06:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),002,06:15,06:30,1,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),003,06:30,06:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),004,06:45,07:00,3,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),005,07:00,07:15,1,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),006,07:15,07:30,1,,7,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),007,07:30,07:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),008,07:45,08:00,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),009,08:00,08:15,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),010,08:15,08:30,1,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),011,08:30,08:45,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),012,08:45,09:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),013,09:00,09:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),014,09:15,09:30,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),015,09:30,09:45,1,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),016,09:45,10:00,0,,8,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),017,10:00,10:15,1,,7,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),018,10:15,10:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),019,10:30,10:45,2,,6,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),020,10:45,11:00,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),021,11:00,11:15,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),022,11:15,11:30,1,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),023,11:30,11:45,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),024,11:45,12:00,1,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),025,12:00,12:15,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),026,12:15,12:30,3,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),027,12:30,12:45,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),028,12:45,13:00,1,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),029,13:00,13:15,2,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),030,13:15,13:30,3,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),031,13:30,13:45,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),032,13:45,14:00,1,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),033,14:00,14:15,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),034,14:15,14:30,3,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),035,14:30,14:45,4,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),036,14:45,15:00,6,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),037,15:00,15:15,1,,23,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),038,15:15,15:30,3,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),039,15:30,15:45,4,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),040,15:45,16:00,8,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),041,16:00,16:15,2,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),042,16:15,16:30,3,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),043,16:30,16:45,3,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),044,16:45,17:00,2,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),045,17:00,17:15,6,,12,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),046,17:15,17:30,7,,12,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),047,17:30,17:45,1,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),048,17:45,18:00,1,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),049,18:00,18:15,2,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),050,18:15,18:30,4,,1,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),051,18:30,18:45,2,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Turmschanzenstraße (N),052,18:45,19:00,2,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),001,06:00,06:15,0,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),002,06:15,06:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),003,06:30,06:45,1,,1,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),004,06:45,07:00,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),005,07:00,07:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),006,07:15,07:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),007,07:30,07:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),008,07:45,08:00,1,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),009,08:00,08:15,0,,4,1,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),010,08:15,08:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),011,08:30,08:45,0,,1,0,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),012,08:45,09:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),013,09:00,09:15,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),014,09:15,09:30,0,,1,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),015,09:30,09:45,1,,0,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),016,09:45,10:00,0,,7,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),017,10:00,10:15,0,,4,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),018,10:15,10:30,1,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),019,10:30,10:45,2,,4,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),020,10:45,11:00,4,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),021,11:00,11:15,2,,1,0,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),022,11:15,11:30,0,,5,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),023,11:30,11:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),024,11:45,12:00,0,,3,1,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),025,12:00,12:15,0,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),026,12:15,12:30,0,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),027,12:30,12:45,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),028,12:45,13:00,0,,0,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),029,13:00,13:15,7,,0,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),030,13:15,13:30,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),031,13:30,13:45,1,,4,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),032,13:45,14:00,1,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),033,14:00,14:15,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),034,14:15,14:30,1,,1,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),035,14:30,14:45,1,,1,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),036,14:45,15:00,0,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),037,15:00,15:15,1,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),038,15:15,15:30,0,,1,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),039,15:30,15:45,1,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),040,15:45,16:00,3,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),041,16:00,16:15,1,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),042,16:15,16:30,3,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),043,16:30,16:45,2,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),044,16:45,17:00,1,,7,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),045,17:00,17:15,4,,5,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),046,17:15,17:30,3,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),047,17:30,17:45,6,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),048,17:45,18:00,0,,8,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),049,18:00,18:15,3,,3,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),050,18:15,18:30,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),051,18:30,18:45,1,,2,0,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Turmschanzenstraße (N),052,18:45,19:00,2,,2,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),001,06:00,06:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),002,06:15,06:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),003,06:30,06:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),004,06:45,07:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),005,07:00,07:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),006,07:15,07:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),007,07:30,07:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),008,07:45,08:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),009,08:00,08:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),010,08:15,08:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),011,08:30,08:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),012,08:45,09:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),013,09:00,09:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),014,09:15,09:30,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),015,09:30,09:45,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),016,09:45,10:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),017,10:00,10:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),018,10:15,10:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),019,10:30,10:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),020,10:45,11:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),021,11:00,11:15,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),022,11:15,11:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),023,11:30,11:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),024,11:45,12:00,0,,2,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),025,12:00,12:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),026,12:15,12:30,0,,2,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),027,12:30,12:45,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),028,12:45,13:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),029,13:00,13:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),030,13:15,13:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),031,13:30,13:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),032,13:45,14:00,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),033,14:00,14:15,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),034,14:15,14:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),035,14:30,14:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),036,14:45,15:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),037,15:00,15:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),038,15:15,15:30,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),039,15:30,15:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),040,15:45,16:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),041,16:00,16:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),042,16:15,16:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),043,16:30,16:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),044,16:45,17:00,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),045,17:00,17:15,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),046,17:15,17:30,0,,2,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),047,17:30,17:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),048,17:45,18:00,0,,0,1,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),049,18:00,18:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),050,18:15,18:30,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),051,18:30,18:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Turmschanzenstraße(N),052,18:45,19:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,001,06:00,06:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,002,06:15,06:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,003,06:30,06:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,004,06:45,07:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,006,07:15,07:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,007,07:30,07:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,008,07:45,08:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,009,08:00,08:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,010,08:15,08:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,011,08:30,08:45,0,,1,0,0,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,012,08:45,09:00,0,,2,0,0,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,013,09:00,09:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,014,09:15,09:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,015,09:30,09:45,0,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,016,09:45,10:00,1,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,017,10:00,10:15,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,018,10:15,10:30,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,019,10:30,10:45,0,,1,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,020,10:45,11:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,021,11:00,11:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,022,11:15,11:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,023,11:30,11:45,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,024,11:45,12:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,025,12:00,12:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,026,12:15,12:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,027,12:30,12:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,028,12:45,13:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,029,13:00,13:15,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,030,13:15,13:30,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,031,13:30,13:45,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,032,13:45,14:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,033,14:00,14:15,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,034,14:15,14:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,035,14:30,14:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,036,14:45,15:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,037,15:00,15:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,038,15:15,15:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,039,15:30,15:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,040,15:45,16:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,041,16:00,16:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,042,16:15,16:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,043,16:30,16:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,044,16:45,17:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,045,17:00,17:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,046,17:15,17:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,047,17:30,17:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,048,17:45,18:00,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,049,18:00,18:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,051,18:30,18:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brückstraße,052,18:45,19:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,001,06:00,06:15,2,,40,5,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,002,06:15,06:30,6,,58,5,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,003,06:30,06:45,12,,99,9,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,004,06:45,07:00,15,,158,12,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,005,07:00,07:15,10,,129,8,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,006,07:15,07:30,16,,130,5,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,007,07:30,07:45,5,,159,10,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,008,07:45,08:00,9,,108,9,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,009,08:00,08:15,6,,73,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,010,08:15,08:30,6,,63,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,011,08:30,08:45,10,,73,5,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,012,08:45,09:00,13,,96,11,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,013,09:00,09:15,5,,57,2,4,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,014,09:15,09:30,4,,69,6,1,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,015,09:30,09:45,11,,80,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,016,09:45,10:00,7,,56,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,017,10:00,10:15,5,,47,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,018,10:15,10:30,8,,63,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,019,10:30,10:45,6,,69,4,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,020,10:45,11:00,7,,56,7,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,021,11:00,11:15,8,,71,5,6,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,022,11:15,11:30,6,,46,4,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,023,11:30,11:45,6,,63,5,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,024,11:45,12:00,3,,51,3,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,025,12:00,12:15,7,,72,3,2,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,026,12:15,12:30,8,,58,1,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,027,12:30,12:45,7,,59,4,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,028,12:45,13:00,8,,56,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,029,13:00,13:15,8,,69,5,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,030,13:15,13:30,12,,68,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,031,13:30,13:45,12,,64,6,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,032,13:45,14:00,8,,64,3,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,033,14:00,14:15,5,,71,4,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,034,14:15,14:30,8,,71,9,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,035,14:30,14:45,18,,61,3,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,036,14:45,15:00,20,,82,8,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,037,15:00,15:15,17,,71,7,1,1,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,038,15:15,15:30,10,,85,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,039,15:30,15:45,13,,82,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,040,15:45,16:00,10,,78,8,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,041,16:00,16:15,14,,89,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,042,16:15,16:30,18,,81,5,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,043,16:30,16:45,13,,86,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,044,16:45,17:00,12,,102,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,045,17:00,17:15,11,,106,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,046,17:15,17:30,18,,94,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,047,17:30,17:45,18,,95,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,048,17:45,18:00,11,,72,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,049,18:00,18:15,12,,66,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,050,18:15,18:30,11,,41,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,051,18:30,18:45,10,,50,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brückstraße,052,18:45,19:00,8,,56,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),001,06:00,06:15,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),002,06:15,06:30,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),003,06:30,06:45,0,,1,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),004,06:45,07:00,0,,4,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),005,07:00,07:15,1,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),006,07:15,07:30,3,,0,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),007,07:30,07:45,0,,0,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),008,07:45,08:00,0,,2,0,1,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),009,08:00,08:15,1,,3,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),010,08:15,08:30,0,,0,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),011,08:30,08:45,0,,3,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),012,08:45,09:00,0,,3,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),013,09:00,09:15,0,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),014,09:15,09:30,0,,0,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),015,09:30,09:45,0,,1,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),016,09:45,10:00,0,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),017,10:00,10:15,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),018,10:15,10:30,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),019,10:30,10:45,0,,3,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),020,10:45,11:00,0,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),021,11:00,11:15,1,,0,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),022,11:15,11:30,0,,1,0,1,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),023,11:30,11:45,1,,3,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),024,11:45,12:00,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),025,12:00,12:15,0,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),026,12:15,12:30,0,,0,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),027,12:30,12:45,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),028,12:45,13:00,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),029,13:00,13:15,2,,4,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),030,13:15,13:30,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),031,13:30,13:45,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),032,13:45,14:00,0,,4,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),033,14:00,14:15,1,,2,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),034,14:15,14:30,0,,0,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),035,14:30,14:45,0,,3,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),036,14:45,15:00,2,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),037,15:00,15:15,2,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),038,15:15,15:30,0,,6,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),039,15:30,15:45,0,,0,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),040,15:45,16:00,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),041,16:00,16:15,2,,4,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),042,16:15,16:30,0,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),043,16:30,16:45,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),044,16:45,17:00,0,,4,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),045,17:00,17:15,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),046,17:15,17:30,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),047,17:30,17:45,0,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),048,17:45,18:00,0,,3,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),049,18:00,18:15,0,,2,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),050,18:15,18:30,0,,1,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),051,18:30,18:45,0,,0,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Turmschanzenstraße (S),052,18:45,19:00,1,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),001,06:00,06:15,1,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),002,06:15,06:30,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),003,06:30,06:45,1,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),004,06:45,07:00,1,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),005,07:00,07:15,1,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),006,07:15,07:30,2,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),007,07:30,07:45,5,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),008,07:45,08:00,3,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),009,08:00,08:15,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),010,08:15,08:30,0,,0,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),011,08:30,08:45,2,,0,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),012,08:45,09:00,2,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),013,09:00,09:15,1,,3,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),014,09:15,09:30,2,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),015,09:30,09:45,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),016,09:45,10:00,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),017,10:00,10:15,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),018,10:15,10:30,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),019,10:30,10:45,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),020,10:45,11:00,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),021,11:00,11:15,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),022,11:15,11:30,0,,0,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),023,11:30,11:45,0,,1,2,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),024,11:45,12:00,0,,2,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),025,12:00,12:15,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),026,12:15,12:30,2,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),027,12:30,12:45,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),028,12:45,13:00,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),029,13:00,13:15,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),030,13:15,13:30,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),031,13:30,13:45,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),032,13:45,14:00,0,,2,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),033,14:00,14:15,5,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),034,14:15,14:30,1,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),035,14:30,14:45,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),036,14:45,15:00,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),037,15:00,15:15,1,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),038,15:15,15:30,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),039,15:30,15:45,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),040,15:45,16:00,0,,2,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),041,16:00,16:15,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),042,16:15,16:30,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),043,16:30,16:45,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),044,16:45,17:00,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),045,17:00,17:15,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),046,17:15,17:30,0,,1,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),047,17:30,17:45,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),048,17:45,18:00,2,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),049,18:00,18:15,7,,2,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),050,18:15,18:30,0,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),051,18:30,18:45,2,,0,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Turmschanzenstraße (S),052,18:45,19:00,0,,0,0,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),001,06:00,06:15,8,,67,4,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),002,06:15,06:30,0,,63,0,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),003,06:30,06:45,10,,101,3,1,0,1
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),004,06:45,07:00,14,,94,3,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),005,07:00,07:15,5,,120,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),006,07:15,07:30,10,,80,3,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),007,07:30,07:45,16,,91,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),008,07:45,08:00,20,,94,4,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),009,08:00,08:15,8,,94,3,3,0,1
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),010,08:15,08:30,7,,90,5,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),011,08:30,08:45,11,,85,3,3,0,1
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),012,08:45,09:00,13,,64,4,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),013,09:00,09:15,5,,95,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),014,09:15,09:30,10,,64,0,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),015,09:30,09:45,6,,62,1,2,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),016,09:45,10:00,6,,49,4,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),017,10:00,10:15,3,,46,2,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),018,10:15,10:30,4,,52,4,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),019,10:30,10:45,3,,51,3,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),020,10:45,11:00,1,,77,2,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),021,11:00,11:15,1,,47,1,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),022,11:15,11:30,3,,55,4,1,2,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),023,11:30,11:45,3,,43,6,2,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),024,11:45,12:00,1,,42,7,3,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),025,12:00,12:15,5,,53,3,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),026,12:15,12:30,6,,49,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),027,12:30,12:45,4,,43,5,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),028,12:45,13:00,3,,38,2,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),029,13:00,13:15,7,,75,3,2,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),030,13:15,13:30,7,,58,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),031,13:30,13:45,8,,81,0,0,0,1
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),032,13:45,14:00,6,,65,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),033,14:00,14:15,6,,112,4,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),034,14:15,14:30,11,,73,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),035,14:30,14:45,12,,85,3,0,2,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),036,14:45,15:00,6,,65,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),037,15:00,15:15,15,,80,2,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),038,15:15,15:30,13,,106,1,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),039,15:30,15:45,6,,127,1,2,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),040,15:45,16:00,6,,99,2,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),041,16:00,16:15,4,,76,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),042,16:15,16:30,4,,72,3,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),043,16:30,16:45,1,,55,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),044,16:45,17:00,4,,61,3,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),045,17:00,17:15,8,,53,4,0,0,1
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),046,17:15,17:30,7,,55,2,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),047,17:30,17:45,6,,61,2,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),048,17:45,18:00,10,,73,2,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),049,18:00,18:15,3,,53,1,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),050,18:15,18:30,8,,41,1,0,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),051,18:30,18:45,1,,32,2,1,0,0
+20,D,1,3,DL..(12),Zählstrom,,Linksabbieger Turmschanzenstraße(S),052,18:45,19:00,4,,37,0,0,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,15,,172,14,1,0,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,24,,185,9,2,0,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,47,,353,17,3,0,3
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,74,,407,26,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,42,,357,23,5,0,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,48,,313,16,4,0,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,42,,397,17,0,0,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,48,,358,24,2,1,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,29,,294,15,6,0,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,31,,227,22,3,1,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,31,,229,11,7,1,3
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,40,,250,23,5,0,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,15,,227,11,4,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,29,,210,11,4,0,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,26,,260,16,5,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,26,,211,18,1,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,22,,193,22,3,1,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,35,,216,19,6,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,30,,236,20,4,2,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,18,,233,15,6,1,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,25,,213,9,12,1,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,20,,223,13,6,2,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,27,,213,26,6,0,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,24,,239,16,7,0,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,26,,240,12,4,2,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,38,,252,11,2,1,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,26,,193,16,3,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,32,,192,5,2,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,37,,248,12,4,1,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,32,,220,6,0,1,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,45,,290,11,3,1,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,24,,236,8,0,1,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,34,,326,19,5,1,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,38,,267,17,1,0,3
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,52,,275,23,3,2,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,44,,287,26,1,0,3
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,52,,374,16,2,1,2
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,35,,366,19,4,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,29,,345,8,4,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,33,,324,13,0,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,50,,355,11,0,0,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,62,,401,23,0,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,40,,382,14,0,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,51,,386,8,2,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,79,,383,12,2,0,1
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,70,,382,5,0,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,67,,391,7,1,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,46,,347,6,0,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,58,,296,7,2,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,40,,257,6,0,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,36,,234,4,4,0,0
+24,,0,0,SUMME ZU,summierter Strom,4+10+15+21,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,43,,226,1,2,0,0

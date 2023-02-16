@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),001,06:00,06:15,0,,2,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),002,06:15,06:30,0,,4,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),003,06:30,06:45,1,,6,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),004,06:45,07:00,1,,7,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),005,07:00,07:15,0,,10,0,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),006,07:15,07:30,3,,17,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),007,07:30,07:45,9,,23,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),008,07:45,08:00,8,,21,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),009,08:00,08:15,5,,7,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),010,08:15,08:30,4,,11,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),011,08:30,08:45,1,,5,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),012,08:45,09:00,5,,13,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),013,09:00,09:15,3,,10,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),014,09:15,09:30,1,,6,1,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),015,09:30,09:45,1,,12,0,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),016,09:45,10:00,0,,11,0,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),017,10:00,10:15,3,,15,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),018,10:15,10:30,1,,19,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),019,10:30,10:45,0,,10,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),020,10:45,11:00,0,,11,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),021,11:00,11:15,0,,14,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),022,11:15,11:30,2,,15,0,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),023,11:30,11:45,1,,14,1,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),024,11:45,12:00,1,,16,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),025,12:00,12:15,1,,15,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),026,12:15,12:30,0,,9,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),027,12:30,12:45,1,,11,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),028,12:45,13:00,0,,9,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),029,13:00,13:15,3,,11,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),030,13:15,13:30,3,,11,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),031,13:30,13:45,0,,9,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),032,13:45,14:00,4,,13,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),033,14:00,14:15,1,,10,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),034,14:15,14:30,1,,17,3,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),035,14:30,14:45,0,,22,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),036,14:45,15:00,10,,24,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),037,15:00,15:15,3,,18,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),038,15:15,15:30,2,,16,0,1,0,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),039,15:30,15:45,1,,22,3,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),040,15:45,16:00,1,,15,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),041,16:00,16:15,2,,45,4,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),042,16:15,16:30,2,,28,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),043,16:30,16:45,4,,21,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),044,16:45,17:00,7,,17,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),045,17:00,17:15,1,,23,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),046,17:15,17:30,2,,14,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),047,17:30,17:45,1,,17,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),048,17:45,18:00,2,,20,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),049,18:00,18:15,5,,15,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),050,18:15,18:30,1,,18,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),051,18:30,18:45,0,,14,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Danzstraße (NW),052,18:45,19:00,0,,9,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),001,06:00,06:15,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),002,06:15,06:30,0,,8,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),003,06:30,06:45,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),004,06:45,07:00,1,,5,2,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),005,07:00,07:15,2,,15,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),006,07:15,07:30,2,,9,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),007,07:30,07:45,2,,14,2,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),008,07:45,08:00,2,,24,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),009,08:00,08:15,0,,19,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),010,08:15,08:30,0,,12,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),011,08:30,08:45,1,,19,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),012,08:45,09:00,0,,18,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),013,09:00,09:15,0,,11,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),014,09:15,09:30,0,,13,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),015,09:30,09:45,0,,17,1,2,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),016,09:45,10:00,0,,23,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),017,10:00,10:15,0,,16,1,0,0,1
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),018,10:15,10:30,1,,20,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),019,10:30,10:45,0,,19,0,1,0,1
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),020,10:45,11:00,2,,18,0,2,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),021,11:00,11:15,0,,22,0,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),022,11:15,11:30,0,,14,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),023,11:30,11:45,0,,18,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),024,11:45,12:00,2,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),025,12:00,12:15,0,,14,4,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),026,12:15,12:30,0,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),027,12:30,12:45,0,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),028,12:45,13:00,0,,8,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),029,13:00,13:15,0,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),030,13:15,13:30,0,,10,0,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),031,13:30,13:45,1,,21,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),032,13:45,14:00,0,,13,4,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),033,14:00,14:15,1,,12,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),034,14:15,14:30,0,,16,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),035,14:30,14:45,0,,8,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),036,14:45,15:00,0,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),037,15:00,15:15,0,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),038,15:15,15:30,2,,13,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),039,15:30,15:45,0,,16,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),040,15:45,16:00,0,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),041,16:00,16:15,1,,12,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),042,16:15,16:30,0,,11,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),043,16:30,16:45,1,,18,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),044,16:45,17:00,1,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),045,17:00,17:15,0,,13,0,0,0,1
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),046,17:15,17:30,0,,9,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),047,17:30,17:45,0,,14,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),048,17:45,18:00,0,,6,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),049,18:00,18:15,0,,14,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),050,18:15,18:30,0,,15,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),051,18:30,18:45,0,,13,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Danzstraße (NW),052,18:45,19:00,0,,11,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,001,06:00,06:15,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,002,06:15,06:30,0,,7,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,003,06:30,06:45,0,,7,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,004,06:45,07:00,0,,7,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,005,07:00,07:15,0,,12,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,006,07:15,07:30,0,,17,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,007,07:30,07:45,0,,21,3,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,008,07:45,08:00,0,,22,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,009,08:00,08:15,0,,19,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,010,08:15,08:30,0,,13,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,011,08:30,08:45,0,,19,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,012,08:45,09:00,0,,28,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,013,09:00,09:15,0,,27,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,014,09:15,09:30,0,,21,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,015,09:30,09:45,0,,30,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,016,09:45,10:00,0,,29,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,017,10:00,10:15,1,,33,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,018,10:15,10:30,0,,15,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,019,10:30,10:45,1,,20,3,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,020,10:45,11:00,0,,35,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,021,11:00,11:15,0,,19,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,022,11:15,11:30,0,,22,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,023,11:30,11:45,0,,29,3,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,024,11:45,12:00,0,,20,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,025,12:00,12:15,0,,18,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,026,12:15,12:30,0,,19,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,027,12:30,12:45,0,,20,0,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,028,12:45,13:00,0,,17,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,029,13:00,13:15,0,,12,2,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,030,13:15,13:30,0,,19,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,031,13:30,13:45,0,,17,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,032,13:45,14:00,0,,37,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,033,14:00,14:15,0,,22,2,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,034,14:15,14:30,0,,20,1,0,1,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,035,14:30,14:45,0,,25,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,036,14:45,15:00,0,,24,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,037,15:00,15:15,3,,15,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,038,15:15,15:30,2,,30,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,039,15:30,15:45,0,,27,3,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,040,15:45,16:00,0,,30,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,041,16:00,16:15,0,,34,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,042,16:15,16:30,0,,18,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,043,16:30,16:45,1,,24,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,044,16:45,17:00,0,,28,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,045,17:00,17:15,0,,24,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,046,17:15,17:30,0,,24,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,047,17:30,17:45,0,,8,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,048,17:45,18:00,1,,28,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,049,18:00,18:15,0,,21,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,050,18:15,18:30,0,,14,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,051,18:30,18:45,0,,11,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Domplatz,052,18:45,19:00,0,,9,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,001,06:00,06:15,0,,3,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,002,06:15,06:30,0,,7,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,003,06:30,06:45,0,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,004,06:45,07:00,0,,3,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,005,07:00,07:15,0,,3,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,006,07:15,07:30,0,,6,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,007,07:30,07:45,1,,9,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,008,07:45,08:00,0,,16,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,009,08:00,08:15,2,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,010,08:15,08:30,0,,5,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,011,08:30,08:45,1,,5,4,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,012,08:45,09:00,0,,15,1,1,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,013,09:00,09:15,0,,9,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,014,09:15,09:30,0,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,015,09:30,09:45,0,,14,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,016,09:45,10:00,0,,8,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,017,10:00,10:15,2,,12,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,018,10:15,10:30,0,,7,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,019,10:30,10:45,0,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,020,10:45,11:00,0,,6,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,021,11:00,11:15,0,,5,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,022,11:15,11:30,1,,11,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,023,11:30,11:45,1,,9,2,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,024,11:45,12:00,0,,3,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,025,12:00,12:15,1,,7,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,026,12:15,12:30,0,,8,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,027,12:30,12:45,0,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,028,12:45,13:00,0,,7,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,029,13:00,13:15,1,,6,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,030,13:15,13:30,1,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,031,13:30,13:45,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,032,13:45,14:00,0,,10,2,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,033,14:00,14:15,1,,6,2,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,034,14:15,14:30,0,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,035,14:30,14:45,0,,16,6,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,036,14:45,15:00,0,,13,3,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,037,15:00,15:15,1,,10,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,038,15:15,15:30,0,,13,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,039,15:30,15:45,0,,16,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,040,15:45,16:00,0,,19,2,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,041,16:00,16:15,1,,20,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,042,16:15,16:30,0,,21,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,043,16:30,16:45,0,,11,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,044,16:45,17:00,1,,14,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,045,17:00,17:15,1,,8,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,046,17:15,17:30,0,,11,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,047,17:30,17:45,2,,10,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,048,17:45,18:00,1,,7,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,049,18:00,18:15,1,,5,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,050,18:15,18:30,0,,7,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,051,18:30,18:45,0,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Domplatz,052,18:45,19:00,0,,6,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),001,06:00,06:15,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),002,06:15,06:30,0,,2,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),003,06:30,06:45,2,,0,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),004,06:45,07:00,0,,0,8,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),005,07:00,07:15,1,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),006,07:15,07:30,0,,12,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),007,07:30,07:45,1,,26,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),008,07:45,08:00,2,,23,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),009,08:00,08:15,0,,15,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),010,08:15,08:30,0,,15,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),011,08:30,08:45,1,,14,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),012,08:45,09:00,0,,18,1,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),013,09:00,09:15,1,,16,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),014,09:15,09:30,0,,13,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),015,09:30,09:45,2,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),016,09:45,10:00,0,,11,0,2,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),017,10:00,10:15,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),018,10:15,10:30,2,,8,0,0,0,2
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),019,10:30,10:45,0,,6,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),020,10:45,11:00,0,,4,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),021,11:00,11:15,0,,8,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),022,11:15,11:30,0,,3,0,1,0,1
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),023,11:30,11:45,0,,6,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),024,11:45,12:00,0,,11,0,0,0,1
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),025,12:00,12:15,0,,3,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),026,12:15,12:30,0,,4,2,0,0,1
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),027,12:30,12:45,1,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),028,12:45,13:00,0,,2,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),029,13:00,13:15,0,,8,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),030,13:15,13:30,0,,4,0,0,1,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),031,13:30,13:45,1,,8,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),032,13:45,14:00,1,,12,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),033,14:00,14:15,1,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),034,14:15,14:30,0,,8,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),035,14:30,14:45,0,,9,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),036,14:45,15:00,2,,16,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),037,15:00,15:15,1,,16,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),038,15:15,15:30,0,,7,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),039,15:30,15:45,0,,16,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),040,15:45,16:00,0,,10,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),041,16:00,16:15,0,,8,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),042,16:15,16:30,0,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),043,16:30,16:45,1,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),044,16:45,17:00,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),045,17:00,17:15,1,,8,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),046,17:15,17:30,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),047,17:30,17:45,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),048,17:45,18:00,0,,7,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),049,18:00,18:15,0,,8,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),050,18:15,18:30,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),051,18:30,18:45,0,,6,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Danzstraße (SO),052,18:45,19:00,0,,3,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),001,06:00,06:15,0,,4,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),002,06:15,06:30,0,,8,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),003,06:30,06:45,2,,13,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),004,06:45,07:00,0,,9,1,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),005,07:00,07:15,5,,19,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),006,07:15,07:30,1,,34,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),007,07:30,07:45,1,,57,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),008,07:45,08:00,4,,48,1,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),009,08:00,08:15,2,,26,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),010,08:15,08:30,2,,18,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),011,08:30,08:45,3,,27,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),012,08:45,09:00,0,,20,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),013,09:00,09:15,1,,16,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),014,09:15,09:30,1,,25,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),015,09:30,09:45,0,,11,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),016,09:45,10:00,0,,17,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),017,10:00,10:15,1,,17,1,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),018,10:15,10:30,0,,14,2,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),019,10:30,10:45,0,,12,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),020,10:45,11:00,2,,29,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),021,11:00,11:15,5,,20,3,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),022,11:15,11:30,1,,14,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),023,11:30,11:45,2,,20,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),024,11:45,12:00,0,,18,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),025,12:00,12:15,2,,16,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),026,12:15,12:30,1,,24,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),027,12:30,12:45,1,,21,1,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),028,12:45,13:00,0,,6,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),029,13:00,13:15,4,,18,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),030,13:15,13:30,3,,24,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),031,13:30,13:45,1,,13,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),032,13:45,14:00,2,,13,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),033,14:00,14:15,1,,19,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),034,14:15,14:30,4,,10,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),035,14:30,14:45,2,,17,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),036,14:45,15:00,5,,29,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),037,15:00,15:15,4,,21,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),038,15:15,15:30,0,,24,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),039,15:30,15:45,1,,17,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),040,15:45,16:00,0,,23,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),041,16:00,16:15,0,,26,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),042,16:15,16:30,1,,25,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),043,16:30,16:45,1,,21,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),044,16:45,17:00,2,,19,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),045,17:00,17:15,1,,17,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),046,17:15,17:30,2,,11,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),047,17:30,17:45,0,,4,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),048,17:45,18:00,1,,16,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),049,18:00,18:15,0,,18,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),050,18:15,18:30,0,,9,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),051,18:30,18:45,0,,9,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Danzstraße (SO),052,18:45,19:00,0,,7,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,001,06:00,06:15,0,,18,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,002,06:15,06:30,0,,36,4,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,003,06:30,06:45,5,,33,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,004,06:45,07:00,2,,31,12,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,005,07:00,07:15,8,,62,1,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,006,07:15,07:30,6,,95,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,007,07:30,07:45,14,,150,6,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,008,07:45,08:00,16,,154,5,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,009,08:00,08:15,9,,90,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,010,08:15,08:30,6,,74,6,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,011,08:30,08:45,7,,89,12,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,012,08:45,09:00,5,,112,6,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,013,09:00,09:15,5,,89,5,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,014,09:15,09:30,2,,82,4,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,015,09:30,09:45,3,,89,2,5,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,016,09:45,10:00,0,,99,2,4,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,017,10:00,10:15,7,,97,3,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,018,10:15,10:30,4,,83,6,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,019,10:30,10:45,1,,71,3,1,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,020,10:45,11:00,4,,103,2,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,021,11:00,11:15,5,,88,7,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,022,11:15,11:30,4,,79,3,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,023,11:30,11:45,4,,96,7,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,024,11:45,12:00,3,,82,2,1,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,025,12:00,12:15,4,,73,7,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,026,12:15,12:30,1,,78,4,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,027,12:30,12:45,3,,73,1,1,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,028,12:45,13:00,0,,49,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,029,13:00,13:15,8,,67,5,1,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,030,13:15,13:30,7,,72,3,1,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,031,13:30,13:45,3,,70,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,032,13:45,14:00,7,,98,9,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,033,14:00,14:15,5,,71,7,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,034,14:15,14:30,5,,75,6,1,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,035,14:30,14:45,2,,97,11,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,036,14:45,15:00,17,,120,7,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,037,15:00,15:15,12,,92,3,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,038,15:15,15:30,6,,103,0,1,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,039,15:30,15:45,2,,114,6,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,040,15:45,16:00,1,,109,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,041,16:00,16:15,4,,145,7,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,042,16:15,16:30,3,,108,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,043,16:30,16:45,8,,100,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,044,16:45,17:00,11,,95,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,045,17:00,17:15,4,,93,1,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,046,17:15,17:30,4,,73,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,047,17:30,17:45,3,,56,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,048,17:45,18:00,5,,84,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,049,18:00,18:15,6,,81,4,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,050,18:15,18:30,1,,67,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,051,18:30,18:45,0,,57,0,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,052,18:45,19:00,0,,45,1,0,0,0

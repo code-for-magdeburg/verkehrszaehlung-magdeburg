@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),001,06:00,06:15,2,,13,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),002,06:15,06:30,1,,26,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),003,06:30,06:45,2,,40,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),004,06:45,07:00,5,,46,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),005,07:00,07:15,4,,67,6,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),006,07:15,07:30,0,,72,7,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),007,07:30,07:45,2,,67,5,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),008,07:45,08:00,6,,58,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),009,08:00,08:15,3,,60,6,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),010,08:15,08:30,2,,40,7,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),011,08:30,08:45,0,,33,4,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),012,08:45,09:00,1,,41,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),013,09:00,09:15,2,,50,5,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),014,09:15,09:30,4,,46,7,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),015,09:30,09:45,0,,50,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),016,09:45,10:00,0,,40,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),017,10:00,10:15,0,,29,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),018,10:15,10:30,1,,31,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),019,10:30,10:45,1,,34,3,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),020,10:45,11:00,1,,23,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),021,11:00,11:15,2,,19,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),022,11:15,11:30,1,,15,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),023,11:30,11:45,0,,17,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),024,11:45,12:00,0,,25,5,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),025,12:00,12:15,0,,25,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),026,12:15,12:30,0,,19,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),027,12:30,12:45,1,,19,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),028,12:45,13:00,0,,34,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),029,13:00,13:15,2,,29,11,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),030,13:15,13:30,0,,27,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),031,13:30,13:45,1,,28,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),032,13:45,14:00,0,,23,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),033,14:00,14:15,0,,37,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),034,14:15,14:30,0,,22,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),035,14:30,14:45,0,,18,2,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),036,14:45,15:00,1,,24,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),037,15:00,15:15,1,,21,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),038,15:15,15:30,0,,24,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),039,15:30,15:45,0,,29,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),040,15:45,16:00,0,,26,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),041,16:00,16:15,0,,16,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),042,16:15,16:30,0,,12,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),043,16:30,16:45,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),044,16:45,17:00,1,,15,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),045,17:00,17:15,0,,13,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),046,17:15,17:30,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),047,17:30,17:45,0,,7,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),048,17:45,18:00,0,,13,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),049,18:00,18:15,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),050,18:15,18:30,2,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),051,18:30,18:45,0,,10,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Fermersleber Weg(W),052,18:45,19:00,0,,5,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),001,06:00,06:15,2,,34,2,3,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),002,06:15,06:30,3,,61,7,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),003,06:30,06:45,6,,91,9,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),004,06:45,07:00,7,,71,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),005,07:00,07:15,4,,64,7,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),006,07:15,07:30,5,,69,5,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),007,07:30,07:45,10,,75,8,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),008,07:45,08:00,6,,53,9,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),009,08:00,08:15,3,,45,5,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),010,08:15,08:30,2,,49,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),011,08:30,08:45,1,,40,2,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),012,08:45,09:00,1,,36,3,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),013,09:00,09:15,0,,38,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),014,09:15,09:30,0,,41,5,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),015,09:30,09:45,3,,10,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),016,09:45,10:00,2,,21,4,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),017,10:00,10:15,2,,20,6,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),018,10:15,10:30,4,,20,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),019,10:30,10:45,2,,28,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),020,10:45,11:00,1,,20,1,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),021,11:00,11:15,1,,34,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),022,11:15,11:30,2,,25,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),023,11:30,11:45,1,,13,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),024,11:45,12:00,0,,22,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),025,12:00,12:15,1,,28,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),026,12:15,12:30,0,,10,6,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),027,12:30,12:45,2,,11,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),028,12:45,13:00,0,,18,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),029,13:00,13:15,0,,20,2,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),030,13:15,13:30,1,,35,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),031,13:30,13:45,0,,30,6,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),032,13:45,14:00,1,,32,6,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),033,14:00,14:15,1,,29,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),034,14:15,14:30,2,,31,8,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),035,14:30,14:45,2,,34,6,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),036,14:45,15:00,0,,30,8,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),037,15:00,15:15,1,,30,10,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),038,15:15,15:30,2,,27,9,3,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),039,15:30,15:45,1,,37,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),040,15:45,16:00,2,,35,5,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),041,16:00,16:15,2,,39,6,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),042,16:15,16:30,1,,37,5,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),043,16:30,16:45,1,,35,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),044,16:45,17:00,2,,37,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),045,17:00,17:15,0,,30,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),046,17:15,17:30,2,,35,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),047,17:30,17:45,0,,33,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),048,17:45,18:00,1,,7,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),049,18:00,18:15,3,,21,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),050,18:15,18:30,0,,23,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),051,18:30,18:45,4,,19,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Fermersleber Weg(W),052,18:45,19:00,0,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),001,06:00,06:15,0,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),002,06:15,06:30,1,,2,4,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),003,06:30,06:45,0,,10,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),004,06:45,07:00,2,,13,2,3,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),005,07:00,07:15,0,,11,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),006,07:15,07:30,0,,5,3,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),007,07:30,07:45,1,,14,2,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),008,07:45,08:00,1,,9,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),009,08:00,08:15,0,,7,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),010,08:15,08:30,0,,11,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),011,08:30,08:45,2,,8,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),012,08:45,09:00,1,,15,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),013,09:00,09:15,0,,11,3,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),014,09:15,09:30,0,,8,2,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),015,09:30,09:45,0,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),016,09:45,10:00,1,,4,0,2,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),017,10:00,10:15,0,,11,2,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),018,10:15,10:30,0,,11,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),019,10:30,10:45,0,,15,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),020,10:45,11:00,0,,12,1,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),021,11:00,11:15,0,,6,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),022,11:15,11:30,0,,12,3,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),023,11:30,11:45,0,,6,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),024,11:45,12:00,0,,17,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),025,12:00,12:15,0,,11,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),026,12:15,12:30,0,,7,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),027,12:30,12:45,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),028,12:45,13:00,1,,4,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),029,13:00,13:15,0,,9,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),030,13:15,13:30,1,,15,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),031,13:30,13:45,1,,15,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),032,13:45,14:00,0,,7,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),033,14:00,14:15,2,,6,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),034,14:15,14:30,0,,8,1,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),035,14:30,14:45,0,,9,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),036,14:45,15:00,0,,8,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),037,15:00,15:15,0,,6,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),038,15:15,15:30,0,,10,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),039,15:30,15:45,0,,12,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),040,15:45,16:00,0,,9,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),041,16:00,16:15,0,,17,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),042,16:15,16:30,0,,10,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),043,16:30,16:45,0,,19,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),044,16:45,17:00,0,,15,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),045,17:00,17:15,0,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),046,17:15,17:30,1,,11,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),047,17:30,17:45,0,,11,3,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),048,17:45,18:00,0,,12,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),049,18:00,18:15,0,,21,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),050,18:15,18:30,1,,9,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),051,18:30,18:45,1,,10,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Fermersleber Weg (W),052,18:45,19:00,0,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,001,06:00,06:15,0,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,002,06:15,06:30,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,003,06:30,06:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,004,06:45,07:00,4,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,005,07:00,07:15,1,,15,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,006,07:15,07:30,0,,11,2,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,007,07:30,07:45,1,,12,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,008,07:45,08:00,1,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,009,08:00,08:15,0,,14,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,010,08:15,08:30,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,011,08:30,08:45,0,,17,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,012,08:45,09:00,1,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,013,09:00,09:15,4,,18,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,014,09:15,09:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,015,09:30,09:45,0,,11,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,016,09:45,10:00,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,017,10:00,10:15,1,,14,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,018,10:15,10:30,1,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,019,10:30,10:45,0,,22,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,020,10:45,11:00,0,,14,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,021,11:00,11:15,1,,17,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,022,11:15,11:30,0,,9,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,023,11:30,11:45,0,,17,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,024,11:45,12:00,0,,10,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,025,12:00,12:15,0,,16,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,026,12:15,12:30,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,027,12:30,12:45,0,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,028,12:45,13:00,1,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,029,13:00,13:15,0,,14,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,030,13:15,13:30,0,,8,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,031,13:30,13:45,0,,17,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,032,13:45,14:00,0,,8,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,033,14:00,14:15,0,,16,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,034,14:15,14:30,0,,18,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,035,14:30,14:45,0,,19,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,036,14:45,15:00,0,,26,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,037,15:00,15:15,0,,15,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,038,15:15,15:30,0,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,039,15:30,15:45,0,,13,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,040,15:45,16:00,1,,15,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,041,16:00,16:15,0,,17,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,042,16:15,16:30,0,,19,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,043,16:30,16:45,2,,30,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,044,16:45,17:00,0,,27,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,045,17:00,17:15,3,,17,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,046,17:15,17:30,2,,19,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,047,17:30,17:45,2,,18,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,048,17:45,18:00,1,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,049,18:00,18:15,0,,25,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,050,18:15,18:30,1,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,051,18:30,18:45,0,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Semmelweisstraße,052,18:45,19:00,0,,11,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,001,06:00,06:15,1,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,002,06:15,06:30,4,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,003,06:30,06:45,2,,11,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,004,06:45,07:00,13,,5,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,005,07:00,07:15,8,,5,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,006,07:15,07:30,9,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,007,07:30,07:45,10,,7,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,008,07:45,08:00,9,,8,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,009,08:00,08:15,14,,7,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,010,08:15,08:30,12,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,011,08:30,08:45,10,,13,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,012,08:45,09:00,8,,5,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,013,09:00,09:15,12,,6,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,014,09:15,09:30,9,,5,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,015,09:30,09:45,3,,4,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,016,09:45,10:00,2,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,017,10:00,10:15,2,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,018,10:15,10:30,9,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,019,10:30,10:45,0,,1,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,020,10:45,11:00,3,,2,3,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,021,11:00,11:15,2,,5,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,022,11:15,11:30,6,,1,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,023,11:30,11:45,6,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,024,11:45,12:00,5,,6,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,025,12:00,12:15,1,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,026,12:15,12:30,3,,1,3,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,027,12:30,12:45,2,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,028,12:45,13:00,3,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,029,13:00,13:15,3,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,030,13:15,13:30,2,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,031,13:30,13:45,5,,3,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,032,13:45,14:00,2,,3,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,033,14:00,14:15,4,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,034,14:15,14:30,1,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,035,14:30,14:45,1,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,036,14:45,15:00,2,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,037,15:00,15:15,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,038,15:15,15:30,3,,1,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,039,15:30,15:45,2,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,040,15:45,16:00,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,041,16:00,16:15,6,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,042,16:15,16:30,2,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,043,16:30,16:45,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,044,16:45,17:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,045,17:00,17:15,2,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,046,17:15,17:30,3,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,047,17:30,17:45,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,048,17:45,18:00,2,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,049,18:00,18:15,3,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,050,18:15,18:30,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,051,18:30,18:45,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Semmelweisstraße,052,18:45,19:00,2,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,001,06:00,06:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,002,06:15,06:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,003,06:30,06:45,0,,6,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,004,06:45,07:00,0,,10,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,005,07:00,07:15,0,,6,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,006,07:15,07:30,0,,7,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,007,07:30,07:45,0,,14,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,008,07:45,08:00,0,,18,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,009,08:00,08:15,0,,17,0,1,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,010,08:15,08:30,0,,18,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,011,08:30,08:45,0,,12,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,012,08:45,09:00,1,,6,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,013,09:00,09:15,0,,12,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,014,09:15,09:30,0,,9,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,015,09:30,09:45,0,,1,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,016,09:45,10:00,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,017,10:00,10:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,018,10:15,10:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,019,10:30,10:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,020,10:45,11:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,021,11:00,11:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,022,11:15,11:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,023,11:30,11:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,024,11:45,12:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,025,12:00,12:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,026,12:15,12:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,027,12:30,12:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,028,12:45,13:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,029,13:00,13:15,0,,4,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,030,13:15,13:30,0,,4,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,031,13:30,13:45,0,,8,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,032,13:45,14:00,0,,6,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,033,14:00,14:15,0,,7,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,034,14:15,14:30,0,,11,2,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,035,14:30,14:45,0,,7,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,036,14:45,15:00,0,,4,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,037,15:00,15:15,0,,4,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,038,15:15,15:30,0,,5,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,039,15:30,15:45,0,,3,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,040,15:45,16:00,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,041,16:00,16:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,042,16:15,16:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,043,16:30,16:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,044,16:45,17:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,045,17:00,17:15,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,046,17:15,17:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,047,17:30,17:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,048,17:45,18:00,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,049,18:00,18:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,050,18:15,18:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,051,18:30,18:45,0,,4,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Semmelweisstraße,052,18:45,19:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),001,06:00,06:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),002,06:15,06:30,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),003,06:30,06:45,0,,6,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),004,06:45,07:00,0,,5,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),005,07:00,07:15,1,,15,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),006,07:15,07:30,0,,11,2,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),007,07:30,07:45,1,,12,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),008,07:45,08:00,1,,11,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),009,08:00,08:15,0,,14,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),010,08:15,08:30,0,,10,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),011,08:30,08:45,0,,17,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),012,08:45,09:00,1,,10,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),013,09:00,09:15,4,,18,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),014,09:15,09:30,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),015,09:30,09:45,0,,11,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),016,09:45,10:00,0,,12,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),017,10:00,10:15,1,,14,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),018,10:15,10:30,1,,15,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),019,10:30,10:45,0,,22,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),020,10:45,11:00,0,,14,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),021,11:00,11:15,1,,17,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),022,11:15,11:30,0,,9,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),023,11:30,11:45,0,,17,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),024,11:45,12:00,0,,10,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),025,12:00,12:15,0,,16,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),026,12:15,12:30,0,,12,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),027,12:30,12:45,0,,13,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),028,12:45,13:00,1,,7,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),029,13:00,13:15,0,,14,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),030,13:15,13:30,0,,8,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),031,13:30,13:45,0,,17,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),032,13:45,14:00,0,,8,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),033,14:00,14:15,0,,16,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),034,14:15,14:30,0,,18,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),035,14:30,14:45,0,,19,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),036,14:45,15:00,0,,26,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),037,15:00,15:15,0,,15,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),038,15:15,15:30,0,,9,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),039,15:30,15:45,0,,13,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),040,15:45,16:00,1,,15,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),041,16:00,16:15,0,,17,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),042,16:15,16:30,0,,19,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),043,16:30,16:45,2,,30,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),044,16:45,17:00,0,,27,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),045,17:00,17:15,2,,18,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),046,17:15,17:30,2,,19,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),047,17:30,17:45,2,,18,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),048,17:45,18:00,1,,13,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),049,18:00,18:15,0,,25,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),050,18:15,18:30,1,,15,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),051,18:30,18:45,0,,15,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Fermersleber Weg(O),052,18:45,19:00,0,,11,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),001,06:00,06:15,1,,13,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),002,06:15,06:30,1,,30,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),003,06:30,06:45,2,,34,6,2,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),004,06:45,07:00,2,,32,5,2,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),005,07:00,07:15,2,,47,6,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),006,07:15,07:30,5,,39,5,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),007,07:30,07:45,3,,34,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),008,07:45,08:00,3,,46,6,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),009,08:00,08:15,2,,41,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),010,08:15,08:30,0,,18,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),011,08:30,08:45,2,,43,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),012,08:45,09:00,2,,25,6,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),013,09:00,09:15,0,,28,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),014,09:15,09:30,0,,19,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),015,09:30,09:45,1,,42,2,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),016,09:45,10:00,5,,44,2,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),017,10:00,10:15,2,,32,6,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),018,10:15,10:30,3,,31,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),019,10:30,10:45,1,,35,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),020,10:45,11:00,1,,20,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),021,11:00,11:15,0,,35,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),022,11:15,11:30,4,,64,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),023,11:30,11:45,6,,38,2,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),024,11:45,12:00,0,,29,4,4,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),025,12:00,12:15,1,,48,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),026,12:15,12:30,0,,37,2,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),027,12:30,12:45,1,,27,1,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),028,12:45,13:00,2,,20,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),029,13:00,13:15,4,,44,5,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),030,13:15,13:30,7,,35,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),031,13:30,13:45,6,,27,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),032,13:45,14:00,3,,35,7,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),033,14:00,14:15,2,,71,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),034,14:15,14:30,8,,52,5,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),035,14:30,14:45,5,,86,8,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),036,14:45,15:00,4,,56,8,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),037,15:00,15:15,1,,50,3,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),038,15:15,15:30,3,,47,8,4,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),039,15:30,15:45,11,,73,7,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),040,15:45,16:00,6,,60,8,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),041,16:00,16:15,2,,99,6,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),042,16:15,16:30,7,,62,4,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),043,16:30,16:45,10,,94,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),044,16:45,17:00,3,,90,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),045,17:00,17:15,2,,46,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),046,17:15,17:30,0,,41,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),047,17:30,17:45,1,,39,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),048,17:45,18:00,8,,43,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),049,18:00,18:15,2,,51,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),050,18:15,18:30,2,,31,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),051,18:30,18:45,0,,25,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Fermersleber Weg(O),052,18:45,19:00,0,,17,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),001,06:00,06:15,0,,2,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),002,06:15,06:30,0,,6,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),003,06:30,06:45,0,,12,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),004,06:45,07:00,0,,16,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),005,07:00,07:15,0,,8,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),006,07:15,07:30,0,,10,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),007,07:30,07:45,0,,16,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),008,07:45,08:00,0,,23,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),009,08:00,08:15,0,,27,0,2,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),010,08:15,08:30,0,,22,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),011,08:30,08:45,2,,14,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),012,08:45,09:00,1,,11,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),013,09:00,09:15,0,,22,4,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),014,09:15,09:30,0,,7,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),015,09:30,09:45,1,,30,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),016,09:45,10:00,0,,11,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),017,10:00,10:15,0,,16,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),018,10:15,10:30,0,,15,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),019,10:30,10:45,0,,18,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),020,10:45,11:00,0,,10,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),021,11:00,11:15,0,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),022,11:15,11:30,1,,15,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),023,11:30,11:45,0,,14,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),024,11:45,12:00,0,,10,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),025,12:00,12:15,0,,11,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),026,12:15,12:30,0,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),027,12:30,12:45,0,,9,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),028,12:45,13:00,0,,5,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),029,13:00,13:15,1,,13,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),030,13:15,13:30,0,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),031,13:30,13:45,0,,11,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),032,13:45,14:00,0,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),033,14:00,14:15,0,,9,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),034,14:15,14:30,0,,6,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),035,14:30,14:45,0,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),036,14:45,15:00,0,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),037,15:00,15:15,0,,12,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),038,15:15,15:30,0,,10,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),039,15:30,15:45,0,,11,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),040,15:45,16:00,0,,7,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),041,16:00,16:15,0,,11,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),042,16:15,16:30,0,,7,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),043,16:30,16:45,0,,7,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),044,16:45,17:00,0,,1,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),045,17:00,17:15,0,,10,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),046,17:15,17:30,0,,3,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),047,17:30,17:45,0,,6,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),048,17:45,18:00,0,,9,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),049,18:00,18:15,0,,9,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),050,18:15,18:30,0,,1,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),051,18:30,18:45,0,,1,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Fermersleber Weg (O),052,18:45,19:00,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),001,06:00,06:15,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),002,06:15,06:30,1,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),003,06:30,06:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),004,06:45,07:00,0,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),005,07:00,07:15,2,,8,4,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),006,07:15,07:30,0,,7,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),007,07:30,07:45,0,,3,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),008,07:45,08:00,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),009,08:00,08:15,0,,5,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),010,08:15,08:30,0,,8,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),011,08:30,08:45,0,,9,3,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),012,08:45,09:00,0,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),013,09:00,09:15,0,,7,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),014,09:15,09:30,0,,10,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),015,09:30,09:45,0,,9,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),016,09:45,10:00,0,,16,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),017,10:00,10:15,0,,15,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),018,10:15,10:30,1,,18,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),019,10:30,10:45,0,,17,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),020,10:45,11:00,0,,24,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),021,11:00,11:15,0,,31,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),022,11:15,11:30,0,,16,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),023,11:30,11:45,0,,15,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),024,11:45,12:00,0,,18,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),025,12:00,12:15,1,,26,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),026,12:15,12:30,0,,15,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),027,12:30,12:45,0,,14,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),028,12:45,13:00,0,,14,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),029,13:00,13:15,0,,19,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),030,13:15,13:30,1,,10,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),031,13:30,13:45,0,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),032,13:45,14:00,0,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),033,14:00,14:15,0,,17,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),034,14:15,14:30,1,,15,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),035,14:30,14:45,1,,21,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),036,14:45,15:00,1,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),037,15:00,15:15,0,,12,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),038,15:15,15:30,0,,13,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),039,15:30,15:45,0,,7,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),040,15:45,16:00,0,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),041,16:00,16:15,0,,21,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),042,16:15,16:30,0,,22,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),043,16:30,16:45,0,,14,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),044,16:45,17:00,0,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),045,17:00,17:15,1,,15,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),046,17:15,17:30,0,,12,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),047,17:30,17:45,0,,13,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),048,17:45,18:00,0,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),049,18:00,18:15,0,,15,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),050,18:15,18:30,0,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),051,18:30,18:45,0,,9,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Fermersleber WegUniklinikum (S),052,18:45,19:00,1,,11,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),001,06:00,06:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),002,06:15,06:30,2,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),003,06:30,06:45,4,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),004,06:45,07:00,2,,1,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),005,07:00,07:15,4,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),006,07:15,07:30,2,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),007,07:30,07:45,7,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),008,07:45,08:00,4,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),009,08:00,08:15,1,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),010,08:15,08:30,2,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),011,08:30,08:45,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),012,08:45,09:00,3,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),013,09:00,09:15,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),014,09:15,09:30,2,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),015,09:30,09:45,2,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),016,09:45,10:00,7,,2,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),017,10:00,10:15,3,,6,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),018,10:15,10:30,2,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),019,10:30,10:45,1,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),020,10:45,11:00,3,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),021,11:00,11:15,5,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),022,11:15,11:30,1,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),023,11:30,11:45,3,,4,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),024,11:45,12:00,2,,1,3,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),025,12:00,12:15,1,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),026,12:15,12:30,4,,3,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),027,12:30,12:45,3,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),028,12:45,13:00,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),029,13:00,13:15,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),030,13:15,13:30,2,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),031,13:30,13:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),032,13:45,14:00,1,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),033,14:00,14:15,1,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),034,14:15,14:30,3,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),035,14:30,14:45,3,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),036,14:45,15:00,5,,1,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),037,15:00,15:15,3,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),038,15:15,15:30,6,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),039,15:30,15:45,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),040,15:45,16:00,1,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),041,16:00,16:15,10,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),042,16:15,16:30,9,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),043,16:30,16:45,7,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),044,16:45,17:00,17,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),045,17:00,17:15,7,,4,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),046,17:15,17:30,8,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),047,17:30,17:45,9,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),048,17:45,18:00,13,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),049,18:00,18:15,6,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),050,18:15,18:30,6,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),051,18:30,18:45,7,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Fermersleber WegKlinikum (S),052,18:45,19:00,3,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),001,06:00,06:15,1,,9,0,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),002,06:15,06:30,2,,15,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),003,06:30,06:45,1,,14,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),004,06:45,07:00,0,,16,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),005,07:00,07:15,1,,10,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),006,07:15,07:30,2,,14,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),007,07:30,07:45,3,,12,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),008,07:45,08:00,1,,13,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),009,08:00,08:15,1,,20,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),010,08:15,08:30,1,,17,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),011,08:30,08:45,1,,19,2,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),012,08:45,09:00,0,,24,0,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),013,09:00,09:15,2,,18,0,3,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),014,09:15,09:30,1,,21,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),015,09:30,09:45,1,,32,0,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),016,09:45,10:00,0,,31,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),017,10:00,10:15,2,,35,0,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),018,10:15,10:30,1,,26,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),019,10:30,10:45,0,,32,1,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),020,10:45,11:00,0,,36,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),021,11:00,11:15,0,,37,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),022,11:15,11:30,2,,28,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),023,11:30,11:45,0,,32,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),024,11:45,12:00,1,,37,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),025,12:00,12:15,1,,42,2,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),026,12:15,12:30,0,,40,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),027,12:30,12:45,0,,31,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),028,12:45,13:00,0,,24,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),029,13:00,13:15,1,,25,2,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),030,13:15,13:30,3,,27,3,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),031,13:30,13:45,1,,29,0,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),032,13:45,14:00,1,,28,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),033,14:00,14:15,1,,40,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),034,14:15,14:30,4,,46,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),035,14:30,14:45,3,,49,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),036,14:45,15:00,7,,51,2,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),037,15:00,15:15,1,,53,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),038,15:15,15:30,3,,47,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),039,15:30,15:45,3,,65,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),040,15:45,16:00,2,,61,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),041,16:00,16:15,6,,66,0,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),042,16:15,16:30,2,,51,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),043,16:30,16:45,3,,41,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),044,16:45,17:00,5,,45,0,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),045,17:00,17:15,7,,50,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),046,17:15,17:30,2,,21,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),047,17:30,17:45,1,,35,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),048,17:45,18:00,3,,23,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),049,18:00,18:15,1,,16,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),050,18:15,18:30,2,,18,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),051,18:30,18:45,3,,14,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Fermersleber Weg Klinikum (S),052,18:45,19:00,0,,12,0,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,7,,98,5,6,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,15,,161,12,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,17,,232,24,3,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,35,,225,21,6,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,27,,257,30,2,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,23,,249,27,5,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,38,,266,26,6,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,32,,253,25,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,24,,259,22,6,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,19,,207,17,3,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,18,,226,16,8,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,20,,193,15,9,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,25,,228,22,9,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,16,,172,19,5,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,11,,208,17,5,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,17,,196,15,7,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,13,,194,23,5,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,23,,189,9,3,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,5,,226,16,7,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,9,,178,8,6,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,12,,211,11,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,17,,195,21,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,16,,175,8,3,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,8,,185,17,10,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,6,,228,13,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,7,,164,18,4,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,9,,143,6,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,9,,134,10,3,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,12,,195,28,3,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,17,,180,14,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,14,,196,19,3,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,8,,168,19,2,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,11,,251,16,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,19,,231,18,5,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,15,,276,17,10,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,20,,247,23,2,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,8,,220,25,4,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,17,,202,29,7,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,18,,265,21,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,14,,240,18,5,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,26,,304,20,2,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,21,,242,13,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,26,,281,9,3,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,28,,263,5,3,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,24,,211,7,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,20,,174,2,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,16,,182,9,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,29,,150,4,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,15,,198,11,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,16,,124,5,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,16,,124,7,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,6,,93,1,0,0,0

@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),001,06:00,06:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),002,06:15,06:30,2,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),003,06:30,06:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),004,06:45,07:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),005,07:00,07:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),006,07:15,07:30,2,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),007,07:30,07:45,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),008,07:45,08:00,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),009,08:00,08:15,0,,3,0,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),010,08:15,08:30,1,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),011,08:30,08:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),012,08:45,09:00,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),013,09:00,09:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),014,09:15,09:30,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),015,09:30,09:45,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),016,09:45,10:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),017,10:00,10:15,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),018,10:15,10:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),019,10:30,10:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),020,10:45,11:00,0,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),021,11:00,11:15,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),022,11:15,11:30,0,,3,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),023,11:30,11:45,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),024,11:45,12:00,1,,3,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),025,12:00,12:15,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),026,12:15,12:30,0,,3,1,0,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),027,12:30,12:45,1,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),028,12:45,13:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),029,13:00,13:15,3,,5,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),030,13:15,13:30,2,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),031,13:30,13:45,4,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),032,13:45,14:00,2,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),033,14:00,14:15,2,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),034,14:15,14:30,4,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),035,14:30,14:45,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),036,14:45,15:00,3,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),037,15:00,15:15,3,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),038,15:15,15:30,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),039,15:30,15:45,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),040,15:45,16:00,1,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),041,16:00,16:15,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),042,16:15,16:30,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),043,16:30,16:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),044,16:45,17:00,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),045,17:00,17:15,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),046,17:15,17:30,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),047,17:30,17:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),048,17:45,18:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),049,18:00,18:15,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),050,18:15,18:30,2,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),051,18:30,18:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ebendorfer Chausee (W),052,18:45,19:00,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),001,06:00,06:15,1,,69,4,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),002,06:15,06:30,5,,54,7,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),003,06:30,06:45,1,,52,3,6,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),004,06:45,07:00,5,,70,3,5,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),005,07:00,07:15,4,,59,12,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),006,07:15,07:30,1,,49,5,2,2,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),007,07:30,07:45,2,,66,6,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),008,07:45,08:00,2,,62,7,3,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),009,08:00,08:15,3,,56,8,3,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),010,08:15,08:30,4,,34,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),011,08:30,08:45,1,,66,9,3,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),012,08:45,09:00,1,,46,5,5,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),013,09:00,09:15,3,,38,3,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),014,09:15,09:30,1,,65,10,5,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),015,09:30,09:45,3,,49,4,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),016,09:45,10:00,2,,53,11,3,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),017,10:00,10:15,4,,56,6,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),018,10:15,10:30,1,,70,8,5,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),019,10:30,10:45,2,,76,15,6,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),020,10:45,11:00,0,,67,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),021,11:00,11:15,2,,62,4,4,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),022,11:15,11:30,1,,65,1,4,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),023,11:30,11:45,5,,52,10,4,5,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),024,11:45,12:00,4,,75,6,3,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),025,12:00,12:15,4,,60,52,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),026,12:15,12:30,2,,68,2,4,4,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),027,12:30,12:45,4,,51,8,3,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),028,12:45,13:00,3,,52,7,6,4,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),029,13:00,13:15,3,,92,6,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),030,13:15,13:30,1,,68,3,5,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),031,13:30,13:45,2,,63,2,1,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),032,13:45,14:00,5,,74,2,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),033,14:00,14:15,2,,77,8,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),034,14:15,14:30,2,,80,7,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),035,14:30,14:45,3,,78,3,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),036,14:45,15:00,5,,106,12,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),037,15:00,15:15,4,,78,2,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),038,15:15,15:30,2,,99,2,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),039,15:30,15:45,8,,68,3,3,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),040,15:45,16:00,5,,70,6,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),041,16:00,16:15,1,,80,8,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),042,16:15,16:30,3,,84,14,5,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),043,16:30,16:45,1,,88,9,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),044,16:45,17:00,2,,82,7,3,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),045,17:00,17:15,0,,91,10,3,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),046,17:15,17:30,2,,87,6,1,3,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),047,17:30,17:45,4,,81,7,3,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),048,17:45,18:00,0,,76,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),049,18:00,18:15,3,,72,5,1,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),050,18:15,18:30,2,,67,3,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),051,18:30,18:45,0,,59,4,0,2,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (W),052,18:45,19:00,1,,54,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),001,06:00,06:15,0,,3,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),002,06:15,06:30,2,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),003,06:30,06:45,0,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),004,06:45,07:00,0,,7,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),005,07:00,07:15,2,,9,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),006,07:15,07:30,1,,21,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),007,07:30,07:45,0,,14,1,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),008,07:45,08:00,0,,15,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),009,08:00,08:15,0,,9,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),010,08:15,08:30,0,,11,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),011,08:30,08:45,1,,12,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),012,08:45,09:00,0,,11,0,0,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),013,09:00,09:15,0,,12,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),014,09:15,09:30,1,,12,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),015,09:30,09:45,0,,10,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),016,09:45,10:00,1,,6,5,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),017,10:00,10:15,0,,15,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),018,10:15,10:30,0,,15,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),019,10:30,10:45,0,,7,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),020,10:45,11:00,0,,11,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),021,11:00,11:15,0,,9,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),022,11:15,11:30,0,,16,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),023,11:30,11:45,0,,13,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),024,11:45,12:00,0,,25,1,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),025,12:00,12:15,0,,17,1,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),026,12:15,12:30,0,,10,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),027,12:30,12:45,0,,16,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),028,12:45,13:00,0,,15,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),029,13:00,13:15,0,,16,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),030,13:15,13:30,0,,13,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),031,13:30,13:45,0,,17,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),032,13:45,14:00,1,,16,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),033,14:00,14:15,0,,19,2,2,0,1
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),034,14:15,14:30,0,,16,0,0,0,1
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),035,14:30,14:45,0,,18,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),036,14:45,15:00,0,,16,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),037,15:00,15:15,0,,8,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),038,15:15,15:30,0,,11,0,2,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),039,15:30,15:45,0,,19,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),040,15:45,16:00,1,,18,2,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),041,16:00,16:15,0,,17,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),042,16:15,16:30,0,,13,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),043,16:30,16:45,0,,18,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),044,16:45,17:00,0,,19,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),045,17:00,17:15,0,,20,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),046,17:15,17:30,1,,10,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),047,17:30,17:45,0,,16,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),048,17:45,18:00,0,,21,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),049,18:00,18:15,0,,7,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),050,18:15,18:30,0,,12,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),051,18:30,18:45,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Ebendorfer Chaussee (W),052,18:45,19:00,0,,22,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,001,06:00,06:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,002,06:15,06:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,003,06:30,06:45,0,,13,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,004,06:45,07:00,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,005,07:00,07:15,0,,3,0,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,006,07:15,07:30,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,007,07:30,07:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,008,07:45,08:00,0,,6,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,009,08:00,08:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,010,08:15,08:30,2,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,011,08:30,08:45,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,012,08:45,09:00,0,,7,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,013,09:00,09:15,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,014,09:15,09:30,1,,8,0,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,015,09:30,09:45,3,,22,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,016,09:45,10:00,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,017,10:00,10:15,4,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,018,10:15,10:30,0,,10,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,019,10:30,10:45,4,,17,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,020,10:45,11:00,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,021,11:00,11:15,0,,17,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,022,11:15,11:30,1,,18,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,023,11:30,11:45,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,024,11:45,12:00,0,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,025,12:00,12:15,2,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,026,12:15,12:30,0,,11,0,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,027,12:30,12:45,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,028,12:45,13:00,0,,8,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,029,13:00,13:15,2,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,030,13:15,13:30,0,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,031,13:30,13:45,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,032,13:45,14:00,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,033,14:00,14:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,034,14:15,14:30,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,035,14:30,14:45,0,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,036,14:45,15:00,0,,9,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,037,15:00,15:15,0,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,038,15:15,15:30,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,039,15:30,15:45,0,,17,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,040,15:45,16:00,0,,11,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,041,16:00,16:15,2,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,042,16:15,16:30,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,043,16:30,16:45,0,,16,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,044,16:45,17:00,0,,14,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,045,17:00,17:15,1,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,046,17:15,17:30,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,047,17:30,17:45,1,,16,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,048,17:45,18:00,2,,12,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,049,18:00,18:15,1,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,050,18:15,18:30,2,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,051,18:30,18:45,2,,16,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Johannes-R.-Becher-Straße,052,18:45,19:00,2,,8,0,0,0,0
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,001,06:00,06:15,0,,3,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,002,06:15,06:30,0,,6,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,003,06:30,06:45,4,,7,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,004,06:45,07:00,0,,4,0,1,0,2
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,005,07:00,07:15,0,,7,1,0,0,2
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,006,07:15,07:30,1,,12,1,1,0,2
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,007,07:30,07:45,0,,0,0,1,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,008,07:45,08:00,2,,1,7,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,009,08:00,08:15,1,,8,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,010,08:15,08:30,0,,9,0,0,0,0
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,011,08:30,08:45,2,,8,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,012,08:45,09:00,3,,5,1,1,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,013,09:00,09:15,1,,6,0,0,0,0
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,014,09:15,09:30,0,,9,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,015,09:30,09:45,7,,23,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,016,09:45,10:00,4,,9,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,017,10:00,10:15,4,,12,1,1,1,0
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,018,10:15,10:30,2,,11,2,2,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,019,10:30,10:45,3,,10,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,020,10:45,11:00,7,,14,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,021,11:00,11:15,5,,9,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,022,11:15,11:30,1,,14,1,0,0,0
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,023,11:30,11:45,1,,7,2,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,024,11:45,12:00,1,,13,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,025,12:00,12:15,1,,12,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,026,12:15,12:30,2,,7,0,0,0,0
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,027,12:30,12:45,0,,8,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,028,12:45,13:00,1,,10,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,029,13:00,13:15,0,,13,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,030,13:15,13:30,6,,10,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,031,13:30,13:45,0,,10,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,032,13:45,14:00,0,,13,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,033,14:00,14:15,2,,14,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,034,14:15,14:30,3,,6,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,035,14:30,14:45,3,,14,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,036,14:45,15:00,0,,17,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,037,15:00,15:15,0,,11,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,038,15:15,15:30,1,,11,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,039,15:30,15:45,0,,3,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,040,15:45,16:00,2,,9,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,041,16:00,16:15,3,,14,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,042,16:15,16:30,7,,14,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,043,16:30,16:45,1,,16,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,044,16:45,17:00,2,,8,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,045,17:00,17:15,4,,20,1,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,046,17:15,17:30,2,,11,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,047,17:30,17:45,3,,12,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,048,17:45,18:00,1,,8,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,049,18:00,18:15,3,,8,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,050,18:15,18:30,0,,8,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,051,18:30,18:45,0,,7,0,0,0,1
+8,A,1,2,AG...(5),Zählstrom,,Geradeausfahrer Johannes-R.-Becher-Straße,052,18:45,19:00,2,,8,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,001,06:00,06:15,0,,21,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,002,06:15,06:30,0,,21,0,1,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,003,06:30,06:45,1,,23,3,1,0,1
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,004,06:45,07:00,0,,39,3,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,005,07:00,07:15,0,,48,4,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,006,07:15,07:30,0,,41,3,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,007,07:30,07:45,0,,58,3,1,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,008,07:45,08:00,0,,36,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,009,08:00,08:15,1,,40,2,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,010,08:15,08:30,1,,38,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,011,08:30,08:45,0,,29,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,012,08:45,09:00,0,,34,3,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,013,09:00,09:15,0,,41,1,2,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,014,09:15,09:30,0,,39,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,015,09:30,09:45,0,,37,4,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,016,09:45,10:00,0,,52,0,1,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,017,10:00,10:15,1,,50,3,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,018,10:15,10:30,1,,56,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,019,10:30,10:45,2,,55,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,020,10:45,11:00,0,,42,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,021,11:00,11:15,0,,40,4,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,022,11:15,11:30,0,,42,3,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,023,11:30,11:45,1,,43,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,024,11:45,12:00,0,,39,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,025,12:00,12:15,1,,40,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,026,12:15,12:30,0,,47,3,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,027,12:30,12:45,0,,30,5,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,028,12:45,13:00,0,,32,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,029,13:00,13:15,0,,51,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,030,13:15,13:30,0,,27,3,2,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,031,13:30,13:45,1,,39,2,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,032,13:45,14:00,0,,41,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,033,14:00,14:15,0,,35,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,034,14:15,14:30,0,,33,3,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,035,14:30,14:45,0,,35,3,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,036,14:45,15:00,2,,41,4,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,037,15:00,15:15,0,,48,12,1,0,3
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,038,15:15,15:30,2,,46,2,3,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,039,15:30,15:45,0,,48,4,0,0,1
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,040,15:45,16:00,0,,43,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,041,16:00,16:15,0,,57,4,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,042,16:15,16:30,1,,49,2,1,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,043,16:30,16:45,0,,46,4,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,044,16:45,17:00,0,,42,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,045,17:00,17:15,1,,56,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,046,17:15,17:30,0,,48,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,047,17:30,17:45,0,,37,3,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,048,17:45,18:00,0,,40,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,049,18:00,18:15,4,,38,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,050,18:15,18:30,1,,31,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,051,18:30,18:45,0,,35,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Johannes-R.-Becher-Straße,052,18:45,19:00,0,,37,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),001,06:00,06:15,0,,14,0,1,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),002,06:15,06:30,1,,17,6,1,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),003,06:30,06:45,0,,20,1,1,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),004,06:45,07:00,3,,47,2,0,0,3
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),005,07:00,07:15,1,,57,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),006,07:15,07:30,2,,56,1,3,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),007,07:30,07:45,1,,30,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),008,07:45,08:00,1,,36,1,2,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),009,08:00,08:15,1,,27,2,1,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),010,08:15,08:30,3,,29,3,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),011,08:30,08:45,3,,36,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),012,08:45,09:00,2,,44,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),013,09:00,09:15,1,,27,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),014,09:15,09:30,4,,19,2,0,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),015,09:30,09:45,2,,53,2,1,2,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),016,09:45,10:00,0,,50,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),017,10:00,10:15,2,,43,6,3,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),018,10:15,10:30,2,,45,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),019,10:30,10:45,1,,50,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),020,10:45,11:00,3,,54,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),021,11:00,11:15,1,,39,3,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),022,11:15,11:30,3,,45,4,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),023,11:30,11:45,2,,55,4,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),024,11:45,12:00,2,,48,7,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),025,12:00,12:15,1,,51,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),026,12:15,12:30,1,,46,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),027,12:30,12:45,2,,46,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),028,12:45,13:00,1,,41,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),029,13:00,13:15,6,,45,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),030,13:15,13:30,2,,66,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),031,13:30,13:45,1,,46,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),032,13:45,14:00,2,,46,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),033,14:00,14:15,0,,40,0,2,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),034,14:15,14:30,0,,62,3,2,1,3
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),035,14:30,14:45,1,,66,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),036,14:45,15:00,2,,69,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),037,15:00,15:15,3,,67,1,2,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),038,15:15,15:30,1,,54,0,2,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),039,15:30,15:45,1,,97,3,3,0,2
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),040,15:45,16:00,1,,68,3,2,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),041,16:00,16:15,1,,74,3,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),042,16:15,16:30,2,,73,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),043,16:30,16:45,1,,67,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),044,16:45,17:00,0,,51,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),045,17:00,17:15,1,,54,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),046,17:15,17:30,2,,67,7,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),047,17:30,17:45,2,,59,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),048,17:45,18:00,3,,64,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),049,18:00,18:15,2,,60,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),050,18:15,18:30,2,,62,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),051,18:30,18:45,0,,42,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Ebendorfer Chaussee (O),052,18:45,19:00,2,,37,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),001,06:00,06:15,2,,27,1,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),002,06:15,06:30,2,,42,3,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),003,06:30,06:45,3,,54,3,3,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),004,06:45,07:00,8,,62,4,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),005,07:00,07:15,4,,59,6,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),006,07:15,07:30,2,,55,10,2,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),007,07:30,07:45,1,,51,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),008,07:45,08:00,1,,51,3,0,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),009,08:00,08:15,1,,56,5,2,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),010,08:15,08:30,2,,58,4,5,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),011,08:30,08:45,2,,52,8,5,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),012,08:45,09:00,1,,43,1,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),013,09:00,09:15,2,,54,5,5,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),014,09:15,09:30,1,,75,3,0,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),015,09:30,09:45,1,,65,5,3,1,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),016,09:45,10:00,0,,65,2,3,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),017,10:00,10:15,1,,56,6,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),018,10:15,10:30,1,,73,10,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),019,10:30,10:45,3,,77,13,4,3,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),020,10:45,11:00,3,,79,10,2,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),021,11:00,11:15,5,,74,7,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),022,11:15,11:30,0,,78,7,4,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),023,11:30,11:45,0,,73,3,1,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),024,11:45,12:00,1,,59,2,1,4,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),025,12:00,12:15,3,,65,8,2,1,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),026,12:15,12:30,3,,54,3,1,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),027,12:30,12:45,1,,69,4,4,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),028,12:45,13:00,0,,60,3,2,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),029,13:00,13:15,6,,90,2,3,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),030,13:15,13:30,1,,89,3,4,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),031,13:30,13:45,1,,74,3,3,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),032,13:45,14:00,2,,61,5,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),033,14:00,14:15,0,,92,1,1,3,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),034,14:15,14:30,1,,78,3,0,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),035,14:30,14:45,1,,81,7,3,3,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),036,14:45,15:00,1,,103,7,2,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),037,15:00,15:15,2,,72,7,2,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),038,15:15,15:30,0,,82,3,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),039,15:30,15:45,4,,94,4,3,2,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),040,15:45,16:00,3,,98,5,1,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),041,16:00,16:15,1,,82,6,0,3,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),042,16:15,16:30,2,,108,4,1,5,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),043,16:30,16:45,2,,105,1,2,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),044,16:45,17:00,3,,95,5,2,2,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),045,17:00,17:15,3,,101,6,2,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),046,17:15,17:30,5,,92,4,1,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),047,17:30,17:45,1,,72,5,1,1,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),048,17:45,18:00,0,,68,3,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),049,18:00,18:15,6,,61,2,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),050,18:15,18:30,1,,72,3,1,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),051,18:30,18:45,1,,56,3,0,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Ebendorfer Chaussee (O),052,18:45,19:00,2,,58,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),001,06:00,06:15,0,,1,1,0,1,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),002,06:15,06:30,0,,2,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),003,06:30,06:45,0,,7,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),004,06:45,07:00,0,,9,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),005,07:00,07:15,0,,7,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),006,07:15,07:30,0,,5,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),007,07:30,07:45,0,,11,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),008,07:45,08:00,0,,13,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),009,08:00,08:15,0,,10,3,1,1,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),010,08:15,08:30,0,,7,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),011,08:30,08:45,0,,15,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),012,08:45,09:00,1,,9,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),013,09:00,09:15,0,,15,1,1,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),014,09:15,09:30,0,,11,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),015,09:30,09:45,0,,6,4,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),016,09:45,10:00,0,,5,1,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),017,10:00,10:15,0,,7,3,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),018,10:15,10:30,0,,4,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),019,10:30,10:45,0,,6,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),020,10:45,11:00,1,,7,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),021,11:00,11:15,1,,11,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),022,11:15,11:30,0,,18,1,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),023,11:30,11:45,0,,17,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),024,11:45,12:00,0,,10,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),025,12:00,12:15,2,,11,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),026,12:15,12:30,0,,12,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),027,12:30,12:45,1,,14,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),028,12:45,13:00,0,,11,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),029,13:00,13:15,0,,12,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),030,13:15,13:30,2,,4,1,1,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),031,13:30,13:45,1,,16,1,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),032,13:45,14:00,2,,16,1,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),033,14:00,14:15,2,,21,0,2,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),034,14:15,14:30,4,,13,1,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),035,14:30,14:45,0,,17,3,1,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),036,14:45,15:00,4,,24,3,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),037,15:00,15:15,1,,22,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),038,15:15,15:30,0,,21,2,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),039,15:30,15:45,1,,19,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),040,15:45,16:00,2,,16,3,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),041,16:00,16:15,0,,5,1,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),042,16:15,16:30,0,,4,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),043,16:30,16:45,1,,6,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),044,16:45,17:00,0,,7,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),045,17:00,17:15,0,,7,3,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),046,17:15,17:30,0,,9,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),047,17:30,17:45,2,,4,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),048,17:45,18:00,0,,5,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),049,18:00,18:15,3,,7,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),050,18:15,18:30,0,,8,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),051,18:30,18:45,1,,3,0,0,0,0
+15,C,3,1,CL...(9),Zählstrom,,Linksabbieger Ebendorfer Chaussee (O),052,18:45,19:00,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,001,06:00,06:15,2,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,002,06:15,06:30,2,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,003,06:30,06:45,3,,14,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,004,06:45,07:00,2,,15,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,005,07:00,07:15,2,,25,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,006,07:15,07:30,2,,23,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,007,07:30,07:45,0,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,008,07:45,08:00,5,,15,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,009,08:00,08:15,2,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,010,08:15,08:30,1,,12,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,011,08:30,08:45,4,,20,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,012,08:45,09:00,2,,18,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,013,09:00,09:15,5,,15,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,014,09:15,09:30,4,,17,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,015,09:30,09:45,1,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,016,09:45,10:00,1,,15,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,017,10:00,10:15,7,,18,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,018,10:15,10:30,0,,10,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,019,10:30,10:45,2,,14,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,020,10:45,11:00,0,,10,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,021,11:00,11:15,3,,10,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,022,11:15,11:30,1,,11,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,023,11:30,11:45,4,,14,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,024,11:45,12:00,3,,8,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,025,12:00,12:15,2,,8,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,026,12:15,12:30,3,,11,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,027,12:30,12:45,2,,15,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,028,12:45,13:00,0,,12,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,029,13:00,13:15,2,,10,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,030,13:15,13:30,0,,6,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,031,13:30,13:45,3,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,032,13:45,14:00,2,,16,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,033,14:00,14:15,10,,12,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,034,14:15,14:30,2,,18,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,035,14:30,14:45,3,,14,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,036,14:45,15:00,3,,13,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,037,15:00,15:15,2,,14,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,038,15:15,15:30,1,,12,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,039,15:30,15:45,3,,10,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,040,15:45,16:00,3,,12,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,041,16:00,16:15,0,,11,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,042,16:15,16:30,4,,9,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,043,16:30,16:45,2,,15,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,044,16:45,17:00,1,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,045,17:00,17:15,0,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,046,17:15,17:30,2,,11,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,047,17:30,17:45,3,,7,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,048,17:45,18:00,2,,17,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,049,18:00,18:15,4,,12,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,050,18:15,18:30,2,,4,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,051,18:30,18:45,2,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Milchweg,052,18:45,19:00,2,,7,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,001,06:00,06:15,0,,3,1,1,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,002,06:15,06:30,1,,0,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,003,06:30,06:45,0,,4,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,004,06:45,07:00,0,,6,3,0,0,2
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,005,07:00,07:15,0,,15,1,1,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,006,07:15,07:30,1,,7,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,007,07:30,07:45,1,,1,2,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,008,07:45,08:00,1,,6,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,009,08:00,08:15,1,,8,5,1,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,010,08:15,08:30,2,,7,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,011,08:30,08:45,2,,5,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,012,08:45,09:00,2,,13,1,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,013,09:00,09:15,3,,11,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,014,09:15,09:30,0,,5,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,015,09:30,09:45,2,,15,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,016,09:45,10:00,2,,14,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,017,10:00,10:15,1,,11,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,018,10:15,10:30,2,,11,0,1,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,019,10:30,10:45,1,,14,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,020,10:45,11:00,5,,14,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,021,11:00,11:15,3,,14,0,1,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,022,11:15,11:30,2,,16,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,023,11:30,11:45,2,,10,0,1,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,024,11:45,12:00,3,,8,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,025,12:00,12:15,1,,16,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,026,12:15,12:30,2,,13,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,027,12:30,12:45,0,,9,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,028,12:45,13:00,2,,12,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,029,13:00,13:15,2,,13,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,030,13:15,13:30,2,,10,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,031,13:30,13:45,0,,7,0,1,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,032,13:45,14:00,2,,9,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,033,14:00,14:15,0,,3,2,0,0,2
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,034,14:15,14:30,0,,14,2,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,035,14:30,14:45,0,,18,3,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,036,14:45,15:00,1,,21,0,0,0,2
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,037,15:00,15:15,0,,13,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,038,15:15,15:30,1,,17,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,039,15:30,15:45,2,,14,1,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,040,15:45,16:00,4,,14,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,041,16:00,16:15,3,,13,0,0,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,042,16:15,16:30,1,,18,0,0,0,2
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,043,16:30,16:45,3,,14,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,044,16:45,17:00,7,,22,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,045,17:00,17:15,2,,14,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,046,17:15,17:30,2,,14,1,1,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,047,17:30,17:45,1,,15,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,048,17:45,18:00,2,,15,0,0,0,2
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,049,18:00,18:15,3,,9,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,050,18:15,18:30,0,,10,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,051,18:30,18:45,0,,16,0,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Milchweg,052,18:45,19:00,2,,7,0,0,0,1
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,001,06:00,06:15,0,,3,2,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,002,06:15,06:30,0,,0,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,003,06:30,06:45,0,,1,1,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,004,06:45,07:00,0,,1,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,005,07:00,07:15,0,,2,1,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,006,07:15,07:30,3,,1,0,0,0,1
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,007,07:30,07:45,0,,0,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,008,07:45,08:00,1,,2,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,009,08:00,08:15,0,,0,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,010,08:15,08:30,0,,1,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,011,08:30,08:45,0,,2,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,012,08:45,09:00,1,,0,1,0,1,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,013,09:00,09:15,0,,0,1,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,014,09:15,09:30,0,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,015,09:30,09:45,0,,7,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,016,09:45,10:00,2,,3,1,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,017,10:00,10:15,1,,2,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,018,10:15,10:30,0,,1,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,019,10:30,10:45,1,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,020,10:45,11:00,0,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,021,11:00,11:15,0,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,022,11:15,11:30,1,,4,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,023,11:30,11:45,0,,1,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,024,11:45,12:00,0,,4,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,025,12:00,12:15,0,,1,1,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,026,12:15,12:30,1,,6,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,027,12:30,12:45,0,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,028,12:45,13:00,0,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,029,13:00,13:15,0,,1,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,030,13:15,13:30,0,,1,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,031,13:30,13:45,0,,5,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,032,13:45,14:00,0,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,033,14:00,14:15,0,,1,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,034,14:15,14:30,0,,2,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,035,14:30,14:45,2,,4,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,036,14:45,15:00,0,,2,1,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,037,15:00,15:15,0,,2,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,038,15:15,15:30,0,,2,1,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,039,15:30,15:45,0,,2,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,040,15:45,16:00,0,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,041,16:00,16:15,0,,2,1,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,042,16:15,16:30,0,,7,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,043,16:30,16:45,0,,7,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,044,16:45,17:00,0,,1,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,045,17:00,17:15,0,,6,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,046,17:15,17:30,2,,4,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,047,17:30,17:45,0,,3,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,048,17:45,18:00,0,,2,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,049,18:00,18:15,1,,6,2,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,050,18:15,18:30,0,,4,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,051,18:30,18:45,0,,6,0,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Milchweg,052,18:45,19:00,1,,2,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,5,,153,13,6,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,15,,154,17,5,2,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,12,,202,12,13,2,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,18,,262,16,7,2,7
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,13,,293,26,6,2,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,15,,278,21,9,3,5
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,6,,244,15,5,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,13,,244,25,5,2,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,10,,233,26,11,5,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,16,,211,17,5,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,15,,259,23,8,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,14,,234,14,10,5,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,15,,229,14,12,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,12,,269,19,5,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,20,,301,23,6,3,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,12,,283,23,9,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,26,,283,27,9,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,9,,309,29,10,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,19,,331,32,12,3,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,19,,316,18,5,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,20,,291,24,10,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,10,,330,21,11,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,15,,299,22,7,7,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,15,,296,19,8,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,18,,292,67,7,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,14,,288,13,5,8,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,11,,280,21,9,3,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,7,,260,12,9,6,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,24,,360,9,8,3,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,16,,310,14,13,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,13,,304,10,7,4,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,18,,306,11,6,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,18,,321,17,8,3,5
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,16,,333,19,5,3,7
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,14,,361,22,7,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,21,,423,34,6,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,15,,346,27,7,1,6
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,9,,367,10,10,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,20,,394,17,9,3,6
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,22,,364,22,6,3,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,11,,372,26,2,6,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,20,,392,28,8,6,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,11,,400,18,6,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,15,,352,17,7,4,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,13,,387,22,5,5,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,18,,370,21,4,4,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,17,,324,17,4,2,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,10,,328,6,1,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,30,,297,15,2,3,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,12,,293,10,4,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,6,,256,8,0,3,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,14,,245,3,0,0,1

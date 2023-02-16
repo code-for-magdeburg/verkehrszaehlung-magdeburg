@@ -1,0 +1,781 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,001,06:00,06:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,002,06:15,06:30,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,003,06:30,06:45,2,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,004,06:45,07:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,005,07:00,07:15,2,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,006,07:15,07:30,0,,9,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,007,07:30,07:45,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,008,07:45,08:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,009,08:00,08:15,0,,4,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,010,08:15,08:30,1,,2,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,011,08:30,08:45,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,012,08:45,09:00,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,013,09:00,09:15,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,014,09:15,09:30,0,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,015,09:30,09:45,0,,1,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,016,09:45,10:00,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,017,10:00,10:15,1,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,018,10:15,10:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,019,10:30,10:45,2,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,020,10:45,11:00,0,,0,8,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,021,11:00,11:15,1,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,022,11:15,11:30,0,,1,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,023,11:30,11:45,2,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,024,11:45,12:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,025,12:00,12:15,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,026,12:15,12:30,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,027,12:30,12:45,1,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,028,12:45,13:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,029,13:00,13:15,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,030,13:15,13:30,1,,5,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,031,13:30,13:45,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,032,13:45,14:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,033,14:00,14:15,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,034,14:15,14:30,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,035,14:30,14:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,036,14:45,15:00,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,037,15:00,15:15,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,038,15:15,15:30,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,039,15:30,15:45,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,040,15:45,16:00,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,041,16:00,16:15,0,,7,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,042,16:15,16:30,2,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,043,16:30,16:45,2,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,044,16:45,17:00,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,045,17:00,17:15,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,046,17:15,17:30,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,047,17:30,17:45,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,048,17:45,18:00,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,049,18:00,18:15,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,050,18:15,18:30,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,051,18:30,18:45,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Fuchsberg,052,18:45,19:00,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,001,06:00,06:15,0,,24,2,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,002,06:15,06:30,1,,54,3,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,003,06:30,06:45,2,,83,7,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,004,06:45,07:00,2,,77,6,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,005,07:00,07:15,7,,81,3,6,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,006,07:15,07:30,2,,73,3,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,007,07:30,07:45,5,,94,6,4,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,008,07:45,08:00,2,,99,4,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,009,08:00,08:15,1,,82,6,3,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,010,08:15,08:30,0,,54,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,011,08:30,08:45,6,,70,4,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,012,08:45,09:00,0,,68,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,013,09:00,09:15,0,,38,0,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,014,09:15,09:30,4,,65,2,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,015,09:30,09:45,0,,44,3,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,016,09:45,10:00,2,,61,5,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,017,10:00,10:15,1,,28,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,018,10:15,10:30,1,,55,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,019,10:30,10:45,1,,62,4,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,020,10:45,11:00,0,,58,2,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,021,11:00,11:15,1,,44,1,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,022,11:15,11:30,0,,44,1,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,023,11:30,11:45,0,,54,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,024,11:45,12:00,3,,45,7,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,025,12:00,12:15,0,,41,2,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,026,12:15,12:30,1,,42,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,027,12:30,12:45,1,,49,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,028,12:45,13:00,0,,38,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,029,13:00,13:15,1,,44,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,030,13:15,13:30,4,,62,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,031,13:30,13:45,1,,55,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,032,13:45,14:00,2,,54,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,033,14:00,14:15,0,,39,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,034,14:15,14:30,0,,63,1,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,035,14:30,14:45,1,,57,3,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,036,14:45,15:00,2,,67,5,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,037,15:00,15:15,2,,69,5,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,038,15:15,15:30,0,,70,5,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,039,15:30,15:45,2,,60,2,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,040,15:45,16:00,2,,70,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,041,16:00,16:15,5,,53,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,042,16:15,16:30,1,,74,2,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,043,16:30,16:45,6,,83,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,044,16:45,17:00,1,,86,0,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,045,17:00,17:15,2,,61,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,046,17:15,17:30,2,,59,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,047,17:30,17:45,2,,79,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,048,17:45,18:00,1,,69,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,049,18:00,18:15,2,,60,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,050,18:15,18:30,4,,38,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,051,18:30,18:45,9,,42,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Fuchsberg,052,18:45,19:00,2,,45,0,0,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,001,06:00,06:15,1,,22,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,002,06:15,06:30,2,,33,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,003,06:30,06:45,0,,53,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,004,06:45,07:00,0,,39,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,005,07:00,07:15,0,,26,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,006,07:15,07:30,1,,42,4,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,007,07:30,07:45,0,,39,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,008,07:45,08:00,0,,45,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,009,08:00,08:15,0,,35,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,010,08:15,08:30,0,,33,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,011,08:30,08:45,0,,29,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,012,08:45,09:00,0,,25,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,013,09:00,09:15,0,,34,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,014,09:15,09:30,0,,26,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,015,09:30,09:45,2,,21,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,016,09:45,10:00,1,,34,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,017,10:00,10:15,0,,20,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,018,10:15,10:30,1,,15,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,019,10:30,10:45,0,,22,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,020,10:45,11:00,1,,19,1,2,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,021,11:00,11:15,0,,12,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,022,11:15,11:30,0,,17,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,023,11:30,11:45,0,,20,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,024,11:45,12:00,0,,10,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,025,12:00,12:15,0,,9,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,026,12:15,12:30,0,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,027,12:30,12:45,0,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,028,12:45,13:00,1,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,029,13:00,13:15,0,,9,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,030,13:15,13:30,0,,13,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,031,13:30,13:45,0,,10,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,032,13:45,14:00,0,,12,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,033,14:00,14:15,0,,22,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,034,14:15,14:30,0,,10,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,035,14:30,14:45,0,,15,2,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,036,14:45,15:00,0,,11,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,037,15:00,15:15,0,,8,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,038,15:15,15:30,0,,8,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,039,15:30,15:45,0,,9,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,040,15:45,16:00,0,,9,3,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,041,16:00,16:15,0,,15,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,042,16:15,16:30,0,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,043,16:30,16:45,0,,13,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,044,16:45,17:00,0,,11,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,045,17:00,17:15,0,,11,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,046,17:15,17:30,0,,23,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,047,17:30,17:45,0,,19,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,048,17:45,18:00,0,,13,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,049,18:00,18:15,1,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,050,18:15,18:30,0,,11,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,051,18:30,18:45,0,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Am Fuchsberg,052,18:45,19:00,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),001,06:00,06:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),002,06:15,06:30,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),003,06:30,06:45,1,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),004,06:45,07:00,0,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),005,07:00,07:15,0,,6,5,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),006,07:15,07:30,5,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),007,07:30,07:45,7,,7,5,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),008,07:45,08:00,0,,4,3,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),009,08:00,08:15,2,,6,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),010,08:15,08:30,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),011,08:30,08:45,0,,10,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),012,08:45,09:00,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),013,09:00,09:15,0,,8,5,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),014,09:15,09:30,1,,3,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),015,09:30,09:45,2,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),016,09:45,10:00,0,,8,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),017,10:00,10:15,1,,8,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),018,10:15,10:30,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),019,10:30,10:45,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),020,10:45,11:00,1,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),021,11:00,11:15,0,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),022,11:15,11:30,0,,7,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),023,11:30,11:45,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),024,11:45,12:00,2,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),025,12:00,12:15,0,,6,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),026,12:15,12:30,0,,3,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),027,12:30,12:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),028,12:45,13:00,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),029,13:00,13:15,2,,15,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),030,13:15,13:30,1,,12,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),031,13:30,13:45,1,,9,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),032,13:45,14:00,0,,12,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),033,14:00,14:15,0,,8,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),034,14:15,14:30,1,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),035,14:30,14:45,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),036,14:45,15:00,2,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),037,15:00,15:15,2,,17,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),038,15:15,15:30,0,,8,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),039,15:30,15:45,1,,21,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),040,15:45,16:00,0,,21,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),041,16:00,16:15,1,,28,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),042,16:15,16:30,3,,25,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),043,16:30,16:45,0,,26,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),044,16:45,17:00,1,,21,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),045,17:00,17:15,2,,20,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),046,17:15,17:30,1,,29,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),047,17:30,17:45,0,,23,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),048,17:45,18:00,3,,16,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),049,18:00,18:15,0,,18,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),050,18:15,18:30,0,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),051,18:30,18:45,2,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße(N),052,18:45,19:00,1,,5,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),001,06:00,06:15,3,,17,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),002,06:15,06:30,4,,15,0,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),003,06:30,06:45,25,,12,1,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),004,06:45,07:00,17,,20,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),005,07:00,07:15,23,,22,1,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),006,07:15,07:30,21,,23,0,0,0,1
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),007,07:30,07:45,9,,26,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),008,07:45,08:00,19,,26,4,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),009,08:00,08:15,24,,21,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),010,08:15,08:30,8,,19,3,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),011,08:30,08:45,10,,23,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),012,08:45,09:00,5,,27,1,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),013,09:00,09:15,11,,23,3,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),014,09:15,09:30,9,,21,0,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),015,09:30,09:45,8,,29,3,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),016,09:45,10:00,15,,27,1,4,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),017,10:00,10:15,5,,36,2,2,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),018,10:15,10:30,8,,33,2,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),019,10:30,10:45,8,,37,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),020,10:45,11:00,0,,36,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),021,11:00,11:15,11,,37,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),022,11:15,11:30,9,,37,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),023,11:30,11:45,13,,43,0,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),024,11:45,12:00,10,,34,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),025,12:00,12:15,10,,0,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),026,12:15,12:30,5,,15,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),027,12:30,12:45,5,,23,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),028,12:45,13:00,7,,28,0,3,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),029,13:00,13:15,6,,23,3,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),030,13:15,13:30,5,,21,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),031,13:30,13:45,13,,29,1,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),032,13:45,14:00,5,,37,3,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),033,14:00,14:15,13,,24,4,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),034,14:15,14:30,7,,28,6,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),035,14:30,14:45,4,,31,3,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),036,14:45,15:00,13,,46,5,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),037,15:00,15:15,7,,41,4,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),038,15:15,15:30,13,,31,4,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),039,15:30,15:45,12,,47,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),040,15:45,16:00,18,,42,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),041,16:00,16:15,15,,57,3,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),042,16:15,16:30,19,,42,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),043,16:30,16:45,18,,35,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),044,16:45,17:00,9,,43,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),045,17:00,17:15,17,,53,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),046,17:15,17:30,24,,58,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),047,17:30,17:45,14,,49,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),048,17:45,18:00,10,,47,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),049,18:00,18:15,4,,36,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),050,18:15,18:30,12,,42,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),051,18:30,18:45,5,,30,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Leipziger Straße  (N),052,18:45,19:00,7,,35,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),001,06:00,06:15,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),002,06:15,06:30,0,,6,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),003,06:30,06:45,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),004,06:45,07:00,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),005,07:00,07:15,0,,5,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),006,07:15,07:30,0,,4,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),007,07:30,07:45,0,,3,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),008,07:45,08:00,0,,9,0,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),009,08:00,08:15,0,,4,0,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),010,08:15,08:30,0,,5,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),011,08:30,08:45,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),012,08:45,09:00,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),013,09:00,09:15,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),014,09:15,09:30,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),015,09:30,09:45,0,,4,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),016,09:45,10:00,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),017,10:00,10:15,0,,3,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),018,10:15,10:30,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),019,10:30,10:45,0,,7,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),020,10:45,11:00,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),021,11:00,11:15,0,,3,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),022,11:15,11:30,0,,5,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),023,11:30,11:45,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),024,11:45,12:00,0,,5,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),025,12:00,12:15,40,,4,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),026,12:15,12:30,0,,14,2,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),027,12:30,12:45,0,,3,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),028,12:45,13:00,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),029,13:00,13:15,0,,3,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),030,13:15,13:30,0,,4,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),031,13:30,13:45,0,,4,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),032,13:45,14:00,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),033,14:00,14:15,0,,0,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),034,14:15,14:30,0,,3,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),035,14:30,14:45,0,,4,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),036,14:45,15:00,0,,3,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),037,15:00,15:15,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),038,15:15,15:30,0,,4,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),039,15:30,15:45,0,,6,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),040,15:45,16:00,0,,7,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),041,16:00,16:15,0,,7,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),042,16:15,16:30,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),043,16:30,16:45,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),044,16:45,17:00,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),045,17:00,17:15,0,,3,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),046,17:15,17:30,0,,6,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),047,17:30,17:45,0,,0,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),048,17:45,18:00,0,,6,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),049,18:00,18:15,0,,1,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),050,18:15,18:30,0,,4,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),051,18:30,18:45,0,,2,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Leipziger Straße (N),052,18:45,19:00,0,,0,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,001,06:00,06:15,3,,18,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,002,06:15,06:30,4,,21,0,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,003,06:30,06:45,25,,13,1,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,004,06:45,07:00,17,,22,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,005,07:00,07:15,23,,27,1,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,006,07:15,07:30,21,,27,0,0,0,1
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,007,07:30,07:45,9,,29,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,008,07:45,08:00,19,,35,4,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,009,08:00,08:15,24,,25,1,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,010,08:15,08:30,8,,24,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,011,08:30,08:45,10,,24,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,012,08:45,09:00,5,,29,1,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,013,09:00,09:15,11,,25,3,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,014,09:15,09:30,9,,23,0,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,015,09:30,09:45,8,,33,3,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,016,09:45,10:00,15,,29,1,4,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,017,10:00,10:15,5,,39,2,2,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,018,10:15,10:30,8,,34,2,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,019,10:30,10:45,8,,44,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,020,10:45,11:00,0,,38,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,021,11:00,11:15,11,,40,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,022,11:15,11:30,9,,42,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,023,11:30,11:45,13,,44,0,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,024,11:45,12:00,10,,39,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,025,12:00,12:15,50,,4,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,026,12:15,12:30,5,,29,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,027,12:30,12:45,5,,26,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,028,12:45,13:00,7,,29,0,3,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,029,13:00,13:15,6,,26,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,030,13:15,13:30,5,,25,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,031,13:30,13:45,13,,33,1,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,032,13:45,14:00,5,,39,3,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,033,14:00,14:15,13,,24,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,034,14:15,14:30,7,,31,7,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,035,14:30,14:45,4,,35,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,036,14:45,15:00,13,,49,5,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,037,15:00,15:15,7,,42,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,038,15:15,15:30,13,,35,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,039,15:30,15:45,12,,53,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,040,15:45,16:00,18,,49,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,041,16:00,16:15,15,,64,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,042,16:15,16:30,19,,44,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,043,16:30,16:45,18,,36,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,044,16:45,17:00,9,,44,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,045,17:00,17:15,17,,56,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,046,17:15,17:30,24,,64,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,047,17:30,17:45,14,,49,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,048,17:45,18:00,10,,53,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,049,18:00,18:15,4,,37,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,050,18:15,18:30,12,,46,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,051,18:30,18:45,5,,32,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,052,18:45,19:00,7,,35,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),001,06:00,06:15,1,,2,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),002,06:15,06:30,0,,2,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),003,06:30,06:45,0,,0,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),004,06:45,07:00,0,,5,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),005,07:00,07:15,0,,8,1,1,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),006,07:15,07:30,0,,16,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),007,07:30,07:45,0,,10,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),008,07:45,08:00,1,,7,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),009,08:00,08:15,0,,8,3,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),010,08:15,08:30,0,,5,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),011,08:30,08:45,0,,10,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),012,08:45,09:00,0,,10,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),013,09:00,09:15,0,,4,2,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),014,09:15,09:30,1,,4,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),015,09:30,09:45,0,,11,2,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),016,09:45,10:00,0,,9,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),017,10:00,10:15,0,,10,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),018,10:15,10:30,0,,10,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),019,10:30,10:45,0,,9,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),020,10:45,11:00,0,,5,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),021,11:00,11:15,0,,10,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),022,11:15,11:30,0,,8,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),023,11:30,11:45,0,,8,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),024,11:45,12:00,0,,7,0,0,1,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),025,12:00,12:15,0,,10,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),026,12:15,12:30,0,,8,0,1,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),027,12:30,12:45,0,,8,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),028,12:45,13:00,0,,6,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),029,13:00,13:15,0,,9,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),030,13:15,13:30,0,,4,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),031,13:30,13:45,0,,7,0,1,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),032,13:45,14:00,0,,10,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),033,14:00,14:15,0,,9,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),034,14:15,14:30,0,,9,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),035,14:30,14:45,0,,6,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),036,14:45,15:00,2,,9,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),037,15:00,15:15,0,,9,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),038,15:15,15:30,0,,21,2,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),039,15:30,15:45,0,,13,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),040,15:45,16:00,0,,11,2,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),041,16:00,16:15,0,,15,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),042,16:15,16:30,1,,16,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),043,16:30,16:45,0,,11,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),044,16:45,17:00,0,,16,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),045,17:00,17:15,0,,20,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),046,17:15,17:30,1,,9,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),047,17:30,17:45,0,,14,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),048,17:45,18:00,0,,10,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),049,18:00,18:15,2,,14,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),050,18:15,18:30,1,,16,0,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),051,18:30,18:45,0,,15,1,0,0,0
+11,B,2,2,BL...(5),Zählstrom,,Linksabbieger Leipziger Straße (N),052,18:45,19:00,2,,7,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,001,06:00,06:15,2,,1,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,002,06:15,06:30,2,,3,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,003,06:30,06:45,5,,7,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,004,06:45,07:00,2,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,005,07:00,07:15,1,,3,0,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,006,07:15,07:30,1,,0,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,007,07:30,07:45,0,,0,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,008,07:45,08:00,0,,4,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,009,08:00,08:15,0,,0,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,010,08:15,08:30,1,,1,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,011,08:30,08:45,0,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,012,08:45,09:00,0,,0,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,013,09:00,09:15,0,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,014,09:15,09:30,0,,0,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,015,09:30,09:45,0,,2,0,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,016,09:45,10:00,0,,5,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,017,10:00,10:15,1,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,018,10:15,10:30,4,,6,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,019,10:30,10:45,3,,2,2,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,020,10:45,11:00,1,,3,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,021,11:00,11:15,0,,4,2,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,022,11:15,11:30,0,,6,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,023,11:30,11:45,0,,3,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,024,11:45,12:00,1,,4,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,025,12:00,12:15,0,,4,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,026,12:15,12:30,1,,5,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,027,12:30,12:45,0,,2,2,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,028,12:45,13:00,1,,4,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,029,13:00,13:15,0,,0,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,030,13:15,13:30,0,,2,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,031,13:30,13:45,0,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,032,13:45,14:00,0,,1,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,033,14:00,14:15,0,,2,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,034,14:15,14:30,0,,3,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,035,14:30,14:45,0,,7,1,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,036,14:45,15:00,0,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,037,15:00,15:15,0,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,038,15:15,15:30,0,,3,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,039,15:30,15:45,0,,6,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,040,15:45,16:00,1,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,041,16:00,16:15,0,,3,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,042,16:15,16:30,0,,10,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,043,16:30,16:45,3,,6,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,044,16:45,17:00,2,,11,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,045,17:00,17:15,1,,3,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,046,17:15,17:30,0,,7,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,047,17:30,17:45,0,,3,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,048,17:45,18:00,2,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,049,18:00,18:15,0,,2,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,050,18:15,18:30,1,,5,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,051,18:30,18:45,0,,5,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Erich-Weinert-Straße,052,18:45,19:00,1,,0,0,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,001,06:00,06:15,0,,17,0,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,002,06:15,06:30,0,,28,1,2,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,003,06:30,06:45,0,,23,2,0,1,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,004,06:45,07:00,1,,29,2,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,005,07:00,07:15,2,,47,9,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,006,07:15,07:30,2,,38,1,2,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,007,07:30,07:45,7,,59,4,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,008,07:45,08:00,8,,58,1,1,1,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,009,08:00,08:15,1,,38,1,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,010,08:15,08:30,3,,33,1,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,011,08:30,08:45,0,,50,3,1,1,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,012,08:45,09:00,0,,72,3,2,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,013,09:00,09:15,0,,34,0,5,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,014,09:15,09:30,0,,21,0,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,015,09:30,09:45,0,,41,3,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,016,09:45,10:00,0,,50,1,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,017,10:00,10:15,0,,32,1,2,2,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,018,10:15,10:30,0,,46,5,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,019,10:30,10:45,0,,35,4,2,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,020,10:45,11:00,0,,42,2,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,021,11:00,11:15,0,,50,2,2,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,022,11:15,11:30,0,,46,2,2,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,023,11:30,11:45,0,,42,1,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,024,11:45,12:00,0,,50,2,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,025,12:00,12:15,0,,47,4,1,2,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,026,12:15,12:30,0,,56,2,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,027,12:30,12:45,0,,53,1,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,028,12:45,13:00,0,,38,5,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,029,13:00,13:15,0,,41,1,3,1,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,030,13:15,13:30,0,,47,1,2,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,031,13:30,13:45,0,,53,0,2,1,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,032,13:45,14:00,0,,50,1,2,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,033,14:00,14:15,2,,33,0,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,034,14:15,14:30,0,,67,0,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,035,14:30,14:45,0,,59,2,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,036,14:45,15:00,1,,60,2,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,037,15:00,15:15,0,,99,1,1,2,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,038,15:15,15:30,0,,75,1,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,039,15:30,15:45,0,,63,0,0,1,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,040,15:45,16:00,0,,77,0,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,041,16:00,16:15,0,,93,4,0,1,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,042,16:15,16:30,0,,97,1,1,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,043,16:30,16:45,0,,93,2,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,044,16:45,17:00,0,,87,5,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,045,17:00,17:15,0,,94,6,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,046,17:15,17:30,0,,79,3,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,047,17:30,17:45,0,,71,2,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,048,17:45,18:00,0,,79,1,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,049,18:00,18:15,0,,66,2,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,050,18:15,18:30,0,,63,1,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,051,18:30,18:45,0,,42,0,0,0,0
+16,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Erich-Weinert-Straße,052,18:45,19:00,0,,47,1,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,001,06:00,06:15,0,,2,0,1,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,002,06:15,06:30,2,,11,0,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,003,06:30,06:45,3,,22,1,1,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,004,06:45,07:00,4,,26,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,005,07:00,07:15,2,,17,0,1,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,006,07:15,07:30,2,,26,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,007,07:30,07:45,0,,15,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,008,07:45,08:00,0,,17,0,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,009,08:00,08:15,4,,17,1,0,3,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,010,08:15,08:30,2,,14,1,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,011,08:30,08:45,0,,19,0,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,012,08:45,09:00,0,,15,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,013,09:00,09:15,0,,8,1,1,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,014,09:15,09:30,0,,9,1,1,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,015,09:30,09:45,0,,22,2,1,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,016,09:45,10:00,1,,19,1,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,017,10:00,10:15,2,,25,0,2,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,018,10:15,10:30,2,,17,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,019,10:30,10:45,0,,23,0,1,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,020,10:45,11:00,2,,30,2,1,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,021,11:00,11:15,0,,24,1,2,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,022,11:15,11:30,2,,18,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,023,11:30,11:45,2,,19,1,2,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,024,11:45,12:00,0,,26,2,2,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,025,12:00,12:15,0,,28,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,026,12:15,12:30,5,,22,1,1,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,027,12:30,12:45,2,,14,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,028,12:45,13:00,2,,21,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,029,13:00,13:15,0,,20,5,2,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,030,13:15,13:30,1,,18,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,031,13:30,13:45,0,,26,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,032,13:45,14:00,0,,24,1,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,033,14:00,14:15,0,,21,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,034,14:15,14:30,0,,28,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,035,14:30,14:45,0,,12,1,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,036,14:45,15:00,0,,24,1,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,037,15:00,15:15,0,,18,1,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,038,15:15,15:30,0,,23,1,2,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,039,15:30,15:45,0,,21,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,040,15:45,16:00,0,,27,1,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,041,16:00,16:15,0,,25,2,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,042,16:15,16:30,1,,34,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,043,16:30,16:45,0,,31,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,044,16:45,17:00,1,,23,1,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,045,17:00,17:15,6,,31,0,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,046,17:15,17:30,2,,35,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,047,17:30,17:45,2,,23,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,048,17:45,18:00,1,,26,2,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,049,18:00,18:15,1,,5,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,050,18:15,18:30,1,,24,0,0,1,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,051,18:30,18:45,0,,13,0,0,0,0
+17,C,3,1,CL...(9),Zählstrom,,Linksabbieger Erich-Weinert-Straße,052,18:45,19:00,1,,14,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),001,06:00,06:15,0,,7,3,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),002,06:15,06:30,0,,16,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),003,06:30,06:45,2,,9,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),004,06:45,07:00,0,,13,1,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),005,07:00,07:15,0,,19,1,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),006,07:15,07:30,0,,12,2,1,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),007,07:30,07:45,0,,21,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),008,07:45,08:00,0,,29,0,2,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),009,08:00,08:15,0,,22,4,3,1,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),010,08:15,08:30,1,,21,1,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),011,08:30,08:45,0,,11,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),012,08:45,09:00,0,,21,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),013,09:00,09:15,0,,16,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),014,09:15,09:30,0,,12,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),015,09:30,09:45,0,,14,3,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),016,09:45,10:00,2,,17,5,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),017,10:00,10:15,1,,21,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),018,10:15,10:30,3,,22,2,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),019,10:30,10:45,1,,15,4,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),020,10:45,11:00,4,,27,2,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),021,11:00,11:15,3,,20,7,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),022,11:15,11:30,4,,16,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),023,11:30,11:45,0,,18,0,2,1,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),024,11:45,12:00,2,,17,1,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),025,12:00,12:15,1,,18,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),026,12:15,12:30,2,,22,3,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),027,12:30,12:45,1,,25,2,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),028,12:45,13:00,2,,16,2,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),029,13:00,13:15,0,,11,0,2,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),030,13:15,13:30,0,,16,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),031,13:30,13:45,0,,19,1,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),032,13:45,14:00,0,,17,3,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),033,14:00,14:15,0,,8,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),034,14:15,14:30,0,,14,4,2,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),035,14:30,14:45,0,,23,2,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),036,14:45,15:00,0,,19,1,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),037,15:00,15:15,1,,20,2,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),038,15:15,15:30,2,,18,3,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),039,15:30,15:45,1,,21,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),040,15:45,16:00,0,,19,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),041,16:00,16:15,6,,19,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),042,16:15,16:30,6,,23,1,0,1,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),043,16:30,16:45,6,,29,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),044,16:45,17:00,4,,28,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),045,17:00,17:15,4,,17,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),046,17:15,17:30,0,,23,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),047,17:30,17:45,8,,12,3,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),048,17:45,18:00,9,,17,3,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),049,18:00,18:15,2,,17,0,2,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),050,18:15,18:30,10,,17,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),051,18:30,18:45,3,,14,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Straße(S),052,18:45,19:00,6,,20,0,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),001,06:00,06:15,5,,18,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),002,06:15,06:30,16,,33,0,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),003,06:30,06:45,16,,34,3,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),004,06:45,07:00,18,,47,0,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),005,07:00,07:15,16,,43,1,0,0,1
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),006,07:15,07:30,0,,47,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),007,07:30,07:45,21,,53,0,0,0,1
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),008,07:45,08:00,16,,64,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),009,08:00,08:15,18,,52,3,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),010,08:15,08:30,8,,50,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),011,08:30,08:45,17,,31,3,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),012,08:45,09:00,17,,52,2,2,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),013,09:00,09:15,12,,23,0,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),014,09:15,09:30,17,,44,1,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),015,09:30,09:45,9,,25,2,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),016,09:45,10:00,13,,58,2,3,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),017,10:00,10:15,12,,56,2,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),018,10:15,10:30,8,,51,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),019,10:30,10:45,16,,41,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),020,10:45,11:00,12,,42,1,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),021,11:00,11:15,19,,51,3,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),022,11:15,11:30,7,,43,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),023,11:30,11:45,14,,49,6,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),024,11:45,12:00,16,,36,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),025,12:00,12:15,6,,34,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),026,12:15,12:30,7,,42,2,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),027,12:30,12:45,9,,46,3,2,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),028,12:45,13:00,9,,42,3,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),029,13:00,13:15,6,,37,1,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),030,13:15,13:30,12,,47,0,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),031,13:30,13:45,6,,46,3,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),032,13:45,14:00,10,,51,0,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),033,14:00,14:15,6,,37,1,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),034,14:15,14:30,12,,47,0,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),035,14:30,14:45,6,,46,3,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),036,14:45,15:00,10,,51,0,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),037,15:00,15:15,12,,32,2,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),038,15:15,15:30,19,,45,2,2,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),039,15:30,15:45,19,,42,0,2,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),040,15:45,16:00,16,,38,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),041,16:00,16:15,6,,56,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),042,16:15,16:30,13,,43,1,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),043,16:30,16:45,13,,58,0,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),044,16:45,17:00,19,,93,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),045,17:00,17:15,33,,52,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),046,17:15,17:30,30,,45,2,1,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),047,17:30,17:45,31,,52,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),048,17:45,18:00,18,,68,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),049,18:00,18:15,28,,47,1,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),050,18:15,18:30,30,,45,3,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),051,18:30,18:45,24,,33,2,0,0,0
+22,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Straße(S),052,18:45,19:00,8,,34,1,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),001,06:00,06:15,0,,42,4,0,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),002,06:15,06:30,0,,53,5,0,1,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),003,06:30,06:45,0,,78,3,2,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),004,06:45,07:00,0,,74,3,2,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),005,07:00,07:15,0,,82,4,2,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),006,07:15,07:30,0,,87,2,1,2,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),007,07:30,07:45,0,,67,6,1,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),008,07:45,08:00,0,,71,1,1,0,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),009,08:00,08:15,0,,50,5,0,1,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),010,08:15,08:30,0,,57,4,3,1,4
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),011,08:30,08:45,0,,59,1,1,1,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),012,08:45,09:00,0,,53,2,1,0,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),013,09:00,09:15,0,,44,6,2,1,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),014,09:15,09:30,0,,40,2,2,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),015,09:30,09:45,0,,51,3,3,2,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),016,09:45,10:00,0,,55,4,0,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),017,10:00,10:15,0,,51,4,1,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),018,10:15,10:30,0,,44,4,0,0,4
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),019,10:30,10:45,0,,48,3,1,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),020,10:45,11:00,0,,50,3,1,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),021,11:00,11:15,0,,59,3,2,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),022,11:15,11:30,0,,33,3,6,0,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),023,11:30,11:45,0,,51,1,1,0,0
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),024,11:45,12:00,0,,49,2,1,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),025,12:00,12:15,0,,49,6,3,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),026,12:15,12:30,0,,36,6,3,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),027,12:30,12:45,0,,60,9,1,2,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),028,12:45,13:00,0,,42,7,2,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),029,13:00,13:15,0,,41,2,4,1,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),030,13:15,13:30,1,,51,2,3,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),031,13:30,13:45,0,,46,2,2,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),032,13:45,14:00,0,,45,2,1,1,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),033,14:00,14:15,0,,62,1,1,0,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),034,14:15,14:30,0,,50,5,0,1,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),035,14:30,14:45,0,,69,2,2,0,5
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),036,14:45,15:00,0,,70,5,2,0,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),037,15:00,15:15,0,,57,0,1,2,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),038,15:15,15:30,0,,63,1,0,0,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),039,15:30,15:45,0,,76,0,2,1,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),040,15:45,16:00,0,,84,2,0,2,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),041,16:00,16:15,0,,113,6,1,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),042,16:15,16:30,0,,69,2,1,0,5
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),043,16:30,16:45,0,,80,8,0,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),044,16:45,17:00,0,,90,6,0,0,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),045,17:00,17:15,0,,63,0,0,1,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),046,17:15,17:30,0,,78,2,0,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),047,17:30,17:45,0,,43,3,3,0,4
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),048,17:45,18:00,0,,55,1,0,0,3
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),049,18:00,18:15,0,,60,3,0,1,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),050,18:15,18:30,0,,60,3,0,0,2
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),051,18:30,18:45,0,,50,0,1,0,1
+23,D,2,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Straße (S),052,18:45,19:00,0,,38,1,0,0,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,11,,156,11,3,0,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,28,,261,9,5,3,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,56,,328,20,5,1,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,44,,337,16,4,0,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,53,,358,25,11,0,5
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,34,,371,17,7,2,4
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,49,,389,26,7,0,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,45,,430,18,6,4,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,50,,331,28,8,6,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,24,,300,15,6,2,4
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,33,,310,21,2,4,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,23,,342,12,7,0,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,23,,236,17,11,2,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,31,,247,9,7,0,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,21,,262,20,9,3,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,34,,343,23,9,0,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,24,,284,14,9,2,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,27,,301,21,3,0,4
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,31,,304,21,5,2,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,21,,321,21,9,1,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,35,,319,26,10,0,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,22,,273,14,10,1,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,31,,313,12,7,2,0
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,34,,289,19,5,0,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,57,,244,18,5,3,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,22,,267,21,8,0,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,19,,288,23,4,2,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,22,,238,19,6,0,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,16,,248,18,13,2,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,25,,298,9,7,0,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,21,,304,15,7,1,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,17,,309,14,4,1,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,21,,263,14,2,0,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,20,,325,21,4,1,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,11,,329,20,6,1,7
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,28,,374,21,3,3,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,24,,371,15,5,5,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,34,,355,22,7,0,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,35,,377,7,5,3,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,37,,399,10,2,3,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,33,,476,22,2,2,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,45,,431,10,5,1,5
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,48,,460,13,2,0,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,37,,499,15,2,0,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,65,,412,13,1,2,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,59,,447,10,2,0,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,57,,383,12,4,0,4
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,44,,401,10,1,0,3
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,38,,326,8,2,1,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,59,,326,8,0,1,2
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,43,,251,5,1,0,1
+27,,0,0,SUMME ZU,summierter Strom,4+12+18+24,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,26,,245,3,1,1,1

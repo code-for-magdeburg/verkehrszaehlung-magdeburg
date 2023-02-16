@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,001,06:00,06:15,0,,12,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,002,06:15,06:30,1,,22,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,003,06:30,06:45,5,,24,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,004,06:45,07:00,1,,23,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,005,07:00,07:15,0,,20,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,006,07:15,07:30,1,,18,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,007,07:30,07:45,0,,32,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,008,07:45,08:00,1,,27,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,009,08:00,08:15,0,,20,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,010,08:15,08:30,0,,21,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,011,08:30,08:45,0,,26,0,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,012,08:45,09:00,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,013,09:00,09:15,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,014,09:15,09:30,2,,22,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,015,09:30,09:45,0,,11,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,016,09:45,10:00,0,,16,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,017,10:00,10:15,0,,12,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,018,10:15,10:30,0,,22,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,019,10:30,10:45,1,,16,3,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,020,10:45,11:00,0,,16,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,021,11:00,11:15,1,,7,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,022,11:15,11:30,0,,27,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,023,11:30,11:45,1,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,024,11:45,12:00,3,,13,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,025,12:00,12:15,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,026,12:15,12:30,0,,23,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,027,12:30,12:45,1,,23,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,028,12:45,13:00,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,029,13:00,13:15,1,,21,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,030,13:15,13:30,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,031,13:30,13:45,2,,10,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,032,13:45,14:00,1,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,033,14:00,14:15,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,034,14:15,14:30,0,,26,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,035,14:30,14:45,0,,12,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,036,14:45,15:00,0,,13,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,037,15:00,15:15,2,,19,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,038,15:15,15:30,0,,10,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,039,15:30,15:45,0,,16,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,040,15:45,16:00,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,041,16:00,16:15,1,,22,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,042,16:15,16:30,0,,13,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,043,16:30,16:45,0,,17,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,044,16:45,17:00,0,,25,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,045,17:00,17:15,0,,24,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,046,17:15,17:30,1,,19,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,047,17:30,17:45,0,,23,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,048,17:45,18:00,2,,15,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,049,18:00,18:15,0,,17,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,050,18:15,18:30,1,,12,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,051,18:30,18:45,0,,19,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger  Salzmannstraße,052,18:45,19:00,1,,11,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,001,06:00,06:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,002,06:15,06:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,003,06:30,06:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,004,06:45,07:00,0,,0,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,005,07:00,07:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,006,07:15,07:30,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,007,07:30,07:45,0,,0,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,008,07:45,08:00,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,009,08:00,08:15,1,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,010,08:15,08:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,011,08:30,08:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,012,08:45,09:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,013,09:00,09:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,014,09:15,09:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,015,09:30,09:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,016,09:45,10:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,017,10:00,10:15,2,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,018,10:15,10:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,019,10:30,10:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,020,10:45,11:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,021,11:00,11:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,022,11:15,11:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,023,11:30,11:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,024,11:45,12:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,025,12:00,12:15,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,026,12:15,12:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,027,12:30,12:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,028,12:45,13:00,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,029,13:00,13:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,030,13:15,13:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,031,13:30,13:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,032,13:45,14:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,033,14:00,14:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,034,14:15,14:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,035,14:30,14:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,036,14:45,15:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,037,15:00,15:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,038,15:15,15:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,039,15:30,15:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,040,15:45,16:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,041,16:00,16:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,042,16:15,16:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,043,16:30,16:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,044,16:45,17:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,045,17:00,17:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,046,17:15,17:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,047,17:30,17:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,048,17:45,18:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,049,18:00,18:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,050,18:15,18:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,051,18:30,18:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Salzmannstraße,052,18:45,19:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,001,06:00,06:15,1,,6,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,002,06:15,06:30,7,,7,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,003,06:30,06:45,6,,10,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,004,06:45,07:00,3,,15,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,005,07:00,07:15,2,,10,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,006,07:15,07:30,4,,13,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,007,07:30,07:45,4,,28,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,008,07:45,08:00,3,,13,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,009,08:00,08:15,2,,12,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,010,08:15,08:30,1,,15,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,011,08:30,08:45,0,,14,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,012,08:45,09:00,1,,14,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,013,09:00,09:15,2,,5,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,014,09:15,09:30,0,,14,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,015,09:30,09:45,0,,17,3,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,016,09:45,10:00,4,,21,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,017,10:00,10:15,3,,11,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,018,10:15,10:30,2,,18,3,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,019,10:30,10:45,2,,18,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,020,10:45,11:00,3,,10,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,021,11:00,11:15,4,,13,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,022,11:15,11:30,0,,21,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,023,11:30,11:45,1,,14,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,024,11:45,12:00,2,,18,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,025,12:00,12:15,2,,14,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,026,12:15,12:30,3,,17,3,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,027,12:30,12:45,2,,14,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,028,12:45,13:00,0,,10,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,029,13:00,13:15,0,,17,1,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,030,13:15,13:30,2,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,031,13:30,13:45,0,,12,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,032,13:45,14:00,1,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,033,14:00,14:15,1,,11,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,034,14:15,14:30,0,,16,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,035,14:30,14:45,0,,9,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,036,14:45,15:00,0,,13,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,037,15:00,15:15,0,,11,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,038,15:15,15:30,1,,9,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,039,15:30,15:45,1,,17,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,040,15:45,16:00,3,,16,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,041,16:00,16:15,1,,21,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,042,16:15,16:30,1,,17,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,043,16:30,16:45,0,,18,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,044,16:45,17:00,0,,11,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,045,17:00,17:15,0,,13,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,046,17:15,17:30,0,,16,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,047,17:30,17:45,1,,13,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,048,17:45,18:00,1,,17,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,049,18:00,18:15,1,,8,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,050,18:15,18:30,1,,17,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,051,18:30,18:45,1,,11,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Salzmannstraße,052,18:45,19:00,2,,13,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),001,06:00,06:15,2,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),002,06:15,06:30,2,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),003,06:30,06:45,1,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),004,06:45,07:00,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),005,07:00,07:15,2,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),006,07:15,07:30,2,,9,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),007,07:30,07:45,1,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),008,07:45,08:00,1,,19,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),009,08:00,08:15,3,,11,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),010,08:15,08:30,0,,15,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),011,08:30,08:45,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),012,08:45,09:00,1,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),013,09:00,09:15,2,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),014,09:15,09:30,0,,4,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),015,09:30,09:45,6,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),016,09:45,10:00,0,,10,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),017,10:00,10:15,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),018,10:15,10:30,1,,8,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),019,10:30,10:45,3,,11,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),020,10:45,11:00,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),021,11:00,11:15,1,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),022,11:15,11:30,3,,7,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),023,11:30,11:45,1,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),024,11:45,12:00,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),025,12:00,12:15,2,,18,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),026,12:15,12:30,2,,19,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),027,12:30,12:45,2,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),028,12:45,13:00,2,,5,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),029,13:00,13:15,2,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),030,13:15,13:30,1,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),031,13:30,13:45,1,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),032,13:45,14:00,2,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),033,14:00,14:15,3,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),034,14:15,14:30,5,,15,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),035,14:30,14:45,2,,8,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),036,14:45,15:00,3,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),037,15:00,15:15,3,,20,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),038,15:15,15:30,5,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),039,15:30,15:45,3,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),040,15:45,16:00,1,,13,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),041,16:00,16:15,1,,16,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),042,16:15,16:30,6,,13,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),043,16:30,16:45,8,,23,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),044,16:45,17:00,7,,17,5,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),045,17:00,17:15,1,,14,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),046,17:15,17:30,0,,18,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),047,17:30,17:45,2,,22,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),048,17:45,18:00,6,,23,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),049,18:00,18:15,6,,20,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),050,18:15,18:30,1,,21,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),051,18:30,18:45,3,,22,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (NW),052,18:45,19:00,2,,23,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),001,06:00,06:15,2,,44,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),002,06:15,06:30,1,,45,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),003,06:30,06:45,12,,79,6,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),004,06:45,07:00,21,,102,4,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),005,07:00,07:15,6,,94,1,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),006,07:15,07:30,14,,94,6,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),007,07:30,07:45,16,,102,1,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),008,07:45,08:00,16,,99,2,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),009,08:00,08:15,8,,85,4,4,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),010,08:15,08:30,9,,68,2,7,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),011,08:30,08:45,7,,78,5,2,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),012,08:45,09:00,11,,73,2,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),013,09:00,09:15,7,,65,4,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),014,09:15,09:30,12,,60,1,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),015,09:30,09:45,4,,66,2,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),016,09:45,10:00,2,,53,9,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),017,10:00,10:15,6,,49,15,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),018,10:15,10:30,10,,53,10,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),019,10:30,10:45,6,,58,6,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),020,10:45,11:00,4,,60,6,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),021,11:00,11:15,4,,60,4,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),022,11:15,11:30,2,,58,6,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),023,11:30,11:45,3,,46,2,2,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),024,11:45,12:00,3,,53,7,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),025,12:00,12:15,4,,68,15,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),026,12:15,12:30,3,,66,13,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),027,12:30,12:45,5,,58,8,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),028,12:45,13:00,10,,78,14,3,1,4
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),029,13:00,13:15,9,,57,4,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),030,13:15,13:30,5,,54,5,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),031,13:30,13:45,4,,61,4,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),032,13:45,14:00,7,,65,3,2,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),033,14:00,14:15,4,,62,3,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),034,14:15,14:30,6,,62,5,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),035,14:30,14:45,4,,73,5,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),036,14:45,15:00,7,,66,4,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),037,15:00,15:15,6,,81,4,4,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),038,15:15,15:30,8,,83,6,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),039,15:30,15:45,3,,82,1,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),040,15:45,16:00,3,,76,9,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),041,16:00,16:15,6,,84,6,1,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),042,16:15,16:30,6,,80,7,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),043,16:30,16:45,2,,71,7,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),044,16:45,17:00,2,,75,5,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),045,17:00,17:15,2,,77,8,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),046,17:15,17:30,2,,77,2,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),047,17:30,17:45,4,,92,7,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),048,17:45,18:00,1,,68,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),049,18:00,18:15,4,,78,3,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),050,18:15,18:30,3,,47,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),051,18:30,18:45,4,,42,3,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (NW),052,18:45,19:00,1,,51,4,1,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),001,06:00,06:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),002,06:15,06:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),003,06:30,06:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),004,06:45,07:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),005,07:00,07:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),006,07:15,07:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),007,07:30,07:45,0,,3,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),008,07:45,08:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),009,08:00,08:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),010,08:15,08:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),011,08:30,08:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),012,08:45,09:00,0,,2,2,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),013,09:00,09:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),014,09:15,09:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),015,09:30,09:45,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),016,09:45,10:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),017,10:00,10:15,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),018,10:15,10:30,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),019,10:30,10:45,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),020,10:45,11:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),021,11:00,11:15,0,,0,0,1,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),022,11:15,11:30,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),023,11:30,11:45,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),024,11:45,12:00,0,,1,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),025,12:00,12:15,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),026,12:15,12:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),027,12:30,12:45,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),028,12:45,13:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),029,13:00,13:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),030,13:15,13:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),031,13:30,13:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),032,13:45,14:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),033,14:00,14:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),034,14:15,14:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),035,14:30,14:45,1,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),036,14:45,15:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),037,15:00,15:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),038,15:15,15:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),039,15:30,15:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),040,15:45,16:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),041,16:00,16:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),042,16:15,16:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),043,16:30,16:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),044,16:45,17:00,0,,3,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),045,17:00,17:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),046,17:15,17:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),047,17:30,17:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),048,17:45,18:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),049,18:00,18:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),050,18:15,18:30,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),051,18:30,18:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Lemsdorfer Weg (NW),052,18:45,19:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,001,06:00,06:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,002,06:15,06:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,003,06:30,06:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,004,06:45,07:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,006,07:15,07:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,007,07:30,07:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,008,07:45,08:00,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,009,08:00,08:15,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,010,08:15,08:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,011,08:30,08:45,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,012,08:45,09:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,013,09:00,09:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,014,09:15,09:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,015,09:30,09:45,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,016,09:45,10:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,017,10:00,10:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,018,10:15,10:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,019,10:30,10:45,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,020,10:45,11:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,021,11:00,11:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,022,11:15,11:30,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,023,11:30,11:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,024,11:45,12:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,025,12:00,12:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,026,12:15,12:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,027,12:30,12:45,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,028,12:45,13:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,029,13:00,13:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,030,13:15,13:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,031,13:30,13:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,032,13:45,14:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,033,14:00,14:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,034,14:15,14:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,035,14:30,14:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,036,14:45,15:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,037,15:00,15:15,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,038,15:15,15:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,039,15:30,15:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,040,15:45,16:00,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,041,16:00,16:15,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,042,16:15,16:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,043,16:30,16:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,044,16:45,17:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,045,17:00,17:15,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,046,17:15,17:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,047,17:30,17:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,048,17:45,18:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,049,18:00,18:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,051,18:30,18:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (O) Sackgasse,052,18:45,19:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,001,06:00,06:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,002,06:15,06:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,003,06:30,06:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,004,06:45,07:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,005,07:00,07:15,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,006,07:15,07:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,007,07:30,07:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,008,07:45,08:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,009,08:00,08:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,010,08:15,08:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,011,08:30,08:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,012,08:45,09:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,013,09:00,09:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,014,09:15,09:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,015,09:30,09:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,016,09:45,10:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,017,10:00,10:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,018,10:15,10:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,019,10:30,10:45,0,,0,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,020,10:45,11:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,021,11:00,11:15,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,022,11:15,11:30,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,023,11:30,11:45,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,024,11:45,12:00,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,025,12:00,12:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,026,12:15,12:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,027,12:30,12:45,0,,1,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,028,12:45,13:00,0,,1,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,029,13:00,13:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,030,13:15,13:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,031,13:30,13:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,032,13:45,14:00,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,033,14:00,14:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,034,14:15,14:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,035,14:30,14:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,036,14:45,15:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,037,15:00,15:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,038,15:15,15:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,039,15:30,15:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,040,15:45,16:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,041,16:00,16:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,042,16:15,16:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,043,16:30,16:45,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,044,16:45,17:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,045,17:00,17:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,046,17:15,17:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,047,17:30,17:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,048,17:45,18:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,049,18:00,18:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,050,18:15,18:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,051,18:30,18:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (O) Sackgasse,052,18:45,19:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,001,06:00,06:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,002,06:15,06:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,003,06:30,06:45,0,,1,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,004,06:45,07:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,005,07:00,07:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,006,07:15,07:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,007,07:30,07:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,008,07:45,08:00,0,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,009,08:00,08:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,010,08:15,08:30,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,011,08:30,08:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,012,08:45,09:00,0,,1,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,013,09:00,09:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,014,09:15,09:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,015,09:30,09:45,3,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,016,09:45,10:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,017,10:00,10:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,018,10:15,10:30,0,,0,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,019,10:30,10:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,020,10:45,11:00,0,,1,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,021,11:00,11:15,0,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,022,11:15,11:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,023,11:30,11:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,024,11:45,12:00,0,,1,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,025,12:00,12:15,0,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,026,12:15,12:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,027,12:30,12:45,0,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,028,12:45,13:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,029,13:00,13:15,0,,3,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,030,13:15,13:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,031,13:30,13:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,032,13:45,14:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,033,14:00,14:15,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,034,14:15,14:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,035,14:30,14:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,036,14:45,15:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,037,15:00,15:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,038,15:15,15:30,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,039,15:30,15:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,040,15:45,16:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,041,16:00,16:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,042,16:15,16:30,0,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,043,16:30,16:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,044,16:45,17:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,045,17:00,17:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,046,17:15,17:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,047,17:30,17:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,048,17:45,18:00,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,049,18:00,18:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,050,18:15,18:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,051,18:30,18:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Lemsdorfer Weg (O)Sackgasse,052,18:45,19:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),001,06:00,06:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),002,06:15,06:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),003,06:30,06:45,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),004,06:45,07:00,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),005,07:00,07:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),006,07:15,07:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),007,07:30,07:45,0,,4,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),008,07:45,08:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),009,08:00,08:15,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),010,08:15,08:30,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),011,08:30,08:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),012,08:45,09:00,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),013,09:00,09:15,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),014,09:15,09:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),015,09:30,09:45,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),016,09:45,10:00,0,,1,4,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),017,10:00,10:15,0,,0,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),018,10:15,10:30,0,,5,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),019,10:30,10:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),020,10:45,11:00,0,,6,4,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),021,11:00,11:15,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),022,11:15,11:30,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),023,11:30,11:45,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),024,11:45,12:00,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),025,12:00,12:15,0,,1,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),026,12:15,12:30,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),027,12:30,12:45,0,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),028,12:45,13:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),029,13:00,13:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),030,13:15,13:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),031,13:30,13:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),032,13:45,14:00,0,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),033,14:00,14:15,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),034,14:15,14:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),035,14:30,14:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),036,14:45,15:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),037,15:00,15:15,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),038,15:15,15:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),039,15:30,15:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),040,15:45,16:00,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),041,16:00,16:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),042,16:15,16:30,1,,1,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),043,16:30,16:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),044,16:45,17:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),045,17:00,17:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),046,17:15,17:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),047,17:30,17:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),048,17:45,18:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),049,18:00,18:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),050,18:15,18:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),051,18:30,18:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Lemsdorfer Weg (SO),052,18:45,19:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),001,06:00,06:15,4,,28,2,2,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),002,06:15,06:30,8,,60,4,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),003,06:30,06:45,5,,62,3,1,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),004,06:45,07:00,3,,38,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),005,07:00,07:15,9,,54,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),006,07:15,07:30,4,,55,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),007,07:30,07:45,6,,68,2,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),008,07:45,08:00,7,,62,3,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),009,08:00,08:15,7,,58,0,5,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),010,08:15,08:30,9,,66,2,5,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),011,08:30,08:45,1,,61,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),012,08:45,09:00,5,,65,9,5,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),013,09:00,09:15,8,,43,0,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),014,09:15,09:30,12,,47,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),015,09:30,09:45,5,,72,8,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),016,09:45,10:00,7,,61,9,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),017,10:00,10:15,7,,62,3,0,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),018,10:15,10:30,2,,65,7,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),019,10:30,10:45,4,,84,6,3,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),020,10:45,11:00,3,,57,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),021,11:00,11:15,2,,55,2,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),022,11:15,11:30,2,,53,8,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),023,11:30,11:45,3,,55,6,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),024,11:45,12:00,2,,62,8,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),025,12:00,12:15,7,,68,8,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),026,12:15,12:30,6,,51,8,1,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),027,12:30,12:45,4,,47,9,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),028,12:45,13:00,3,,40,2,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),029,13:00,13:15,4,,64,2,3,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),030,13:15,13:30,8,,71,2,0,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),031,13:30,13:45,2,,57,5,0,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),032,13:45,14:00,10,,73,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),033,14:00,14:15,4,,70,4,0,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),034,14:15,14:30,10,,75,3,1,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),035,14:30,14:45,18,,63,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),036,14:45,15:00,10,,82,3,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),037,15:00,15:15,13,,79,5,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),038,15:15,15:30,7,,107,0,1,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),039,15:30,15:45,15,,76,1,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),040,15:45,16:00,13,,77,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),041,16:00,16:15,13,,93,4,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),042,16:15,16:30,9,,112,5,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),043,16:30,16:45,3,,113,10,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),044,16:45,17:00,4,,92,3,1,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),045,17:00,17:15,9,,98,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),046,17:15,17:30,5,,83,9,0,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),047,17:30,17:45,8,,80,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),048,17:45,18:00,7,,60,3,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),049,18:00,18:15,4,,75,2,0,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),050,18:15,18:30,4,,56,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),051,18:30,18:45,4,,50,2,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Lemsdorfer Weg (SO),052,18:45,19:00,7,,64,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),001,06:00,06:15,0,,6,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),002,06:15,06:30,0,,13,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),003,06:30,06:45,0,,15,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),004,06:45,07:00,1,,14,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),005,07:00,07:15,2,,9,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),006,07:15,07:30,0,,11,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),007,07:30,07:45,2,,18,1,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),008,07:45,08:00,1,,14,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),009,08:00,08:15,0,,18,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),010,08:15,08:30,0,,11,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),011,08:30,08:45,1,,15,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),012,08:45,09:00,1,,13,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),013,09:00,09:15,1,,5,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),014,09:15,09:30,1,,11,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),015,09:30,09:45,4,,9,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),016,09:45,10:00,2,,22,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),017,10:00,10:15,0,,25,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),018,10:15,10:30,2,,12,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),019,10:30,10:45,0,,17,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),020,10:45,11:00,0,,16,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),021,11:00,11:15,0,,15,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),022,11:15,11:30,0,,13,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),023,11:30,11:45,0,,15,0,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),024,11:45,12:00,0,,12,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),025,12:00,12:15,0,,14,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),026,12:15,12:30,0,,16,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),027,12:30,12:45,1,,17,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),028,12:45,13:00,2,,6,2,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),029,13:00,13:15,0,,14,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),030,13:15,13:30,1,,18,2,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),031,13:30,13:45,1,,23,2,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),032,13:45,14:00,0,,14,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),033,14:00,14:15,1,,17,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),034,14:15,14:30,2,,16,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),035,14:30,14:45,0,,20,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),036,14:45,15:00,4,,20,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),037,15:00,15:15,1,,27,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),038,15:15,15:30,4,,42,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),039,15:30,15:45,2,,31,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),040,15:45,16:00,2,,49,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),041,16:00,16:15,1,,41,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),042,16:15,16:30,1,,53,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),043,16:30,16:45,3,,1,44,4,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),044,16:45,17:00,2,,31,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),045,17:00,17:15,3,,45,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),046,17:15,17:30,0,,23,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),047,17:30,17:45,1,,26,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),048,17:45,18:00,0,,27,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),049,18:00,18:15,0,,25,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),050,18:15,18:30,0,,35,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),051,18:30,18:45,2,,16,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Lemsdorfer Weg (SO),052,18:45,19:00,0,,24,2,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,9,,100,3,2,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,19,,151,10,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,29,,198,17,4,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,29,,207,8,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,21,,200,7,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,26,,200,8,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,29,,265,8,1,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,29,,238,8,1,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,21,,210,9,10,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,19,,200,6,13,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,9,,208,8,5,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,19,,193,15,8,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,20,,138,4,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,27,,160,6,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,22,,190,19,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,15,,185,28,1,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,18,,174,23,1,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,17,,183,29,5,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,16,,209,20,4,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,10,,177,19,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,12,,166,15,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,7,,182,24,6,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,9,,155,12,4,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,10,,173,23,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,17,,187,31,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,14,,196,30,1,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,15,,178,26,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,18,,154,22,8,1,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,16,,188,10,5,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,17,,180,9,1,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,10,,178,13,1,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,21,,184,10,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,13,,184,7,1,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,23,,214,10,1,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,25,,187,10,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,24,,204,7,1,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,25,,239,13,7,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,25,,267,8,1,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,24,,238,5,0,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,22,,251,14,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,23,,282,13,2,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,24,,294,17,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,16,,249,64,4,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,15,,255,20,1,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,15,,273,17,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,8,,237,17,0,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,16,,258,13,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,17,,214,6,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,15,,226,9,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,10,,192,7,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,14,,161,7,3,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,13,,187,9,1,0,0

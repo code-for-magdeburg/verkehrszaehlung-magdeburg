@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,001,06:00,06:15,0,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,002,06:15,06:30,0,,16,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,003,06:30,06:45,0,,19,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,004,06:45,07:00,0,,14,1,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,005,07:00,07:15,0,,28,2,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,006,07:15,07:30,0,,39,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,007,07:30,07:45,0,,37,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,008,07:45,08:00,0,,16,3,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,009,08:00,08:15,0,,14,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,010,08:15,08:30,0,,22,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,011,08:30,08:45,0,,14,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,012,08:45,09:00,0,,15,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,013,09:00,09:15,0,,20,0,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,014,09:15,09:30,0,,29,1,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,015,09:30,09:45,0,,15,2,0,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,016,09:45,10:00,1,,12,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,017,10:00,10:15,0,,10,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,018,10:15,10:30,0,,14,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,019,10:30,10:45,0,,18,3,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,020,10:45,11:00,0,,18,1,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,021,11:00,11:15,1,,17,2,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,022,11:15,11:30,0,,9,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,023,11:30,11:45,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,024,11:45,12:00,0,,13,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,025,12:00,12:15,0,,3,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,026,12:15,12:30,0,,12,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,027,12:30,12:45,0,,16,2,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,028,12:45,13:00,0,,12,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,029,13:00,13:15,0,,9,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,030,13:15,13:30,0,,21,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,031,13:30,13:45,0,,7,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,032,13:45,14:00,0,,13,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,033,14:00,14:15,0,,7,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,034,14:15,14:30,0,,19,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,035,14:30,14:45,0,,18,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,036,14:45,15:00,0,,21,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,037,15:00,15:15,0,,16,2,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,038,15:15,15:30,0,,34,4,2,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,039,15:30,15:45,0,,19,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,040,15:45,16:00,0,,18,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,041,16:00,16:15,1,,25,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,042,16:15,16:30,0,,25,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,043,16:30,16:45,0,,31,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,044,16:45,17:00,0,,31,5,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,045,17:00,17:15,0,,22,5,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,046,17:15,17:30,0,,29,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,047,17:30,17:45,0,,16,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,048,17:45,18:00,0,,18,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,049,18:00,18:15,0,,11,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,050,18:15,18:30,0,,18,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,051,18:30,18:45,0,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Sohlener Straße,052,18:45,19:00,0,,13,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,001,06:00,06:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,002,06:15,06:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,003,06:30,06:45,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,004,06:45,07:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,005,07:00,07:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,006,07:15,07:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,007,07:30,07:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,008,07:45,08:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,009,08:00,08:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,010,08:15,08:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,011,08:30,08:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,012,08:45,09:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,013,09:00,09:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,014,09:15,09:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,015,09:30,09:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,016,09:45,10:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,017,10:00,10:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,018,10:15,10:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,019,10:30,10:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,020,10:45,11:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,021,11:00,11:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,022,11:15,11:30,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,023,11:30,11:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,024,11:45,12:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,025,12:00,12:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,026,12:15,12:30,2,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,027,12:30,12:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,028,12:45,13:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,029,13:00,13:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,030,13:15,13:30,0,,0,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,031,13:30,13:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,032,13:45,14:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,033,14:00,14:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,034,14:15,14:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,035,14:30,14:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,036,14:45,15:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,037,15:00,15:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,038,15:15,15:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,039,15:30,15:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,040,15:45,16:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,041,16:00,16:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,042,16:15,16:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,043,16:30,16:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,044,16:45,17:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,045,17:00,17:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,046,17:15,17:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,047,17:30,17:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,048,17:45,18:00,1,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,049,18:00,18:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,050,18:15,18:30,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,051,18:30,18:45,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straße,052,18:45,19:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,001,06:00,06:15,0,,9,1,2,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,002,06:15,06:30,0,,14,5,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,003,06:30,06:45,2,,12,4,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,004,06:45,07:00,0,,19,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,005,07:00,07:15,0,,25,2,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,006,07:15,07:30,0,,23,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,007,07:30,07:45,1,,23,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,008,07:45,08:00,0,,14,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,009,08:00,08:15,1,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,010,08:15,08:30,0,,17,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,011,08:30,08:45,0,,12,0,2,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,012,08:45,09:00,0,,19,3,2,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,013,09:00,09:15,2,,19,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,014,09:15,09:30,0,,16,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,015,09:30,09:45,0,,14,1,0,1,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,016,09:45,10:00,0,,11,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,017,10:00,10:15,0,,15,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,018,10:15,10:30,1,,8,2,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,019,10:30,10:45,0,,8,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,020,10:45,11:00,0,,9,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,021,11:00,11:15,1,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,022,11:15,11:30,0,,9,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,023,11:30,11:45,0,,4,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,024,11:45,12:00,0,,6,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,025,12:00,12:15,0,,8,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,026,12:15,12:30,0,,9,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,027,12:30,12:45,0,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,028,12:45,13:00,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,029,13:00,13:15,0,,26,3,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,030,13:15,13:30,0,,17,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,031,13:30,13:45,0,,7,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,032,13:45,14:00,0,,16,3,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,033,14:00,14:15,0,,11,0,2,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,034,14:15,14:30,0,,13,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,035,14:30,14:45,0,,10,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,036,14:45,15:00,0,,13,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,037,15:00,15:15,0,,11,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,038,15:15,15:30,1,,10,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,039,15:30,15:45,0,,12,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,040,15:45,16:00,0,,21,1,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,041,16:00,16:15,0,,14,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,042,16:15,16:30,0,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,043,16:30,16:45,0,,7,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,044,16:45,17:00,0,,8,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,045,17:00,17:15,0,,11,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,046,17:15,17:30,0,,11,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,047,17:30,17:45,0,,8,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,048,17:45,18:00,0,,21,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,049,18:00,18:15,0,,16,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,050,18:15,18:30,0,,10,2,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,051,18:30,18:45,0,,13,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Sohlener Straße,052,18:45,19:00,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),001,06:00,06:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),002,06:15,06:30,1,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),003,06:30,06:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),004,06:45,07:00,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),005,07:00,07:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),006,07:15,07:30,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),007,07:30,07:45,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),008,07:45,08:00,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),009,08:00,08:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),010,08:15,08:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),011,08:30,08:45,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),012,08:45,09:00,0,,9,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),013,09:00,09:15,0,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),014,09:15,09:30,1,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),015,09:30,09:45,1,,5,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),016,09:45,10:00,0,,10,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),017,10:00,10:15,0,,10,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),018,10:15,10:30,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),019,10:30,10:45,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),020,10:45,11:00,0,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),021,11:00,11:15,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),022,11:15,11:30,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),023,11:30,11:45,0,,9,0,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),024,11:45,12:00,0,,10,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),025,12:00,12:15,1,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),026,12:15,12:30,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),027,12:30,12:45,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),028,12:45,13:00,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),029,13:00,13:15,0,,11,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),030,13:15,13:30,0,,13,1,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),031,13:30,13:45,0,,12,1,3,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),032,13:45,14:00,0,,11,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),033,14:00,14:15,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),034,14:15,14:30,0,,11,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),035,14:30,14:45,0,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),036,14:45,15:00,0,,16,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),037,15:00,15:15,0,,17,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),038,15:15,15:30,0,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),039,15:30,15:45,0,,15,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),040,15:45,16:00,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),041,16:00,16:15,0,,17,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),042,16:15,16:30,0,,16,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),043,16:30,16:45,0,,20,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),044,16:45,17:00,0,,20,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),045,17:00,17:15,0,,13,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),046,17:15,17:30,0,,15,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),047,17:30,17:45,0,,21,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),048,17:45,18:00,0,,18,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),049,18:00,18:15,0,,27,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),050,18:15,18:30,0,,14,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),051,18:30,18:45,0,,16,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Westerhüsen (N),052,18:45,19:00,1,,11,0,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),001,06:00,06:15,0,,50,1,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),002,06:15,06:30,2,,83,2,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),003,06:30,06:45,2,,109,9,1,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),004,06:45,07:00,1,,72,5,0,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),005,07:00,07:15,4,,82,10,2,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),006,07:15,07:30,1,,142,2,0,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),007,07:30,07:45,5,,138,7,1,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),008,07:45,08:00,2,,87,10,1,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),009,08:00,08:15,2,,64,0,2,4,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),010,08:15,08:30,4,,38,4,3,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),011,08:30,08:45,1,,72,8,3,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),012,08:45,09:00,1,,82,4,2,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),013,09:00,09:15,2,,108,2,6,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),014,09:15,09:30,0,,83,1,0,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),015,09:30,09:45,2,,116,5,2,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),016,09:45,10:00,0,,91,3,3,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),017,10:00,10:15,3,,97,6,1,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),018,10:15,10:30,1,,95,8,3,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),019,10:30,10:45,0,,104,6,4,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),020,10:45,11:00,1,,126,5,6,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),021,11:00,11:15,3,,73,6,3,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),022,11:15,11:30,5,,73,6,2,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),023,11:30,11:45,1,,82,7,6,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),024,11:45,12:00,2,,95,1,1,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),025,12:00,12:15,1,,79,5,2,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),026,12:15,12:30,5,,89,5,5,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),027,12:30,12:45,3,,124,6,2,2,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),028,12:45,13:00,1,,75,3,2,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),029,13:00,13:15,2,,118,3,2,5,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),030,13:15,13:30,3,,93,5,1,4,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),031,13:30,13:45,0,,97,4,2,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),032,13:45,14:00,1,,103,10,4,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),033,14:00,14:15,1,,109,1,2,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),034,14:15,14:30,2,,112,4,1,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),035,14:30,14:45,2,,140,13,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),036,14:45,15:00,2,,140,7,2,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),037,15:00,15:15,0,,133,4,2,3,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),038,15:15,15:30,0,,147,10,2,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),039,15:30,15:45,3,,120,5,1,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),040,15:45,16:00,4,,121,9,0,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),041,16:00,16:15,6,,158,6,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),042,16:15,16:30,2,,178,13,0,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),043,16:30,16:45,4,,169,0,0,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),044,16:45,17:00,6,,174,2,2,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),045,17:00,17:15,1,,122,5,0,3,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),046,17:15,17:30,8,,128,1,1,1,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),047,17:30,17:45,6,,110,4,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),048,17:45,18:00,6,,99,5,3,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),049,18:00,18:15,1,,80,2,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),050,18:15,18:30,3,,103,7,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),051,18:30,18:45,5,,108,2,0,0,0
+8,B,1,1,BG...(3),Zählstrom,,Gerqadeausfahrer Alt Westerhüsen(N),052,18:45,19:00,3,,77,1,1,1,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),001,06:00,06:15,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),002,06:15,06:30,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),003,06:30,06:45,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),004,06:45,07:00,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),005,07:00,07:15,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),006,07:15,07:30,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),007,07:30,07:45,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),008,07:45,08:00,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),009,08:00,08:15,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),010,08:15,08:30,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),011,08:30,08:45,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),012,08:45,09:00,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),013,09:00,09:15,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),014,09:15,09:30,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),015,09:30,09:45,1,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),016,09:45,10:00,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),017,10:00,10:15,0,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),018,10:15,10:30,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),019,10:30,10:45,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),020,10:45,11:00,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),021,11:00,11:15,2,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),022,11:15,11:30,2,,6,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),023,11:30,11:45,0,,1,0,1,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),024,11:45,12:00,0,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),025,12:00,12:15,2,,3,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),026,12:15,12:30,1,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),027,12:30,12:45,0,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),028,12:45,13:00,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),029,13:00,13:15,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),030,13:15,13:30,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),031,13:30,13:45,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),032,13:45,14:00,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),033,14:00,14:15,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),034,14:15,14:30,0,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),035,14:30,14:45,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),036,14:45,15:00,0,,3,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),037,15:00,15:15,0,,4,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),038,15:15,15:30,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),039,15:30,15:45,0,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),040,15:45,16:00,4,,0,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),041,16:00,16:15,2,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),042,16:15,16:30,0,,4,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),043,16:30,16:45,0,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),044,16:45,17:00,0,,1,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),045,17:00,17:15,0,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),046,17:15,17:30,1,,3,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),047,17:30,17:45,1,,3,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),048,17:45,18:00,2,,6,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),049,18:00,18:15,0,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),050,18:15,18:30,0,,2,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),051,18:30,18:45,0,,6,0,0,0,0
+9,B,1,3,AL...(6),Zählstrom,,Linksabbieger  Alt Westerhüsen (N),052,18:45,19:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,001,06:00,06:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,002,06:15,06:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,003,06:30,06:45,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,004,06:45,07:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,005,07:00,07:15,0,,0,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,006,07:15,07:30,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,007,07:30,07:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,008,07:45,08:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,009,08:00,08:15,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,010,08:15,08:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,011,08:30,08:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,012,08:45,09:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,013,09:00,09:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,014,09:15,09:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,015,09:30,09:45,1,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,016,09:45,10:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,017,10:00,10:15,2,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,018,10:15,10:30,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,019,10:30,10:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,020,10:45,11:00,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,021,11:00,11:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,022,11:15,11:30,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,023,11:30,11:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,024,11:45,12:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,025,12:00,12:15,1,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,026,12:15,12:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,027,12:30,12:45,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,028,12:45,13:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,029,13:00,13:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,030,13:15,13:30,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,031,13:30,13:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,032,13:45,14:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,033,14:00,14:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,034,14:15,14:30,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,035,14:30,14:45,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,036,14:45,15:00,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,037,15:00,15:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,038,15:15,15:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,039,15:30,15:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,040,15:45,16:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,041,16:00,16:15,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,042,16:15,16:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,043,16:30,16:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,044,16:45,17:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,045,17:00,17:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,046,17:15,17:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,047,17:30,17:45,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,048,17:45,18:00,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,049,18:00,18:15,3,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,050,18:15,18:30,1,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,051,18:30,18:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kieler Straße,052,18:45,19:00,1,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,001,06:00,06:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,002,06:15,06:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,003,06:30,06:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,004,06:45,07:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,005,07:00,07:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,006,07:15,07:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,007,07:30,07:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,008,07:45,08:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,009,08:00,08:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,010,08:15,08:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,011,08:30,08:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,012,08:45,09:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,013,09:00,09:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,014,09:15,09:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,015,09:30,09:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,016,09:45,10:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,017,10:00,10:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,018,10:15,10:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,019,10:30,10:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,020,10:45,11:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,021,11:00,11:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,022,11:15,11:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,023,11:30,11:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,024,11:45,12:00,0,,1,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,025,12:00,12:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,026,12:15,12:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,027,12:30,12:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,028,12:45,13:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,029,13:00,13:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,030,13:15,13:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,031,13:30,13:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,032,13:45,14:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,033,14:00,14:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,034,14:15,14:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,035,14:30,14:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,036,14:45,15:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,037,15:00,15:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,038,15:15,15:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,039,15:30,15:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,040,15:45,16:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,041,16:00,16:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,042,16:15,16:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,043,16:30,16:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,044,16:45,17:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,045,17:00,17:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,046,17:15,17:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,047,17:30,17:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,048,17:45,18:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,049,18:00,18:15,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,050,18:15,18:30,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,051,18:30,18:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kieler Straße,052,18:45,19:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,001,06:00,06:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,002,06:15,06:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,003,06:30,06:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,004,06:45,07:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,005,07:00,07:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,006,07:15,07:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,007,07:30,07:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,008,07:45,08:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,009,08:00,08:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,010,08:15,08:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,011,08:30,08:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,012,08:45,09:00,0,,1,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,013,09:00,09:15,0,,4,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,014,09:15,09:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,015,09:30,09:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,016,09:45,10:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,017,10:00,10:15,1,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,018,10:15,10:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,019,10:30,10:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,020,10:45,11:00,1,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,021,11:00,11:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,022,11:15,11:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,023,11:30,11:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,024,11:45,12:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,025,12:00,12:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,026,12:15,12:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,027,12:30,12:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,028,12:45,13:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,029,13:00,13:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,030,13:15,13:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,031,13:30,13:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,032,13:45,14:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,033,14:00,14:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,034,14:15,14:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,035,14:30,14:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,036,14:45,15:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,037,15:00,15:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,038,15:15,15:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,039,15:30,15:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,040,15:45,16:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,041,16:00,16:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,042,16:15,16:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,043,16:30,16:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,044,16:45,17:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,045,17:00,17:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,046,17:15,17:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,047,17:30,17:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,048,17:45,18:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,049,18:00,18:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,050,18:15,18:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,051,18:30,18:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Kieler Straße,052,18:45,19:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),001,06:00,06:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),002,06:15,06:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),003,06:30,06:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),004,06:45,07:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),005,07:00,07:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),006,07:15,07:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),007,07:30,07:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),008,07:45,08:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),009,08:00,08:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),010,08:15,08:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),011,08:30,08:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),012,08:45,09:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),013,09:00,09:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),014,09:15,09:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),015,09:30,09:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),016,09:45,10:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),017,10:00,10:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),018,10:15,10:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),019,10:30,10:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),020,10:45,11:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),021,11:00,11:15,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),022,11:15,11:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),023,11:30,11:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),024,11:45,12:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),025,12:00,12:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),026,12:15,12:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),027,12:30,12:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),028,12:45,13:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),029,13:00,13:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),030,13:15,13:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),031,13:30,13:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),032,13:45,14:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),033,14:00,14:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),034,14:15,14:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),035,14:30,14:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),036,14:45,15:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),037,15:00,15:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),038,15:15,15:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),039,15:30,15:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),040,15:45,16:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),041,16:00,16:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),042,16:15,16:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),043,16:30,16:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),044,16:45,17:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),045,17:00,17:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),046,17:15,17:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),047,17:30,17:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),048,17:45,18:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),049,18:00,18:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),050,18:15,18:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),051,18:30,18:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Alt Westerhüsen (S),052,18:45,19:00,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),001,06:00,06:15,1,,86,4,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),002,06:15,06:30,1,,105,2,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),003,06:30,06:45,2,,110,6,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),004,06:45,07:00,1,,106,8,3,3,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),005,07:00,07:15,2,,127,1,1,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),006,07:15,07:30,1,,111,8,4,4,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),007,07:30,07:45,1,,122,4,2,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),008,07:45,08:00,1,,94,3,2,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),009,08:00,08:15,0,,72,4,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),010,08:15,08:30,0,,73,9,2,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),011,08:30,08:45,2,,77,2,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),012,08:45,09:00,2,,49,6,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),013,09:00,09:15,1,,64,4,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),014,09:15,09:30,1,,79,0,4,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),015,09:30,09:45,4,,68,10,5,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),016,09:45,10:00,2,,61,6,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),017,10:00,10:15,0,,75,10,4,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),018,10:15,10:30,0,,78,7,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),019,10:30,10:45,18,,75,9,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),020,10:45,11:00,1,,81,8,4,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),021,11:00,11:15,1,,82,12,4,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),022,11:15,11:30,2,,71,11,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),023,11:30,11:45,0,,74,9,5,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),024,11:45,12:00,0,,73,5,4,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),025,12:00,12:15,3,,77,8,5,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),026,12:15,12:30,4,,69,7,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),027,12:30,12:45,2,,80,7,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),028,12:45,13:00,1,,73,6,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),029,13:00,13:15,4,,114,5,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),030,13:15,13:30,0,,117,5,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),031,13:30,13:45,1,,67,6,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),032,13:45,14:00,5,,87,5,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),033,14:00,14:15,6,,75,4,2,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),034,14:15,14:30,0,,121,8,3,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),035,14:30,14:45,4,,105,3,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),036,14:45,15:00,5,,77,6,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),037,15:00,15:15,1,,97,6,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),038,15:15,15:30,2,,96,2,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),039,15:30,15:45,1,,99,5,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),040,15:45,16:00,2,,74,7,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),041,16:00,16:15,1,,95,6,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),042,16:15,16:30,3,,99,10,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),043,16:30,16:45,2,,97,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),044,16:45,17:00,0,,89,9,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),045,17:00,17:15,0,,86,8,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),046,17:15,17:30,3,,64,4,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),047,17:30,17:45,2,,62,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),048,17:45,18:00,5,,60,10,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),049,18:00,18:15,3,,56,6,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),050,18:15,18:30,1,,49,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),051,18:30,18:45,0,,55,3,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Alt Westerhüsen(S),052,18:45,19:00,2,,43,5,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),001,06:00,06:15,0,,7,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),002,06:15,06:30,0,,6,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),003,06:30,06:45,0,,9,0,1,1,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),004,06:45,07:00,0,,4,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),005,07:00,07:15,0,,9,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),006,07:15,07:30,0,,4,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),007,07:30,07:45,1,,6,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),008,07:45,08:00,0,,4,4,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),009,08:00,08:15,0,,5,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),010,08:15,08:30,0,,5,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),011,08:30,08:45,0,,2,0,0,1,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),012,08:45,09:00,0,,9,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),013,09:00,09:15,0,,4,1,0,1,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),014,09:15,09:30,0,,7,0,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),015,09:30,09:45,0,,9,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),016,09:45,10:00,0,,4,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),017,10:00,10:15,0,,11,3,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),018,10:15,10:30,0,,12,1,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),019,10:30,10:45,0,,8,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),020,10:45,11:00,0,,9,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),021,11:00,11:15,0,,13,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),022,11:15,11:30,0,,6,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),023,11:30,11:45,0,,11,3,3,1,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),024,11:45,12:00,0,,9,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),025,12:00,12:15,0,,12,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),026,12:15,12:30,0,,11,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),027,12:30,12:45,0,,5,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),028,12:45,13:00,0,,6,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),029,13:00,13:15,0,,20,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),030,13:15,13:30,0,,14,1,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),031,13:30,13:45,0,,11,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),032,13:45,14:00,0,,17,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),033,14:00,14:15,0,,11,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),034,14:15,14:30,0,,7,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),035,14:30,14:45,0,,12,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),036,14:45,15:00,0,,18,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),037,15:00,15:15,0,,21,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),038,15:15,15:30,0,,9,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),039,15:30,15:45,0,,14,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),040,15:45,16:00,0,,4,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),041,16:00,16:15,1,,11,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),042,16:15,16:30,1,,11,3,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),043,16:30,16:45,0,,16,7,2,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),044,16:45,17:00,0,,9,5,2,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),045,17:00,17:15,0,,6,3,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),046,17:15,17:30,0,,12,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),047,17:30,17:45,0,,7,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),048,17:45,18:00,0,,10,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),049,18:00,18:15,0,,13,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),050,18:15,18:30,0,,5,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),051,18:30,18:45,0,,6,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Schönebecker Straße (S),052,18:45,19:00,0,,7,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,1,,117,5,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,2,,146,11,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,4,,160,12,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,1,,148,13,5,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,2,,194,6,6,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,1,,184,15,4,4,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,3,,195,8,3,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,1,,133,12,3,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,1,,106,11,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,0,,119,19,2,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,2,,112,8,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,2,,106,14,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,3,,126,7,5,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,2,,143,1,8,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,7,,117,14,6,5,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,3,,100,11,5,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,3,,126,15,7,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,1,,124,12,6,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,18,,125,13,1,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,2,,134,11,7,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,5,,131,16,5,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,7,,106,14,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,0,,103,14,11,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,0,,115,13,5,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,7,,115,12,7,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,7,,109,9,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,3,,125,11,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,1,,103,8,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,4,,182,14,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,0,,185,12,1,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,1,,105,11,6,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,5,,145,14,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,6,,111,10,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,2,,172,11,6,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,5,,157,10,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,5,,150,13,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,1,,169,8,5,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,3,,160,8,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,1,,161,11,0,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,6,,129,11,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,6,,164,14,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,4,,167,17,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,2,,174,15,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,0,,160,19,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,0,,144,19,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,4,,136,8,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,3,,118,4,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,9,,136,15,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,6,,129,7,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,2,,102,8,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,0,,107,5,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,4,,91,6,0,0,0

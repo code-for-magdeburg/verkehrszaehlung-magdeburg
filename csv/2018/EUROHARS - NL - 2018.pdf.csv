@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),001,06:00,06:15,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),002,06:15,06:30,1,,9,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),003,06:30,06:45,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),004,06:45,07:00,1,,15,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),005,07:00,07:15,3,,14,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),006,07:15,07:30,0,,23,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),007,07:30,07:45,2,,13,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),008,07:45,08:00,0,,26,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),009,08:00,08:15,0,,24,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),010,08:15,08:30,0,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),011,08:30,08:45,0,,15,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),012,08:45,09:00,0,,11,5,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),013,09:00,09:15,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),014,09:15,09:30,0,,12,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),015,09:30,09:45,1,,22,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),016,09:45,10:00,0,,25,6,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),017,10:00,10:15,1,,27,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),018,10:15,10:30,1,,18,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),019,10:30,10:45,0,,17,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),020,10:45,11:00,0,,12,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),021,11:00,11:15,0,,16,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),022,11:15,11:30,5,,17,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),023,11:30,11:45,2,,18,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),024,11:45,12:00,1,,16,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),025,12:00,12:15,1,,22,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),026,12:15,12:30,1,,15,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),027,12:30,12:45,0,,12,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),028,12:45,13:00,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),029,13:00,13:15,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),030,13:15,13:30,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),031,13:30,13:45,0,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),032,13:45,14:00,2,,8,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),033,14:00,14:15,3,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),034,14:15,14:30,1,,12,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),035,14:30,14:45,2,,14,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),036,14:45,15:00,0,,15,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),037,15:00,15:15,0,,21,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),038,15:15,15:30,0,,14,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),039,15:30,15:45,3,,22,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),040,15:45,16:00,0,,15,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),041,16:00,16:15,1,,29,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),042,16:15,16:30,0,,26,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),043,16:30,16:45,2,,24,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),044,16:45,17:00,1,,19,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),045,17:00,17:15,3,,24,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),046,17:15,17:30,0,,21,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),047,17:30,17:45,1,,23,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),048,17:45,18:00,2,,17,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),049,18:00,18:15,1,,18,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),050,18:15,18:30,1,,19,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),051,18:30,18:45,3,,16,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Harsdorfer Straße(W),052,18:45,19:00,2,,14,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),001,06:00,06:15,0,,3,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),002,06:15,06:30,2,,7,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),003,06:30,06:45,4,,12,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),004,06:45,07:00,2,,12,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),005,07:00,07:15,4,,28,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),006,07:15,07:30,1,,30,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),007,07:30,07:45,4,,22,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),008,07:45,08:00,0,,23,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),009,08:00,08:15,4,,19,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),010,08:15,08:30,1,,15,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),011,08:30,08:45,2,,16,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),012,08:45,09:00,1,,12,0,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),013,09:00,09:15,1,,8,0,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),014,09:15,09:30,1,,11,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),015,09:30,09:45,2,,11,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),016,09:45,10:00,1,,7,4,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),017,10:00,10:15,4,,9,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),018,10:15,10:30,4,,12,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),019,10:30,10:45,1,,14,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),020,10:45,11:00,5,,15,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),021,11:00,11:15,2,,12,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),022,11:15,11:30,3,,11,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),023,11:30,11:45,1,,12,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),024,11:45,12:00,1,,10,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),025,12:00,12:15,3,,10,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),026,12:15,12:30,3,,12,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),027,12:30,12:45,6,,8,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),028,12:45,13:00,2,,2,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),029,13:00,13:15,5,,7,0,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),030,13:15,13:30,1,,10,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),031,13:30,13:45,2,,12,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),032,13:45,14:00,3,,9,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),033,14:00,14:15,2,,7,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),034,14:15,14:30,0,,13,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),035,14:30,14:45,0,,8,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),036,14:45,15:00,3,,11,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),037,15:00,15:15,0,,12,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),038,15:15,15:30,1,,11,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),039,15:30,15:45,2,,14,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),040,15:45,16:00,0,,10,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),041,16:00,16:15,1,,8,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),042,16:15,16:30,2,,25,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),043,16:30,16:45,2,,27,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),044,16:45,17:00,2,,16,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),045,17:00,17:15,0,,17,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),046,17:15,17:30,2,,21,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),047,17:30,17:45,5,,15,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),048,17:45,18:00,8,,11,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),049,18:00,18:15,3,,11,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),050,18:15,18:30,6,,16,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),051,18:30,18:45,5,,9,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Harsdorfer Straße (W),052,18:45,19:00,3,,15,0,0,0,1
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),001,06:00,06:15,0,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),002,06:15,06:30,0,,14,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),003,06:30,06:45,1,,11,1,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),004,06:45,07:00,0,,7,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),005,07:00,07:15,4,,21,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),006,07:15,07:30,5,,12,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),007,07:30,07:45,7,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),008,07:45,08:00,5,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),009,08:00,08:15,3,,7,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),010,08:15,08:30,1,,13,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),011,08:30,08:45,3,,11,0,2,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),012,08:45,09:00,0,,12,2,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),013,09:00,09:15,2,,15,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),014,09:15,09:30,1,,14,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),015,09:30,09:45,4,,18,1,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),016,09:45,10:00,1,,13,2,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),017,10:00,10:15,0,,13,1,2,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),018,10:15,10:30,0,,10,2,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),019,10:30,10:45,3,,19,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),020,10:45,11:00,0,,22,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),021,11:00,11:15,0,,20,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),022,11:15,11:30,2,,15,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),023,11:30,11:45,0,,16,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),024,11:45,12:00,1,,13,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),025,12:00,12:15,4,,13,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),026,12:15,12:30,1,,11,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),027,12:30,12:45,0,,10,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),028,12:45,13:00,0,,11,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),029,13:00,13:15,1,,19,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),030,13:15,13:30,0,,10,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),031,13:30,13:45,2,,4,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),032,13:45,14:00,0,,16,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),033,14:00,14:15,0,,11,4,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),034,14:15,14:30,3,,12,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),035,14:30,14:45,0,,19,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),036,14:45,15:00,0,,19,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),037,15:00,15:15,0,,13,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),038,15:15,15:30,0,,12,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),039,15:30,15:45,2,,10,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),040,15:45,16:00,2,,12,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),041,16:00,16:15,0,,20,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),042,16:15,16:30,0,,19,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),043,16:30,16:45,1,,11,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),044,16:45,17:00,0,,10,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),045,17:00,17:15,5,,11,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),046,17:15,17:30,0,,12,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),047,17:30,17:45,0,,23,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),048,17:45,18:00,1,,11,0,0,0,1
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),049,18:00,18:15,2,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),050,18:15,18:30,0,,8,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),051,18:30,18:45,0,,13,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Harsdorfer Straße(W),052,18:45,19:00,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),001,06:00,06:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),002,06:15,06:30,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),003,06:30,06:45,3,,16,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),004,06:45,07:00,0,,19,7,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),005,07:00,07:15,0,,9,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),006,07:15,07:30,1,,15,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),007,07:30,07:45,0,,34,4,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),008,07:45,08:00,5,,28,3,3,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),009,08:00,08:15,0,,14,4,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),010,08:15,08:30,0,,8,4,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),011,08:30,08:45,0,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),012,08:45,09:00,1,,17,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),013,09:00,09:15,0,,22,2,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),014,09:15,09:30,2,,10,1,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),015,09:30,09:45,2,,14,3,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),016,09:45,10:00,2,,27,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),017,10:00,10:15,1,,20,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),018,10:15,10:30,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),019,10:30,10:45,0,,20,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),020,10:45,11:00,0,,11,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),021,11:00,11:15,1,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),022,11:15,11:30,1,,19,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),023,11:30,11:45,2,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),024,11:45,12:00,0,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),025,12:00,12:15,0,,6,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),026,12:15,12:30,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),027,12:30,12:45,1,,20,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),028,12:45,13:00,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),029,13:00,13:15,2,,17,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),030,13:15,13:30,6,,12,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),031,13:30,13:45,1,,22,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),032,13:45,14:00,0,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),033,14:00,14:15,1,,16,3,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),034,14:15,14:30,1,,19,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),035,14:30,14:45,5,,13,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),036,14:45,15:00,0,,37,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),037,15:00,15:15,3,,22,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),038,15:15,15:30,0,,21,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),039,15:30,15:45,0,,21,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),040,15:45,16:00,3,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),041,16:00,16:15,2,,19,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),042,16:15,16:30,5,,29,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),043,16:30,16:45,4,,25,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),044,16:45,17:00,1,,21,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),045,17:00,17:15,1,,14,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),046,17:15,17:30,1,,25,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),047,17:30,17:45,0,,19,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),048,17:45,18:00,2,,22,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),049,18:00,18:15,0,,18,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),050,18:15,18:30,0,,28,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),051,18:30,18:45,4,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Europaring (N),052,18:45,19:00,1,,9,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),001,06:00,06:15,2,,23,2,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),002,06:15,06:30,3,,40,2,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),003,06:30,06:45,10,,57,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),004,06:45,07:00,12,,93,3,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),005,07:00,07:15,8,,98,3,3,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),006,07:15,07:30,14,,110,2,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),007,07:30,07:45,17,,112,4,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),008,07:45,08:00,13,,111,3,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),009,08:00,08:15,5,,79,11,3,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),010,08:15,08:30,5,,67,5,3,2,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),011,08:30,08:45,4,,95,3,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),012,08:45,09:00,4,,86,4,1,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),013,09:00,09:15,10,,79,13,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),014,09:15,09:30,4,,60,4,2,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),015,09:30,09:45,7,,105,4,1,2,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),016,09:45,10:00,6,,80,2,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),017,10:00,10:15,7,,83,3,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),018,10:15,10:30,6,,63,4,2,1,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),019,10:30,10:45,8,,61,8,1,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),020,10:45,11:00,6,,45,0,4,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),021,11:00,11:15,7,,70,5,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),022,11:15,11:30,4,,69,3,3,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),023,11:30,11:45,7,,67,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),024,11:45,12:00,3,,73,3,1,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),025,12:00,12:15,5,,55,5,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),026,12:15,12:30,7,,61,2,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),027,12:30,12:45,2,,54,2,0,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),028,12:45,13:00,4,,49,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),029,13:00,13:15,6,,68,2,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),030,13:15,13:30,9,,67,4,3,1,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),031,13:30,13:45,5,,51,4,4,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),032,13:45,14:00,4,,58,3,4,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),033,14:00,14:15,8,,86,5,2,3,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),034,14:15,14:30,10,,79,11,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),035,14:30,14:45,10,,78,4,1,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),036,14:45,15:00,13,,88,2,1,4,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),037,15:00,15:15,8,,80,2,1,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),038,15:15,15:30,16,,97,10,1,2,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),039,15:30,15:45,5,,73,5,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),040,15:45,16:00,5,,48,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),041,16:00,16:15,8,,103,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),042,16:15,16:30,15,,104,3,1,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),043,16:30,16:45,14,,101,4,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),044,16:45,17:00,7,,76,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),045,17:00,17:15,9,,97,1,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),046,17:15,17:30,11,,65,1,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),047,17:30,17:45,8,,66,2,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),048,17:45,18:00,5,,79,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),049,18:00,18:15,4,,76,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),050,18:15,18:30,8,,76,4,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),051,18:30,18:45,14,,91,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Europaring (N),052,18:45,19:00,3,,53,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),001,06:00,06:15,0,,0,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),002,06:15,06:30,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),003,06:30,06:45,0,,4,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),004,06:45,07:00,0,,8,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),005,07:00,07:15,0,,16,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),006,07:15,07:30,0,,9,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),007,07:30,07:45,0,,14,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),008,07:45,08:00,0,,15,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),009,08:00,08:15,0,,10,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),010,08:15,08:30,0,,11,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),011,08:30,08:45,0,,9,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),012,08:45,09:00,0,,8,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),013,09:00,09:15,0,,5,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),014,09:15,09:30,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),015,09:30,09:45,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),016,09:45,10:00,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),017,10:00,10:15,0,,4,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),018,10:15,10:30,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),019,10:30,10:45,0,,10,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),020,10:45,11:00,0,,9,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),021,11:00,11:15,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),022,11:15,11:30,0,,7,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),023,11:30,11:45,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),024,11:45,12:00,0,,5,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),025,12:00,12:15,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),026,12:15,12:30,0,,8,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),027,12:30,12:45,0,,6,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),028,12:45,13:00,0,,8,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),029,13:00,13:15,0,,7,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),030,13:15,13:30,0,,1,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),031,13:30,13:45,0,,2,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),032,13:45,14:00,0,,5,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),033,14:00,14:15,0,,7,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),034,14:15,14:30,0,,10,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),035,14:30,14:45,0,,8,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),036,14:45,15:00,0,,13,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),037,15:00,15:15,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),038,15:15,15:30,0,,13,3,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),039,15:30,15:45,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),040,15:45,16:00,0,,8,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),041,16:00,16:15,0,,22,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),042,16:15,16:30,0,,15,3,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),043,16:30,16:45,0,,21,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),044,16:45,17:00,0,,17,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),045,17:00,17:15,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),046,17:15,17:30,0,,11,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),047,17:30,17:45,0,,13,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),048,17:45,18:00,0,,11,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),049,18:00,18:15,0,,9,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),050,18:15,18:30,0,,10,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),051,18:30,18:45,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Europaring (N),052,18:45,19:00,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),001,06:00,06:15,1,,12,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),002,06:15,06:30,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),003,06:30,06:45,2,,21,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),004,06:45,07:00,0,,12,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),005,07:00,07:15,0,,13,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),006,07:15,07:30,0,,26,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),007,07:30,07:45,0,,19,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),008,07:45,08:00,0,,12,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),009,08:00,08:15,0,,9,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),010,08:15,08:30,0,,9,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),011,08:30,08:45,0,,6,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),012,08:45,09:00,0,,7,0,2,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),013,09:00,09:15,0,,13,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),014,09:15,09:30,0,,9,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),015,09:30,09:45,0,,7,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),016,09:45,10:00,0,,8,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),017,10:00,10:15,0,,9,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),018,10:15,10:30,0,,13,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),019,10:30,10:45,0,,12,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),020,10:45,11:00,0,,13,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),021,11:00,11:15,0,,12,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),022,11:15,11:30,0,,13,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),023,11:30,11:45,0,,16,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),024,11:45,12:00,0,,9,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),025,12:00,12:15,0,,12,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),026,12:15,12:30,0,,9,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),027,12:30,12:45,0,,7,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),028,12:45,13:00,0,,8,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),029,13:00,13:15,0,,12,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),030,13:15,13:30,0,,10,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),031,13:30,13:45,0,,8,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),032,13:45,14:00,0,,12,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),033,14:00,14:15,0,,11,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),034,14:15,14:30,0,,13,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),035,14:30,14:45,0,,8,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),036,14:45,15:00,0,,9,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),037,15:00,15:15,0,,10,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),038,15:15,15:30,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),039,15:30,15:45,0,,15,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),040,15:45,16:00,0,,12,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),041,16:00,16:15,0,,14,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),042,16:15,16:30,0,,10,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),043,16:30,16:45,0,,9,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),044,16:45,17:00,0,,7,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),045,17:00,17:15,0,,20,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),046,17:15,17:30,0,,13,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),047,17:30,17:45,0,,10,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),048,17:45,18:00,0,,7,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),049,18:00,18:15,2,,9,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),050,18:15,18:30,0,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),051,18:30,18:45,0,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Harsdorfer Straße(O),052,18:45,19:00,0,,6,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),001,06:00,06:15,1,,2,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),002,06:15,06:30,0,,1,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),003,06:30,06:45,4,,2,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),004,06:45,07:00,4,,3,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),005,07:00,07:15,5,,8,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),006,07:15,07:30,2,,8,0,0,1,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),007,07:30,07:45,5,,12,0,1,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),008,07:45,08:00,11,,16,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),009,08:00,08:15,1,,12,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),010,08:15,08:30,6,,8,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),011,08:30,08:45,3,,5,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),012,08:45,09:00,5,,8,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),013,09:00,09:15,9,,7,0,1,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),014,09:15,09:30,4,,7,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),015,09:30,09:45,2,,12,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),016,09:45,10:00,2,,14,2,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),017,10:00,10:15,6,,5,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),018,10:15,10:30,5,,7,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),019,10:30,10:45,3,,6,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),020,10:45,11:00,2,,7,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),021,11:00,11:15,4,,10,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),022,11:15,11:30,8,,9,2,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),023,11:30,11:45,5,,7,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),024,11:45,12:00,2,,5,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),025,12:00,12:15,8,,7,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),026,12:15,12:30,4,,5,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),027,12:30,12:45,5,,8,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),028,12:45,13:00,3,,6,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),029,13:00,13:15,4,,8,0,1,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),030,13:15,13:30,3,,8,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),031,13:30,13:45,10,,7,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),032,13:45,14:00,2,,1,4,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),033,14:00,14:15,7,,10,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),034,14:15,14:30,2,,11,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),035,14:30,14:45,4,,6,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),036,14:45,15:00,1,,6,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),037,15:00,15:15,3,,4,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),038,15:15,15:30,5,,11,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),039,15:30,15:45,3,,9,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),040,15:45,16:00,4,,11,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),041,16:00,16:15,7,,12,3,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),042,16:15,16:30,9,,22,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),043,16:30,16:45,10,,12,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),044,16:45,17:00,9,,13,0,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),045,17:00,17:15,12,,13,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),046,17:15,17:30,7,,15,1,1,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),047,17:30,17:45,5,,14,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),048,17:45,18:00,6,,6,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),049,18:00,18:15,5,,10,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),050,18:15,18:30,3,,6,2,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),051,18:30,18:45,3,,8,1,0,0,1
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Harsdorfer Straße (O),052,18:45,19:00,2,,11,0,0,0,1
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),001,06:00,06:15,0,,5,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),002,06:15,06:30,0,,6,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),003,06:30,06:45,0,,6,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),004,06:45,07:00,1,,8,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),005,07:00,07:15,0,,15,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),006,07:15,07:30,0,,10,0,2,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),007,07:30,07:45,0,,23,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),008,07:45,08:00,1,,20,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),009,08:00,08:15,0,,24,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),010,08:15,08:30,0,,23,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),011,08:30,08:45,0,,21,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),012,08:45,09:00,0,,17,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),013,09:00,09:15,0,,14,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),014,09:15,09:30,0,,13,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),015,09:30,09:45,0,,31,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),016,09:45,10:00,0,,23,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),017,10:00,10:15,0,,11,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),018,10:15,10:30,0,,13,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),019,10:30,10:45,0,,16,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),020,10:45,11:00,0,,13,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),021,11:00,11:15,0,,23,3,2,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),022,11:15,11:30,0,,16,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),023,11:30,11:45,0,,25,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),024,11:45,12:00,0,,11,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),025,12:00,12:15,0,,11,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),026,12:15,12:30,0,,13,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),027,12:30,12:45,1,,14,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),028,12:45,13:00,0,,6,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),029,13:00,13:15,0,,18,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),030,13:15,13:30,0,,13,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),031,13:30,13:45,0,,12,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),032,13:45,14:00,0,,22,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),033,14:00,14:15,0,,17,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),034,14:15,14:30,0,,20,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),035,14:30,14:45,0,,23,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),036,14:45,15:00,0,,18,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),037,15:00,15:15,0,,22,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),038,15:15,15:30,0,,17,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),039,15:30,15:45,0,,13,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),040,15:45,16:00,0,,12,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),041,16:00,16:15,0,,19,5,2,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),042,16:15,16:30,0,,16,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),043,16:30,16:45,0,,10,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),044,16:45,17:00,0,,16,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),045,17:00,17:15,0,,16,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),046,17:15,17:30,0,,6,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),047,17:30,17:45,0,,14,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),048,17:45,18:00,0,,7,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),049,18:00,18:15,0,,18,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),050,18:15,18:30,0,,10,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),051,18:30,18:45,1,,9,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Harsdorfer Straße(O),052,18:45,19:00,0,,10,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),001,06:00,06:15,0,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),002,06:15,06:30,0,,10,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),003,06:30,06:45,0,,10,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),004,06:45,07:00,0,,8,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),005,07:00,07:15,0,,11,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),006,07:15,07:30,0,,33,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),007,07:30,07:45,0,,15,1,3,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),008,07:45,08:00,0,,21,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),009,08:00,08:15,0,,12,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),010,08:15,08:30,0,,24,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),011,08:30,08:45,0,,15,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),012,08:45,09:00,0,,21,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),013,09:00,09:15,0,,20,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),014,09:15,09:30,0,,12,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),015,09:30,09:45,0,,26,5,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),016,09:45,10:00,0,,35,4,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),017,10:00,10:15,0,,26,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),018,10:15,10:30,2,,30,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),019,10:30,10:45,1,,14,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),020,10:45,11:00,0,,20,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),021,11:00,11:15,0,,16,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),022,11:15,11:30,0,,12,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),023,11:30,11:45,0,,21,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),024,11:45,12:00,0,,28,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),025,12:00,12:15,2,,22,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),026,12:15,12:30,0,,19,2,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),027,12:30,12:45,1,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),028,12:45,13:00,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),029,13:00,13:15,0,,23,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),030,13:15,13:30,0,,19,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),031,13:30,13:45,0,,25,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),032,13:45,14:00,0,,21,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),033,14:00,14:15,0,,17,2,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),034,14:15,14:30,0,,17,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),035,14:30,14:45,0,,17,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),036,14:45,15:00,0,,25,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),037,15:00,15:15,0,,20,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),038,15:15,15:30,0,,20,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),039,15:30,15:45,0,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),040,15:45,16:00,0,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),041,16:00,16:15,1,,20,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),042,16:15,16:30,1,,31,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),043,16:30,16:45,2,,25,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),044,16:45,17:00,0,,20,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),045,17:00,17:15,0,,20,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),046,17:15,17:30,0,,30,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),047,17:30,17:45,0,,18,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),048,17:45,18:00,0,,20,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),049,18:00,18:15,0,,21,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),050,18:15,18:30,0,,20,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),051,18:30,18:45,0,,24,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Europaring (S),052,18:45,19:00,0,,18,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),001,06:00,06:15,3,,21,3,2,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),002,06:15,06:30,5,,49,5,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),003,06:30,06:45,4,,56,3,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),004,06:45,07:00,2,,63,4,3,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),005,07:00,07:15,8,,85,3,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),006,07:15,07:30,5,,79,4,10,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),007,07:30,07:45,10,,68,6,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),008,07:45,08:00,5,,65,5,1,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),009,08:00,08:15,5,,75,4,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),010,08:15,08:30,3,,72,7,2,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),011,08:30,08:45,5,,54,2,3,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),012,08:45,09:00,2,,64,5,5,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),013,09:00,09:15,2,,59,4,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),014,09:15,09:30,2,,40,1,2,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),015,09:30,09:45,6,,66,3,0,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),016,09:45,10:00,3,,62,6,5,2,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),017,10:00,10:15,1,,90,8,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),018,10:15,10:30,6,,77,4,3,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),019,10:30,10:45,1,,74,3,3,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),020,10:45,11:00,5,,70,2,1,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),021,11:00,11:15,3,,75,0,2,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),022,11:15,11:30,1,,63,4,2,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),023,11:30,11:45,3,,73,4,0,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),024,11:45,12:00,3,,61,1,1,1,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),025,12:00,12:15,2,,67,2,2,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),026,12:15,12:30,2,,75,6,2,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),027,12:30,12:45,6,,42,1,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),028,12:45,13:00,0,,46,7,2,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),029,13:00,13:15,4,,86,5,5,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),030,13:15,13:30,3,,64,7,4,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),031,13:30,13:45,6,,60,4,3,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),032,13:45,14:00,1,,63,8,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),033,14:00,14:15,5,,56,5,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),034,14:15,14:30,6,,71,1,6,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),035,14:30,14:45,4,,64,7,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),036,14:45,15:00,4,,81,3,4,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),037,15:00,15:15,9,,96,4,0,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),038,15:15,15:30,12,,111,3,2,2,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),039,15:30,15:45,0,,52,2,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),040,15:45,16:00,0,,80,4,0,0,2
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),041,16:00,16:15,6,,121,1,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),042,16:15,16:30,8,,135,0,2,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),043,16:30,16:45,8,,106,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),044,16:45,17:00,4,,73,1,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),045,17:00,17:15,12,,86,3,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),046,17:15,17:30,8,,83,1,1,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),047,17:30,17:45,3,,70,2,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),048,17:45,18:00,2,,82,2,0,0,1
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),049,18:00,18:15,1,,80,0,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),050,18:15,18:30,6,,76,1,0,0,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),051,18:30,18:45,6,,71,0,0,1,0
+20,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Europaring (S),052,18:45,19:00,5,,59,3,0,0,1
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),001,06:00,06:15,0,,0,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),002,06:15,06:30,0,,4,2,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),003,06:30,06:45,0,,7,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),004,06:45,07:00,1,,10,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),005,07:00,07:15,0,,4,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),006,07:15,07:30,0,,6,3,1,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),007,07:30,07:45,0,,10,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),008,07:45,08:00,0,,10,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),009,08:00,08:15,0,,11,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),010,08:15,08:30,0,,4,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),011,08:30,08:45,0,,7,3,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),012,08:45,09:00,0,,13,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),013,09:00,09:15,0,,7,2,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),014,09:15,09:30,0,,5,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),015,09:30,09:45,0,,19,2,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),016,09:45,10:00,0,,21,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),017,10:00,10:15,1,,18,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),018,10:15,10:30,0,,15,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),019,10:30,10:45,1,,22,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),020,10:45,11:00,0,,10,0,0,1,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),021,11:00,11:15,1,,18,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),022,11:15,11:30,1,,14,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),023,11:30,11:45,1,,13,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),024,11:45,12:00,1,,11,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),025,12:00,12:15,0,,9,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),026,12:15,12:30,0,,11,1,1,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),027,12:30,12:45,0,,18,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),028,12:45,13:00,0,,12,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),029,13:00,13:15,1,,11,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),030,13:15,13:30,0,,12,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),031,13:30,13:45,0,,8,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),032,13:45,14:00,1,,11,0,1,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),033,14:00,14:15,0,,8,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),034,14:15,14:30,0,,13,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),035,14:30,14:45,0,,13,1,1,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),036,14:45,15:00,0,,12,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),037,15:00,15:15,0,,17,1,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),038,15:15,15:30,0,,14,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),039,15:30,15:45,0,,15,2,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),040,15:45,16:00,0,,10,4,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),041,16:00,16:15,0,,18,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),042,16:15,16:30,1,,20,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),043,16:30,16:45,2,,16,0,0,0,1
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),044,16:45,17:00,0,,30,3,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),045,17:00,17:15,0,,12,0,1,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),046,17:15,17:30,1,,18,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),047,17:30,17:45,1,,20,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),048,17:45,18:00,0,,13,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),049,18:00,18:15,0,,11,3,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),050,18:15,18:30,0,,12,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),051,18:30,18:45,0,,8,0,0,0,0
+21,D,3,1,DL..(12),Zählstrom,,Linksabbieger Europaring (S),052,18:45,19:00,0,,7,0,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,7,,86,7,2,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,11,,154,12,2,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,28,,216,12,3,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,23,,258,21,6,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,32,,322,20,4,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,28,,361,19,13,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,45,,348,19,7,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,40,,352,13,7,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,18,,296,29,5,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,16,,265,23,6,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,17,,269,11,5,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,13,,276,20,12,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,24,,258,31,3,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,14,,199,15,8,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,24,,336,23,4,3,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,15,,321,27,10,3,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,21,,315,22,7,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,24,,274,16,7,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,18,,285,18,4,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,18,,247,5,6,3,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,18,,289,20,5,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,25,,265,19,10,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,21,,283,15,1,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,12,,252,10,2,2,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,25,,240,16,4,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,18,,251,19,4,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,22,,207,8,2,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,9,,175,16,2,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,23,,287,13,9,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,22,,236,17,7,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,26,,222,17,7,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,13,,241,23,7,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,26,,253,23,5,3,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,23,,290,20,7,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,25,,271,16,2,0,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,21,,334,14,6,4,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,23,,323,11,2,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,34,,345,19,3,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,15,,261,14,1,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,14,,238,13,0,0,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,26,,405,16,3,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,41,,452,8,4,0,5
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,45,,387,8,2,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,24,,318,6,0,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,42,,336,9,1,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,30,,320,5,2,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,23,,305,8,0,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,26,,286,8,0,0,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,18,,290,13,0,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,24,,286,8,0,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,36,,269,4,0,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,17,,210,6,0,0,3

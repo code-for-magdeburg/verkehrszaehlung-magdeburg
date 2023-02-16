@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),001,06:00,06:15,0,,20,0,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),002,06:15,06:30,0,,44,1,1,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),003,06:30,06:45,0,,36,2,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),004,06:45,07:00,0,,26,0,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),005,07:00,07:15,0,,35,4,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),006,07:15,07:30,1,,33,2,0,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),007,07:30,07:45,0,,39,2,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),008,07:45,08:00,0,,28,1,0,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),009,08:00,08:15,2,,27,3,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),010,08:15,08:30,2,,32,1,0,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),011,08:30,08:45,1,,32,0,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),012,08:45,09:00,0,,36,1,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),013,09:00,09:15,1,,31,1,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),014,09:15,09:30,1,,29,2,1,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),015,09:30,09:45,0,,52,4,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),016,09:45,10:00,0,,38,0,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),017,10:00,10:15,0,,42,2,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),018,10:15,10:30,0,,43,3,0,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),019,10:30,10:45,0,,33,0,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),020,10:45,11:00,0,,40,0,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),021,11:00,11:15,0,,43,2,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),022,11:15,11:30,0,,39,3,0,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),023,11:30,11:45,0,,58,1,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),024,11:45,12:00,0,,38,1,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),025,12:00,12:15,0,,54,4,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),026,12:15,12:30,0,,33,3,0,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),027,12:30,12:45,0,,32,3,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),028,12:45,13:00,1,,29,0,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),029,13:00,13:15,0,,36,0,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),030,13:15,13:30,1,,28,1,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),031,13:30,13:45,2,,31,1,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),032,13:45,14:00,1,,23,0,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),033,14:00,14:15,1,,26,1,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),034,14:15,14:30,3,,28,0,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),035,14:30,14:45,3,,26,3,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),036,14:45,15:00,1,,51,4,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),037,15:00,15:15,4,,60,2,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),038,15:15,15:30,4,,57,1,0,0,2
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),039,15:30,15:45,3,,42,0,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),040,15:45,16:00,1,,35,0,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),041,16:00,16:15,0,,52,4,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),042,16:15,16:30,0,,48,2,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),043,16:30,16:45,0,,58,5,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),044,16:45,17:00,0,,51,5,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),045,17:00,17:15,0,,44,3,1,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),046,17:15,17:30,3,,43,2,0,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),047,17:30,17:45,1,,40,3,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),048,17:45,18:00,3,,46,3,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),049,18:00,18:15,1,,38,4,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),050,18:15,18:30,1,,40,1,0,0,1
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),051,18:30,18:45,1,,34,2,0,0,0
+3,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Scharnhorstring(N),052,18:45,19:00,0,,29,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),001,06:00,06:15,0,,4,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),002,06:15,06:30,0,,14,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),003,06:30,06:45,0,,11,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),004,06:45,07:00,0,,15,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),005,07:00,07:15,0,,7,2,1,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),006,07:15,07:30,0,,19,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),007,07:30,07:45,0,,18,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),008,07:45,08:00,0,,12,3,1,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),009,08:00,08:15,0,,17,2,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),010,08:15,08:30,0,,10,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),011,08:30,08:45,0,,9,1,1,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),012,08:45,09:00,0,,11,2,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),013,09:00,09:15,0,,10,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),014,09:15,09:30,0,,7,2,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),015,09:30,09:45,0,,27,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),016,09:45,10:00,0,,34,0,1,1,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),017,10:00,10:15,0,,24,2,0,1,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),018,10:15,10:30,0,,17,3,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),019,10:30,10:45,0,,13,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),020,10:45,11:00,0,,28,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),021,11:00,11:15,0,,24,5,1,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),022,11:15,11:30,0,,17,3,2,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),023,11:30,11:45,1,,16,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),024,11:45,12:00,0,,18,1,1,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),025,12:00,12:15,1,,16,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),026,12:15,12:30,0,,14,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),027,12:30,12:45,0,,21,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),028,12:45,13:00,0,,13,1,3,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),029,13:00,13:15,0,,15,2,1,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),030,13:15,13:30,0,,9,1,0,0,1
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),031,13:30,13:45,0,,8,2,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),032,13:45,14:00,0,,6,2,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),033,14:00,14:15,2,,21,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),034,14:15,14:30,0,,11,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),035,14:30,14:45,0,,30,2,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),036,14:45,15:00,0,,22,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),037,15:00,15:15,0,,20,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),038,15:15,15:30,0,,22,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),039,15:30,15:45,0,,23,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),040,15:45,16:00,0,,16,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),041,16:00,16:15,0,,25,3,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),042,16:15,16:30,0,,19,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),043,16:30,16:45,0,,28,1,0,1,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),044,16:45,17:00,0,,23,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),045,17:00,17:15,1,,21,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),046,17:15,17:30,2,,30,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),047,17:30,17:45,1,,26,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),048,17:45,18:00,0,,24,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),049,18:00,18:15,0,,22,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),050,18:15,18:30,0,,17,1,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),051,18:30,18:45,0,,21,0,0,0,0
+4,B,1,2,BL...(6),Zählstrom,,Linksabbieger Scharnhorstring (N),052,18:45,19:00,0,,15,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,001,06:00,06:15,0,,7,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,002,06:15,06:30,0,,6,1,2,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,003,06:30,06:45,0,,11,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,004,06:45,07:00,0,,10,3,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,005,07:00,07:15,0,,9,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,006,07:15,07:30,0,,20,0,2,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,007,07:30,07:45,0,,11,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,008,07:45,08:00,0,,13,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,009,08:00,08:15,0,,21,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,010,08:15,08:30,1,,16,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,011,08:30,08:45,0,,23,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,012,08:45,09:00,0,,15,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,013,09:00,09:15,0,,29,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,014,09:15,09:30,1,,22,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,015,09:30,09:45,0,,37,1,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,016,09:45,10:00,1,,16,2,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,017,10:00,10:15,0,,27,3,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,018,10:15,10:30,1,,30,1,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,019,10:30,10:45,0,,14,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,020,10:45,11:00,0,,16,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,021,11:00,11:15,0,,24,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,022,11:15,11:30,0,,32,3,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,023,11:30,11:45,0,,21,1,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,024,11:45,12:00,0,,13,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,025,12:00,12:15,0,,13,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,026,12:15,12:30,0,,16,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,027,12:30,12:45,0,,19,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,028,12:45,13:00,0,,23,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,029,13:00,13:15,0,,21,3,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,030,13:15,13:30,0,,19,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,031,13:30,13:45,0,,18,4,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,032,13:45,14:00,0,,19,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,033,14:00,14:15,0,,15,1,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,034,14:15,14:30,0,,27,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,035,14:30,14:45,0,,24,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,036,14:45,15:00,0,,28,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,037,15:00,15:15,1,,25,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,038,15:15,15:30,0,,18,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,039,15:30,15:45,0,,19,2,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,040,15:45,16:00,0,,17,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,041,16:00,16:15,0,,27,3,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,042,16:15,16:30,0,,29,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,043,16:30,16:45,0,,28,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,044,16:45,17:00,0,,24,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,045,17:00,17:15,0,,25,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,046,17:15,17:30,0,,17,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,047,17:30,17:45,0,,20,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,048,17:45,18:00,0,,10,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,049,18:00,18:15,0,,17,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,050,18:15,18:30,0,,20,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,051,18:30,18:45,0,,20,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Olvenstedter Scheid,052,18:45,19:00,0,,17,1,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,001,06:00,06:15,1,,7,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,002,06:15,06:30,0,,11,0,1,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,003,06:30,06:45,0,,16,0,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,004,06:45,07:00,1,,11,0,1,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,005,07:00,07:15,0,,23,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,006,07:15,07:30,0,,23,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,007,07:30,07:45,1,,21,1,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,008,07:45,08:00,0,,21,2,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,009,08:00,08:15,1,,18,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,010,08:15,08:30,0,,14,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,011,08:30,08:45,1,,18,1,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,012,08:45,09:00,3,,19,2,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,013,09:00,09:15,1,,14,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,014,09:15,09:30,2,,21,2,1,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,015,09:30,09:45,3,,28,0,0,2,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,016,09:45,10:00,2,,20,2,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,017,10:00,10:15,2,,16,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,018,10:15,10:30,0,,23,3,1,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,019,10:30,10:45,0,,21,2,2,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,020,10:45,11:00,0,,30,2,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,021,11:00,11:15,6,,23,2,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,022,11:15,11:30,0,,14,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,023,11:30,11:45,0,,28,0,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,024,11:45,12:00,1,,15,2,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,025,12:00,12:15,0,,12,7,1,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,026,12:15,12:30,2,,15,3,2,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,027,12:30,12:45,0,,16,3,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,028,12:45,13:00,0,,20,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,029,13:00,13:15,3,,24,5,0,0,2
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,030,13:15,13:30,0,,17,0,0,1,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,031,13:30,13:45,1,,24,3,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,032,13:45,14:00,2,,20,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,033,14:00,14:15,1,,25,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,034,14:15,14:30,3,,27,1,1,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,035,14:30,14:45,1,,21,1,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,036,14:45,15:00,4,,29,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,037,15:00,15:15,2,,36,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,038,15:15,15:30,1,,30,2,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,039,15:30,15:45,6,,24,3,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,040,15:45,16:00,0,,17,0,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,041,16:00,16:15,0,,41,4,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,042,16:15,16:30,2,,40,4,1,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,043,16:30,16:45,0,,40,1,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,044,16:45,17:00,1,,26,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,045,17:00,17:15,2,,35,0,0,1,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,046,17:15,17:30,0,,26,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,047,17:30,17:45,1,,25,1,0,0,0
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,048,17:45,18:00,0,,29,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,049,18:00,18:15,1,,20,2,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,050,18:15,18:30,2,,20,0,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,051,18:30,18:45,2,,24,1,0,0,1
+11,C,1,2,CL...(9),Zählstrom,,Linksabbieger Olvenstedter Scheid,052,18:45,19:00,1,,30,2,0,1,1
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),001,06:00,06:15,1,,5,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),002,06:15,06:30,2,,10,3,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),003,06:30,06:45,6,,11,1,1,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),004,06:45,07:00,1,,12,6,2,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),005,07:00,07:15,3,,27,3,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),006,07:15,07:30,4,,22,2,1,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),007,07:30,07:45,1,,19,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),008,07:45,08:00,2,,11,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),009,08:00,08:15,3,,18,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),010,08:15,08:30,0,,14,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),011,08:30,08:45,1,,24,2,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),012,08:45,09:00,5,,27,2,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),013,09:00,09:15,5,,18,4,2,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),014,09:15,09:30,2,,16,2,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),015,09:30,09:45,2,,20,3,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),016,09:45,10:00,0,,11,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),017,10:00,10:15,0,,22,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),018,10:15,10:30,3,,28,6,4,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),019,10:30,10:45,2,,13,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),020,10:45,11:00,1,,21,2,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),021,11:00,11:15,0,,15,5,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),022,11:15,11:30,0,,11,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),023,11:30,11:45,2,,17,2,1,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),024,11:45,12:00,0,,11,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),025,12:00,12:15,1,,14,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),026,12:15,12:30,1,,11,2,1,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),027,12:30,12:45,0,,19,3,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),028,12:45,13:00,0,,5,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),029,13:00,13:15,8,,17,3,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),030,13:15,13:30,3,,25,3,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),031,13:30,13:45,5,,16,8,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),032,13:45,14:00,1,,21,2,1,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),033,14:00,14:15,3,,17,2,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),034,14:15,14:30,5,,22,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),035,14:30,14:45,4,,23,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),036,14:45,15:00,4,,24,4,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),037,15:00,15:15,5,,25,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),038,15:15,15:30,1,,27,1,1,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),039,15:30,15:45,3,,26,3,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),040,15:45,16:00,2,,22,3,1,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),041,16:00,16:15,0,,15,3,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),042,16:15,16:30,0,,24,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),043,16:30,16:45,0,,15,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),044,16:45,17:00,0,,23,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),045,17:00,17:15,1,,21,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),046,17:15,17:30,0,,13,1,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),047,17:30,17:45,0,,22,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),048,17:45,18:00,0,,17,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),049,18:00,18:15,0,,17,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),050,18:15,18:30,1,,17,1,0,2,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),051,18:30,18:45,4,,14,0,0,0,0
+15,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Scharnhorstring (S),052,18:45,19:00,0,,10,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),001,06:00,06:15,2,,25,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),002,06:15,06:30,2,,19,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),003,06:30,06:45,4,,32,3,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),004,06:45,07:00,10,,50,3,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),005,07:00,07:15,5,,53,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),006,07:15,07:30,5,,66,5,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),007,07:30,07:45,2,,37,3,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),008,07:45,08:00,2,,33,3,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),009,08:00,08:15,3,,43,3,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),010,08:15,08:30,1,,32,1,2,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),011,08:30,08:45,3,,33,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),012,08:45,09:00,2,,36,1,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),013,09:00,09:15,0,,35,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),014,09:15,09:30,3,,41,4,2,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),015,09:30,09:45,2,,46,1,0,1,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),016,09:45,10:00,0,,47,1,0,2,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),017,10:00,10:15,1,,33,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),018,10:15,10:30,1,,51,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),019,10:30,10:45,0,,30,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),020,10:45,11:00,0,,34,6,1,1,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),021,11:00,11:15,1,,57,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),022,11:15,11:30,2,,38,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),023,11:30,11:45,0,,37,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),024,11:45,12:00,1,,24,1,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),025,12:00,12:15,2,,25,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),026,12:15,12:30,1,,31,2,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),027,12:30,12:45,3,,41,2,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),028,12:45,13:00,0,,10,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),029,13:00,13:15,1,,38,3,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),030,13:15,13:30,4,,19,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),031,13:30,13:45,5,,32,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),032,13:45,14:00,1,,35,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),033,14:00,14:15,1,,28,4,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),034,14:15,14:30,1,,45,1,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),035,14:30,14:45,3,,31,4,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),036,14:45,15:00,1,,37,4,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),037,15:00,15:15,0,,56,1,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),038,15:15,15:30,1,,35,2,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),039,15:30,15:45,7,,29,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),040,15:45,16:00,4,,46,4,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),041,16:00,16:15,0,,43,3,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),042,16:15,16:30,0,,40,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),043,16:30,16:45,0,,52,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),044,16:45,17:00,0,,30,0,0,0,2
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),045,17:00,17:15,0,,35,1,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),046,17:15,17:30,1,,31,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),047,17:30,17:45,0,,34,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),048,17:45,18:00,0,,30,0,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),049,18:00,18:15,2,,37,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),050,18:15,18:30,0,,30,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),051,18:30,18:45,0,,15,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Scharnhorstring(S),052,18:45,19:00,1,,18,0,0,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,001,06:00,06:15,4,,68,0,0,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,002,06:15,06:30,4,,104,5,4,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,003,06:30,06:45,10,,117,8,2,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,004,06:45,07:00,12,,124,12,4,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,005,07:00,07:15,8,,154,13,2,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,006,07:15,07:30,10,,183,11,3,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,007,07:30,07:45,4,,145,10,1,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,008,07:45,08:00,4,,118,11,1,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,009,08:00,08:15,9,,144,8,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,010,08:15,08:30,4,,118,4,2,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,011,08:30,08:45,6,,139,5,1,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,012,08:45,09:00,10,,144,8,0,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,013,09:00,09:15,7,,137,8,2,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,014,09:15,09:30,9,,136,12,4,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,015,09:30,09:45,7,,210,9,1,3,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,016,09:45,10:00,3,,166,5,2,3,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,017,10:00,10:15,3,,164,10,0,1,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,018,10:15,10:30,5,,192,18,6,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,019,10:30,10:45,2,,124,4,3,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,020,10:45,11:00,1,,169,12,2,1,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,021,11:00,11:15,7,,186,15,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,022,11:15,11:30,2,,151,10,2,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,023,11:30,11:45,3,,177,7,3,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,024,11:45,12:00,2,,119,5,1,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,025,12:00,12:15,4,,134,13,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,026,12:15,12:30,4,,120,13,3,0,3
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,027,12:30,12:45,3,,148,13,1,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,028,12:45,13:00,1,,100,6,4,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,029,13:00,13:15,12,,151,16,1,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,030,13:15,13:30,8,,117,5,1,1,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,031,13:30,13:45,13,,129,20,1,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,032,13:45,14:00,5,,124,6,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,033,14:00,14:15,8,,132,10,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,034,14:15,14:30,12,,160,3,1,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,035,14:30,14:45,11,,155,11,0,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,036,14:45,15:00,10,,191,14,0,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,037,15:00,15:15,12,,222,7,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,038,15:15,15:30,7,,189,8,2,0,3
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,039,15:30,15:45,19,,163,11,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,040,15:45,16:00,7,,153,7,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,041,16:00,16:15,0,,203,20,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,042,16:15,16:30,2,,200,9,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,043,16:30,16:45,0,,221,9,1,1,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,044,16:45,17:00,1,,177,6,0,0,3
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,045,17:00,17:15,4,,181,6,2,1,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,046,17:15,17:30,6,,160,4,0,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,047,17:30,17:45,3,,167,7,0,0,0
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,048,17:45,18:00,3,,156,4,0,0,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,049,18:00,18:15,4,,151,8,0,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,050,18:15,18:30,4,,144,5,0,2,2
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,051,18:30,18:45,7,,128,6,0,0,1
+22,,0,0,SUMME ZU,summierter Strom,5+12+19,QB1 + QC1 + QD1,052,18:45,19:00,2,,119,3,0,1,2

@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),001,06:00,06:15,0,,13,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),002,06:15,06:30,0,,9,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),003,06:30,06:45,0,,11,2,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),004,06:45,07:00,0,,8,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),005,07:00,07:15,0,,16,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),006,07:15,07:30,0,,12,2,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),007,07:30,07:45,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),008,07:45,08:00,0,,9,2,0,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),009,08:00,08:15,0,,13,3,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),010,08:15,08:30,0,,9,1,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),011,08:30,08:45,1,,12,0,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),012,08:45,09:00,0,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),013,09:00,09:15,0,,18,3,1,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),014,09:15,09:30,0,,9,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),015,09:30,09:45,0,,12,4,0,1,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),016,09:45,10:00,0,,15,0,1,4,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),017,10:00,10:15,0,,23,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),018,10:15,10:30,0,,19,2,0,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),019,10:30,10:45,0,,18,4,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),020,10:45,11:00,0,,12,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),021,11:00,11:15,0,,13,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),022,11:15,11:30,0,,14,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),023,11:30,11:45,0,,20,1,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),024,11:45,12:00,0,,14,1,1,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),025,12:00,12:15,0,,16,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),026,12:15,12:30,0,,12,2,0,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),027,12:30,12:45,0,,21,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),028,12:45,13:00,0,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),029,13:00,13:15,0,,25,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),030,13:15,13:30,0,,31,1,0,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),031,13:30,13:45,0,,26,0,2,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),032,13:45,14:00,0,,22,0,1,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),033,14:00,14:15,0,,31,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),034,14:15,14:30,0,,38,8,1,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),035,14:30,14:45,0,,31,3,0,1,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),036,14:45,15:00,1,,42,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),037,15:00,15:15,0,,48,5,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),038,15:15,15:30,0,,43,6,1,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),039,15:30,15:45,0,,63,7,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),040,15:45,16:00,0,,36,3,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),041,16:00,16:15,0,,36,3,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),042,16:15,16:30,4,,57,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),043,16:30,16:45,1,,60,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),044,16:45,17:00,0,,38,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),045,17:00,17:15,0,,57,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),046,17:15,17:30,0,,31,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),047,17:30,17:45,0,,30,3,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),048,17:45,18:00,0,,32,3,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),049,18:00,18:15,0,,31,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),050,18:15,18:30,0,,34,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),051,18:30,18:45,0,,17,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Menzer Straße (W),052,18:45,19:00,0,,21,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),001,06:00,06:15,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),002,06:15,06:30,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),003,06:30,06:45,0,,1,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),004,06:45,07:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),005,07:00,07:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),006,07:15,07:30,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),007,07:30,07:45,0,,0,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),008,07:45,08:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),009,08:00,08:15,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),010,08:15,08:30,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),011,08:30,08:45,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),012,08:45,09:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),013,09:00,09:15,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),014,09:15,09:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),015,09:30,09:45,0,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),016,09:45,10:00,1,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),017,10:00,10:15,0,,5,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),018,10:15,10:30,0,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),019,10:30,10:45,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),020,10:45,11:00,0,,5,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),021,11:00,11:15,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),022,11:15,11:30,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),023,11:30,11:45,0,,2,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),024,11:45,12:00,0,,2,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),025,12:00,12:15,0,,5,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),026,12:15,12:30,0,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),027,12:30,12:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),028,12:45,13:00,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),029,13:00,13:15,0,,5,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),030,13:15,13:30,0,,1,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),031,13:30,13:45,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),032,13:45,14:00,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),033,14:00,14:15,0,,1,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),034,14:15,14:30,0,,3,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),035,14:30,14:45,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),036,14:45,15:00,0,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),037,15:00,15:15,0,,5,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),038,15:15,15:30,0,,3,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),039,15:30,15:45,0,,1,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),040,15:45,16:00,0,,3,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),041,16:00,16:15,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),042,16:15,16:30,1,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),043,16:30,16:45,0,,3,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),044,16:45,17:00,0,,4,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),045,17:00,17:15,1,,5,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),046,17:15,17:30,0,,5,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),047,17:30,17:45,1,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),048,17:45,18:00,2,,3,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),049,18:00,18:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),050,18:15,18:30,0,,5,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),051,18:30,18:45,0,,2,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Menzer Straße (W),052,18:45,19:00,0,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),001,06:00,06:15,0,,2,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),002,06:15,06:30,3,,4,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),003,06:30,06:45,0,,4,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),004,06:45,07:00,0,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),005,07:00,07:15,0,,2,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),006,07:15,07:30,0,,8,0,1,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),007,07:30,07:45,0,,5,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),008,07:45,08:00,0,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),009,08:00,08:15,1,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),010,08:15,08:30,3,,2,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),011,08:30,08:45,2,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),012,08:45,09:00,0,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),013,09:00,09:15,1,,9,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),014,09:15,09:30,1,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),015,09:30,09:45,0,,6,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),016,09:45,10:00,1,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),017,10:00,10:15,0,,1,0,0,1,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),018,10:15,10:30,0,,2,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),019,10:30,10:45,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),020,10:45,11:00,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),021,11:00,11:15,0,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),022,11:15,11:30,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),023,11:30,11:45,0,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),024,11:45,12:00,0,,2,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),025,12:00,12:15,1,,2,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),026,12:15,12:30,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),027,12:30,12:45,0,,1,0,1,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),028,12:45,13:00,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),029,13:00,13:15,0,,4,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),030,13:15,13:30,1,,1,1,1,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),031,13:30,13:45,0,,5,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),032,13:45,14:00,0,,4,0,1,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),033,14:00,14:15,0,,5,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),034,14:15,14:30,0,,2,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),035,14:30,14:45,0,,4,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),036,14:45,15:00,0,,8,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),037,15:00,15:15,0,,3,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),038,15:15,15:30,0,,1,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),039,15:30,15:45,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),040,15:45,16:00,0,,2,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),041,16:00,16:15,0,,2,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),042,16:15,16:30,1,,2,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),043,16:30,16:45,2,,2,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),044,16:45,17:00,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),045,17:00,17:15,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),046,17:15,17:30,0,,2,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),047,17:30,17:45,1,,2,1,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),048,17:45,18:00,0,,2,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),049,18:00,18:15,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),050,18:15,18:30,0,,3,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),051,18:30,18:45,0,,1,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Menzer Straße (O),052,18:45,19:00,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),001,06:00,06:15,0,,2,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),002,06:15,06:30,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),003,06:30,06:45,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),004,06:45,07:00,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),005,07:00,07:15,0,,2,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),006,07:15,07:30,0,,5,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),007,07:30,07:45,0,,4,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),008,07:45,08:00,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),009,08:00,08:15,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),010,08:15,08:30,0,,0,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),011,08:30,08:45,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),012,08:45,09:00,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),013,09:00,09:15,0,,5,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),014,09:15,09:30,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),015,09:30,09:45,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),016,09:45,10:00,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),017,10:00,10:15,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),018,10:15,10:30,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),019,10:30,10:45,0,,0,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),020,10:45,11:00,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),021,11:00,11:15,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),022,11:15,11:30,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),023,11:30,11:45,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),024,11:45,12:00,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),025,12:00,12:15,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),026,12:15,12:30,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),027,12:30,12:45,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),028,12:45,13:00,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),029,13:00,13:15,0,,1,0,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),030,13:15,13:30,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),031,13:30,13:45,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),032,13:45,14:00,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),033,14:00,14:15,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),034,14:15,14:30,0,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),035,14:30,14:45,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),036,14:45,15:00,0,,6,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),037,15:00,15:15,0,,2,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),038,15:15,15:30,0,,7,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),039,15:30,15:45,0,,1,4,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),040,15:45,16:00,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),041,16:00,16:15,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),042,16:15,16:30,0,,1,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),043,16:30,16:45,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),044,16:45,17:00,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),045,17:00,17:15,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),046,17:15,17:30,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),047,17:30,17:45,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),048,17:45,18:00,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),049,18:00,18:15,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),050,18:15,18:30,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),051,18:30,18:45,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Menzer Straße (O),052,18:45,19:00,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,001,06:00,06:15,0,,0,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,002,06:15,06:30,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,003,06:30,06:45,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,004,06:45,07:00,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,005,07:00,07:15,0,,1,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,006,07:15,07:30,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,007,07:30,07:45,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,008,07:45,08:00,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,009,08:00,08:15,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,010,08:15,08:30,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,011,08:30,08:45,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,012,08:45,09:00,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,013,09:00,09:15,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,014,09:15,09:30,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,015,09:30,09:45,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,016,09:45,10:00,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,017,10:00,10:15,0,,0,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,018,10:15,10:30,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,019,10:30,10:45,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,020,10:45,11:00,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,021,11:00,11:15,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,022,11:15,11:30,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,023,11:30,11:45,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,024,11:45,12:00,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,025,12:00,12:15,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,026,12:15,12:30,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,027,12:30,12:45,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,028,12:45,13:00,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,029,13:00,13:15,1,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,030,13:15,13:30,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,031,13:30,13:45,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,032,13:45,14:00,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,033,14:00,14:15,0,,3,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,034,14:15,14:30,0,,1,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,035,14:30,14:45,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,036,14:45,15:00,0,,6,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,037,15:00,15:15,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,038,15:15,15:30,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,039,15:30,15:45,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,040,15:45,16:00,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,041,16:00,16:15,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,042,16:15,16:30,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,043,16:30,16:45,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,044,16:45,17:00,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,045,17:00,17:15,0,,1,2,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,046,17:15,17:30,0,,0,1,0,1,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,047,17:30,17:45,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,048,17:45,18:00,0,,3,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,049,18:00,18:15,0,,3,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,050,18:15,18:30,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,051,18:30,18:45,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Luisenthaler Straße,052,18:45,19:00,0,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,001,06:00,06:15,0,,42,1,0,1,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,002,06:15,06:30,0,,51,4,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,003,06:30,06:45,1,,77,6,2,1,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,004,06:45,07:00,6,,61,2,0,1,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,005,07:00,07:15,0,,70,6,0,1,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,006,07:15,07:30,0,,66,0,2,1,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,007,07:30,07:45,0,,60,5,3,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,008,07:45,08:00,0,,52,0,2,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,009,08:00,08:15,0,,48,2,2,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,010,08:15,08:30,0,,41,2,1,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,011,08:30,08:45,0,,48,2,1,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,012,08:45,09:00,0,,25,1,2,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,013,09:00,09:15,0,,36,2,2,4,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,014,09:15,09:30,2,,17,0,0,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,015,09:30,09:45,0,,35,1,1,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,016,09:45,10:00,0,,31,1,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,017,10:00,10:15,0,,13,0,2,1,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,018,10:15,10:30,0,,17,1,1,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,019,10:30,10:45,0,,15,2,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,020,10:45,11:00,0,,17,0,0,1,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,021,11:00,11:15,1,,10,0,0,2,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,022,11:15,11:30,0,,15,2,0,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,023,11:30,11:45,0,,14,0,1,2,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,024,11:45,12:00,0,,13,1,1,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,025,12:00,12:15,1,,14,0,1,2,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,026,12:15,12:30,0,,24,1,0,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,027,12:30,12:45,0,,16,1,1,3,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,028,12:45,13:00,0,,13,0,1,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,029,13:00,13:15,1,,30,4,1,3,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,030,13:15,13:30,0,,23,6,0,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,031,13:30,13:45,2,,27,4,0,3,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,032,13:45,14:00,0,,21,1,1,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,033,14:00,14:15,0,,9,1,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,034,14:15,14:30,0,,33,6,1,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,035,14:30,14:45,1,,28,0,1,2,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,036,14:45,15:00,0,,19,0,0,1,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,037,15:00,15:15,0,,24,1,1,2,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,038,15:15,15:30,0,,30,1,2,1,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,039,15:30,15:45,0,,31,1,0,1,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,040,15:45,16:00,0,,24,2,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,041,16:00,16:15,0,,13,1,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,042,16:15,16:30,0,,24,2,0,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,043,16:30,16:45,0,,18,3,1,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,044,16:45,17:00,0,,20,1,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,045,17:00,17:15,0,,21,3,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,046,17:15,17:30,0,,17,0,0,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,047,17:30,17:45,1,,22,2,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,048,17:45,18:00,0,,16,1,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,049,18:00,18:15,1,,18,2,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,050,18:15,18:30,0,,19,1,0,0,1
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,051,18:30,18:45,2,,16,2,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Luisenthaler Straße,052,18:45,19:00,1,,13,0,0,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,001,06:00,06:15,2,,1,54,3,3,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,002,06:15,06:30,0,,0,103,3,2,3
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,003,06:30,06:45,3,,2,147,3,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,004,06:45,07:00,3,,0,180,7,3,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,005,07:00,07:15,15,,1,146,5,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,006,07:15,07:30,7,,1,124,7,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,007,07:30,07:45,1,,0,128,13,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,008,07:45,08:00,2,,1,105,4,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,009,08:00,08:15,2,,0,78,4,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,010,08:15,08:30,3,,0,68,2,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,011,08:30,08:45,0,,0,62,5,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,012,08:45,09:00,2,,1,92,3,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,013,09:00,09:15,4,,0,91,2,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,014,09:15,09:30,5,,0,90,2,3,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,015,09:30,09:45,4,,3,104,7,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,016,09:45,10:00,6,,1,82,3,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,017,10:00,10:15,1,,2,90,5,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,018,10:15,10:30,7,,0,71,1,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,019,10:30,10:45,5,,3,61,6,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,020,10:45,11:00,2,,1,91,3,4,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,021,11:00,11:15,4,,2,60,6,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,022,11:15,11:30,3,,0,64,0,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,023,11:30,11:45,20,,1,73,4,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,024,11:45,12:00,3,,0,68,2,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,025,12:00,12:15,7,,1,68,4,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,026,12:15,12:30,3,,2,71,6,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,027,12:30,12:45,1,,1,57,3,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,028,12:45,13:00,4,,1,42,4,2,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,029,13:00,13:15,2,,1,77,3,3,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,030,13:15,13:30,6,,0,73,4,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,031,13:30,13:45,2,,1,75,1,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,032,13:45,14:00,3,,1,82,4,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,033,14:00,14:15,4,,0,76,6,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,034,14:15,14:30,3,,1,73,3,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,035,14:30,14:45,1,,2,95,2,3,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,036,14:45,15:00,4,,1,109,8,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,037,15:00,15:15,6,,0,107,3,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,038,15:15,15:30,7,,2,108,0,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,039,15:30,15:45,2,,1,193,2,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,040,15:45,16:00,4,,3,153,4,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,041,16:00,16:15,9,,3,228,6,2,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,042,16:15,16:30,6,,1,162,4,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,043,16:30,16:45,2,,1,172,5,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,044,16:45,17:00,2,,2,124,4,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,045,17:00,17:15,2,,0,128,5,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,046,17:15,17:30,2,,4,112,4,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,047,17:30,17:45,4,,9,107,0,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,048,17:45,18:00,1,,1,94,7,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,049,18:00,18:15,2,,1,97,2,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,050,18:15,18:30,6,,5,115,1,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,051,18:30,18:45,6,,2,87,1,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,052,18:45,19:00,9,,1,49,0,0,0

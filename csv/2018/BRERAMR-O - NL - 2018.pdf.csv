@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),001,06:00,06:15,3,,60,6,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),002,06:15,06:30,6,,46,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),003,06:30,06:45,12,,4,61,8,2,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),004,06:45,07:00,7,,83,3,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),005,07:00,07:15,13,,65,6,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),006,07:15,07:30,5,,73,1,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),007,07:30,07:45,9,,72,2,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),008,07:45,08:00,7,,78,1,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),009,08:00,08:15,5,,50,4,4,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),010,08:15,08:30,4,,60,6,6,2,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),011,08:30,08:45,6,,51,3,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),012,08:45,09:00,10,,51,3,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),013,09:00,09:15,4,,50,8,6,0,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),014,09:15,09:30,1,,37,6,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),015,09:30,09:45,4,,71,1,4,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),016,09:45,10:00,3,,72,6,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),017,10:00,10:15,3,,65,4,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),018,10:15,10:30,2,,60,5,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),019,10:30,10:45,4,,75,6,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),020,10:45,11:00,2,,67,8,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),021,11:00,11:15,4,,63,5,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),022,11:15,11:30,3,,62,4,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),023,11:30,11:45,2,,66,4,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),024,11:45,12:00,6,,62,4,4,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),025,12:00,12:15,3,,65,3,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),026,12:15,12:30,7,,63,6,2,0,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),027,12:30,12:45,4,,59,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),028,12:45,13:00,3,,64,4,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),029,13:00,13:15,9,,95,2,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),030,13:15,13:30,8,,97,5,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),031,13:30,13:45,5,,64,9,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),032,13:45,14:00,11,,80,6,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),033,14:00,14:15,9,,70,9,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),034,14:15,14:30,6,,69,12,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),035,14:30,14:45,6,,116,6,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),036,14:45,15:00,6,,98,11,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),037,15:00,15:15,7,,87,0,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),038,15:15,15:30,4,,90,8,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),039,15:30,15:45,4,,102,12,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),040,15:45,16:00,6,,75,7,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),041,16:00,16:15,6,,107,6,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),042,16:15,16:30,7,,108,8,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),043,16:30,16:45,4,,81,4,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),044,16:45,17:00,4,,105,3,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),045,17:00,17:15,0,,74,4,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),046,17:15,17:30,3,,56,5,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),047,17:30,17:45,2,,68,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),048,17:45,18:00,5,,74,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),049,18:00,18:15,5,,90,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),050,18:15,18:30,3,,78,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),051,18:30,18:45,6,,61,4,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße(W),052,18:45,19:00,2,,45,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),001,06:00,06:15,0,,69,4,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),002,06:15,06:30,0,,56,3,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),003,06:30,06:45,0,,97,9,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),004,06:45,07:00,0,,81,4,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),005,07:00,07:15,0,,90,6,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),006,07:15,07:30,0,,106,6,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),007,07:30,07:45,0,,93,3,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),008,07:45,08:00,0,,86,1,4,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),009,08:00,08:15,0,,69,4,3,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),010,08:15,08:30,0,,59,5,2,3,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),011,08:30,08:45,0,,55,2,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),012,08:45,09:00,0,,53,8,2,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),013,09:00,09:15,0,,56,7,4,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),014,09:15,09:30,0,,33,3,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),015,09:30,09:45,0,,72,3,2,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),016,09:45,10:00,0,,63,2,2,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),017,10:00,10:15,0,,44,0,2,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),018,10:15,10:30,0,,46,0,2,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),019,10:30,10:45,0,,70,0,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),020,10:45,11:00,0,,49,3,2,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),021,11:00,11:15,0,,45,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),022,11:15,11:30,0,,39,0,1,2,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),023,11:30,11:45,0,,57,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),024,11:45,12:00,0,,49,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),025,12:00,12:15,0,,39,0,4,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),026,12:15,12:30,0,,33,0,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),027,12:30,12:45,0,,43,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),028,12:45,13:00,0,,34,0,2,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),029,13:00,13:15,0,,71,2,2,2,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),030,13:15,13:30,0,,52,4,3,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),031,13:30,13:45,0,,32,2,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),032,13:45,14:00,0,,35,3,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),033,14:00,14:15,0,,31,6,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),034,14:15,14:30,0,,53,4,2,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),035,14:30,14:45,0,,60,3,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),036,14:45,15:00,0,,72,5,3,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),037,15:00,15:15,0,,69,5,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),038,15:15,15:30,0,,51,3,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),039,15:30,15:45,0,,21,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),040,15:45,16:00,0,,48,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),041,16:00,16:15,0,,72,0,0,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),042,16:15,16:30,0,,86,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),043,16:30,16:45,0,,73,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),044,16:45,17:00,0,,71,3,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),045,17:00,17:15,0,,76,3,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),046,17:15,17:30,0,,48,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),047,17:30,17:45,0,,57,0,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),048,17:45,18:00,0,,65,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),049,18:00,18:15,0,,66,0,0,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),050,18:15,18:30,0,,61,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),051,18:30,18:45,0,,66,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße (W),052,18:45,19:00,0,,61,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),001,06:00,06:15,0,,24,4,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),002,06:15,06:30,2,,34,1,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),003,06:30,06:45,0,,37,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),004,06:45,07:00,1,,29,2,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),005,07:00,07:15,0,,38,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),006,07:15,07:30,0,,29,3,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),007,07:30,07:45,0,,40,1,0,1,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),008,07:45,08:00,0,,29,2,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),009,08:00,08:15,0,,26,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),010,08:15,08:30,0,,22,1,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),011,08:30,08:45,0,,23,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),012,08:45,09:00,0,,33,3,1,1,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),013,09:00,09:15,0,,30,0,2,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),014,09:15,09:30,0,,29,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),015,09:30,09:45,0,,39,6,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),016,09:45,10:00,0,,36,3,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),017,10:00,10:15,0,,20,2,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),018,10:15,10:30,0,,29,0,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),019,10:30,10:45,0,,23,0,3,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),020,10:45,11:00,0,,27,4,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),021,11:00,11:15,0,,30,2,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),022,11:15,11:30,0,,23,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),023,11:30,11:45,0,,26,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),024,11:45,12:00,0,,22,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),025,12:00,12:15,0,,34,6,0,1,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),026,12:15,12:30,0,,26,0,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),027,12:30,12:45,0,,28,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),028,12:45,13:00,0,,25,2,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),029,13:00,13:15,0,,32,1,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),030,13:15,13:30,0,,29,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),031,13:30,13:45,0,,23,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),032,13:45,14:00,0,,32,2,2,1,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),033,14:00,14:15,0,,21,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),034,14:15,14:30,0,,36,0,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),035,14:30,14:45,0,,50,0,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),036,14:45,15:00,0,,49,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),037,15:00,15:15,0,,33,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),038,15:15,15:30,0,,38,3,1,1,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),039,15:30,15:45,0,,24,0,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),040,15:45,16:00,0,,36,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),041,16:00,16:15,0,,28,6,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),042,16:15,16:30,0,,34,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),043,16:30,16:45,0,,30,2,1,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),044,16:45,17:00,0,,25,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),045,17:00,17:15,0,,35,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),046,17:15,17:30,0,,37,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),047,17:30,17:45,0,,37,2,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),048,17:45,18:00,0,,38,0,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),049,18:00,18:15,0,,27,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),050,18:15,18:30,0,,29,4,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),051,18:30,18:45,0,,22,1,0,0,0
+8,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Brenneckestraße (O),052,18:45,19:00,0,,36,1,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),001,06:00,06:15,1,,24,2,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),002,06:15,06:30,9,,51,3,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),003,06:30,06:45,5,,46,2,2,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),004,06:45,07:00,5,,53,1,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),005,07:00,07:15,6,,53,3,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),006,07:15,07:30,11,,32,0,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),007,07:30,07:45,6,,47,5,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),008,07:45,08:00,5,,79,3,2,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),009,08:00,08:15,5,,45,5,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),010,08:15,08:30,6,,39,0,2,1,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),011,08:30,08:45,9,,47,4,3,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),012,08:45,09:00,6,,32,2,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),013,09:00,09:15,5,,52,3,2,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),014,09:15,09:30,5,,33,4,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),015,09:30,09:45,5,,63,8,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),016,09:45,10:00,7,,53,2,3,2,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),017,10:00,10:15,5,,54,2,5,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),018,10:15,10:30,3,,66,7,2,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),019,10:30,10:45,4,,56,7,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),020,10:45,11:00,2,,47,6,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),021,11:00,11:15,3,,54,1,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),022,11:15,11:30,6,,50,3,2,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),023,11:30,11:45,4,,56,5,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),024,11:45,12:00,1,,54,5,1,1,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),025,12:00,12:15,4,,81,4,1,1,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),026,12:15,12:30,2,,49,0,3,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),027,12:30,12:45,4,,58,4,0,2,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),028,12:45,13:00,3,,45,7,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),029,13:00,13:15,7,,51,5,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),030,13:15,13:30,6,,58,5,2,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),031,13:30,13:45,3,,44,1,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),032,13:45,14:00,4,,46,1,0,1,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),033,14:00,14:15,3,,70,1,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),034,14:15,14:30,6,,73,2,0,1,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),035,14:30,14:45,13,,66,0,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),036,14:45,15:00,19,,81,3,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),037,15:00,15:15,3,,84,3,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),038,15:15,15:30,10,,79,1,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),039,15:30,15:45,9,,68,1,2,0,1
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),040,15:45,16:00,16,,67,0,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),041,16:00,16:15,11,,70,1,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),042,16:15,16:30,12,,83,2,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),043,16:30,16:45,9,,83,3,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),044,16:45,17:00,11,,69,3,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),045,17:00,17:15,9,,58,1,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),046,17:15,17:30,10,,78,4,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),047,17:30,17:45,7,,64,2,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),048,17:45,18:00,4,,73,1,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),049,18:00,18:15,7,,59,2,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),050,18:15,18:30,10,,60,1,1,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),051,18:30,18:45,6,,47,2,0,0,0
+9,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Brenneckestraße(O),052,18:45,19:00,5,,50,3,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,001,06:00,06:15,0,,16,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,002,06:15,06:30,0,,19,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,003,06:30,06:45,0,,27,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,004,06:45,07:00,0,,23,5,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,005,07:00,07:15,0,,24,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,006,07:15,07:30,0,,31,2,0,1,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,007,07:30,07:45,0,,26,3,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,008,07:45,08:00,0,,19,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,009,08:00,08:15,0,,11,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,010,08:15,08:30,0,,7,0,2,1,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,011,08:30,08:45,0,,7,2,1,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,012,08:45,09:00,0,,11,0,1,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,013,09:00,09:15,0,,8,1,1,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,014,09:15,09:30,0,,3,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,015,09:30,09:45,0,,14,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,016,09:45,10:00,0,,7,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,017,10:00,10:15,0,,3,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,018,10:15,10:30,0,,3,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,019,10:30,10:45,0,,9,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,020,10:45,11:00,0,,8,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,021,11:00,11:15,0,,3,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,022,11:15,11:30,0,,6,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,023,11:30,11:45,0,,6,0,0,1,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,024,11:45,12:00,0,,2,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,025,12:00,12:15,0,,5,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,026,12:15,12:30,0,,8,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,027,12:30,12:45,0,,4,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,028,12:45,13:00,0,,4,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,029,13:00,13:15,0,,17,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,030,13:15,13:30,0,,18,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,031,13:30,13:45,0,,10,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,032,13:45,14:00,0,,12,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,033,14:00,14:15,0,,11,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,034,14:15,14:30,0,,17,3,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,035,14:30,14:45,0,,9,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,036,14:45,15:00,0,,17,3,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,037,15:00,15:15,0,,6,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,038,15:15,15:30,0,,14,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,039,15:30,15:45,0,,17,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,040,15:45,16:00,0,,10,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,041,16:00,16:15,0,,13,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,042,16:15,16:30,0,,11,2,1,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,043,16:30,16:45,0,,9,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,044,16:45,17:00,0,,8,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,045,17:00,17:15,0,,5,2,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,046,17:15,17:30,0,,10,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,047,17:30,17:45,0,,17,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,048,17:45,18:00,0,,9,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,049,18:00,18:15,0,,3,3,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,050,18:15,18:30,0,,11,1,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,051,18:30,18:45,0,,3,0,0,0,0
+13,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Abfahrtsrampe MR,052,18:45,19:00,0,,8,1,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,001,06:00,06:15,0,,16,2,1,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,002,06:15,06:30,0,,22,0,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,003,06:30,06:45,0,,24,6,0,2,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,004,06:45,07:00,0,,17,3,3,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,005,07:00,07:15,0,,20,0,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,006,07:15,07:30,0,,34,4,0,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,007,07:30,07:45,0,,40,2,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,008,07:45,08:00,0,,36,4,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,009,08:00,08:15,0,,30,0,1,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,010,08:15,08:30,0,,25,2,1,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,011,08:30,08:45,0,,33,2,1,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,012,08:45,09:00,0,,30,2,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,013,09:00,09:15,0,,27,1,0,2,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,014,09:15,09:30,0,,19,2,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,015,09:30,09:45,0,,28,2,0,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,016,09:45,10:00,0,,25,2,1,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,017,10:00,10:15,0,,24,3,1,4,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,018,10:15,10:30,0,,23,0,2,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,019,10:30,10:45,0,,33,0,1,2,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,020,10:45,11:00,0,,17,2,1,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,021,11:00,11:15,0,,20,4,0,3,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,022,11:15,11:30,0,,32,1,2,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,023,11:30,11:45,0,,15,1,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,024,11:45,12:00,0,,30,1,2,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,025,12:00,12:15,0,,29,4,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,026,12:15,12:30,0,,25,1,4,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,027,12:30,12:45,0,,31,3,4,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,028,12:45,13:00,0,,29,1,1,3,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,029,13:00,13:15,0,,43,2,0,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,030,13:15,13:30,0,,29,5,0,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,031,13:30,13:45,0,,21,2,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,032,13:45,14:00,0,,29,2,1,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,033,14:00,14:15,0,,24,2,2,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,034,14:15,14:30,0,,27,1,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,035,14:30,14:45,0,,36,3,1,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,036,14:45,15:00,0,,39,2,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,037,15:00,15:15,0,,33,1,0,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,038,15:15,15:30,0,,25,1,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,039,15:30,15:45,0,,35,0,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,040,15:45,16:00,0,,31,1,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,041,16:00,16:15,0,,40,6,0,1,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,042,16:15,16:30,0,,36,1,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,043,16:30,16:45,0,,42,3,1,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,044,16:45,17:00,0,,44,0,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,045,17:00,17:15,0,,24,3,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,046,17:15,17:30,0,,31,1,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,047,17:30,17:45,0,,15,2,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,048,17:45,18:00,0,,27,2,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,049,18:00,18:15,0,,17,0,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,050,18:15,18:30,0,,26,0,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,051,18:30,18:45,0,,22,1,0,0,0
+14,D,2,1,DL..(12),Zählstrom,,Linksabbieger Abfahrtsrampe MR,052,18:45,19:00,0,,14,2,0,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,6,,258,24,1,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,19,,289,12,1,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,20,,324,88,12,4,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,19,,355,22,8,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,22,,365,23,4,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,17,,365,21,3,2,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,17,,409,19,3,2,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,15,,388,17,15,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,11,,303,22,11,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,13,,263,20,15,7,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,18,,282,16,10,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,21,,279,24,8,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,10,,281,22,15,2,1
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,7,,199,22,2,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,14,,359,23,7,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,17,,339,21,8,3,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,10,,287,20,14,5,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,10,,300,16,10,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,9,,349,19,11,2,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,10,,282,28,9,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,10,,287,23,4,3,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,13,,289,15,8,3,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,7,,314,16,3,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,9,,283,18,9,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,11,,327,24,9,2,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,9,,284,11,12,0,1
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,9,,285,14,6,3,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,10,,282,20,5,5,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,19,,376,16,5,4,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,18,,346,27,9,2,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,11,,276,22,4,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,19,,315,18,4,3,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,14,,291,23,5,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,16,,363,29,7,2,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,22,,440,18,3,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,26,,474,27,6,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,14,,409,18,2,3,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,19,,386,22,5,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,15,,362,19,4,0,1
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,26,,354,17,1,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,25,,446,27,1,3,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,27,,538,16,6,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,16,,453,18,3,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,20,,418,16,0,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,16,,364,14,1,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,20,,351,13,1,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,10,,352,10,2,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,19,,369,6,0,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,17,,337,13,0,1,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,18,,346,10,1,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,19,,294,13,0,0,0
+18,,0,0,SUMME ZU,summierter Strom,3+6+10+15,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,14,,290,11,0,0,0

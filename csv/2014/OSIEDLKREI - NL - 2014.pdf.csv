@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),001,06:00,06:15,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),002,06:15,06:30,0,,12,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),003,06:30,06:45,0,,9,1,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),004,06:45,07:00,0,,14,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),005,07:00,07:15,0,,30,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),006,07:15,07:30,0,,38,2,2,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),007,07:30,07:45,0,,11,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),008,07:45,08:00,0,,19,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),009,08:00,08:15,0,,9,2,1,1,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),010,08:15,08:30,0,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),011,08:30,08:45,0,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),012,08:45,09:00,0,,16,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),013,09:00,09:15,0,,12,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),014,09:15,09:30,0,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),015,09:30,09:45,0,,9,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),016,09:45,10:00,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),017,10:00,10:15,0,,11,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),018,10:15,10:30,0,,10,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),019,10:30,10:45,0,,12,2,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),020,10:45,11:00,0,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),021,11:00,11:15,0,,7,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),022,11:15,11:30,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),023,11:30,11:45,1,,16,0,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),024,11:45,12:00,0,,8,0,0,1,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),025,12:00,12:15,1,,11,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),026,12:15,12:30,0,,6,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),027,12:30,12:45,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),028,12:45,13:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),029,13:00,13:15,0,,7,0,0,1,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),030,13:15,13:30,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),031,13:30,13:45,0,,8,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),032,13:45,14:00,0,,4,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),033,14:00,14:15,0,,9,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),034,14:15,14:30,0,,15,4,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),035,14:30,14:45,0,,15,3,2,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),036,14:45,15:00,0,,13,2,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),037,15:00,15:15,0,,14,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),038,15:15,15:30,0,,14,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),039,15:30,15:45,0,,17,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),040,15:45,16:00,0,,10,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),041,16:00,16:15,0,,20,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),042,16:15,16:30,0,,23,7,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),043,16:30,16:45,0,,15,1,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),044,16:45,17:00,0,,24,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),045,17:00,17:15,0,,19,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),046,17:15,17:30,0,,16,1,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),047,17:30,17:45,0,,15,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),048,17:45,18:00,0,,22,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),049,18:00,18:15,0,,13,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),050,18:15,18:30,0,,19,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),051,18:30,18:45,0,,15,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kreisstraße (W),052,18:45,19:00,0,,9,1,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),001,06:00,06:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),002,06:15,06:30,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),003,06:30,06:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),004,06:45,07:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),005,07:00,07:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),006,07:15,07:30,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),007,07:30,07:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),008,07:45,08:00,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),009,08:00,08:15,1,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),010,08:15,08:30,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),011,08:30,08:45,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),012,08:45,09:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),013,09:00,09:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),014,09:15,09:30,0,,1,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),015,09:30,09:45,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),016,09:45,10:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),017,10:00,10:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),018,10:15,10:30,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),019,10:30,10:45,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),020,10:45,11:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),021,11:00,11:15,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),022,11:15,11:30,0,,1,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),023,11:30,11:45,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),024,11:45,12:00,0,,5,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),025,12:00,12:15,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),026,12:15,12:30,0,,0,0,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),027,12:30,12:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),028,12:45,13:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),029,13:00,13:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),030,13:15,13:30,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),031,13:30,13:45,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),032,13:45,14:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),033,14:00,14:15,0,,1,0,0,1,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),034,14:15,14:30,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),035,14:30,14:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),036,14:45,15:00,0,,1,0,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),037,15:00,15:15,0,,1,0,0,1,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),038,15:15,15:30,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),039,15:30,15:45,1,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),040,15:45,16:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),041,16:00,16:15,0,,1,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),042,16:15,16:30,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),043,16:30,16:45,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),044,16:45,17:00,0,,0,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),045,17:00,17:15,0,,0,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),046,17:15,17:30,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),047,17:30,17:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),048,17:45,18:00,0,,2,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),049,18:00,18:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),050,18:15,18:30,0,,2,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),051,18:30,18:45,0,,0,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Kreisstraße (W),052,18:45,19:00,1,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,001,06:00,06:15,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,002,06:15,06:30,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,003,06:30,06:45,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,004,06:45,07:00,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,005,07:00,07:15,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,006,07:15,07:30,0,,1,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,007,07:30,07:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,008,07:45,08:00,0,,0,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,009,08:00,08:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,010,08:15,08:30,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,011,08:30,08:45,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,012,08:45,09:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,013,09:00,09:15,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,014,09:15,09:30,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,015,09:30,09:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,016,09:45,10:00,0,,1,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,017,10:00,10:15,0,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,018,10:15,10:30,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,019,10:30,10:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,020,10:45,11:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,021,11:00,11:15,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,022,11:15,11:30,0,,2,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,023,11:30,11:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,024,11:45,12:00,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,025,12:00,12:15,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,026,12:15,12:30,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,027,12:30,12:45,0,,1,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,028,12:45,13:00,0,,1,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,029,13:00,13:15,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,030,13:15,13:30,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,031,13:30,13:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,032,13:45,14:00,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,033,14:00,14:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,034,14:15,14:30,0,,0,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,035,14:30,14:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,036,14:45,15:00,0,,1,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,037,15:00,15:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,038,15:15,15:30,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,039,15:30,15:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,040,15:45,16:00,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,041,16:00,16:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,042,16:15,16:30,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,043,16:30,16:45,0,,0,0,0,1,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,044,16:45,17:00,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,045,17:00,17:15,0,,3,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,046,17:15,17:30,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,047,17:30,17:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,048,17:45,18:00,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,049,18:00,18:15,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,050,18:15,18:30,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,051,18:30,18:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Obere Siedlung,052,18:45,19:00,0,,2,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,001,06:00,06:15,0,,3,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,002,06:15,06:30,0,,7,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,003,06:30,06:45,0,,8,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,004,06:45,07:00,0,,6,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,005,07:00,07:15,0,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,006,07:15,07:30,1,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,007,07:30,07:45,0,,7,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,008,07:45,08:00,0,,5,1,0,1,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,009,08:00,08:15,1,,4,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,010,08:15,08:30,1,,14,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,011,08:30,08:45,0,,4,2,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,012,08:45,09:00,0,,9,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,013,09:00,09:15,0,,2,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,014,09:15,09:30,0,,8,0,0,1,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,015,09:30,09:45,0,,5,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,016,09:45,10:00,1,,5,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,017,10:00,10:15,0,,9,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,018,10:15,10:30,0,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,019,10:30,10:45,0,,7,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,020,10:45,11:00,0,,7,1,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,021,11:00,11:15,0,,8,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,022,11:15,11:30,0,,11,1,1,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,023,11:30,11:45,0,,6,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,024,11:45,12:00,0,,10,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,025,12:00,12:15,0,,5,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,026,12:15,12:30,0,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,027,12:30,12:45,0,,8,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,028,12:45,13:00,0,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,029,13:00,13:15,1,,10,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,030,13:15,13:30,0,,13,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,031,13:30,13:45,0,,5,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,032,13:45,14:00,0,,3,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,033,14:00,14:15,0,,9,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,034,14:15,14:30,1,,8,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,035,14:30,14:45,0,,6,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,036,14:45,15:00,0,,12,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,037,15:00,15:15,0,,12,2,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,038,15:15,15:30,0,,16,2,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,039,15:30,15:45,0,,18,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,040,15:45,16:00,0,,15,1,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,041,16:00,16:15,0,,9,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,042,16:15,16:30,0,,8,2,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,043,16:30,16:45,0,,13,1,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,044,16:45,17:00,0,,18,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,045,17:00,17:15,0,,16,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,046,17:15,17:30,0,,10,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,047,17:30,17:45,1,,8,0,0,0,1
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,048,17:45,18:00,0,,11,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,049,18:00,18:15,0,,11,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,050,18:15,18:30,0,,11,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,051,18:30,18:45,0,,8,0,0,0,0
+7,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Obere Siedlung,052,18:45,19:00,0,,7,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),001,06:00,06:15,0,,11,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),002,06:15,06:30,0,,14,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),003,06:30,06:45,0,,15,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),004,06:45,07:00,0,,13,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),005,07:00,07:15,0,,19,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),006,07:15,07:30,0,,20,4,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),007,07:30,07:45,0,,11,4,1,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),008,07:45,08:00,0,,13,2,2,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),009,08:00,08:15,0,,13,2,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),010,08:15,08:30,0,,10,4,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),011,08:30,08:45,1,,8,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),012,08:45,09:00,0,,15,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),013,09:00,09:15,0,,12,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),014,09:15,09:30,0,,5,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),015,09:30,09:45,0,,5,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),016,09:45,10:00,0,,11,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),017,10:00,10:15,0,,7,0,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),018,10:15,10:30,0,,8,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),019,10:30,10:45,0,,2,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),020,10:45,11:00,0,,2,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),021,11:00,11:15,0,,5,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),022,11:15,11:30,0,,13,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),023,11:30,11:45,0,,12,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),024,11:45,12:00,1,,6,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),025,12:00,12:15,0,,5,1,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),026,12:15,12:30,0,,10,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),027,12:30,12:45,0,,6,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),028,12:45,13:00,0,,7,0,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),029,13:00,13:15,7,,6,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),030,13:15,13:30,0,,6,1,2,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),031,13:30,13:45,0,,9,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),032,13:45,14:00,0,,4,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),033,14:00,14:15,0,,3,0,2,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),034,14:15,14:30,0,,9,1,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),035,14:30,14:45,0,,6,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),036,14:45,15:00,0,,4,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),037,15:00,15:15,0,,10,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),038,15:15,15:30,0,,10,0,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),039,15:30,15:45,0,,5,0,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),040,15:45,16:00,0,,4,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),041,16:00,16:15,0,,11,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),042,16:15,16:30,0,,6,2,0,0,1
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),043,16:30,16:45,0,,9,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),044,16:45,17:00,0,,4,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),045,17:00,17:15,1,,5,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),046,17:15,17:30,0,,7,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),047,17:30,17:45,0,,10,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),048,17:45,18:00,0,,4,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),049,18:00,18:15,0,,9,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),050,18:15,18:30,0,,9,1,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),051,18:30,18:45,0,,5,0,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Kreisstraße (S),052,18:45,19:00,0,,2,0,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),001,06:00,06:15,0,,7,3,2,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),002,06:15,06:30,0,,13,0,0,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),003,06:30,06:45,0,,7,3,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),004,06:45,07:00,0,,14,12,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),005,07:00,07:15,0,,18,3,5,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),006,07:15,07:30,0,,14,0,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),007,07:30,07:45,0,,15,3,2,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),008,07:45,08:00,0,,6,1,3,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),009,08:00,08:15,0,,5,7,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),010,08:15,08:30,0,,7,1,0,1,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),011,08:30,08:45,0,,7,2,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),012,08:45,09:00,0,,16,1,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),013,09:00,09:15,0,,5,1,2,1,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),014,09:15,09:30,0,,10,0,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),015,09:30,09:45,0,,9,2,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),016,09:45,10:00,0,,10,2,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),017,10:00,10:15,0,,11,1,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),018,10:15,10:30,0,,11,2,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),019,10:30,10:45,0,,8,3,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),020,10:45,11:00,0,,6,0,3,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),021,11:00,11:15,0,,16,1,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),022,11:15,11:30,0,,8,0,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),023,11:30,11:45,0,,5,1,2,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),024,11:45,12:00,1,,5,0,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),025,12:00,12:15,0,,12,3,2,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),026,12:15,12:30,0,,7,3,2,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),027,12:30,12:45,0,,9,5,2,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),028,12:45,13:00,1,,5,0,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),029,13:00,13:15,0,,8,2,1,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),030,13:15,13:30,0,,16,1,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),031,13:30,13:45,0,,6,1,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),032,13:45,14:00,0,,7,1,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),033,14:00,14:15,0,,12,2,0,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),034,14:15,14:30,0,,14,2,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),035,14:30,14:45,0,,9,2,1,1,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),036,14:45,15:00,0,,16,3,1,1,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),037,15:00,15:15,0,,27,1,1,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),038,15:15,15:30,0,,7,0,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),039,15:30,15:45,0,,11,2,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),040,15:45,16:00,0,,5,1,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),041,16:00,16:15,0,,20,4,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),042,16:15,16:30,2,,17,1,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),043,16:30,16:45,0,,19,4,0,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),044,16:45,17:00,0,,8,3,1,1,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),045,17:00,17:15,0,,7,6,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),046,17:15,17:30,0,,11,2,0,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),047,17:30,17:45,0,,10,2,1,0,1
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),048,17:45,18:00,0,,18,1,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),049,18:00,18:15,0,,13,2,1,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),050,18:15,18:30,0,,10,0,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),051,18:30,18:45,0,,9,1,0,0,0
+12,D,1,2,DL...(12,Zählstrom,,Linksabbieger Kreisstraße (S),052,18:45,19:00,0,,4,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,001,06:00,06:15,0,,23,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,002,06:15,06:30,0,,35,1,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,003,06:30,06:45,0,,37,2,0,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,004,06:45,07:00,0,,38,2,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,005,07:00,07:15,0,,58,4,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,006,07:15,07:30,1,,65,8,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,007,07:30,07:45,0,,31,7,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,008,07:45,08:00,0,,39,7,4,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,009,08:00,08:15,2,,26,4,1,1,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,010,08:15,08:30,1,,36,5,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,011,08:30,08:45,1,,25,5,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,012,08:45,09:00,0,,41,4,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,013,09:00,09:15,0,,27,3,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,014,09:15,09:30,0,,23,2,0,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,015,09:30,09:45,0,,24,3,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,016,09:45,10:00,1,,25,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,017,10:00,10:15,0,,34,1,0,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,018,10:15,10:30,0,,28,4,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,019,10:30,10:45,0,,26,5,3,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,020,10:45,11:00,0,,18,2,0,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,021,11:00,11:15,0,,23,5,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,022,11:15,11:30,0,,38,2,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,023,11:30,11:45,1,,37,0,0,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,024,11:45,12:00,1,,30,1,0,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,025,12:00,12:15,1,,25,3,2,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,026,12:15,12:30,0,,21,0,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,027,12:30,12:45,0,,25,1,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,028,12:45,13:00,0,,15,1,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,029,13:00,13:15,8,,25,0,0,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,030,13:15,13:30,0,,25,2,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,031,13:30,13:45,0,,23,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,032,13:45,14:00,0,,11,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,033,14:00,14:15,0,,22,3,3,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,034,14:15,14:30,1,,32,5,4,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,035,14:30,14:45,0,,29,6,2,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,036,14:45,15:00,0,,31,3,4,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,037,15:00,15:15,0,,37,3,1,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,038,15:15,15:30,0,,45,2,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,039,15:30,15:45,1,,43,3,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,040,15:45,16:00,0,,31,4,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,041,16:00,16:15,0,,41,5,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,042,16:15,16:30,0,,40,11,3,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,043,16:30,16:45,0,,39,2,3,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,044,16:45,17:00,0,,50,6,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,045,17:00,17:15,1,,43,3,1,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,046,17:15,17:30,0,,37,3,1,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,047,17:30,17:45,1,,35,3,1,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,048,17:45,18:00,0,,41,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,049,18:00,18:15,0,,35,1,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,050,18:15,18:30,0,,44,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,051,18:30,18:45,0,,31,2,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QD1,052,18:45,19:00,1,,21,1,1,0,0

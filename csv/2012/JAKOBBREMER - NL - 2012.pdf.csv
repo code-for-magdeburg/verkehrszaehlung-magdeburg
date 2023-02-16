@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,001,06:00,06:15,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,002,06:15,06:30,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,003,06:30,06:45,0,0,7,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,004,06:45,07:00,0,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,005,07:00,07:15,0,0,13,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,006,07:15,07:30,0,0,14,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,007,07:30,07:45,0,0,21,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,008,07:45,08:00,0,0,14,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,009,08:00,08:15,0,1,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,010,08:15,08:30,2,0,11,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,011,08:30,08:45,0,0,15,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,012,08:45,09:00,1,0,26,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,013,09:00,09:15,1,0,24,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,014,09:15,09:30,0,0,19,,4,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,015,09:30,09:45,3,0,18,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,016,09:45,10:00,1,0,11,,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,017,10:00,10:15,1,0,17,,2,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,018,10:15,10:30,0,0,25,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,019,10:30,10:45,0,0,16,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,020,10:45,11:00,0,0,16,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,021,11:00,11:15,0,0,26,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,022,11:15,11:30,1,0,21,,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,023,11:30,11:45,2,0,34,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,024,11:45,12:00,0,0,22,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,025,12:00,12:15,1,0,27,,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,026,12:15,12:30,1,0,31,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,027,12:30,12:45,1,0,38,,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,028,12:45,13:00,3,0,24,,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,029,13:00,13:15,0,0,42,,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,030,13:15,13:30,0,0,28,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,031,13:30,13:45,0,0,21,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,032,13:45,14:00,0,0,34,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,033,14:00,14:15,0,0,29,,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,034,14:15,14:30,1,0,21,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,035,14:30,14:45,0,0,31,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,036,14:45,15:00,1,0,34,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,037,15:00,15:15,2,0,39,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,038,15:15,15:30,1,0,34,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,039,15:30,15:45,1,0,48,,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,040,15:45,16:00,0,0,29,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,041,16:00,16:15,2,0,44,,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,042,16:15,16:30,1,0,44,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,043,16:30,16:45,1,0,44,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,044,16:45,17:00,1,0,43,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,045,17:00,17:15,0,0,47,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,046,17:15,17:30,0,0,45,,0,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,047,17:30,17:45,2,0,31,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,048,17:45,18:00,0,0,30,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,049,18:00,18:15,0,0,32,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,050,18:15,18:30,1,0,26,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,051,18:30,18:45,0,0,23,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger J.-Bremer-Straße,052,18:45,19:00,0,0,24,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,001,06:00,06:15,1,0,7,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,002,06:15,06:30,1,0,4,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,003,06:30,06:45,4,0,5,,1,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,004,06:45,07:00,0,0,6,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,005,07:00,07:15,1,0,5,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,006,07:15,07:30,4,0,8,,2,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,007,07:30,07:45,2,1,12,,1,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,008,07:45,08:00,3,0,9,,2,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,009,08:00,08:15,1,0,7,,1,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,010,08:15,08:30,2,0,10,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,011,08:30,08:45,1,0,5,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,012,08:45,09:00,5,1,4,,1,1,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,013,09:00,09:15,1,0,8,,1,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,014,09:15,09:30,0,0,5,,2,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,015,09:30,09:45,1,0,10,,3,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,016,09:45,10:00,0,0,12,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,017,10:00,10:15,1,0,12,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,018,10:15,10:30,2,0,14,,1,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,019,10:30,10:45,2,0,11,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,020,10:45,11:00,0,0,8,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,021,11:00,11:15,0,0,10,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,022,11:15,11:30,1,0,13,,1,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,023,11:30,11:45,0,0,10,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,024,11:45,12:00,2,0,14,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,025,12:00,12:15,4,0,14,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,026,12:15,12:30,2,0,10,,1,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,027,12:30,12:45,0,0,8,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,028,12:45,13:00,1,0,15,,1,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,029,13:00,13:15,1,0,8,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,030,13:15,13:30,0,0,17,,0,1,2
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,031,13:30,13:45,1,0,9,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,032,13:45,14:00,3,0,8,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,033,14:00,14:15,3,0,14,,1,0,2
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,034,14:15,14:30,1,0,19,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,035,14:30,14:45,0,0,15,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,036,14:45,15:00,1,0,19,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,037,15:00,15:15,11,0,16,,0,0,2
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,038,15:15,15:30,1,0,21,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,039,15:30,15:45,0,0,25,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,040,15:45,16:00,3,0,7,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,041,16:00,16:15,1,1,16,,0,0,2
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,042,16:15,16:30,4,0,16,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,043,16:30,16:45,0,0,14,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,044,16:45,17:00,1,0,18,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,045,17:00,17:15,1,1,20,,0,0,2
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,046,17:15,17:30,1,0,16,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,047,17:30,17:45,0,0,18,,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,048,17:45,18:00,3,0,12,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,049,18:00,18:15,3,0,15,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,050,18:15,18:30,3,0,8,,0,0,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,051,18:30,18:45,5,0,11,,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger J.-Bremer-Straße,052,18:45,19:00,8,0,14,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),001,06:00,06:15,0,0,6,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),002,06:15,06:30,1,0,6,,1,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),003,06:30,06:45,0,0,8,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),004,06:45,07:00,5,0,9,,0,0,2
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),005,07:00,07:15,2,0,11,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),006,07:15,07:30,4,1,10,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),007,07:30,07:45,4,1,15,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),008,07:45,08:00,5,1,13,,2,1,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),009,08:00,08:15,1,0,12,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),010,08:15,08:30,1,0,10,,2,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),011,08:30,08:45,3,0,12,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),012,08:45,09:00,5,0,15,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),013,09:00,09:15,4,0,13,,1,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),014,09:15,09:30,1,0,7,,1,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),015,09:30,09:45,2,0,11,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),016,09:45,10:00,0,0,10,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),017,10:00,10:15,0,0,12,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),018,10:15,10:30,1,0,11,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),019,10:30,10:45,1,0,10,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),020,10:45,11:00,1,0,7,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),021,11:00,11:15,3,0,9,,1,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),022,11:15,11:30,1,0,6,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),023,11:30,11:45,1,0,11,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),024,11:45,12:00,2,0,11,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),025,12:00,12:15,1,0,7,,2,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),026,12:15,12:30,2,0,8,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),027,12:30,12:45,1,0,10,,1,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),028,12:45,13:00,3,0,4,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),029,13:00,13:15,1,0,6,,0,0,2
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),030,13:15,13:30,1,0,4,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),031,13:30,13:45,0,0,10,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),032,13:45,14:00,3,0,13,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),033,14:00,14:15,2,0,17,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),034,14:15,14:30,2,0,13,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),035,14:30,14:45,2,0,10,,1,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),036,14:45,15:00,1,0,12,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),037,15:00,15:15,3,0,9,,0,0,2
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),038,15:15,15:30,3,0,11,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),039,15:30,15:45,4,0,13,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),040,15:45,16:00,4,0,13,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),041,16:00,16:15,0,0,19,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),042,16:15,16:30,4,0,11,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),043,16:30,16:45,1,0,19,,1,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),044,16:45,17:00,1,0,8,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),045,17:00,17:15,0,0,12,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),046,17:15,17:30,2,0,7,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),047,17:30,17:45,1,0,15,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),048,17:45,18:00,2,0,7,,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),049,18:00,18:15,1,0,7,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),050,18:15,18:30,1,0,3,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),051,18:30,18:45,0,0,6,,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Jakobstraße (Nord),052,18:45,19:00,0,0,6,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),001,06:00,06:15,1,0,15,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),002,06:15,06:30,1,0,17,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),003,06:30,06:45,2,0,23,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),004,06:45,07:00,4,0,26,,0,1,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),005,07:00,07:15,1,0,29,,2,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),006,07:15,07:30,6,0,23,,2,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),007,07:30,07:45,10,0,25,,3,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),008,07:45,08:00,6,0,30,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),009,08:00,08:15,5,0,23,,2,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),010,08:15,08:30,7,0,21,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),011,08:30,08:45,5,1,21,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),012,08:45,09:00,9,0,20,,1,0,1
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),013,09:00,09:15,2,0,25,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),014,09:15,09:30,4,0,29,,0,1,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),015,09:30,09:45,8,0,17,,3,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),016,09:45,10:00,7,0,24,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),017,10:00,10:15,3,1,27,,1,1,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),018,10:15,10:30,5,0,20,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),019,10:30,10:45,5,2,24,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),020,10:45,11:00,12,0,34,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),021,11:00,11:15,7,1,32,,2,0,1
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),022,11:15,11:30,4,1,25,,0,1,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),023,11:30,11:45,8,2,26,,1,0,1
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),024,11:45,12:00,5,0,30,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),025,12:00,12:15,7,0,26,,3,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),026,12:15,12:30,7,0,24,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),027,12:30,12:45,6,0,31,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),028,12:45,13:00,8,0,29,,3,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),029,13:00,13:15,2,0,20,,1,0,1
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),030,13:15,13:30,6,1,35,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),031,13:30,13:45,4,0,24,,0,1,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),032,13:45,14:00,4,0,21,,2,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),033,14:00,14:15,3,0,28,,2,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),034,14:15,14:30,4,0,33,,1,0,1
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),035,14:30,14:45,2,0,23,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),036,14:45,15:00,8,1,25,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),037,15:00,15:15,5,0,22,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),038,15:15,15:30,4,2,30,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),039,15:30,15:45,6,3,32,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),040,15:45,16:00,2,0,35,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),041,16:00,16:15,4,0,55,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),042,16:15,16:30,3,0,33,,1,0,1
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),043,16:30,16:45,5,1,29,,1,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),044,16:45,17:00,9,0,42,,3,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),045,17:00,17:15,11,0,43,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),046,17:15,17:30,4,0,27,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),047,17:30,17:45,4,1,38,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),048,17:45,18:00,8,0,25,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),049,18:00,18:15,4,0,33,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),050,18:15,18:30,2,0,26,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),051,18:30,18:45,2,0,20,,0,0,0
+7,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Nord),052,18:45,19:00,1,1,26,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),001,06:00,06:15,0,0,2,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),002,06:15,06:30,0,0,8,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),003,06:30,06:45,0,0,17,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),004,06:45,07:00,0,0,16,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),005,07:00,07:15,0,0,16,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),006,07:15,07:30,0,0,14,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),007,07:30,07:45,0,1,18,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),008,07:45,08:00,0,0,25,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),009,08:00,08:15,0,0,17,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),010,08:15,08:30,0,0,14,,1,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),011,08:30,08:45,0,0,20,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),012,08:45,09:00,0,1,23,,1,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),013,09:00,09:15,0,0,15,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),014,09:15,09:30,0,0,17,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),015,09:30,09:45,0,0,13,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),016,09:45,10:00,0,0,25,,0,0,1
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),017,10:00,10:15,0,0,24,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),018,10:15,10:30,0,0,12,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),019,10:30,10:45,0,0,16,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),020,10:45,11:00,0,0,25,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),021,11:00,11:15,0,0,23,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),022,11:15,11:30,0,0,30,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),023,11:30,11:45,0,0,20,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),024,11:45,12:00,0,0,16,,0,1,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),025,12:00,12:15,0,0,15,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),026,12:15,12:30,0,0,18,,0,1,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),027,12:30,12:45,0,1,23,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),028,12:45,13:00,0,0,19,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),029,13:00,13:15,0,0,21,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),030,13:15,13:30,0,0,22,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),031,13:30,13:45,0,0,18,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),032,13:45,14:00,0,0,18,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),033,14:00,14:15,0,0,22,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),034,14:15,14:30,0,0,26,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),035,14:30,14:45,0,0,21,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),036,14:45,15:00,0,0,20,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),037,15:00,15:15,0,0,24,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),038,15:15,15:30,0,0,25,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),039,15:30,15:45,0,0,26,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),040,15:45,16:00,0,0,24,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),041,16:00,16:15,0,0,38,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),042,16:15,16:30,0,0,29,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),043,16:30,16:45,0,0,32,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),044,16:45,17:00,0,1,19,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),045,17:00,17:15,0,0,29,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),046,17:15,17:30,0,1,22,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),047,17:30,17:45,0,0,19,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),048,17:45,18:00,0,0,14,,0,1,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),049,18:00,18:15,0,0,18,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),050,18:15,18:30,0,0,15,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),051,18:30,18:45,0,0,11,,0,0,0
+8,B,2,2,BG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Nord),052,18:45,19:00,0,0,11,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),001,06:00,06:15,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),002,06:15,06:30,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),003,06:30,06:45,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),004,06:45,07:00,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),005,07:00,07:15,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),006,07:15,07:30,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),007,07:30,07:45,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),008,07:45,08:00,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),009,08:00,08:15,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),010,08:15,08:30,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),011,08:30,08:45,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),012,08:45,09:00,0,0,4,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),013,09:00,09:15,0,0,2,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),014,09:15,09:30,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),015,09:30,09:45,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),016,09:45,10:00,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),017,10:00,10:15,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),018,10:15,10:30,0,0,2,,1,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),019,10:30,10:45,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),020,10:45,11:00,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),021,11:00,11:15,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),022,11:15,11:30,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),023,11:30,11:45,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),024,11:45,12:00,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),025,12:00,12:15,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),026,12:15,12:30,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),027,12:30,12:45,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),028,12:45,13:00,0,0,2,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),029,13:00,13:15,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),030,13:15,13:30,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),031,13:30,13:45,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),032,13:45,14:00,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),033,14:00,14:15,0,0,2,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),034,14:15,14:30,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),035,14:30,14:45,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),036,14:45,15:00,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),037,15:00,15:15,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),038,15:15,15:30,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),039,15:30,15:45,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),040,15:45,16:00,0,0,3,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),041,16:00,16:15,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),042,16:15,16:30,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),043,16:30,16:45,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),044,16:45,17:00,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),045,17:00,17:15,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),046,17:15,17:30,0,0,3,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),047,17:30,17:45,0,0,1,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),048,17:45,18:00,0,0,2,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),049,18:00,18:15,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),050,18:15,18:30,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),051,18:30,18:45,0,0,0,,0,0,0
+9,B,2,2,BW..(14),Zählstrom,,Wender Jakobstr. (Nord),052,18:45,19:00,0,0,0,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,001,06:00,06:15,1,0,17,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,002,06:15,06:30,1,0,25,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,003,06:30,06:45,2,0,40,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,004,06:45,07:00,4,0,42,,0,1,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,005,07:00,07:15,1,0,45,,2,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,006,07:15,07:30,6,0,37,,2,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,007,07:30,07:45,10,1,43,,3,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,008,07:45,08:00,6,0,55,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,009,08:00,08:15,5,0,40,,2,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,010,08:15,08:30,7,0,35,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,011,08:30,08:45,5,1,41,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,012,08:45,09:00,9,1,43,,2,0,1
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,013,09:00,09:15,2,0,40,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,014,09:15,09:30,4,0,46,,0,1,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,015,09:30,09:45,8,0,30,,3,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,016,09:45,10:00,7,0,49,,1,0,1
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,017,10:00,10:15,3,1,51,,1,1,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,018,10:15,10:30,5,0,32,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,019,10:30,10:45,5,2,40,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,020,10:45,11:00,12,0,59,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,021,11:00,11:15,7,1,55,,2,0,1
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,022,11:15,11:30,4,1,55,,0,1,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,023,11:30,11:45,8,2,46,,1,0,1
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,024,11:45,12:00,5,0,46,,0,1,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,025,12:00,12:15,7,0,41,,3,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,026,12:15,12:30,7,0,42,,0,1,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,027,12:30,12:45,6,1,54,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,028,12:45,13:00,8,0,48,,3,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,029,13:00,13:15,2,0,41,,1,0,1
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,030,13:15,13:30,6,1,57,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,031,13:30,13:45,4,0,42,,0,1,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,032,13:45,14:00,4,0,39,,2,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,033,14:00,14:15,3,0,50,,2,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,034,14:15,14:30,4,0,59,,1,0,1
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,035,14:30,14:45,2,0,44,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,036,14:45,15:00,8,1,45,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,037,15:00,15:15,5,0,46,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,038,15:15,15:30,4,2,55,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,039,15:30,15:45,6,3,58,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,040,15:45,16:00,2,0,59,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,041,16:00,16:15,4,0,93,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,042,16:15,16:30,3,0,62,,1,0,1
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,043,16:30,16:45,5,1,61,,1,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,044,16:45,17:00,9,1,61,,3,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,045,17:00,17:15,11,0,72,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,046,17:15,17:30,4,1,49,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,047,17:30,17:45,4,1,57,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,048,17:45,18:00,8,0,39,,0,1,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,049,18:00,18:15,4,0,51,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,050,18:15,18:30,2,0,41,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,051,18:30,18:45,2,0,31,,0,0,0
+10,B,0,0,BG...(5),summierter Strom,7+8,BG1 + BG2,052,18:45,19:00,1,1,37,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),001,06:00,06:15,1,0,15,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),002,06:15,06:30,1,0,20,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),003,06:30,06:45,1,0,26,,0,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),004,06:45,07:00,5,0,28,,0,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),005,07:00,07:15,3,0,24,,1,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),006,07:15,07:30,8,0,37,,0,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),007,07:30,07:45,4,0,24,,0,2,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),008,07:45,08:00,5,0,32,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),009,08:00,08:15,3,0,29,,1,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),010,08:15,08:30,2,0,28,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),011,08:30,08:45,8,0,35,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),012,08:45,09:00,8,0,36,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),013,09:00,09:15,2,1,37,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),014,09:15,09:30,4,0,27,,3,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),015,09:30,09:45,1,0,26,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),016,09:45,10:00,7,1,37,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),017,10:00,10:15,1,0,33,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),018,10:15,10:30,3,0,29,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),019,10:30,10:45,4,0,33,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),020,10:45,11:00,1,1,33,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),021,11:00,11:15,1,1,42,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),022,11:15,11:30,0,0,28,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),023,11:30,11:45,3,0,28,,0,0,1
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),024,11:45,12:00,7,0,38,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),025,12:00,12:15,9,1,34,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),026,12:15,12:30,4,1,27,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),027,12:30,12:45,4,0,34,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),028,12:45,13:00,4,0,30,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),029,13:00,13:15,4,1,42,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),030,13:15,13:30,7,0,30,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),031,13:30,13:45,6,0,25,,1,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),032,13:45,14:00,4,0,32,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),033,14:00,14:15,2,0,37,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),034,14:15,14:30,4,0,43,,3,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),035,14:30,14:45,3,0,38,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),036,14:45,15:00,6,0,43,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),037,15:00,15:15,3,0,38,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),038,15:15,15:30,6,0,46,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),039,15:30,15:45,4,0,52,,2,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),040,15:45,16:00,6,1,40,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),041,16:00,16:15,5,0,56,,1,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),042,16:15,16:30,4,0,42,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),043,16:30,16:45,5,0,50,,2,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),044,16:45,17:00,2,0,54,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),045,17:00,17:15,3,0,51,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),046,17:15,17:30,1,0,65,,0,1,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),047,17:30,17:45,2,1,43,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),048,17:45,18:00,5,1,33,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),049,18:00,18:15,6,0,44,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),050,18:15,18:30,0,0,30,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),051,18:30,18:45,7,1,35,,0,0,0
+14,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Jakobstraße (Süd),052,18:45,19:00,10,1,47,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),001,06:00,06:15,0,0,8,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),002,06:15,06:30,0,0,7,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),003,06:30,06:45,0,1,4,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),004,06:45,07:00,0,0,8,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),005,07:00,07:15,0,0,5,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),006,07:15,07:30,0,1,9,,0,0,1
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),007,07:30,07:45,0,0,12,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),008,07:45,08:00,0,0,6,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),009,08:00,08:15,0,0,12,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),010,08:15,08:30,0,0,8,,1,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),011,08:30,08:45,0,0,17,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),012,08:45,09:00,0,0,17,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),013,09:00,09:15,0,0,5,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),014,09:15,09:30,0,0,10,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),015,09:30,09:45,0,0,15,,1,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),016,09:45,10:00,0,0,11,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),017,10:00,10:15,0,0,18,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),018,10:15,10:30,0,0,2,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),019,10:30,10:45,0,0,13,,0,0,1
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),020,10:45,11:00,0,0,20,,1,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),021,11:00,11:15,0,0,14,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),022,11:15,11:30,0,0,9,,0,1,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),023,11:30,11:45,0,0,14,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),024,11:45,12:00,0,0,9,,0,1,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),025,12:00,12:15,0,0,4,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),026,12:15,12:30,0,0,9,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),027,12:30,12:45,0,0,20,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),028,12:45,13:00,0,0,10,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),029,13:00,13:15,0,0,19,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),030,13:15,13:30,0,1,10,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),031,13:30,13:45,0,0,16,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),032,13:45,14:00,0,0,10,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),033,14:00,14:15,0,1,13,,1,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),034,14:15,14:30,0,0,15,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),035,14:30,14:45,0,0,15,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),036,14:45,15:00,0,0,13,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),037,15:00,15:15,0,0,13,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),038,15:15,15:30,0,0,25,,1,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),039,15:30,15:45,0,0,17,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),040,15:45,16:00,0,0,9,,1,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),041,16:00,16:15,0,0,14,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),042,16:15,16:30,0,1,19,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),043,16:30,16:45,0,1,18,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),044,16:45,17:00,0,0,17,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),045,17:00,17:15,0,0,24,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),046,17:15,17:30,0,0,16,,1,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),047,17:30,17:45,0,0,16,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),048,17:45,18:00,0,0,14,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),049,18:00,18:15,0,0,17,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),050,18:15,18:30,0,0,5,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),051,18:30,18:45,0,0,18,,0,0,0
+15,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Jakobstraße (Süd),052,18:45,19:00,0,0,7,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,001,06:00,06:15,1,0,23,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,002,06:15,06:30,1,0,27,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,003,06:30,06:45,1,1,30,,0,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,004,06:45,07:00,5,0,36,,0,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,005,07:00,07:15,3,0,29,,1,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,006,07:15,07:30,8,1,46,,0,1,1
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,007,07:30,07:45,4,0,36,,0,2,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,008,07:45,08:00,5,0,38,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,009,08:00,08:15,3,0,41,,1,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,010,08:15,08:30,2,0,36,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,011,08:30,08:45,8,0,52,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,012,08:45,09:00,8,0,53,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,013,09:00,09:15,2,1,42,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,014,09:15,09:30,4,0,37,,3,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,015,09:30,09:45,1,0,41,,3,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,016,09:45,10:00,7,1,48,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,017,10:00,10:15,1,0,51,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,018,10:15,10:30,3,0,31,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,019,10:30,10:45,4,0,46,,0,0,1
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,020,10:45,11:00,1,1,53,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,021,11:00,11:15,1,1,56,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,022,11:15,11:30,0,0,37,,1,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,023,11:30,11:45,3,0,42,,0,0,1
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,024,11:45,12:00,7,0,47,,0,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,025,12:00,12:15,9,1,38,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,026,12:15,12:30,4,1,36,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,027,12:30,12:45,4,0,54,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,028,12:45,13:00,4,0,40,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,029,13:00,13:15,4,1,61,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,030,13:15,13:30,7,1,40,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,031,13:30,13:45,6,0,41,,1,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,032,13:45,14:00,4,0,42,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,033,14:00,14:15,2,1,50,,3,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,034,14:15,14:30,4,0,58,,3,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,035,14:30,14:45,3,0,53,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,036,14:45,15:00,6,0,56,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,037,15:00,15:15,3,0,51,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,038,15:15,15:30,6,0,71,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,039,15:30,15:45,4,0,69,,2,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,040,15:45,16:00,6,1,49,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,041,16:00,16:15,5,0,70,,1,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,042,16:15,16:30,4,1,61,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,043,16:30,16:45,5,1,68,,2,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,044,16:45,17:00,2,0,71,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,045,17:00,17:15,3,0,75,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,046,17:15,17:30,1,0,81,,1,1,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,047,17:30,17:45,2,1,59,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,048,17:45,18:00,5,1,47,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,049,18:00,18:15,6,0,61,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,050,18:15,18:30,0,0,35,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,051,18:30,18:45,7,1,53,,0,0,0
+16,D,0,0,DG..(11),summierter Strom,14+15,CG1 + DG2,052,18:45,19:00,10,1,54,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),001,06:00,06:15,0,0,11,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),002,06:15,06:30,0,0,16,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),003,06:30,06:45,0,0,18,,1,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),004,06:45,07:00,0,0,27,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),005,07:00,07:15,0,0,19,,2,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),006,07:15,07:30,0,0,22,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),007,07:30,07:45,0,0,24,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),008,07:45,08:00,0,0,31,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),009,08:00,08:15,0,0,24,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),010,08:15,08:30,0,0,30,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),011,08:30,08:45,0,0,30,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),012,08:45,09:00,0,0,17,,1,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),013,09:00,09:15,0,0,25,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),014,09:15,09:30,0,1,24,,1,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),015,09:30,09:45,0,0,19,,3,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),016,09:45,10:00,2,0,28,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),017,10:00,10:15,1,0,26,,2,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),018,10:15,10:30,0,0,20,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),019,10:30,10:45,1,0,25,,2,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),020,10:45,11:00,0,0,16,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),021,11:00,11:15,0,0,22,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),022,11:15,11:30,0,0,19,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),023,11:30,11:45,0,0,16,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),024,11:45,12:00,0,0,27,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),025,12:00,12:15,0,0,24,,1,1,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),026,12:15,12:30,0,1,18,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),027,12:30,12:45,0,0,25,,1,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),028,12:45,13:00,0,0,16,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),029,13:00,13:15,0,0,21,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),030,13:15,13:30,0,0,28,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),031,13:30,13:45,0,0,13,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),032,13:45,14:00,0,0,25,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),033,14:00,14:15,0,0,17,,1,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),034,14:15,14:30,0,0,23,,1,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),035,14:30,14:45,0,0,23,,1,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),036,14:45,15:00,0,0,27,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),037,15:00,15:15,0,0,33,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),038,15:15,15:30,0,0,26,,1,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),039,15:30,15:45,0,0,32,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),040,15:45,16:00,0,0,39,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),041,16:00,16:15,0,0,32,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),042,16:15,16:30,0,0,23,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),043,16:30,16:45,0,0,30,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),044,16:45,17:00,0,0,30,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),045,17:00,17:15,0,0,36,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),046,17:15,17:30,0,0,39,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),047,17:30,17:45,0,0,33,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),048,17:45,18:00,0,0,26,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),049,18:00,18:15,0,0,25,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),050,18:15,18:30,0,0,30,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),051,18:30,18:45,0,0,21,,0,0,0
+17,D,2,2,DL..(12),Zählstrom,,Linksabbieger Jakobstraße (Süd),052,18:45,19:00,0,0,12,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),001,06:00,06:15,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),002,06:15,06:30,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),003,06:30,06:45,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),004,06:45,07:00,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),005,07:00,07:15,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),006,07:15,07:30,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),007,07:30,07:45,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),008,07:45,08:00,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),009,08:00,08:15,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),010,08:15,08:30,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),011,08:30,08:45,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),012,08:45,09:00,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),013,09:00,09:15,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),014,09:15,09:30,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),015,09:30,09:45,0,0,3,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),016,09:45,10:00,0,0,2,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),017,10:00,10:15,0,0,2,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),018,10:15,10:30,0,0,3,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),019,10:30,10:45,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),020,10:45,11:00,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),021,11:00,11:15,0,0,5,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),022,11:15,11:30,0,0,4,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),023,11:30,11:45,0,0,2,,0,0,1
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),024,11:45,12:00,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),025,12:00,12:15,0,0,2,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),026,12:15,12:30,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),027,12:30,12:45,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),028,12:45,13:00,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),029,13:00,13:15,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),030,13:15,13:30,0,0,3,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),031,13:30,13:45,0,0,3,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),032,13:45,14:00,0,0,2,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),033,14:00,14:15,0,0,2,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),034,14:15,14:30,0,0,2,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),035,14:30,14:45,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),036,14:45,15:00,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),037,15:00,15:15,0,0,3,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),038,15:15,15:30,0,1,5,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),039,15:30,15:45,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),040,15:45,16:00,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),041,16:00,16:15,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),042,16:15,16:30,0,0,2,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),043,16:30,16:45,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),044,16:45,17:00,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),045,17:00,17:15,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),046,17:15,17:30,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),047,17:30,17:45,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),048,17:45,18:00,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),049,18:00,18:15,0,0,1,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),050,18:15,18:30,0,0,0,,0,0,0
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),051,18:30,18:45,0,0,0,,0,0,1
+18,D,2,3,DW..(16),Zählstrom,,Wender Jakobstr. (Süd),052,18:45,19:00,0,0,1,,0,0,0
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,001,06:00,06:15,3,0,66,,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,002,06:15,06:30,4,0,81,,1,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,003,06:30,06:45,7,1,108,,3,1,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,004,06:45,07:00,14,0,129,,0,2,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,005,07:00,07:15,7,0,123,,5,1,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,006,07:15,07:30,22,2,138,,4,1,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,007,07:30,07:45,20,3,153,,4,2,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,008,07:45,08:00,19,1,160,,8,1,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,009,08:00,08:15,10,1,133,,4,1,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,010,08:15,08:30,14,0,133,,5,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,011,08:30,08:45,17,1,157,,2,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,012,08:45,09:00,28,2,163,,7,1,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,013,09:00,09:15,10,1,154,,5,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,014,09:15,09:30,9,1,138,,11,2,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,015,09:30,09:45,15,0,133,,13,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,016,09:45,10:00,17,1,160,,4,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,017,10:00,10:15,7,1,172,,5,1,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,018,10:15,10:30,11,0,138,,4,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,019,10:30,10:45,13,2,148,,2,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,020,10:45,11:00,14,1,159,,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,021,11:00,11:15,11,2,184,,5,0,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,022,11:15,11:30,7,1,155,,3,2,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,023,11:30,11:45,14,2,162,,1,0,4
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,024,11:45,12:00,16,0,169,,0,2,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,025,12:00,12:15,22,1,153,,6,1,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,026,12:15,12:30,16,2,147,,1,1,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,027,12:30,12:45,12,1,190,,5,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,028,12:45,13:00,19,0,149,,7,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,029,13:00,13:15,8,1,179,,5,0,4
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,030,13:15,13:30,14,2,177,,3,1,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,031,13:30,13:45,11,0,139,,2,2,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,032,13:45,14:00,14,0,163,,3,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,033,14:00,14:15,10,1,181,,8,0,4
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,034,14:15,14:30,12,0,195,,6,0,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,035,14:30,14:45,7,0,177,,4,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,036,14:45,15:00,17,1,194,,2,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,037,15:00,15:15,24,0,197,,2,0,4
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,038,15:15,15:30,15,3,223,,2,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,039,15:30,15:45,15,3,245,,4,1,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,040,15:45,16:00,15,1,200,,1,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,041,16:00,16:15,12,1,274,,2,0,4
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,042,16:15,16:30,16,1,219,,3,0,3
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,043,16:30,16:45,12,2,238,,4,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,044,16:45,17:00,14,1,232,,3,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,045,17:00,17:15,15,1,263,,1,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,046,17:15,17:30,8,1,240,,1,2,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,047,17:30,17:45,9,2,214,,1,0,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,048,17:45,18:00,18,1,164,,0,1,1
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,049,18:00,18:15,14,0,192,,0,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,050,18:15,18:30,7,0,143,,0,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,051,18:30,18:45,14,1,145,,0,0,2
+22,,0,0,SUMME ZU,summierter Strom,3+11+19,QA1 + QB1 + QD1,052,18:45,19:00,19,2,148,,0,0,1

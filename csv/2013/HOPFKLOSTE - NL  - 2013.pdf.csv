@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),001,06:00,06:15,0,0,0,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),002,06:15,06:30,0,0,2,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),003,06:30,06:45,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),004,06:45,07:00,0,0,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),005,07:00,07:15,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),006,07:15,07:30,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),007,07:30,07:45,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),008,07:45,08:00,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),009,08:00,08:15,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),010,08:15,08:30,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),011,08:30,08:45,1,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),012,08:45,09:00,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),013,09:00,09:15,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),014,09:15,09:30,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),015,09:30,09:45,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),016,09:45,10:00,1,0,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),017,10:00,10:15,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),018,10:15,10:30,2,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),019,10:30,10:45,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),020,10:45,11:00,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),021,11:00,11:15,0,0,13,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),022,11:15,11:30,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),023,11:30,11:45,1,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),024,11:45,12:00,4,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),025,12:00,12:15,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),026,12:15,12:30,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),027,12:30,12:45,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),028,12:45,13:00,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),029,13:00,13:15,2,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),030,13:15,13:30,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),031,13:30,13:45,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),032,13:45,14:00,1,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),033,14:00,14:15,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),034,14:15,14:30,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),035,14:30,14:45,1,1,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),036,14:45,15:00,0,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),037,15:00,15:15,2,0,6,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),038,15:15,15:30,2,0,7,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),039,15:30,15:45,0,0,10,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),040,15:45,16:00,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),041,16:00,16:15,2,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),042,16:15,16:30,0,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),043,16:30,16:45,2,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),044,16:45,17:00,2,1,11,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),045,17:00,17:15,1,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),046,17:15,17:30,1,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),047,17:30,17:45,0,0,6,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),048,17:45,18:00,2,0,13,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),049,18:00,18:15,1,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),050,18:15,18:30,0,0,7,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),051,18:30,18:45,2,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Am Hopfengarten (West),052,18:45,19:00,0,0,12,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),001,06:00,06:15,1,1,14,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),002,06:15,06:30,1,0,20,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),003,06:30,06:45,0,0,17,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),004,06:45,07:00,2,0,24,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),005,07:00,07:15,2,0,27,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),006,07:15,07:30,3,0,42,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),007,07:30,07:45,8,0,50,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),008,07:45,08:00,3,0,29,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),009,08:00,08:15,6,0,39,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),010,08:15,08:30,2,0,30,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),011,08:30,08:45,4,0,22,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),012,08:45,09:00,1,0,22,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),013,09:00,09:15,2,0,18,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),014,09:15,09:30,4,0,27,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),015,09:30,09:45,0,0,24,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),016,09:45,10:00,3,1,21,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),017,10:00,10:15,2,1,18,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),018,10:15,10:30,4,0,27,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),019,10:30,10:45,0,0,24,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),020,10:45,11:00,3,1,21,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),021,11:00,11:15,1,0,33,,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),022,11:15,11:30,6,0,35,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),023,11:30,11:45,1,0,26,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),024,11:45,12:00,0,0,32,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),025,12:00,12:15,1,1,36,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),026,12:15,12:30,5,0,32,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),027,12:30,12:45,2,3,17,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),028,12:45,13:00,5,0,23,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),029,13:00,13:15,1,0,40,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),030,13:15,13:30,2,1,36,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),031,13:30,13:45,3,0,33,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),032,13:45,14:00,3,0,20,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),033,14:00,14:15,4,0,31,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),034,14:15,14:30,2,1,40,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),035,14:30,14:45,1,1,45,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),036,14:45,15:00,2,0,48,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),037,15:00,15:15,4,0,40,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),038,15:15,15:30,12,0,47,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),039,15:30,15:45,3,0,50,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),040,15:45,16:00,4,0,43,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),041,16:00,16:15,4,1,55,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),042,16:15,16:30,6,0,57,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),043,16:30,16:45,5,0,41,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),044,16:45,17:00,1,0,49,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),045,17:00,17:15,1,0,36,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),046,17:15,17:30,3,0,43,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),047,17:30,17:45,3,0,52,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),048,17:45,18:00,0,0,38,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),049,18:00,18:15,0,0,36,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),050,18:15,18:30,1,0,33,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),051,18:30,18:45,2,0,30,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Am Hopfengarten(West),052,18:45,19:00,2,2,33,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),001,06:00,06:15,1,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),002,06:15,06:30,0,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),003,06:30,06:45,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),004,06:45,07:00,3,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),005,07:00,07:15,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),006,07:15,07:30,2,0,4,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),007,07:30,07:45,1,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),008,07:45,08:00,2,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),009,08:00,08:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),010,08:15,08:30,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),011,08:30,08:45,1,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),012,08:45,09:00,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),013,09:00,09:15,1,0,4,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),014,09:15,09:30,1,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),015,09:30,09:45,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),016,09:45,10:00,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),017,10:00,10:15,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),018,10:15,10:30,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),019,10:30,10:45,0,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),020,10:45,11:00,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),021,11:00,11:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),022,11:15,11:30,4,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),023,11:30,11:45,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),024,11:45,12:00,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),025,12:00,12:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),026,12:15,12:30,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),027,12:30,12:45,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),028,12:45,13:00,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),029,13:00,13:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),030,13:15,13:30,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),031,13:30,13:45,0,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),032,13:45,14:00,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),033,14:00,14:15,0,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),034,14:15,14:30,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),035,14:30,14:45,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),036,14:45,15:00,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),037,15:00,15:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),038,15:15,15:30,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),039,15:30,15:45,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),040,15:45,16:00,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),041,16:00,16:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),042,16:15,16:30,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),043,16:30,16:45,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),044,16:45,17:00,0,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),045,17:00,17:15,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),046,17:15,17:30,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),047,17:30,17:45,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),048,17:45,18:00,1,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),049,18:00,18:15,1,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),050,18:15,18:30,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),051,18:30,18:45,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Am Hopfengarten (West),052,18:45,19:00,0,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,001,06:00,06:15,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,002,06:15,06:30,0,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,003,06:30,06:45,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,004,06:45,07:00,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,005,07:00,07:15,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,006,07:15,07:30,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,007,07:30,07:45,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,008,07:45,08:00,1,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,009,08:00,08:15,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,010,08:15,08:30,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,011,08:30,08:45,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,012,08:45,09:00,0,0,0,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,013,09:00,09:15,1,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,014,09:15,09:30,0,0,5,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,015,09:30,09:45,1,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,016,09:45,10:00,2,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,017,10:00,10:15,1,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,018,10:15,10:30,1,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,019,10:30,10:45,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,020,10:45,11:00,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,021,11:00,11:15,3,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,022,11:15,11:30,2,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,023,11:30,11:45,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,024,11:45,12:00,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,025,12:00,12:15,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,026,12:15,12:30,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,027,12:30,12:45,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,028,12:45,13:00,1,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,029,13:00,13:15,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,030,13:15,13:30,1,1,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,031,13:30,13:45,0,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,032,13:45,14:00,0,1,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,033,14:00,14:15,2,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,034,14:15,14:30,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,035,14:30,14:45,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,036,14:45,15:00,1,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,037,15:00,15:15,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,038,15:15,15:30,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,039,15:30,15:45,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,040,15:45,16:00,3,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,041,16:00,16:15,0,0,4,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,042,16:15,16:30,2,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,043,16:30,16:45,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,044,16:45,17:00,2,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,045,17:00,17:15,2,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,046,17:15,17:30,1,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,047,17:30,17:45,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,048,17:45,18:00,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,049,18:00,18:15,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,050,18:15,18:30,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,051,18:30,18:45,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Klostergraben,052,18:45,19:00,5,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,001,06:00,06:15,0,0,2,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,002,06:15,06:30,1,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,003,06:30,06:45,1,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,004,06:45,07:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,005,07:00,07:15,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,006,07:15,07:30,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,007,07:30,07:45,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,008,07:45,08:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,009,08:00,08:15,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,010,08:15,08:30,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,011,08:30,08:45,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,012,08:45,09:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,013,09:00,09:15,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,014,09:15,09:30,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,015,09:30,09:45,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,016,09:45,10:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,017,10:00,10:15,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,018,10:15,10:30,0,0,1,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,019,10:30,10:45,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,020,10:45,11:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,021,11:00,11:15,1,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,022,11:15,11:30,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,023,11:30,11:45,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,024,11:45,12:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,025,12:00,12:15,1,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,026,12:15,12:30,0,0,2,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,027,12:30,12:45,0,0,1,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,028,12:45,13:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,029,13:00,13:15,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,030,13:15,13:30,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,031,13:30,13:45,1,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,032,13:45,14:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,033,14:00,14:15,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,034,14:15,14:30,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,035,14:30,14:45,0,0,1,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,036,14:45,15:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,037,15:00,15:15,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,038,15:15,15:30,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,039,15:30,15:45,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,040,15:45,16:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,041,16:00,16:15,1,0,1,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,042,16:15,16:30,1,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,043,16:30,16:45,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,044,16:45,17:00,1,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,045,17:00,17:15,1,0,1,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,046,17:15,17:30,0,0,1,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,047,17:30,17:45,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,048,17:45,18:00,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,049,18:00,18:15,1,0,1,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,050,18:15,18:30,0,0,0,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,051,18:30,18:45,0,0,3,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Klostergrbaen,052,18:45,19:00,2,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,001,06:00,06:15,1,0,2,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,002,06:15,06:30,0,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,003,06:30,06:45,1,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,004,06:45,07:00,0,0,2,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,005,07:00,07:15,0,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,006,07:15,07:30,0,0,2,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,007,07:30,07:45,4,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,008,07:45,08:00,1,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,009,08:00,08:15,0,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,010,08:15,08:30,0,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,011,08:30,08:45,1,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,012,08:45,09:00,1,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,013,09:00,09:15,1,0,2,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,014,09:15,09:30,3,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,015,09:30,09:45,2,0,3,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,016,09:45,10:00,2,0,3,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,017,10:00,10:15,2,0,3,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,018,10:15,10:30,2,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,019,10:30,10:45,2,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,020,10:45,11:00,0,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,021,11:00,11:15,2,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,022,11:15,11:30,3,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,023,11:30,11:45,3,0,2,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,024,11:45,12:00,3,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,025,12:00,12:15,1,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,026,12:15,12:30,3,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,027,12:30,12:45,1,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,028,12:45,13:00,0,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,029,13:00,13:15,1,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,030,13:15,13:30,0,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,031,13:30,13:45,2,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,032,13:45,14:00,2,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,033,14:00,14:15,2,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,034,14:15,14:30,1,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,035,14:30,14:45,1,0,4,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,036,14:45,15:00,1,0,3,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,037,15:00,15:15,0,0,2,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,038,15:15,15:30,0,0,0,,1,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,039,15:30,15:45,0,0,3,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,040,15:45,16:00,1,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,041,16:00,16:15,2,0,4,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,042,16:15,16:30,5,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,043,16:30,16:45,2,0,3,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,044,16:45,17:00,3,0,5,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,045,17:00,17:15,4,0,0,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,046,17:15,17:30,1,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,047,17:30,17:45,3,0,2,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,048,17:45,18:00,1,0,3,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,049,18:00,18:15,3,0,2,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,050,18:15,18:30,3,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,051,18:30,18:45,0,0,1,,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Klostergraben,052,18:45,19:00,2,0,0,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),001,06:00,06:15,0,0,5,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),002,06:15,06:30,2,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),003,06:30,06:45,7,0,4,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),004,06:45,07:00,4,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),005,07:00,07:15,3,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),006,07:15,07:30,8,0,7,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),007,07:30,07:45,2,0,8,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),008,07:45,08:00,0,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),009,08:00,08:15,0,0,5,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),010,08:15,08:30,2,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),011,08:30,08:45,3,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),012,08:45,09:00,1,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),013,09:00,09:15,0,0,0,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),014,09:15,09:30,1,0,0,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),015,09:30,09:45,3,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),016,09:45,10:00,1,0,4,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),017,10:00,10:15,2,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),018,10:15,10:30,2,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),019,10:30,10:45,0,0,0,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),020,10:45,11:00,1,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),021,11:00,11:15,0,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),022,11:15,11:30,0,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),023,11:30,11:45,0,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),024,11:45,12:00,1,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),025,12:00,12:15,1,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),026,12:15,12:30,0,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),027,12:30,12:45,0,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),028,12:45,13:00,1,0,0,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),029,13:00,13:15,3,0,0,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),030,13:15,13:30,2,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),031,13:30,13:45,2,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),032,13:45,14:00,2,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),033,14:00,14:15,4,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),034,14:15,14:30,0,0,4,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),035,14:30,14:45,0,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),036,14:45,15:00,4,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),037,15:00,15:15,4,0,0,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),038,15:15,15:30,4,0,4,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),039,15:30,15:45,4,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),040,15:45,16:00,4,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),041,16:00,16:15,2,1,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),042,16:15,16:30,4,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),043,16:30,16:45,1,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),044,16:45,17:00,4,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),045,17:00,17:15,4,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),046,17:15,17:30,1,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),047,17:30,17:45,1,0,4,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),048,17:45,18:00,3,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),049,18:00,18:15,4,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),050,18:15,18:30,0,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),051,18:30,18:45,0,0,1,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Am Hopfengarten (Ost),052,18:45,19:00,2,0,0,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),001,06:00,06:15,2,0,35,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),002,06:15,06:30,3,1,40,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),003,06:30,06:45,2,0,36,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),004,06:45,07:00,2,1,29,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),005,07:00,07:15,4,0,49,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),006,07:15,07:30,5,0,47,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),007,07:30,07:45,2,0,52,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),008,07:45,08:00,0,0,44,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),009,08:00,08:15,0,0,31,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),010,08:15,08:30,4,0,48,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),011,08:30,08:45,1,0,35,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),012,08:45,09:00,2,0,38,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),013,09:00,09:15,2,0,39,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),014,09:15,09:30,1,0,29,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),015,09:30,09:45,4,0,32,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),016,09:45,10:00,1,0,36,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),017,10:00,10:15,4,0,23,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),018,10:15,10:30,0,0,38,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),019,10:30,10:45,7,1,23,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),020,10:45,11:00,1,0,34,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),021,11:00,11:15,4,0,25,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),022,11:15,11:30,0,0,32,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),023,11:30,11:45,1,1,33,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),024,11:45,12:00,3,0,33,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),025,12:00,12:15,3,1,33,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),026,12:15,12:30,1,0,22,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),027,12:30,12:45,3,0,21,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),028,12:45,13:00,1,0,22,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),029,13:00,13:15,3,1,28,,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),030,13:15,13:30,4,0,25,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),031,13:30,13:45,3,0,30,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),032,13:45,14:00,3,0,23,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),033,14:00,14:15,5,0,33,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),034,14:15,14:30,1,1,37,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),035,14:30,14:45,2,1,44,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),036,14:45,15:00,6,0,39,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),037,15:00,15:15,1,0,52,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),038,15:15,15:30,2,0,54,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),039,15:30,15:45,0,1,42,,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),040,15:45,16:00,2,0,31,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),041,16:00,16:15,3,0,69,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),042,16:15,16:30,3,0,62,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),043,16:30,16:45,4,0,48,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),044,16:45,17:00,5,2,44,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),045,17:00,17:15,7,0,71,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),046,17:15,17:30,3,0,44,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),047,17:30,17:45,4,0,40,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),048,17:45,18:00,4,0,23,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),049,18:00,18:15,1,0,37,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),050,18:15,18:30,5,0,48,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),051,18:30,18:45,6,0,27,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Am Hopfengarten(Ost),052,18:45,19:00,2,0,15,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),001,06:00,06:15,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),002,06:15,06:30,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),003,06:30,06:45,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),004,06:45,07:00,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),005,07:00,07:15,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),006,07:15,07:30,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),007,07:30,07:45,0,0,6,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),008,07:45,08:00,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),009,08:00,08:15,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),010,08:15,08:30,0,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),011,08:30,08:45,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),012,08:45,09:00,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),013,09:00,09:15,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),014,09:15,09:30,1,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),015,09:30,09:45,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),016,09:45,10:00,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),017,10:00,10:15,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),018,10:15,10:30,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),019,10:30,10:45,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),020,10:45,11:00,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),021,11:00,11:15,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),022,11:15,11:30,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),023,11:30,11:45,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),024,11:45,12:00,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),025,12:00,12:15,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),026,12:15,12:30,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),027,12:30,12:45,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),028,12:45,13:00,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),029,13:00,13:15,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),030,13:15,13:30,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),031,13:30,13:45,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),032,13:45,14:00,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),033,14:00,14:15,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),034,14:15,14:30,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),035,14:30,14:45,0,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),036,14:45,15:00,0,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),037,15:00,15:15,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),038,15:15,15:30,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),039,15:30,15:45,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),040,15:45,16:00,0,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),041,16:00,16:15,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),042,16:15,16:30,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),043,16:30,16:45,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),044,16:45,17:00,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),045,17:00,17:15,1,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),046,17:15,17:30,1,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),047,17:30,17:45,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),048,17:45,18:00,0,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),049,18:00,18:15,1,0,1,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),050,18:15,18:30,0,0,0,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),051,18:30,18:45,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Am Hopfengarten (Ost),052,18:45,19:00,0,0,2,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,001,06:00,06:15,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,002,06:15,06:30,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,003,06:30,06:45,0,0,3,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,004,06:45,07:00,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,005,07:00,07:15,0,0,3,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,006,07:15,07:30,0,0,2,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,007,07:30,07:45,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,008,07:45,08:00,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,009,08:00,08:15,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,010,08:15,08:30,0,0,2,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,011,08:30,08:45,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,012,08:45,09:00,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,013,09:00,09:15,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,014,09:15,09:30,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,015,09:30,09:45,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,016,09:45,10:00,1,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,017,10:00,10:15,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,018,10:15,10:30,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,019,10:30,10:45,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,020,10:45,11:00,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,021,11:00,11:15,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,022,11:15,11:30,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,023,11:30,11:45,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,024,11:45,12:00,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,025,12:00,12:15,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,026,12:15,12:30,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,027,12:30,12:45,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,028,12:45,13:00,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,029,13:00,13:15,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,030,13:15,13:30,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,031,13:30,13:45,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,032,13:45,14:00,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,033,14:00,14:15,0,0,2,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,034,14:15,14:30,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,035,14:30,14:45,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,036,14:45,15:00,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,037,15:00,15:15,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,038,15:15,15:30,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,039,15:30,15:45,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,040,15:45,16:00,0,0,2,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,041,16:00,16:15,0,0,2,,1,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,042,16:15,16:30,2,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,043,16:30,16:45,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,044,16:45,17:00,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,045,17:00,17:15,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,046,17:15,17:30,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,047,17:30,17:45,0,0,2,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,048,17:45,18:00,0,0,2,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,049,18:00,18:15,0,0,1,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,050,18:15,18:30,1,0,2,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,051,18:30,18:45,0,0,0,,0,0,0
+19,C,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hirschbreite,052,18:45,19:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,001,06:00,06:15,1,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,002,06:15,06:30,1,0,5,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,003,06:30,06:45,1,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,004,06:45,07:00,1,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,005,07:00,07:15,2,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,006,07:15,07:30,1,0,3,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,007,07:30,07:45,2,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,008,07:45,08:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,009,08:00,08:15,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,010,08:15,08:30,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,011,08:30,08:45,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,012,08:45,09:00,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,013,09:00,09:15,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,014,09:15,09:30,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,015,09:30,09:45,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,016,09:45,10:00,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,017,10:00,10:15,1,0,2,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,018,10:15,10:30,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,019,10:30,10:45,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,020,10:45,11:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,021,11:00,11:15,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,022,11:15,11:30,1,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,023,11:30,11:45,2,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,024,11:45,12:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,025,12:00,12:15,1,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,026,12:15,12:30,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,027,12:30,12:45,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,028,12:45,13:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,029,13:00,13:15,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,030,13:15,13:30,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,031,13:30,13:45,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,032,13:45,14:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,033,14:00,14:15,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,034,14:15,14:30,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,035,14:30,14:45,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,036,14:45,15:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,037,15:00,15:15,1,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,038,15:15,15:30,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,039,15:30,15:45,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,040,15:45,16:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,041,16:00,16:15,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,042,16:15,16:30,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,043,16:30,16:45,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,044,16:45,17:00,0,0,0,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,045,17:00,17:15,1,0,5,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,046,17:15,17:30,0,0,5,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,047,17:30,17:45,0,0,9,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,048,17:45,18:00,2,0,7,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,049,18:00,18:15,0,0,4,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,050,18:15,18:30,0,0,1,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,051,18:30,18:45,0,0,2,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Hirschbreite,052,18:45,19:00,0,0,2,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,001,06:00,06:15,0,0,9,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,002,06:15,06:30,3,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,003,06:30,06:45,0,0,5,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,004,06:45,07:00,0,0,9,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,005,07:00,07:15,1,0,13,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,006,07:15,07:30,3,0,7,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,007,07:30,07:45,1,0,10,,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,008,07:45,08:00,2,0,6,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,009,08:00,08:15,0,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,010,08:15,08:30,0,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,011,08:30,08:45,2,0,7,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,012,08:45,09:00,0,1,6,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,013,09:00,09:15,0,0,2,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,014,09:15,09:30,0,0,6,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,015,09:30,09:45,2,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,016,09:45,10:00,1,1,5,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,017,10:00,10:15,1,0,5,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,018,10:15,10:30,1,0,4,,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,019,10:30,10:45,0,0,2,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,020,10:45,11:00,1,0,1,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,021,11:00,11:15,0,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,022,11:15,11:30,1,0,1,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,023,11:30,11:45,1,0,4,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,024,11:45,12:00,1,0,2,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,025,12:00,12:15,0,0,5,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,026,12:15,12:30,1,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,027,12:30,12:45,1,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,028,12:45,13:00,0,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,029,13:00,13:15,0,0,2,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,030,13:15,13:30,0,0,4,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,031,13:30,13:45,1,0,4,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,032,13:45,14:00,0,0,7,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,033,14:00,14:15,0,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,034,14:15,14:30,1,0,5,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,035,14:30,14:45,0,0,2,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,036,14:45,15:00,0,0,8,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,037,15:00,15:15,0,0,1,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,038,15:15,15:30,1,0,4,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,039,15:30,15:45,2,0,4,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,040,15:45,16:00,0,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,041,16:00,16:15,0,0,6,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,042,16:15,16:30,0,0,8,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,043,16:30,16:45,0,0,2,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,044,16:45,17:00,1,0,3,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,045,17:00,17:15,1,0,5,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,046,17:15,17:30,0,0,5,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,047,17:30,17:45,0,0,9,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,048,17:45,18:00,2,0,7,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,049,18:00,18:15,0,0,4,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,050,18:15,18:30,0,0,1,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,051,18:30,18:45,0,0,2,,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Hirschbreite,052,18:45,19:00,0,0,2,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,6,1,70,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,11,1,75,,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,12,0,72,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,12,1,73,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,13,0,103,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,22,0,122,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,20,0,136,,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,9,0,90,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,6,0,88,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,9,0,98,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,13,0,74,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,5,1,73,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,7,0,72,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,11,0,72,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,12,0,70,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,13,2,72,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,13,1,58,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,13,0,82,,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,9,1,59,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,6,1,66,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,11,0,80,,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,17,0,77,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,10,1,74,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,12,0,75,,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,8,2,82,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,10,0,66,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,7,3,48,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,8,0,55,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,10,1,80,,1,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,9,2,77,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,12,0,81,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,11,1,60,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,17,0,81,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,5,2,95,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,5,3,112,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,14,0,115,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,12,0,104,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,21,0,124,,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,9,1,116,,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,14,0,91,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,14,2,153,,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,24,0,144,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,15,0,107,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,19,3,122,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,23,0,132,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,11,0,116,,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,12,0,128,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,15,0,99,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,12,0,98,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,10,0,95,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,10,0,79,,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,15,2,66,,0,0,0

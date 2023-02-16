@@ -1,0 +1,157 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,001,06:00,06:15,1,,0,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,002,06:15,06:30,0,,3,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,003,06:30,06:45,0,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,004,06:45,07:00,0,,3,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,005,07:00,07:15,0,,4,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,006,07:15,07:30,1,,9,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,007,07:30,07:45,1,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,008,07:45,08:00,0,,6,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,009,08:00,08:15,0,,2,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,010,08:15,08:30,0,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,011,08:30,08:45,2,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,012,08:45,09:00,0,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,013,09:00,09:15,0,,5,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,014,09:15,09:30,0,,0,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,015,09:30,09:45,0,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,016,09:45,10:00,1,,0,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,017,10:00,10:15,0,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,018,10:15,10:30,1,,1,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,019,10:30,10:45,0,,2,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,020,10:45,11:00,1,,3,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,021,11:00,11:15,1,,0,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,022,11:15,11:30,0,,1,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,023,11:30,11:45,0,,0,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,024,11:45,12:00,2,,2,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,025,12:00,12:15,1,,2,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,026,12:15,12:30,0,,2,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,027,12:30,12:45,2,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,028,12:45,13:00,0,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,029,13:00,13:15,5,,3,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,030,13:15,13:30,2,,2,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,031,13:30,13:45,2,,8,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,032,13:45,14:00,0,,1,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,033,14:00,14:15,0,,4,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,034,14:15,14:30,0,,2,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,035,14:30,14:45,2,,1,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,036,14:45,15:00,0,,3,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,037,15:00,15:15,1,,2,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,038,15:15,15:30,3,,2,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,039,15:30,15:45,4,,6,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,040,15:45,16:00,1,,0,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,041,16:00,16:15,1,,11,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,042,16:15,16:30,2,,6,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,043,16:30,16:45,2,,4,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,044,16:45,17:00,0,,3,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,045,17:00,17:15,0,,8,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,046,17:15,17:30,0,,2,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,047,17:30,17:45,0,,8,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,048,17:45,18:00,0,,7,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,049,18:00,18:15,0,,8,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,050,18:15,18:30,0,,6,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,051,18:30,18:45,0,,9,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring i. R. Pfälzer Platz,052,18:45,19:00,0,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,001,06:00,06:15,0,,1,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,002,06:15,06:30,1,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,003,06:30,06:45,3,,3,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,004,06:45,07:00,1,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,005,07:00,07:15,1,,12,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,006,07:15,07:30,7,,5,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,007,07:30,07:45,2,,3,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,008,07:45,08:00,4,,13,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,009,08:00,08:15,7,,16,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,010,08:15,08:30,3,,4,0,1,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,011,08:30,08:45,0,,5,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,012,08:45,09:00,3,,5,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,013,09:00,09:15,2,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,014,09:15,09:30,4,,3,0,1,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,015,09:30,09:45,1,,1,0,1,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,016,09:45,10:00,2,,2,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,017,10:00,10:15,2,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,018,10:15,10:30,0,,3,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,019,10:30,10:45,0,,1,2,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,020,10:45,11:00,0,,3,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,021,11:00,11:15,1,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,022,11:15,11:30,0,,11,0,1,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,023,11:30,11:45,2,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,024,11:45,12:00,1,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,025,12:00,12:15,0,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,026,12:15,12:30,1,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,027,12:30,12:45,2,,9,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,028,12:45,13:00,0,,11,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,029,13:00,13:15,6,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,030,13:15,13:30,1,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,031,13:30,13:45,4,,5,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,032,13:45,14:00,2,,6,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,033,14:00,14:15,1,,8,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,034,14:15,14:30,0,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,035,14:30,14:45,2,,5,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,036,14:45,15:00,1,,3,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,037,15:00,15:15,4,,3,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,038,15:15,15:30,1,,6,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,039,15:30,15:45,1,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,040,15:45,16:00,1,,0,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,041,16:00,16:15,0,,1,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,042,16:15,16:30,1,,3,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,043,16:30,16:45,0,,1,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,044,16:45,17:00,1,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,045,17:00,17:15,2,,3,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,046,17:15,17:30,0,,5,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,047,17:30,17:45,0,,3,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,048,17:45,18:00,0,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,049,18:00,18:15,0,,13,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,050,18:15,18:30,0,,10,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,051,18:30,18:45,0,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Johann-Gottlob-Nathusius-Ring a. R. Pfälzer Platz Radfalschfahre,052,18:45,19:00,0,,1,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),001,06:00,06:15,0,,0,7,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),002,06:15,06:30,4,,0,21,2,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),003,06:30,06:45,1,,1,10,4,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),004,06:45,07:00,4,,0,17,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),005,07:00,07:15,2,,0,31,2,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),006,07:15,07:30,2,,0,29,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),007,07:30,07:45,1,,0,40,4,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),008,07:45,08:00,4,,0,35,1,1,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),009,08:00,08:15,0,,0,21,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),010,08:15,08:30,0,,1,17,2,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),011,08:30,08:45,4,,0,25,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),012,08:45,09:00,3,,0,32,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),013,09:00,09:15,3,,0,26,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),014,09:15,09:30,1,,0,32,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),015,09:30,09:45,0,,0,27,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),016,09:45,10:00,2,,0,19,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),017,10:00,10:15,2,,0,15,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),018,10:15,10:30,3,,0,21,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),019,10:30,10:45,0,,0,20,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),020,10:45,11:00,3,,0,34,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),021,11:00,11:15,1,,0,52,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),022,11:15,11:30,1,,0,28,2,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),023,11:30,11:45,2,,0,29,1,1,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),024,11:45,12:00,1,,0,27,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),025,12:00,12:15,3,,1,18,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),026,12:15,12:30,2,,0,23,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),027,12:30,12:45,3,,1,18,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),028,12:45,13:00,1,,0,30,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),029,13:00,13:15,3,,0,35,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),030,13:15,13:30,1,,0,21,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),031,13:30,13:45,1,,0,23,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),032,13:45,14:00,1,,0,27,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),033,14:00,14:15,4,,0,22,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),034,14:15,14:30,1,,0,18,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),035,14:30,14:45,2,,0,27,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),036,14:45,15:00,2,,0,34,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),037,15:00,15:15,1,,0,42,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),038,15:15,15:30,4,,0,30,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),039,15:30,15:45,5,,0,19,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),040,15:45,16:00,2,,0,31,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),041,16:00,16:15,2,,0,24,1,1,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),042,16:15,16:30,1,,0,16,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),043,16:30,16:45,0,,0,24,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),044,16:45,17:00,0,,0,27,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),045,17:00,17:15,2,,1,41,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),046,17:15,17:30,2,,0,19,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),047,17:30,17:45,1,,0,16,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),048,17:45,18:00,4,,0,23,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),049,18:00,18:15,1,,0,30,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),050,18:15,18:30,1,,0,24,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),051,18:30,18:45,3,,0,25,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG...(2) + BG...(5),052,18:45,19:00,0,,0,19,0,0,0

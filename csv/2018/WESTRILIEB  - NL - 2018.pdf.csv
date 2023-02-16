@@ -1,0 +1,937 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),001,06:00,06:15,0,,8,0,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),002,06:15,06:30,1,,17,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),003,06:30,06:45,0,,22,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),004,06:45,07:00,3,,13,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),005,07:00,07:15,1,,24,1,4,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),006,07:15,07:30,4,,37,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),007,07:30,07:45,0,,37,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),008,07:45,08:00,0,,33,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),009,08:00,08:15,0,,25,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),010,08:15,08:30,2,,25,3,2,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),011,08:30,08:45,0,,21,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),012,08:45,09:00,0,,29,1,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),013,09:00,09:15,0,,20,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),014,09:15,09:30,0,,12,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),015,09:30,09:45,0,,37,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),016,09:45,10:00,0,,13,2,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),017,10:00,10:15,0,,24,10,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),018,10:15,10:30,0,,16,5,1,1,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),019,10:30,10:45,0,,13,2,2,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),020,10:45,11:00,0,,15,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),021,11:00,11:15,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),022,11:15,11:30,0,,15,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),023,11:30,11:45,0,,23,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),024,11:45,12:00,0,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),025,12:00,12:15,0,,15,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),026,12:15,12:30,0,,14,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),027,12:30,12:45,0,,20,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),028,12:45,13:00,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),029,13:00,13:15,2,,22,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),030,13:15,13:30,0,,33,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),031,13:30,13:45,0,,23,1,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),032,13:45,14:00,3,,24,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),033,14:00,14:15,3,,27,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),034,14:15,14:30,0,,24,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),035,14:30,14:45,0,,26,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),036,14:45,15:00,0,,16,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),037,15:00,15:15,3,,37,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),038,15:15,15:30,2,,23,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),039,15:30,15:45,2,,25,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),040,15:45,16:00,0,,26,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),041,16:00,16:15,0,,25,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),042,16:15,16:30,0,,17,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),043,16:30,16:45,0,,18,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),044,16:45,17:00,0,,27,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),045,17:00,17:15,0,,27,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),046,17:15,17:30,0,,28,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),047,17:30,17:45,0,,25,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),048,17:45,18:00,0,,25,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),049,18:00,18:15,0,,17,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),050,18:15,18:30,0,,15,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),051,18:30,18:45,0,,22,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Liebknechtstraße(W),052,18:45,19:00,0,,5,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),001,06:00,06:15,3,,40,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),002,06:15,06:30,4,,41,7,2,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),003,06:30,06:45,7,,68,4,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),004,06:45,07:00,2,,47,5,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),005,07:00,07:15,9,,38,2,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),006,07:15,07:30,24,,44,10,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),007,07:30,07:45,16,,67,5,2,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),008,07:45,08:00,9,,46,3,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),009,08:00,08:15,9,,45,6,4,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),010,08:15,08:30,5,,48,6,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),011,08:30,08:45,7,,39,7,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),012,08:45,09:00,1,,41,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),013,09:00,09:15,3,,31,4,3,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),014,09:15,09:30,9,,36,8,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),015,09:30,09:45,7,,43,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),016,09:45,10:00,4,,32,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),017,10:00,10:15,6,,26,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),018,10:15,10:30,5,,27,2,3,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),019,10:30,10:45,3,,24,1,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),020,10:45,11:00,7,,36,5,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),021,11:00,11:15,1,,32,3,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),022,11:15,11:30,2,,41,5,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),023,11:30,11:45,2,,29,2,4,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),024,11:45,12:00,1,,37,7,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),025,12:00,12:15,4,,36,6,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),026,12:15,12:30,2,,22,6,4,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),027,12:30,12:45,1,,38,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),028,12:45,13:00,3,,30,4,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),029,13:00,13:15,6,,37,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),030,13:15,13:30,9,,45,5,4,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),031,13:30,13:45,5,,46,1,3,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),032,13:45,14:00,3,,37,6,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),033,14:00,14:15,7,,53,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),034,14:15,14:30,8,,43,4,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),035,14:30,14:45,2,,38,4,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),036,14:45,15:00,7,,44,1,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),037,15:00,15:15,10,,63,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),038,15:15,15:30,7,,59,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),039,15:30,15:45,5,,53,1,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),040,15:45,16:00,4,,46,3,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),041,16:00,16:15,5,,65,2,2,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),042,16:15,16:30,3,,42,3,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),043,16:30,16:45,9,,46,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),044,16:45,17:00,4,,38,9,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),045,17:00,17:15,3,,39,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),046,17:15,17:30,4,,29,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),047,17:30,17:45,7,,34,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),048,17:45,18:00,5,,23,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),049,18:00,18:15,1,,23,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),050,18:15,18:30,5,,20,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),051,18:30,18:45,5,,41,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Liebknechtstraße(W),052,18:45,19:00,0,,17,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),001,06:00,06:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),002,06:15,06:30,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),003,06:30,06:45,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),004,06:45,07:00,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),005,07:00,07:15,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),006,07:15,07:30,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),007,07:30,07:45,0,,3,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),008,07:45,08:00,0,,4,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),009,08:00,08:15,0,,1,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),010,08:15,08:30,0,,1,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),011,08:30,08:45,0,,3,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),012,08:45,09:00,0,,2,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),013,09:00,09:15,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),014,09:15,09:30,0,,1,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),015,09:30,09:45,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),016,09:45,10:00,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),017,10:00,10:15,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),018,10:15,10:30,0,,5,0,0,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),019,10:30,10:45,0,,7,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),020,10:45,11:00,0,,4,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),021,11:00,11:15,1,,3,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),022,11:15,11:30,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),023,11:30,11:45,0,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),024,11:45,12:00,0,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),025,12:00,12:15,1,,8,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),026,12:15,12:30,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),027,12:30,12:45,0,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),028,12:45,13:00,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),029,13:00,13:15,0,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),030,13:15,13:30,0,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),031,13:30,13:45,0,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),032,13:45,14:00,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),033,14:00,14:15,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),034,14:15,14:30,0,,7,1,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),035,14:30,14:45,0,,6,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),036,14:45,15:00,0,,8,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),037,15:00,15:15,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),038,15:15,15:30,0,,8,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),039,15:30,15:45,0,,11,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),040,15:45,16:00,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),041,16:00,16:15,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),042,16:15,16:30,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),043,16:30,16:45,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),044,16:45,17:00,1,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),045,17:00,17:15,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),046,17:15,17:30,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),047,17:30,17:45,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),048,17:45,18:00,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),049,18:00,18:15,0,,3,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),050,18:15,18:30,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),051,18:30,18:45,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Liebknechtstraße (W),052,18:45,19:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),001,06:00,06:15,2,,2,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),002,06:15,06:30,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),003,06:30,06:45,3,,1,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),004,06:45,07:00,4,,9,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),005,07:00,07:15,3,,4,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),006,07:15,07:30,4,,17,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),007,07:30,07:45,7,,15,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),008,07:45,08:00,15,,7,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),009,08:00,08:15,4,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),010,08:15,08:30,4,,1,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),011,08:30,08:45,7,,2,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),012,08:45,09:00,3,,3,3,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),013,09:00,09:15,1,,3,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),014,09:15,09:30,4,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),015,09:30,09:45,3,,5,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),016,09:45,10:00,1,,5,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),017,10:00,10:15,2,,9,1,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),018,10:15,10:30,0,,2,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),019,10:30,10:45,2,,3,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),020,10:45,11:00,0,,5,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),021,11:00,11:15,2,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),022,11:15,11:30,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),023,11:30,11:45,2,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),024,11:45,12:00,2,,4,1,2,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),025,12:00,12:15,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),026,12:15,12:30,1,,4,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),027,12:30,12:45,1,,2,3,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),028,12:45,13:00,1,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),029,13:00,13:15,1,,12,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),030,13:15,13:30,1,,2,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),031,13:30,13:45,10,,3,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),032,13:45,14:00,0,,7,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),033,14:00,14:15,5,,3,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),034,14:15,14:30,3,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),035,14:30,14:45,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),036,14:45,15:00,2,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),037,15:00,15:15,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),038,15:15,15:30,2,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),039,15:30,15:45,2,,8,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),040,15:45,16:00,6,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),041,16:00,16:15,0,,6,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),042,16:15,16:30,1,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),043,16:30,16:45,5,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),044,16:45,17:00,4,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),045,17:00,17:15,2,,3,0,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),046,17:15,17:30,1,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),047,17:30,17:45,2,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),048,17:45,18:00,8,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),049,18:00,18:15,4,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),050,18:15,18:30,1,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),051,18:30,18:45,1,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Westring (N),052,18:45,19:00,4,,3,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),001,06:00,06:15,6,,17,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),002,06:15,06:30,10,,17,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),003,06:30,06:45,16,,4,18,4,2,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),004,06:45,07:00,15,,27,0,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),005,07:00,07:15,11,,29,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),006,07:15,07:30,22,,33,1,2,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),007,07:30,07:45,22,,46,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),008,07:45,08:00,6,,36,1,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),009,08:00,08:15,9,,20,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),010,08:15,08:30,15,,26,2,2,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),011,08:30,08:45,6,,33,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),012,08:45,09:00,11,,16,3,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),013,09:00,09:15,3,,15,0,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),014,09:15,09:30,2,,14,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),015,09:30,09:45,5,,28,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),016,09:45,10:00,5,,21,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),017,10:00,10:15,8,,19,0,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),018,10:15,10:30,6,,15,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),019,10:30,10:45,5,,21,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),020,10:45,11:00,2,,16,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),021,11:00,11:15,6,,20,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),022,11:15,11:30,5,,14,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),023,11:30,11:45,2,,21,0,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),024,11:45,12:00,8,,17,2,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),025,12:00,12:15,4,,16,1,3,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),026,12:15,12:30,5,,15,2,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),027,12:30,12:45,3,,12,2,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),028,12:45,13:00,5,,10,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),029,13:00,13:15,16,,17,4,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),030,13:15,13:30,5,,19,4,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),031,13:30,13:45,7,,18,5,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),032,13:45,14:00,3,,17,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),033,14:00,14:15,5,,10,0,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),034,14:15,14:30,11,,22,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),035,14:30,14:45,10,,18,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),036,14:45,15:00,8,,27,2,2,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),037,15:00,15:15,18,,34,1,1,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),038,15:15,15:30,18,,20,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),039,15:30,15:45,9,,31,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),040,15:45,16:00,9,,24,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),041,16:00,16:15,13,,34,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),042,16:15,16:30,6,,27,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),043,16:30,16:45,12,,25,3,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),044,16:45,17:00,16,,25,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),045,17:00,17:15,8,,27,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),046,17:15,17:30,7,,21,2,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),047,17:30,17:45,11,,22,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),048,17:45,18:00,5,,32,1,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),049,18:00,18:15,5,,23,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),050,18:15,18:30,5,,17,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),051,18:30,18:45,8,,16,0,0,0,0
+8,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Westring (N),052,18:45,19:00,3,,14,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),001,06:00,06:15,0,,21,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),002,06:15,06:30,0,,33,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),003,06:30,06:45,0,,56,2,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),004,06:45,07:00,0,,59,0,3,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),005,07:00,07:15,0,,62,2,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),006,07:15,07:30,0,,82,1,2,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),007,07:30,07:45,0,,102,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),008,07:45,08:00,0,,60,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),009,08:00,08:15,0,,45,2,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),010,08:15,08:30,0,,39,0,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),011,08:30,08:45,0,,50,1,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),012,08:45,09:00,0,,60,0,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),013,09:00,09:15,0,,43,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),014,09:15,09:30,0,,52,4,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),015,09:30,09:45,0,,68,3,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),016,09:45,10:00,0,,40,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),017,10:00,10:15,0,,29,0,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),018,10:15,10:30,0,,41,2,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),019,10:30,10:45,0,,28,1,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),020,10:45,11:00,0,,32,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),021,11:00,11:15,0,,42,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),022,11:15,11:30,0,,24,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),023,11:30,11:45,0,,35,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),024,11:45,12:00,0,,32,1,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),025,12:00,12:15,0,,30,2,2,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),026,12:15,12:30,0,,33,4,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),027,12:30,12:45,0,,42,3,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),028,12:45,13:00,0,,24,3,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),029,13:00,13:15,0,,56,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),030,13:15,13:30,0,,46,1,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),031,13:30,13:45,0,,44,4,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),032,13:45,14:00,0,,59,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),033,14:00,14:15,0,,41,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),034,14:15,14:30,0,,58,2,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),035,14:30,14:45,0,,59,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),036,14:45,15:00,0,,74,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),037,15:00,15:15,0,,72,0,1,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),038,15:15,15:30,0,,69,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),039,15:30,15:45,0,,69,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),040,15:45,16:00,0,,66,1,0,1,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),041,16:00,16:15,0,,43,6,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),042,16:15,16:30,0,,56,4,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),043,16:30,16:45,0,,37,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),044,16:45,17:00,0,,33,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),045,17:00,17:15,0,,31,2,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),046,17:15,17:30,0,,53,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),047,17:30,17:45,0,,38,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),048,17:45,18:00,0,,40,2,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),049,18:00,18:15,0,,33,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),050,18:15,18:30,0,,27,0,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),051,18:30,18:45,0,,17,1,0,0,0
+9,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Westring (N),052,18:45,19:00,0,,21,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,001,06:00,06:15,6,,38,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,002,06:15,06:30,10,,50,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,003,06:30,06:45,16,,60,20,5,2,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,004,06:45,07:00,15,,86,0,4,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,005,07:00,07:15,11,,91,3,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,006,07:15,07:30,22,,115,2,4,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,007,07:30,07:45,22,,148,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,008,07:45,08:00,6,,96,1,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,009,08:00,08:15,9,,65,3,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,010,08:15,08:30,15,,65,2,3,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,011,08:30,08:45,6,,83,2,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,012,08:45,09:00,11,,76,3,2,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,013,09:00,09:15,3,,58,1,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,014,09:15,09:30,2,,66,6,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,015,09:30,09:45,5,,96,5,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,016,09:45,10:00,5,,61,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,017,10:00,10:15,8,,48,0,2,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,018,10:15,10:30,6,,56,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,019,10:30,10:45,5,,49,1,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,020,10:45,11:00,2,,48,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,021,11:00,11:15,6,,62,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,022,11:15,11:30,5,,38,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,023,11:30,11:45,2,,56,0,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,024,11:45,12:00,8,,49,3,2,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,025,12:00,12:15,4,,46,3,5,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,026,12:15,12:30,5,,48,6,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,027,12:30,12:45,3,,54,5,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,028,12:45,13:00,5,,34,5,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,029,13:00,13:15,16,,73,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,030,13:15,13:30,5,,65,5,2,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,031,13:30,13:45,7,,62,9,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,032,13:45,14:00,3,,76,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,033,14:00,14:15,5,,51,0,1,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,034,14:15,14:30,11,,80,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,035,14:30,14:45,10,,77,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,036,14:45,15:00,8,,101,2,2,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,037,15:00,15:15,18,,106,1,2,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,038,15:15,15:30,18,,89,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,039,15:30,15:45,9,,100,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,040,15:45,16:00,9,,90,2,0,1,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,041,16:00,16:15,13,,77,6,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,042,16:15,16:30,6,,83,5,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,043,16:30,16:45,12,,62,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,044,16:45,17:00,16,,58,2,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,045,17:00,17:15,8,,58,4,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,046,17:15,17:30,7,,74,3,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,047,17:30,17:45,11,,60,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,048,17:45,18:00,5,,72,3,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,049,18:00,18:15,5,,56,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,050,18:15,18:30,5,,44,0,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,051,18:30,18:45,8,,33,1,0,0,0
+10,B,0,0,BG...(5),summierter Strom,8+9,BG1 + BG2,052,18:45,19:00,3,,35,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),001,06:00,06:15,0,,11,2,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),002,06:15,06:30,1,,8,0,0,0,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),003,06:30,06:45,0,,21,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),004,06:45,07:00,0,,23,2,0,1,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),005,07:00,07:15,1,,25,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),006,07:15,07:30,2,,30,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),007,07:30,07:45,0,,19,2,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),008,07:45,08:00,0,,24,1,1,0,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),009,08:00,08:15,0,,22,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),010,08:15,08:30,0,,25,1,0,0,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),011,08:30,08:45,2,,20,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),012,08:45,09:00,2,,21,0,0,0,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),013,09:00,09:15,0,,24,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),014,09:15,09:30,0,,14,2,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),015,09:30,09:45,0,,13,0,0,0,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),016,09:45,10:00,0,,11,2,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),017,10:00,10:15,0,,3,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),018,10:15,10:30,0,,3,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),019,10:30,10:45,0,,6,1,1,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),020,10:45,11:00,0,,10,1,1,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),021,11:00,11:15,0,,10,3,2,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),022,11:15,11:30,0,,15,2,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),023,11:30,11:45,0,,12,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),024,11:45,12:00,0,,9,2,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),025,12:00,12:15,0,,6,1,0,0,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),026,12:15,12:30,0,,9,3,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),027,12:30,12:45,0,,5,8,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),028,12:45,13:00,0,,7,2,2,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),029,13:00,13:15,0,,10,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),030,13:15,13:30,2,,12,1,2,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),031,13:30,13:45,0,,28,3,0,0,2
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),032,13:45,14:00,0,,12,1,1,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),033,14:00,14:15,0,,12,1,1,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),034,14:15,14:30,0,,11,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),035,14:30,14:45,0,,16,0,1,0,2
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),036,14:45,15:00,0,,10,2,0,1,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),037,15:00,15:15,0,,27,3,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),038,15:15,15:30,0,,28,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),039,15:30,15:45,0,,21,0,0,0,2
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),040,15:45,16:00,0,,21,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),041,16:00,16:15,0,,21,1,1,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),042,16:15,16:30,0,,24,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),043,16:30,16:45,0,,18,2,0,0,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),044,16:45,17:00,0,,11,0,0,0,1
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),045,17:00,17:15,0,,23,2,2,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),046,17:15,17:30,0,,16,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),047,17:30,17:45,0,,11,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),048,17:45,18:00,0,,7,0,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),049,18:00,18:15,2,,8,0,1,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),050,18:15,18:30,0,,6,1,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),051,18:30,18:45,0,,5,2,0,0,0
+11,B,3,1,BL...(6),Zählstrom,,Linksabbieger Westring (N),052,18:45,19:00,0,,4,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),001,06:00,06:15,0,,11,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),002,06:15,06:30,0,,11,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),003,06:30,06:45,0,,15,0,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),004,06:45,07:00,0,,20,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),005,07:00,07:15,0,,26,1,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),006,07:15,07:30,0,,24,3,3,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),007,07:30,07:45,0,,14,0,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),008,07:45,08:00,0,,6,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),009,08:00,08:15,0,,9,2,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),010,08:15,08:30,0,,14,5,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),011,08:30,08:45,0,,16,4,2,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),012,08:45,09:00,0,,11,1,2,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),013,09:00,09:15,0,,8,2,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),014,09:15,09:30,0,,13,2,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),015,09:30,09:45,0,,20,1,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),016,09:45,10:00,1,,12,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),017,10:00,10:15,0,,16,1,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),018,10:15,10:30,0,,21,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),019,10:30,10:45,0,,11,2,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),020,10:45,11:00,0,,14,3,2,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),021,11:00,11:15,2,,12,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),022,11:15,11:30,0,,20,3,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),023,11:30,11:45,1,,18,0,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),024,11:45,12:00,0,,21,0,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),025,12:00,12:15,2,,25,0,2,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),026,12:15,12:30,2,,18,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),027,12:30,12:45,1,,16,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),028,12:45,13:00,0,,21,0,2,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),029,13:00,13:15,0,,19,1,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),030,13:15,13:30,0,,23,4,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),031,13:30,13:45,0,,23,2,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),032,13:45,14:00,0,,19,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),033,14:00,14:15,0,,23,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),034,14:15,14:30,0,,22,2,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),035,14:30,14:45,0,,26,2,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),036,14:45,15:00,0,,24,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),037,15:00,15:15,0,,27,1,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),038,15:15,15:30,0,,23,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),039,15:30,15:45,0,,30,0,1,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),040,15:45,16:00,0,,21,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),041,16:00,16:15,1,,20,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),042,16:15,16:30,5,,32,0,1,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),043,16:30,16:45,1,,23,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),044,16:45,17:00,6,,30,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),045,17:00,17:15,2,,26,0,0,0,2
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),046,17:15,17:30,1,,19,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),047,17:30,17:45,4,,25,0,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),048,17:45,18:00,4,,24,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),049,18:00,18:15,0,,22,1,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),050,18:15,18:30,5,,25,0,0,0,0
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),051,18:30,18:45,1,,17,0,0,0,1
+15,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Liebknechtstraße(O),052,18:45,19:00,2,,24,0,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),001,06:00,06:15,1,,13,1,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),002,06:15,06:30,1,,29,3,2,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),003,06:30,06:45,1,,29,4,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),004,06:45,07:00,4,,28,4,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),005,07:00,07:15,1,,30,9,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),006,07:15,07:30,1,,45,6,4,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),007,07:30,07:45,5,,74,2,1,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),008,07:45,08:00,2,,57,6,1,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),009,08:00,08:15,4,,33,5,2,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),010,08:15,08:30,1,,34,6,0,0,2
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),011,08:30,08:45,0,,37,6,1,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),012,08:45,09:00,0,,30,5,1,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),013,09:00,09:15,1,,32,5,6,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),014,09:15,09:30,0,,21,4,1,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),015,09:30,09:45,5,,53,3,2,0,2
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),016,09:45,10:00,5,,24,2,1,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),017,10:00,10:15,2,,33,2,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),018,10:15,10:30,3,,26,3,1,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),019,10:30,10:45,6,,33,3,2,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),020,10:45,11:00,4,,34,0,3,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),021,11:00,11:15,6,,36,4,1,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),022,11:15,11:30,7,,38,5,2,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),023,11:30,11:45,5,,37,2,2,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),024,11:45,12:00,7,,40,1,1,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),025,12:00,12:15,4,,48,3,4,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),026,12:15,12:30,1,,40,2,1,0,2
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),027,12:30,12:45,4,,26,1,1,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),028,12:45,13:00,4,,35,1,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),029,13:00,13:15,1,,33,6,4,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),030,13:15,13:30,3,,31,1,1,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),031,13:30,13:45,0,,42,4,2,0,3
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),032,13:45,14:00,3,,28,3,1,0,2
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),033,14:00,14:15,3,,51,4,2,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),034,14:15,14:30,2,,43,4,4,0,2
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),035,14:30,14:45,2,,35,3,0,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),036,14:45,15:00,0,,62,6,3,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),037,15:00,15:15,2,,49,4,1,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),038,15:15,15:30,12,,45,2,2,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),039,15:30,15:45,8,,61,5,2,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),040,15:45,16:00,3,,46,10,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),041,16:00,16:15,5,,67,3,6,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),042,16:15,16:30,11,,45,1,1,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),043,16:30,16:45,4,,57,4,0,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),044,16:45,17:00,6,,33,2,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),045,17:00,17:15,10,,40,2,1,1,2
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),046,17:15,17:30,4,,49,2,0,0,2
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),047,17:30,17:45,13,,33,1,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),048,17:45,18:00,8,,48,0,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),049,18:00,18:15,8,,38,1,0,0,1
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),050,18:15,18:30,6,,48,0,0,0,2
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),051,18:30,18:45,3,,36,1,0,0,0
+16,C,1,2,DG...(8),Zählstrom,,Geradeausfahrer Liebknechtstraße(O),052,18:45,19:00,7,,37,1,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),001,06:00,06:15,0,,2,0,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),002,06:15,06:30,0,,11,0,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),003,06:30,06:45,0,,15,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),004,06:45,07:00,0,,12,1,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),005,07:00,07:15,0,,6,1,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),006,07:15,07:30,2,,33,1,2,1,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),007,07:30,07:45,0,,22,1,1,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),008,07:45,08:00,1,,25,3,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),009,08:00,08:15,0,,17,0,3,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),010,08:15,08:30,0,,11,2,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),011,08:30,08:45,1,,9,3,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),012,08:45,09:00,0,,12,3,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),013,09:00,09:15,0,,15,4,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),014,09:15,09:30,0,,11,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),015,09:30,09:45,2,,3,1,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),016,09:45,10:00,0,,12,2,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),017,10:00,10:15,0,,12,3,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),018,10:15,10:30,0,,10,1,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),019,10:30,10:45,1,,13,5,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),020,10:45,11:00,1,,16,6,1,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),021,11:00,11:15,0,,17,1,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),022,11:15,11:30,0,,15,3,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),023,11:30,11:45,0,,21,1,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),024,11:45,12:00,0,,21,3,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),025,12:00,12:15,0,,18,3,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),026,12:15,12:30,1,,10,2,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),027,12:30,12:45,1,,9,5,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),028,12:45,13:00,0,,10,3,1,1,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),029,13:00,13:15,0,,9,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),030,13:15,13:30,0,,12,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),031,13:30,13:45,0,,13,0,1,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),032,13:45,14:00,0,,23,1,1,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),033,14:00,14:15,0,,14,0,1,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),034,14:15,14:30,0,,12,2,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),035,14:30,14:45,0,,9,0,1,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),036,14:45,15:00,0,,11,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),037,15:00,15:15,0,,14,2,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),038,15:15,15:30,0,,18,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),039,15:30,15:45,0,,26,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),040,15:45,16:00,0,,19,1,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),041,16:00,16:15,0,,21,3,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),042,16:15,16:30,0,,20,1,1,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),043,16:30,16:45,0,,18,3,1,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),044,16:45,17:00,0,,16,3,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),045,17:00,17:15,0,,20,0,0,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),046,17:15,17:30,0,,15,1,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),047,17:30,17:45,0,,23,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),048,17:45,18:00,0,,16,2,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),049,18:00,18:15,2,,22,2,2,0,0
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),050,18:15,18:30,0,,15,1,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),051,18:30,18:45,0,,17,0,0,0,1
+17,C,2,1,CL...(9),Zählstrom,,Linksabbieger Liebknechtstraße (O),052,18:45,19:00,0,,8,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),001,06:00,06:15,0,,5,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),002,06:15,06:30,2,,14,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),003,06:30,06:45,3,,23,1,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),004,06:45,07:00,8,,21,2,0,0,2
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),005,07:00,07:15,3,,20,1,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),006,07:15,07:30,5,,38,2,1,0,2
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),007,07:30,07:45,1,,20,2,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),008,07:45,08:00,3,,29,1,3,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),009,08:00,08:15,3,,23,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),010,08:15,08:30,1,,23,2,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),011,08:30,08:45,0,,23,2,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),012,08:45,09:00,1,,19,3,1,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),013,09:00,09:15,0,,21,3,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),014,09:15,09:30,1,,11,1,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),015,09:30,09:45,1,,10,4,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),016,09:45,10:00,0,,15,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),017,10:00,10:15,2,,13,1,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),018,10:15,10:30,3,,18,1,1,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),019,10:30,10:45,4,,15,1,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),020,10:45,11:00,1,,15,2,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),021,11:00,11:15,0,,15,1,1,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),022,11:15,11:30,1,,16,2,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),023,11:30,11:45,0,,7,1,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),024,11:45,12:00,1,,15,2,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),025,12:00,12:15,0,,15,4,1,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),026,12:15,12:30,2,,17,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),027,12:30,12:45,3,,18,4,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),028,12:45,13:00,0,,13,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),029,13:00,13:15,2,,11,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),030,13:15,13:30,0,,28,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),031,13:30,13:45,0,,22,1,1,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),032,13:45,14:00,4,,23,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),033,14:00,14:15,1,,28,2,1,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),034,14:15,14:30,1,,20,1,2,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),035,14:30,14:45,0,,32,1,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),036,14:45,15:00,3,,28,1,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),037,15:00,15:15,0,,26,2,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),038,15:15,15:30,3,,30,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),039,15:30,15:45,3,,33,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),040,15:45,16:00,0,,20,0,1,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),041,16:00,16:15,6,,18,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),042,16:15,16:30,4,,19,0,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),043,16:30,16:45,2,,21,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),044,16:45,17:00,1,,17,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),045,17:00,17:15,6,,21,0,0,0,2
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),046,17:15,17:30,4,,15,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),047,17:30,17:45,2,,21,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),048,17:45,18:00,4,,22,0,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),049,18:00,18:15,1,,19,2,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),050,18:15,18:30,0,,15,2,0,0,1
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),051,18:30,18:45,1,,11,1,0,0,0
+21,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Westring (S),052,18:45,19:00,3,,8,2,0,1,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),001,06:00,06:15,3,,2,0,0,0,1
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),002,06:15,06:30,8,,1,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),003,06:30,06:45,9,,1,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),004,06:45,07:00,11,,3,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),005,07:00,07:15,10,,0,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),006,07:15,07:30,13,,2,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),007,07:30,07:45,9,,7,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),008,07:45,08:00,4,,5,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),009,08:00,08:15,4,,9,0,1,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),010,08:15,08:30,5,,3,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),011,08:30,08:45,5,,4,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),012,08:45,09:00,0,,3,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),013,09:00,09:15,3,,10,2,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),014,09:15,09:30,3,,0,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),015,09:30,09:45,1,,15,2,2,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),016,09:45,10:00,8,,11,1,1,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),017,10:00,10:15,8,,11,2,2,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),018,10:15,10:30,6,,7,3,2,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),019,10:30,10:45,4,,7,5,1,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),020,10:45,11:00,5,,5,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),021,11:00,11:15,8,,9,3,2,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),022,11:15,11:30,5,,4,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),023,11:30,11:45,6,,2,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),024,11:45,12:00,2,,6,2,0,0,1
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),025,12:00,12:15,2,,6,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),026,12:15,12:30,4,,8,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),027,12:30,12:45,2,,5,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),028,12:45,13:00,8,,7,2,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),029,13:00,13:15,5,,7,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),030,13:15,13:30,7,,5,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),031,13:30,13:45,3,,4,0,1,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),032,13:45,14:00,3,,8,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),033,14:00,14:15,8,,7,2,0,0,1
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),034,14:15,14:30,5,,4,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),035,14:30,14:45,9,,8,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),036,14:45,15:00,8,,6,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),037,15:00,15:15,9,,11,1,0,1,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),038,15:15,15:30,21,,11,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),039,15:30,15:45,10,,8,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),040,15:45,16:00,6,,11,0,2,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),041,16:00,16:15,18,,7,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),042,16:15,16:30,20,,8,0,0,0,1
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),043,16:30,16:45,19,,15,0,0,0,1
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),044,16:45,17:00,11,,7,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),045,17:00,17:15,20,,10,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),046,17:15,17:30,11,,6,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),047,17:30,17:45,16,,5,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),048,17:45,18:00,8,,7,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),049,18:00,18:15,10,,9,1,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),050,18:15,18:30,11,,8,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),051,18:30,18:45,12,,4,0,0,0,0
+22,D,1,2,DG1,Zählstrom,,Geradeausfahrer 1 Westring (S),052,18:45,19:00,7,,5,0,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),001,06:00,06:15,0,,18,5,0,0,1
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),002,06:15,06:30,0,,25,4,0,1,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),003,06:30,06:45,0,,40,7,1,0,1
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),004,06:45,07:00,0,,43,5,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),005,07:00,07:15,0,,67,8,2,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),006,07:15,07:30,0,,65,5,0,0,1
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),007,07:30,07:45,0,,70,4,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),008,07:45,08:00,0,,59,9,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),009,08:00,08:15,0,,31,8,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),010,08:15,08:30,0,,44,6,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),011,08:30,08:45,0,,48,6,2,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),012,08:45,09:00,0,,44,3,2,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),013,09:00,09:15,0,,27,4,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),014,09:15,09:30,0,,54,4,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),015,09:30,09:45,0,,47,2,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),016,09:45,10:00,0,,44,1,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),017,10:00,10:15,0,,46,3,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),018,10:15,10:30,0,,43,5,0,1,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),019,10:30,10:45,0,,38,2,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),020,10:45,11:00,0,,57,3,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),021,11:00,11:15,0,,39,2,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),022,11:15,11:30,0,,29,4,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),023,11:30,11:45,0,,39,2,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),024,11:45,12:00,0,,58,2,0,1,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),025,12:00,12:15,0,,72,4,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),026,12:15,12:30,0,,44,5,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),027,12:30,12:45,0,,49,3,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),028,12:45,13:00,0,,51,3,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),029,13:00,13:15,0,,40,3,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),030,13:15,13:30,0,,44,5,0,0,1
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),031,13:30,13:45,0,,47,5,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),032,13:45,14:00,0,,52,5,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),033,14:00,14:15,0,,50,9,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),034,14:15,14:30,0,,68,10,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),035,14:30,14:45,0,,76,2,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),036,14:45,15:00,0,,61,7,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),037,15:00,15:15,0,,77,6,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),038,15:15,15:30,0,,67,3,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),039,15:30,15:45,0,,79,4,0,0,1
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),040,15:45,16:00,0,,83,2,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),041,16:00,16:15,0,,80,2,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),042,16:15,16:30,0,,84,2,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),043,16:30,16:45,0,,96,1,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),044,16:45,17:00,0,,72,2,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),045,17:00,17:15,0,,82,1,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),046,17:15,17:30,0,,57,3,1,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),047,17:30,17:45,0,,63,1,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),048,17:45,18:00,0,,81,1,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),049,18:00,18:15,0,,59,0,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),050,18:15,18:30,0,,69,0,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),051,18:30,18:45,0,,45,2,0,0,0
+23,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Westring (S),052,18:45,19:00,0,,49,2,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,001,06:00,06:15,3,,20,5,0,0,2
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,002,06:15,06:30,8,,26,4,0,1,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,003,06:30,06:45,9,,41,8,1,0,1
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,004,06:45,07:00,11,,46,5,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,005,07:00,07:15,10,,67,9,2,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,006,07:15,07:30,13,,67,6,0,0,1
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,007,07:30,07:45,9,,77,4,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,008,07:45,08:00,4,,64,9,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,009,08:00,08:15,4,,40,8,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,010,08:15,08:30,5,,47,7,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,011,08:30,08:45,5,,52,6,2,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,012,08:45,09:00,0,,47,4,2,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,013,09:00,09:15,3,,37,6,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,014,09:15,09:30,3,,54,4,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,015,09:30,09:45,1,,62,4,2,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,016,09:45,10:00,8,,55,2,2,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,017,10:00,10:15,8,,57,5,2,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,018,10:15,10:30,6,,50,8,2,1,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,019,10:30,10:45,4,,45,7,2,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,020,10:45,11:00,5,,62,4,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,021,11:00,11:15,8,,48,5,3,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,022,11:15,11:30,5,,33,5,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,023,11:30,11:45,6,,41,2,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,024,11:45,12:00,2,,64,4,0,1,1
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,025,12:00,12:15,2,,78,5,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,026,12:15,12:30,4,,52,5,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,027,12:30,12:45,2,,54,3,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,028,12:45,13:00,8,,58,5,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,029,13:00,13:15,5,,47,3,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,030,13:15,13:30,7,,49,5,0,0,1
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,031,13:30,13:45,3,,51,5,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,032,13:45,14:00,3,,60,5,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,033,14:00,14:15,8,,57,11,0,0,1
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,034,14:15,14:30,5,,72,10,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,035,14:30,14:45,9,,84,2,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,036,14:45,15:00,8,,67,7,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,037,15:00,15:15,9,,88,7,0,1,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,038,15:15,15:30,21,,78,4,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,039,15:30,15:45,10,,87,4,0,0,1
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,040,15:45,16:00,6,,94,2,2,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,041,16:00,16:15,18,,87,2,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,042,16:15,16:30,20,,92,2,1,0,1
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,043,16:30,16:45,19,,111,1,0,0,1
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,044,16:45,17:00,11,,79,2,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,045,17:00,17:15,20,,92,1,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,046,17:15,17:30,11,,63,3,1,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,047,17:30,17:45,16,,68,1,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,048,17:45,18:00,8,,88,1,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,049,18:00,18:15,10,,68,1,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,050,18:15,18:30,11,,77,0,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,051,18:30,18:45,12,,49,2,0,0,0
+24,D,0,0,DG..(11),summierter Strom,22+23,DG1 + DG2,052,18:45,19:00,7,,54,2,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),001,06:00,06:15,0,,2,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),002,06:15,06:30,0,,5,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),003,06:30,06:45,0,,8,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),004,06:45,07:00,0,,19,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),005,07:00,07:15,0,,20,1,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),006,07:15,07:30,0,,21,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),007,07:30,07:45,0,,46,0,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),008,07:45,08:00,1,,18,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),009,08:00,08:15,0,,25,0,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),010,08:15,08:30,0,,12,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),011,08:30,08:45,0,,15,0,2,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),012,08:45,09:00,0,,28,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),013,09:00,09:15,0,,8,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),014,09:15,09:30,0,,11,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),015,09:30,09:45,0,,14,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),016,09:45,10:00,0,,8,2,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),017,10:00,10:15,0,,12,4,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),018,10:15,10:30,0,,9,0,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),019,10:30,10:45,0,,12,0,2,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),020,10:45,11:00,1,,9,3,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),021,11:00,11:15,0,,14,5,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),022,11:15,11:30,0,,12,2,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),023,11:30,11:45,0,,6,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),024,11:45,12:00,0,,15,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),025,12:00,12:15,0,,16,1,0,0,1
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),026,12:15,12:30,0,,16,2,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),027,12:30,12:45,0,,7,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),028,12:45,13:00,0,,14,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),029,13:00,13:15,0,,9,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),030,13:15,13:30,0,,8,0,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),031,13:30,13:45,0,,12,0,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),032,13:45,14:00,0,,14,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),033,14:00,14:15,0,,9,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),034,14:15,14:30,0,,7,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),035,14:30,14:45,0,,21,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),036,14:45,15:00,0,,29,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),037,15:00,15:15,0,,14,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),038,15:15,15:30,0,,29,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),039,15:30,15:45,0,,14,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),040,15:45,16:00,0,,8,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),041,16:00,16:15,0,,30,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),042,16:15,16:30,0,,20,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),043,16:30,16:45,0,,29,2,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),044,16:45,17:00,0,,19,2,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),045,17:00,17:15,0,,21,2,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),046,17:15,17:30,0,,18,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),047,17:30,17:45,0,,20,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),048,17:45,18:00,0,,12,0,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),049,18:00,18:15,0,,22,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),050,18:15,18:30,0,,18,0,1,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),051,18:30,18:45,0,,12,1,0,0,0
+25,D,3,1,DL..(12),Zählstrom,,Linksabbieger Westring (S),052,18:45,19:00,0,,13,3,1,0,0
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,15,,152,12,3,0,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,27,,219,20,4,1,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,39,,304,38,9,2,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,47,,325,23,6,1,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,39,,353,31,11,0,0
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,77,,473,31,15,1,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,60,,547,27,6,4,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,41,,409,30,10,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,33,,309,31,13,0,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,33,,306,38,6,0,6
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,28,,321,34,10,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,18,,319,28,13,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,11,,262,29,12,1,0
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,19,,252,30,2,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,24,,357,28,4,0,6
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,24,,252,17,8,0,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,28,,256,28,6,1,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,23,,243,24,9,3,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,25,,232,26,14,0,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,21,,268,29,10,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,26,,267,25,9,0,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,20,,253,33,5,0,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,18,,259,10,8,0,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,21,,285,24,7,2,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,18,,315,27,13,1,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,18,,253,29,8,0,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,16,,254,31,4,0,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,21,,233,21,6,1,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,33,,287,19,5,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,27,,313,27,11,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,25,,331,28,12,0,9
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,19,,326,18,6,0,5
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,32,,329,24,7,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,30,,348,29,12,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,23,,378,18,8,0,5
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,28,,417,21,5,2,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,42,,465,23,6,1,0
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,65,,441,14,3,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,39,,470,16,7,0,7
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,28,,400,19,5,1,1
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,48,,441,23,9,3,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,50,,405,14,5,2,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,52,,409,21,2,0,5
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,49,,332,21,0,0,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,51,,373,16,5,2,6
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,32,,334,15,1,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,55,,331,4,0,0,3
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,42,,344,7,0,0,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,33,,302,15,3,0,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,33,,287,4,1,0,4
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,31,,251,12,0,0,2
+29,,0,0,Summe Zu,summierter Strom,4+12+18+26,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,26,,211,9,2,1,1
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),001,06:00,06:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),002,06:15,06:30,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),003,06:30,06:45,0,,0,0,1,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),004,06:45,07:00,0,,0,1,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),005,07:00,07:15,0,,2,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),006,07:15,07:30,0,,2,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),007,07:30,07:45,0,,5,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),008,07:45,08:00,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),009,08:00,08:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),010,08:15,08:30,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),011,08:30,08:45,0,,1,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),012,08:45,09:00,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),013,09:00,09:15,0,,1,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),014,09:15,09:30,0,,1,1,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),015,09:30,09:45,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),016,09:45,10:00,0,,2,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),017,10:00,10:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),018,10:15,10:30,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),019,10:30,10:45,0,,1,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),020,10:45,11:00,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),021,11:00,11:15,0,,2,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),022,11:15,11:30,0,,1,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),023,11:30,11:45,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),024,11:45,12:00,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),025,12:00,12:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),026,12:15,12:30,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),027,12:30,12:45,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),028,12:45,13:00,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),029,13:00,13:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),030,13:15,13:30,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),031,13:30,13:45,0,,0,1,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),032,13:45,14:00,0,,1,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),033,14:00,14:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),034,14:15,14:30,0,,1,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),035,14:30,14:45,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),036,14:45,15:00,0,,4,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),037,15:00,15:15,0,,4,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),038,15:15,15:30,0,,3,1,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),039,15:30,15:45,0,,1,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),040,15:45,16:00,0,,2,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),041,16:00,16:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),042,16:15,16:30,0,,2,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),043,16:30,16:45,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),044,16:45,17:00,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),045,17:00,17:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),046,17:15,17:30,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),047,17:30,17:45,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),048,17:45,18:00,0,,1,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),049,18:00,18:15,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),050,18:15,18:30,0,,0,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),051,18:30,18:45,0,,2,0,0,0,0
+30,B,3,1,BW..(14),Zählstrom,,Wender Westring (N),052,18:45,19:00,0,,0,0,0,0,0

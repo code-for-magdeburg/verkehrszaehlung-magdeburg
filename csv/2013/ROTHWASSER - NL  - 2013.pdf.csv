@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),001,06:00,06:15,0,,22,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),002,06:15,06:30,5,,24,8,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),003,06:30,06:45,4,,46,8,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),004,06:45,07:00,5,,69,17,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),005,07:00,07:15,11,,86,18,4,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),006,07:15,07:30,2,,83,16,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),007,07:30,07:45,0,,30,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),008,07:45,08:00,3,,17,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),009,08:00,08:15,0,,11,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),010,08:15,08:30,1,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),011,08:30,08:45,0,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),012,08:45,09:00,0,,2,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),013,09:00,09:15,1,,21,9,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),014,09:15,09:30,1,,33,14,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),015,09:30,09:45,0,,39,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),016,09:45,10:00,3,,33,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),017,10:00,10:15,0,,37,7,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),018,10:15,10:30,1,,32,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),019,10:30,10:45,0,,40,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),020,10:45,11:00,2,,32,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),021,11:00,11:15,2,,31,7,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),022,11:15,11:30,1,,39,10,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),023,11:30,11:45,2,,31,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),024,11:45,12:00,0,,37,9,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),025,12:00,12:15,1,,36,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),026,12:15,12:30,0,,30,6,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),027,12:30,12:45,1,,48,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),028,12:45,13:00,2,,35,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),029,13:00,13:15,6,,39,11,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),030,13:15,13:30,3,,41,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),031,13:30,13:45,2,,42,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),032,13:45,14:00,6,,49,8,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),033,14:00,14:15,1,,55,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),034,14:15,14:30,1,,51,6,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),035,14:30,14:45,1,,39,10,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),036,14:45,15:00,0,,31,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),037,15:00,15:15,3,,52,6,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),038,15:15,15:30,3,,69,8,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),039,15:30,15:45,2,,68,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),040,15:45,16:00,4,,67,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),041,16:00,16:15,2,,79,12,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),042,16:15,16:30,6,,55,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),043,16:30,16:45,3,,48,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),044,16:45,17:00,5,,49,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),045,17:00,17:15,3,,51,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),046,17:15,17:30,1,,53,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),047,17:30,17:45,1,,48,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),048,17:45,18:00,1,,50,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),049,18:00,18:15,1,,48,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),050,18:15,18:30,1,,43,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),051,18:30,18:45,2,,40,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Wasserkunststraße(W),052,18:45,19:00,3,,38,0,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),001,06:00,06:15,0,,1,1,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),002,06:15,06:30,0,,5,2,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),003,06:30,06:45,0,,8,7,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),004,06:45,07:00,1,,9,8,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),005,07:00,07:15,1,,6,10,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),006,07:15,07:30,1,,9,4,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),007,07:30,07:45,1,,4,2,0,3,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),008,07:45,08:00,1,,1,3,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),009,08:00,08:15,0,,3,2,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),010,08:15,08:30,0,,1,2,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),011,08:30,08:45,1,,1,1,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),012,08:45,09:00,0,,1,2,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),013,09:00,09:15,0,,3,3,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),014,09:15,09:30,0,,1,2,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),015,09:30,09:45,0,,3,1,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),016,09:45,10:00,0,,5,1,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),017,10:00,10:15,1,,37,3,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),018,10:15,10:30,0,,6,4,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),019,10:30,10:45,0,,6,3,2,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),020,10:45,11:00,1,,2,1,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),021,11:00,11:15,0,,7,2,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),022,11:15,11:30,0,,5,1,3,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),023,11:30,11:45,1,,3,2,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),024,11:45,12:00,1,,4,2,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),025,12:00,12:15,0,,3,4,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),026,12:15,12:30,0,,3,3,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),027,12:30,12:45,0,,6,1,2,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),028,12:45,13:00,3,,6,5,2,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),029,13:00,13:15,1,,2,5,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),030,13:15,13:30,1,,3,2,2,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),031,13:30,13:45,1,,2,3,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),032,13:45,14:00,0,,3,3,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),033,14:00,14:15,1,,5,1,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),034,14:15,14:30,0,,3,2,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),035,14:30,14:45,0,,4,1,2,1,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),036,14:45,15:00,0,,6,2,0,1,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),037,15:00,15:15,0,,4,3,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),038,15:15,15:30,0,,6,1,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),039,15:30,15:45,0,,8,2,0,1,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),040,15:45,16:00,0,,7,2,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),041,16:00,16:15,1,,10,4,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),042,16:15,16:30,0,,7,2,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),043,16:30,16:45,0,,5,3,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),044,16:45,17:00,0,,3,4,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),045,17:00,17:15,2,,7,1,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),046,17:15,17:30,1,,4,0,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),047,17:30,17:45,0,,4,0,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),048,17:45,18:00,0,,7,1,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),049,18:00,18:15,0,,3,1,0,1,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),050,18:15,18:30,0,,2,0,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),051,18:30,18:45,0,,4,0,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Wasserkunststraße (W),052,18:45,19:00,0,,2,1,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),001,06:00,06:15,0,,19,0,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),002,06:15,06:30,2,,10,1,4,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),003,06:30,06:45,2,,15,3,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),004,06:45,07:00,2,,16,9,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),005,07:00,07:15,1,,19,2,2,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),006,07:15,07:30,1,,19,8,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),007,07:30,07:45,1,,8,6,2,1,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),008,07:45,08:00,0,,9,4,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),009,08:00,08:15,0,,4,2,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),010,08:15,08:30,0,,3,1,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),011,08:30,08:45,0,,2,1,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),012,08:45,09:00,0,,2,0,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),013,09:00,09:15,1,,4,3,2,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),014,09:15,09:30,0,,15,2,2,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),015,09:30,09:45,1,,16,4,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),016,09:45,10:00,2,,14,2,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),017,10:00,10:15,2,,13,1,1,1,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),018,10:15,10:30,1,,16,6,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),019,10:30,10:45,0,,13,5,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),020,10:45,11:00,2,,11,3,0,2,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),021,11:00,11:15,2,,9,5,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),022,11:15,11:30,0,,16,2,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),023,11:30,11:45,3,,18,1,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),024,11:45,12:00,3,,12,2,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),025,12:00,12:15,0,,20,6,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),026,12:15,12:30,0,,15,3,2,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),027,12:30,12:45,1,,17,4,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),028,12:45,13:00,3,,20,4,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),029,13:00,13:15,1,,15,2,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),030,13:15,13:30,0,,11,0,4,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),031,13:30,13:45,0,,19,1,2,2,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),032,13:45,14:00,0,,18,2,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),033,14:00,14:15,0,,16,1,2,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),034,14:15,14:30,0,,10,2,8,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),035,14:30,14:45,0,,6,1,6,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),036,14:45,15:00,0,,21,1,0,1,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),037,15:00,15:15,1,,14,1,4,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),038,15:15,15:30,2,,12,1,2,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),039,15:30,15:45,1,,24,3,0,1,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),040,15:45,16:00,1,,21,3,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),041,16:00,16:15,2,,14,5,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),042,16:15,16:30,4,,16,4,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),043,16:30,16:45,2,,18,4,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),044,16:45,17:00,1,,21,2,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),045,17:00,17:15,1,,17,3,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),046,17:15,17:30,0,,15,0,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),047,17:30,17:45,0,,20,0,1,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),048,17:45,18:00,1,,16,0,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),049,18:00,18:15,2,,19,1,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),050,18:15,18:30,0,,13,3,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),051,18:30,18:45,0,,18,1,0,0,0
+3,A,2,2,AL...(3),Zählstrom,,Linksabbieger Wasserkunststraße(W),052,18:45,19:00,1,,16,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),001,06:00,06:15,1,,12,0,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),002,06:15,06:30,0,,11,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),003,06:30,06:45,4,,12,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),004,06:45,07:00,8,,14,3,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),005,07:00,07:15,3,,13,8,4,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),006,07:15,07:30,1,,23,6,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),007,07:30,07:45,3,,20,5,3,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),008,07:45,08:00,2,,18,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),009,08:00,08:15,2,,25,3,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),010,08:15,08:30,1,,14,2,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),011,08:30,08:45,0,,22,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),012,08:45,09:00,2,,14,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),013,09:00,09:15,0,,15,3,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),014,09:15,09:30,0,,14,1,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),015,09:30,09:45,2,,11,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),016,09:45,10:00,0,,5,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),017,10:00,10:15,1,,15,1,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),018,10:15,10:30,1,,13,3,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),019,10:30,10:45,0,,10,8,3,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),020,10:45,11:00,0,,4,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),021,11:00,11:15,0,,16,1,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),022,11:15,11:30,0,,9,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),023,11:30,11:45,2,,6,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),024,11:45,12:00,1,,10,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),025,12:00,12:15,0,,5,3,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),026,12:15,12:30,2,,11,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),027,12:30,12:45,0,,6,0,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),028,12:45,13:00,0,,13,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),029,13:00,13:15,0,,23,2,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),030,13:15,13:30,2,,17,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),031,13:30,13:45,1,,16,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),032,13:45,14:00,0,,13,4,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),033,14:00,14:15,1,,13,2,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),034,14:15,14:30,1,,32,2,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),035,14:30,14:45,3,,17,2,2,2,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),036,14:45,15:00,2,,26,4,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),037,15:00,15:15,2,,18,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),038,15:15,15:30,2,,45,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),039,15:30,15:45,1,,30,4,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),040,15:45,16:00,0,,22,0,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),041,16:00,16:15,0,,25,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),042,16:15,16:30,0,,23,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),043,16:30,16:45,1,,26,4,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),044,16:45,17:00,0,,6,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),045,17:00,17:15,0,,18,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),046,17:15,17:30,0,,8,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),047,17:30,17:45,1,,12,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),048,17:45,18:00,0,,12,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),049,18:00,18:15,0,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),050,18:15,18:30,0,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),051,18:30,18:45,0,,8,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rothenseer Straße(N),052,18:45,19:00,0,,5,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),001,06:00,06:15,7,,19,1,0,4,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),002,06:15,06:30,8,,39,0,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),003,06:30,06:45,4,,38,3,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),004,06:45,07:00,5,,48,6,6,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),005,07:00,07:15,4,,52,7,5,2,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),006,07:15,07:30,6,,65,5,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),007,07:30,07:45,3,,45,3,3,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),008,07:45,08:00,5,,31,0,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),009,08:00,08:15,1,,26,1,3,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),010,08:15,08:30,3,,28,4,2,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),011,08:30,08:45,2,,29,2,5,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),012,08:45,09:00,2,,35,5,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),013,09:00,09:15,2,,22,5,1,2,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),014,09:15,09:30,2,,26,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),015,09:30,09:45,1,,25,0,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),016,09:45,10:00,2,,18,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),017,10:00,10:15,2,,25,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),018,10:15,10:30,1,,48,0,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),019,10:30,10:45,2,,22,1,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),020,10:45,11:00,0,,26,0,5,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),021,11:00,11:15,0,,21,4,3,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),022,11:15,11:30,0,,26,3,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),023,11:30,11:45,0,,20,3,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),024,11:45,12:00,0,,20,4,5,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),025,12:00,12:15,1,,19,3,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),026,12:15,12:30,2,,16,2,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),027,12:30,12:45,2,,25,4,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),028,12:45,13:00,2,,18,0,0,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),029,13:00,13:15,3,,26,3,5,2,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),030,13:15,13:30,1,,22,3,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),031,13:30,13:45,0,,36,4,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),032,13:45,14:00,1,,46,4,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),033,14:00,14:15,3,,28,5,0,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),034,14:15,14:30,5,,37,1,8,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),035,14:30,14:45,4,,33,4,3,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),036,14:45,15:00,2,,34,2,2,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),037,15:00,15:15,2,,39,2,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),038,15:15,15:30,6,,45,2,0,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),039,15:30,15:45,2,,30,0,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),040,15:45,16:00,4,,39,4,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),041,16:00,16:15,1,,49,5,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),042,16:15,16:30,0,,46,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),043,16:30,16:45,0,,50,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),044,16:45,17:00,2,,28,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),045,17:00,17:15,2,,47,0,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),046,17:15,17:30,0,,32,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),047,17:30,17:45,0,,47,1,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),048,17:45,18:00,1,,29,0,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),049,18:00,18:15,1,,34,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),050,18:15,18:30,3,,19,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),051,18:30,18:45,0,,29,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer  Rothenseer Straße (N),052,18:45,19:00,2,,21,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),001,06:00,06:15,0,,0,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),002,06:15,06:30,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),003,06:30,06:45,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),004,06:45,07:00,0,,1,2,1,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),005,07:00,07:15,0,,2,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),006,07:15,07:30,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),007,07:30,07:45,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),008,07:45,08:00,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),009,08:00,08:15,0,,1,0,1,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),010,08:15,08:30,0,,0,0,0,1,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),011,08:30,08:45,1,,0,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),012,08:45,09:00,0,,2,1,1,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),013,09:00,09:15,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),014,09:15,09:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),015,09:30,09:45,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),016,09:45,10:00,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),017,10:00,10:15,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),018,10:15,10:30,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),019,10:30,10:45,0,,0,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),020,10:45,11:00,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),021,11:00,11:15,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),022,11:15,11:30,0,,0,0,1,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),023,11:30,11:45,0,,2,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),024,11:45,12:00,0,,0,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),025,12:00,12:15,0,,0,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),026,12:15,12:30,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),027,12:30,12:45,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),028,12:45,13:00,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),029,13:00,13:15,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),030,13:15,13:30,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),031,13:30,13:45,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),032,13:45,14:00,1,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),033,14:00,14:15,0,,2,1,1,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),034,14:15,14:30,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),035,14:30,14:45,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),036,14:45,15:00,0,,2,1,4,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),037,15:00,15:15,0,,2,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),038,15:15,15:30,0,,1,1,1,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),039,15:30,15:45,0,,3,2,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),040,15:45,16:00,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),041,16:00,16:15,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),042,16:15,16:30,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),043,16:30,16:45,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),044,16:45,17:00,0,,2,0,2,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),045,17:00,17:15,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),046,17:15,17:30,0,,2,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),047,17:30,17:45,0,,0,0,0,1,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),048,17:45,18:00,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),049,18:00,18:15,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),050,18:15,18:30,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),051,18:30,18:45,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Rothenseer Straße(N),052,18:45,19:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),001,06:00,06:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),002,06:15,06:30,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),003,06:30,06:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),004,06:45,07:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),005,07:00,07:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),006,07:15,07:30,0,,3,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),007,07:30,07:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),008,07:45,08:00,0,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),009,08:00,08:15,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),010,08:15,08:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),011,08:30,08:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),012,08:45,09:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),013,09:00,09:15,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),014,09:15,09:30,0,,3,2,0,2,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),015,09:30,09:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),016,09:45,10:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),017,10:00,10:15,0,,3,0,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),018,10:15,10:30,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),019,10:30,10:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),020,10:45,11:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),021,11:00,11:15,0,,2,0,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),022,11:15,11:30,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),023,11:30,11:45,0,,2,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),024,11:45,12:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),025,12:00,12:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),026,12:15,12:30,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),027,12:30,12:45,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),028,12:45,13:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),029,13:00,13:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),030,13:15,13:30,0,,0,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),031,13:30,13:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),032,13:45,14:00,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),033,14:00,14:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),034,14:15,14:30,0,,0,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),035,14:30,14:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),036,14:45,15:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),037,15:00,15:15,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),038,15:15,15:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),039,15:30,15:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),040,15:45,16:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),041,16:00,16:15,0,,5,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),042,16:15,16:30,1,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),043,16:30,16:45,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),044,16:45,17:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),045,17:00,17:15,0,,2,0,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),046,17:15,17:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),047,17:30,17:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),048,17:45,18:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),049,18:00,18:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),051,18:30,18:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Wasserkunststraße(O),052,18:45,19:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),001,06:00,06:15,0,,2,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),002,06:15,06:30,2,,0,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),003,06:30,06:45,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),004,06:45,07:00,0,,9,8,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),005,07:00,07:15,1,,10,4,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),006,07:15,07:30,1,,5,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),007,07:30,07:45,1,,3,5,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),008,07:45,08:00,2,,4,4,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),009,08:00,08:15,0,,5,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),010,08:15,08:30,0,,5,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),011,08:30,08:45,1,,5,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),012,08:45,09:00,1,,5,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),013,09:00,09:15,1,,2,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),014,09:15,09:30,2,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),015,09:30,09:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),016,09:45,10:00,0,,0,1,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),017,10:00,10:15,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),018,10:15,10:30,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),019,10:30,10:45,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),020,10:45,11:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),021,11:00,11:15,0,,3,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),022,11:15,11:30,0,,0,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),023,11:30,11:45,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),024,11:45,12:00,0,,1,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),025,12:00,12:15,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),026,12:15,12:30,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),027,12:30,12:45,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),028,12:45,13:00,0,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),029,13:00,13:15,0,,8,2,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),030,13:15,13:30,1,,3,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),031,13:30,13:45,1,,3,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),032,13:45,14:00,3,,5,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),033,14:00,14:15,3,,1,5,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),034,14:15,14:30,0,,7,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),035,14:30,14:45,2,,3,2,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),036,14:45,15:00,1,,4,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),037,15:00,15:15,0,,3,0,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),038,15:15,15:30,1,,8,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),039,15:30,15:45,1,,6,4,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),040,15:45,16:00,0,,4,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),041,16:00,16:15,1,,3,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),042,16:15,16:30,1,,2,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),043,16:30,16:45,1,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),044,16:45,17:00,3,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),045,17:00,17:15,0,,6,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),046,17:15,17:30,0,,4,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),047,17:30,17:45,0,,6,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),048,17:45,18:00,0,,1,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),049,18:00,18:15,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),050,18:15,18:30,0,,5,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),051,18:30,18:45,0,,2,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Wasserkunststraße (O),052,18:45,19:00,0,,0,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),001,06:00,06:15,2,,0,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),002,06:15,06:30,0,,4,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),003,06:30,06:45,2,,5,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),004,06:45,07:00,5,,7,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),005,07:00,07:15,0,,4,10,1,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),006,07:15,07:30,0,,6,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),007,07:30,07:45,0,,7,3,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),008,07:45,08:00,0,,1,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),009,08:00,08:15,0,,1,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),010,08:15,08:30,0,,1,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),011,08:30,08:45,0,,0,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),012,08:45,09:00,0,,2,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),013,09:00,09:15,0,,4,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),014,09:15,09:30,0,,5,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),015,09:30,09:45,0,,9,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),016,09:45,10:00,0,,7,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),017,10:00,10:15,0,,7,3,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),018,10:15,10:30,0,,4,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),019,10:30,10:45,0,,6,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),020,10:45,11:00,0,,4,1,1,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),021,11:00,11:15,0,,2,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),022,11:15,11:30,0,,5,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),023,11:30,11:45,0,,2,1,1,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),024,11:45,12:00,1,,4,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),025,12:00,12:15,1,,8,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),026,12:15,12:30,1,,6,2,1,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),027,12:30,12:45,1,,4,1,2,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),028,12:45,13:00,1,,5,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),029,13:00,13:15,0,,1,4,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),030,13:15,13:30,0,,4,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),031,13:30,13:45,0,,3,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),032,13:45,14:00,0,,1,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),033,14:00,14:15,0,,4,1,1,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),034,14:15,14:30,0,,9,3,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),035,14:30,14:45,0,,7,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),036,14:45,15:00,0,,2,0,1,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),037,15:00,15:15,0,,2,2,2,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),038,15:15,15:30,0,,2,2,1,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),039,15:30,15:45,0,,5,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),040,15:45,16:00,0,,4,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),041,16:00,16:15,0,,6,3,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),042,16:15,16:30,0,,4,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),043,16:30,16:45,0,,5,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),044,16:45,17:00,1,,6,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),045,17:00,17:15,0,,8,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),046,17:15,17:30,3,,5,0,1,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),047,17:30,17:45,0,,6,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),048,17:45,18:00,1,,4,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),049,18:00,18:15,1,,5,2,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),050,18:15,18:30,0,,1,1,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),051,18:30,18:45,0,,2,0,0,0,0
+15,C,1,3,DL...(9),Zählstrom,,Linksabbieger Wasserkunststraße(O),052,18:45,19:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),001,06:00,06:15,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),002,06:15,06:30,0,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),003,06:30,06:45,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),004,06:45,07:00,0,,2,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),005,07:00,07:15,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),006,07:15,07:30,1,,8,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),007,07:30,07:45,1,,3,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),008,07:45,08:00,1,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),009,08:00,08:15,1,,1,4,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),010,08:15,08:30,0,,7,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),011,08:30,08:45,0,,1,6,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),012,08:45,09:00,0,,0,7,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),013,09:00,09:15,0,,0,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),014,09:15,09:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),015,09:30,09:45,1,,4,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),016,09:45,10:00,3,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),017,10:00,10:15,1,,7,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),018,10:15,10:30,1,,2,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),019,10:30,10:45,0,,4,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),020,10:45,11:00,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),021,11:00,11:15,0,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),022,11:15,11:30,0,,8,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),023,11:30,11:45,0,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),024,11:45,12:00,0,,3,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),025,12:00,12:15,0,,1,6,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),026,12:15,12:30,2,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),027,12:30,12:45,1,,9,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),028,12:45,13:00,1,,6,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),029,13:00,13:15,0,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),030,13:15,13:30,0,,6,3,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),031,13:30,13:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),032,13:45,14:00,0,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),033,14:00,14:15,1,,5,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),034,14:15,14:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),035,14:30,14:45,1,,6,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),036,14:45,15:00,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),037,15:00,15:15,1,,4,4,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),038,15:15,15:30,0,,5,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),039,15:30,15:45,0,,2,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),040,15:45,16:00,0,,6,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),041,16:00,16:15,0,,10,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),042,16:15,16:30,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),043,16:30,16:45,0,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),044,16:45,17:00,0,,9,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),045,17:00,17:15,1,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),046,17:15,17:30,0,,4,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),047,17:30,17:45,1,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),048,17:45,18:00,2,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),049,18:00,18:15,1,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),050,18:15,18:30,0,,5,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),051,18:30,18:45,0,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbiegern Rothenseer Straße (S),052,18:45,19:00,1,,0,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),001,06:00,06:15,0,,7,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),002,06:15,06:30,4,,18,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),003,06:30,06:45,2,,28,4,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),004,06:45,07:00,3,,23,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),005,07:00,07:15,2,,23,0,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),006,07:15,07:30,1,,25,5,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),007,07:30,07:45,0,,28,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),008,07:45,08:00,1,,29,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),009,08:00,08:15,3,,20,1,0,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),010,08:15,08:30,1,,25,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),011,08:30,08:45,0,,17,5,4,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),012,08:45,09:00,1,,13,0,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),013,09:00,09:15,1,,19,3,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),014,09:15,09:30,0,,22,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),015,09:30,09:45,1,,21,4,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),016,09:45,10:00,3,,19,1,4,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),017,10:00,10:15,1,,27,3,4,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),018,10:15,10:30,0,,29,2,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),019,10:30,10:45,4,,39,4,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),020,10:45,11:00,2,,27,1,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),021,11:00,11:15,2,,35,1,3,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),022,11:15,11:30,1,,26,1,2,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),023,11:30,11:45,3,,26,5,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),024,11:45,12:00,2,,27,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),025,12:00,12:15,2,,32,5,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),026,12:15,12:30,1,,35,5,4,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),027,12:30,12:45,6,,25,1,3,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),028,12:45,13:00,2,,22,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),029,13:00,13:15,3,,35,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),030,13:15,13:30,1,,37,1,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),031,13:30,13:45,0,,33,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),032,13:45,14:00,2,,24,1,2,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),033,14:00,14:15,6,,26,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),034,14:15,14:30,2,,24,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),035,14:30,14:45,4,,45,3,4,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),036,14:45,15:00,3,,42,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),037,15:00,15:15,1,,42,3,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),038,15:15,15:30,3,,51,1,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),039,15:30,15:45,0,,38,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),040,15:45,16:00,0,,45,7,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),041,16:00,16:15,3,,56,7,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),042,16:15,16:30,6,,48,4,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),043,16:30,16:45,2,,48,5,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),044,16:45,17:00,5,,41,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),045,17:00,17:15,4,,42,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),046,17:15,17:30,1,,44,2,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),047,17:30,17:45,1,,28,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),048,17:45,18:00,3,,32,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),049,18:00,18:15,3,,54,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),050,18:15,18:30,2,,34,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),051,18:30,18:45,1,,28,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Rothenseer Straße (S),052,18:45,19:00,0,,29,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),001,06:00,06:15,1,,11,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),002,06:15,06:30,1,,20,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),003,06:30,06:45,1,,42,2,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),004,06:45,07:00,2,,54,6,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),005,07:00,07:15,0,,66,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),006,07:15,07:30,0,,103,6,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),007,07:30,07:45,0,,71,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),008,07:45,08:00,1,,53,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),009,08:00,08:15,3,,36,5,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),010,08:15,08:30,1,,37,2,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),011,08:30,08:45,1,,31,5,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),012,08:45,09:00,1,,34,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),013,09:00,09:15,0,,36,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),014,09:15,09:30,0,,38,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),015,09:30,09:45,1,,46,6,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),016,09:45,10:00,1,,39,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),017,10:00,10:15,1,,48,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),018,10:15,10:30,1,,42,7,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),019,10:30,10:45,1,,60,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),020,10:45,11:00,3,,52,6,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),021,11:00,11:15,1,,30,9,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),022,11:15,11:30,0,,53,6,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),023,11:30,11:45,1,,42,3,2,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),024,11:45,12:00,4,,36,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),025,12:00,12:15,4,,48,5,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),026,12:15,12:30,4,,39,3,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),027,12:30,12:45,2,,44,4,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),028,12:45,13:00,2,,29,4,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),029,13:00,13:15,1,,80,6,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),030,13:15,13:30,1,,55,7,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),031,13:30,13:45,3,,49,6,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),032,13:45,14:00,2,,35,5,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),033,14:00,14:15,1,,47,5,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),034,14:15,14:30,2,,46,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),035,14:30,14:45,1,,59,9,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),036,14:45,15:00,0,,76,10,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),037,15:00,15:15,6,,71,11,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),038,15:15,15:30,1,,65,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),039,15:30,15:45,0,,60,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),040,15:45,16:00,0,,59,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),041,16:00,16:15,5,,100,8,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),042,16:15,16:30,3,,70,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),043,16:30,16:45,3,,75,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),044,16:45,17:00,0,,65,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),045,17:00,17:15,3,,60,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),046,17:15,17:30,1,,75,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),047,17:30,17:45,0,,48,1,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),048,17:45,18:00,2,,39,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),049,18:00,18:15,4,,55,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),050,18:15,18:30,1,,42,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),051,18:30,18:45,2,,51,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Rothenseer Straße(S),052,18:45,19:00,2,,29,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,11,,98,6,4,4,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,22,,135,19,7,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,19,,199,31,7,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,31,,252,65,11,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,23,,284,65,20,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,14,,350,58,7,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,10,,219,38,10,4,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,16,,175,21,2,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,10,,133,26,8,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,7,,129,14,8,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,6,,115,30,10,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,7,,111,21,6,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,6,,127,34,6,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,5,,161,24,5,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,7,,176,26,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,14,,148,15,5,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,9,,220,27,9,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,6,,195,29,4,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,7,,201,32,11,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,10,,163,22,10,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,7,,163,32,9,4,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,2,,190,28,9,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,12,,156,23,6,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,12,,154,30,6,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,9,,173,35,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,12,,161,26,10,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,14,,185,20,13,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,16,,154,20,3,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,15,,236,39,11,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,10,,200,28,13,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,8,,208,24,5,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,16,,200,28,6,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,17,,202,30,5,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,11,,222,21,20,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,16,,221,33,20,4,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,8,,249,25,12,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,16,,252,38,13,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,18,,309,20,8,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,7,,274,25,4,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,9,,276,32,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,15,,357,50,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,21,,278,21,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,12,,283,29,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,17,,233,21,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,16,,267,14,1,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,7,,247,12,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,4,,224,9,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,11,,195,11,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,13,,239,12,0,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,7,,179,12,0,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,5,,189,6,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,9,,142,10,0,0,0

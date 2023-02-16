@@ -1,0 +1,573 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),001,06:00,06:15,0,,43,6,1,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),002,06:15,06:30,3,,60,2,0,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),003,06:30,06:45,2,,68,3,2,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),004,06:45,07:00,4,,57,5,1,0,2
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),005,07:00,07:15,4,,67,6,3,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),006,07:15,07:30,2,,99,7,3,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),007,07:30,07:45,2,,73,8,5,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),008,07:45,08:00,3,,60,8,1,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),009,08:00,08:15,0,,14,3,1,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),010,08:15,08:30,2,,48,9,4,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),011,08:30,08:45,1,,56,11,5,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),012,08:45,09:00,1,,51,14,2,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),013,09:00,09:15,2,,67,11,1,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),014,09:15,09:30,1,,61,10,2,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),015,09:30,09:45,4,,60,17,6,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),016,09:45,10:00,1,,60,6,5,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),017,10:00,10:15,2,,61,10,4,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),018,10:15,10:30,3,,55,8,1,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),019,10:30,10:45,0,,67,11,3,2,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),020,10:45,11:00,6,,66,12,3,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),021,11:00,11:15,7,,70,12,2,2,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),022,11:15,11:30,3,,49,17,7,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),023,11:30,11:45,4,,76,14,3,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),024,11:45,12:00,2,,2,57,8,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),025,12:00,12:15,1,,71,11,2,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),026,12:15,12:30,4,,73,10,2,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),027,12:30,12:45,2,,70,8,5,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),028,12:45,13:00,1,,62,5,1,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),029,13:00,13:15,4,,119,11,2,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),030,13:15,13:30,3,,77,11,2,2,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),031,13:30,13:45,4,,98,8,3,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),032,13:45,14:00,2,,63,7,3,1,2
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),033,14:00,14:15,3,,73,19,3,3,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),034,14:15,14:30,2,,101,4,1,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),035,14:30,14:45,5,,113,6,1,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),036,14:45,15:00,5,,94,0,3,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),037,15:00,15:15,9,,91,8,2,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),038,15:15,15:30,6,,113,12,9,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),039,15:30,15:45,7,,118,5,0,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),040,15:45,16:00,7,,121,8,1,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),041,16:00,16:15,3,,111,16,0,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),042,16:15,16:30,7,,118,17,1,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),043,16:30,16:45,4,,97,9,2,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),044,16:45,17:00,3,,125,5,1,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),045,17:00,17:15,5,,102,3,1,1,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),046,17:15,17:30,6,,104,2,1,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),047,17:30,17:45,4,,111,10,0,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),048,17:45,18:00,2,,113,3,3,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),049,18:00,18:15,7,,106,3,1,1,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),050,18:15,18:30,3,,107,3,0,0,0
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),051,18:30,18:45,0,,97,5,0,0,1
+1,B,1,1,BG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (NW),052,18:45,19:00,6,,83,1,0,0,1
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),001,06:00,06:15,0,,0,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),002,06:15,06:30,0,,2,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),003,06:30,06:45,0,,7,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),004,06:45,07:00,0,,5,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),005,07:00,07:15,0,,2,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),006,07:15,07:30,0,,9,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),007,07:30,07:45,0,,9,2,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),008,07:45,08:00,0,,4,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),009,08:00,08:15,0,,34,4,4,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),010,08:15,08:30,0,,7,2,1,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),011,08:30,08:45,0,,2,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),012,08:45,09:00,0,,2,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),013,09:00,09:15,0,,5,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),014,09:15,09:30,0,,4,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),015,09:30,09:45,0,,12,3,0,0,1
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),016,09:45,10:00,0,,11,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),017,10:00,10:15,0,,15,4,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),018,10:15,10:30,0,,13,2,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),019,10:30,10:45,0,,8,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),020,10:45,11:00,0,,7,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),021,11:00,11:15,0,,8,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),022,11:15,11:30,0,,8,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),023,11:30,11:45,0,,9,5,0,0,1
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),024,11:45,12:00,0,,9,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),025,12:00,12:15,0,,6,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),026,12:15,12:30,0,,10,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),027,12:30,12:45,0,,16,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),028,12:45,13:00,0,,16,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),029,13:00,13:15,0,,31,4,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),030,13:15,13:30,0,,11,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),031,13:30,13:45,0,,17,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),032,13:45,14:00,0,,13,0,1,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),033,14:00,14:15,0,,3,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),034,14:15,14:30,0,,5,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),035,14:30,14:45,0,,12,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),036,14:45,15:00,0,,14,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),037,15:00,15:15,0,,28,3,2,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),038,15:15,15:30,0,,24,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),039,15:30,15:45,0,,27,2,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),040,15:45,16:00,0,,14,2,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),041,16:00,16:15,0,,19,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),042,16:15,16:30,0,,10,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),043,16:30,16:45,0,,12,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),044,16:45,17:00,0,,15,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),045,17:00,17:15,0,,15,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),046,17:15,17:30,0,,9,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),047,17:30,17:45,0,,16,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),048,17:45,18:00,0,,20,1,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),049,18:00,18:15,0,,13,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),050,18:15,18:30,0,,13,0,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),051,18:30,18:45,0,,9,2,0,0,0
+2,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (NW),052,18:45,19:00,0,,13,0,0,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,001,06:00,06:15,0,,43,6,1,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,002,06:15,06:30,3,,62,2,0,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,003,06:30,06:45,2,,75,3,2,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,004,06:45,07:00,4,,62,5,1,0,2
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,005,07:00,07:15,4,,69,6,3,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,006,07:15,07:30,2,,108,7,3,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,007,07:30,07:45,2,,82,10,5,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,008,07:45,08:00,3,,64,8,1,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,009,08:00,08:15,0,,48,7,5,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,010,08:15,08:30,2,,55,11,5,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,011,08:30,08:45,1,,58,11,5,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,012,08:45,09:00,1,,53,15,2,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,013,09:00,09:15,2,,72,11,1,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,014,09:15,09:30,1,,65,10,2,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,015,09:30,09:45,4,,72,20,6,0,2
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,016,09:45,10:00,1,,71,6,5,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,017,10:00,10:15,2,,76,14,4,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,018,10:15,10:30,3,,68,10,1,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,019,10:30,10:45,0,,75,11,3,2,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,020,10:45,11:00,6,,73,13,3,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,021,11:00,11:15,7,,78,12,2,2,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,022,11:15,11:30,3,,57,18,7,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,023,11:30,11:45,4,,85,19,3,1,2
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,024,11:45,12:00,2,,11,57,8,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,025,12:00,12:15,1,,77,11,2,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,026,12:15,12:30,4,,83,11,2,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,027,12:30,12:45,2,,86,9,5,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,028,12:45,13:00,1,,78,5,1,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,029,13:00,13:15,4,,150,15,2,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,030,13:15,13:30,3,,88,11,2,2,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,031,13:30,13:45,4,,115,9,3,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,032,13:45,14:00,2,,76,7,4,1,2
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,033,14:00,14:15,3,,76,19,3,3,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,034,14:15,14:30,2,,106,4,1,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,035,14:30,14:45,5,,125,7,1,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,036,14:45,15:00,5,,108,1,3,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,037,15:00,15:15,9,,119,11,4,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,038,15:15,15:30,6,,137,13,9,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,039,15:30,15:45,7,,145,7,0,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,040,15:45,16:00,7,,135,10,1,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,041,16:00,16:15,3,,130,17,0,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,042,16:15,16:30,7,,128,17,1,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,043,16:30,16:45,4,,109,9,2,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,044,16:45,17:00,3,,140,5,1,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,045,17:00,17:15,5,,117,4,1,1,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,046,17:15,17:30,6,,113,2,1,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,047,17:30,17:45,4,,127,11,0,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,048,17:45,18:00,2,,133,4,3,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,049,18:00,18:15,7,,119,3,1,1,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,050,18:15,18:30,3,,120,3,0,0,0
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,051,18:30,18:45,0,,106,7,0,0,1
+8,B,0,0,BG...(5),summierter Strom,1+2,BG1 + BG2,052,18:45,19:00,6,,96,1,0,0,1
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),001,06:00,06:15,0,,0,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),002,06:15,06:30,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),003,06:30,06:45,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),004,06:45,07:00,0,,0,3,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),005,07:00,07:15,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),006,07:15,07:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),007,07:30,07:45,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),008,07:45,08:00,0,,3,0,1,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),009,08:00,08:15,0,,2,2,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),010,08:15,08:30,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),011,08:30,08:45,0,,1,0,2,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),012,08:45,09:00,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),013,09:00,09:15,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),014,09:15,09:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),015,09:30,09:45,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),016,09:45,10:00,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),017,10:00,10:15,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),018,10:15,10:30,0,,0,3,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),019,10:30,10:45,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),020,10:45,11:00,0,,1,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),021,11:00,11:15,0,,3,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),022,11:15,11:30,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),023,11:30,11:45,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),024,11:45,12:00,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),025,12:00,12:15,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),026,12:15,12:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),027,12:30,12:45,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),028,12:45,13:00,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),029,13:00,13:15,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),030,13:15,13:30,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),031,13:30,13:45,0,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),032,13:45,14:00,0,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),033,14:00,14:15,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),034,14:15,14:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),035,14:30,14:45,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),036,14:45,15:00,0,,0,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),037,15:00,15:15,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),038,15:15,15:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),039,15:30,15:45,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),040,15:45,16:00,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),041,16:00,16:15,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),042,16:15,16:30,0,,7,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),043,16:30,16:45,0,,6,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),044,16:45,17:00,0,,8,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),045,17:00,17:15,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),046,17:15,17:30,0,,5,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),047,17:30,17:45,0,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),048,17:45,18:00,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),049,18:00,18:15,0,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),050,18:15,18:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),051,18:30,18:45,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Schönebecker Straße (NW),052,18:45,19:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,001,06:00,06:15,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,002,06:15,06:30,1,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,003,06:30,06:45,0,,8,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,004,06:45,07:00,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,005,07:00,07:15,0,,7,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,006,07:15,07:30,0,,11,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,007,07:30,07:45,0,,9,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,008,07:45,08:00,1,,5,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,009,08:00,08:15,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,010,08:15,08:30,0,,1,2,2,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,011,08:30,08:45,1,,1,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,012,08:45,09:00,0,,1,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,013,09:00,09:15,1,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,014,09:15,09:30,1,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,015,09:30,09:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,016,09:45,10:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,017,10:00,10:15,0,,1,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,018,10:15,10:30,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,019,10:30,10:45,0,,1,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,020,10:45,11:00,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,021,11:00,11:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,022,11:15,11:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,023,11:30,11:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,024,11:45,12:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,025,12:00,12:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,026,12:15,12:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,027,12:30,12:45,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,028,12:45,13:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,029,13:00,13:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,030,13:15,13:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,031,13:30,13:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,032,13:45,14:00,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,033,14:00,14:15,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,034,14:15,14:30,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,035,14:30,14:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,036,14:45,15:00,0,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,037,15:00,15:15,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,038,15:15,15:30,1,,3,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,039,15:30,15:45,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,040,15:45,16:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,041,16:00,16:15,1,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,042,16:15,16:30,0,,1,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,043,16:30,16:45,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,044,16:45,17:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,045,17:00,17:15,0,,10,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,046,17:15,17:30,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,047,17:30,17:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,048,17:45,18:00,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,049,18:00,18:15,2,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,051,18:30,18:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger,052,18:45,19:00,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,001,06:00,06:15,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,002,06:15,06:30,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,003,06:30,06:45,2,,6,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,004,06:45,07:00,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,005,07:00,07:15,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,006,07:15,07:30,0,,8,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,007,07:30,07:45,0,,3,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,008,07:45,08:00,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,009,08:00,08:15,0,,2,0,1,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,010,08:15,08:30,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,011,08:30,08:45,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,012,08:45,09:00,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,013,09:00,09:15,0,,4,0,2,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,014,09:15,09:30,0,,4,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,015,09:30,09:45,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,016,09:45,10:00,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,017,10:00,10:15,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,018,10:15,10:30,0,,3,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,019,10:30,10:45,0,,1,1,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,020,10:45,11:00,0,,0,1,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,021,11:00,11:15,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,022,11:15,11:30,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,023,11:30,11:45,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,024,11:45,12:00,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,025,12:00,12:15,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,026,12:15,12:30,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,027,12:30,12:45,1,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,028,12:45,13:00,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,029,13:00,13:15,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,030,13:15,13:30,0,,0,0,2,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,031,13:30,13:45,0,,0,1,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,032,13:45,14:00,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,033,14:00,14:15,0,,0,0,1,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,034,14:15,14:30,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,035,14:30,14:45,0,,4,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,036,14:45,15:00,0,,2,0,1,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,037,15:00,15:15,0,,3,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,038,15:15,15:30,0,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,039,15:30,15:45,0,,3,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,040,15:45,16:00,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,041,16:00,16:15,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,042,16:15,16:30,1,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,043,16:30,16:45,1,,1,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,044,16:45,17:00,1,,2,1,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,045,17:00,17:15,0,,7,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,046,17:15,17:30,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,047,17:30,17:45,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,048,17:45,18:00,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,049,18:00,18:15,0,,2,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,050,18:15,18:30,0,,2,2,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,051,18:30,18:45,0,,0,0,0,0,0
+15,C,1,2,CL...(9),Zählstrom,,Linksabbieger Am Buckauer Wasserwerk,052,18:45,19:00,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),001,06:00,06:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),002,06:15,06:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),003,06:30,06:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),004,06:45,07:00,1,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),005,07:00,07:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),006,07:15,07:30,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),007,07:30,07:45,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),008,07:45,08:00,0,,7,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),009,08:00,08:15,0,,2,1,1,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),010,08:15,08:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),011,08:30,08:45,1,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),012,08:45,09:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),013,09:00,09:15,0,,0,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),014,09:15,09:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),015,09:30,09:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),016,09:45,10:00,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),017,10:00,10:15,0,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),018,10:15,10:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),019,10:30,10:45,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),020,10:45,11:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),021,11:00,11:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),022,11:15,11:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),023,11:30,11:45,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),024,11:45,12:00,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),025,12:00,12:15,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),026,12:15,12:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),027,12:30,12:45,0,,0,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),028,12:45,13:00,0,,2,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),029,13:00,13:15,0,,4,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),030,13:15,13:30,0,,0,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),031,13:30,13:45,0,,0,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),032,13:45,14:00,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),033,14:00,14:15,0,,0,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),034,14:15,14:30,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),035,14:30,14:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),036,14:45,15:00,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),037,15:00,15:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),038,15:15,15:30,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),039,15:30,15:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),040,15:45,16:00,0,,3,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),041,16:00,16:15,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),042,16:15,16:30,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),043,16:30,16:45,0,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),044,16:45,17:00,0,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),045,17:00,17:15,0,,1,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),046,17:15,17:30,1,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),047,17:30,17:45,2,,0,2,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),048,17:45,18:00,0,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),049,18:00,18:15,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),050,18:15,18:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),051,18:30,18:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Schönebecker Straße (S),052,18:45,19:00,0,,2,0,0,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,001,06:00,06:15,2,,98,0,0,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,002,06:15,06:30,2,,123,3,0,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,003,06:30,06:45,4,,135,2,3,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,004,06:45,07:00,7,,114,8,1,2,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,005,07:00,07:15,4,,156,4,2,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,006,07:15,07:30,2,,129,13,4,2,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,007,07:30,07:45,2,,136,13,4,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,008,07:45,08:00,4,,116,4,0,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,009,08:00,08:15,5,,105,3,6,2,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,010,08:15,08:30,0,,104,4,4,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,011,08:30,08:45,3,,97,4,4,2,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,012,08:45,09:00,2,,104,8,9,2,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,013,09:00,09:15,2,,67,5,3,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,014,09:15,09:30,1,,75,6,8,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,015,09:30,09:45,3,,90,10,1,1,2
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,016,09:45,10:00,0,,86,4,0,2,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,017,10:00,10:15,0,,101,8,7,3,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,018,10:15,10:30,1,,69,12,6,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,019,10:30,10:45,0,,91,10,3,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,020,10:45,11:00,5,,93,13,8,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,021,11:00,11:15,3,,87,12,5,2,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,022,11:15,11:30,1,,71,11,1,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,023,11:30,11:45,3,,91,10,6,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,024,11:45,12:00,1,,87,73,5,4,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,025,12:00,12:15,4,,95,11,0,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,026,12:15,12:30,1,,90,7,3,1,2
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,027,12:30,12:45,1,,84,8,5,3,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,028,12:45,13:00,2,,88,11,2,2,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,029,13:00,13:15,2,,97,2,2,2,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,030,13:15,13:30,0,,122,6,2,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,031,13:30,13:45,3,,82,4,3,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,032,13:45,14:00,2,,107,1,3,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,033,14:00,14:15,2,,95,1,3,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,034,14:15,14:30,6,,85,0,4,2,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,035,14:30,14:45,9,,115,3,5,2,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,036,14:45,15:00,9,,98,5,2,1,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,037,15:00,15:15,8,,108,5,2,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,038,15:15,15:30,9,,111,3,2,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,039,15:30,15:45,0,,99,4,5,1,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,040,15:45,16:00,1,,88,4,4,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,041,16:00,16:15,6,,149,10,7,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,042,16:15,16:30,3,,111,6,2,1,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,043,16:30,16:45,5,,123,5,3,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,044,16:45,17:00,4,,112,6,3,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,045,17:00,17:15,4,,108,8,5,1,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,046,17:15,17:30,3,,105,2,2,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,047,17:30,17:45,8,,91,3,0,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,048,17:45,18:00,4,,100,5,0,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,049,18:00,18:15,1,,104,1,0,0,1
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,050,18:15,18:30,8,,86,2,0,0,0
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,051,18:30,18:45,6,,87,0,0,0,2
+20,D,0,0,DG..(11),summierter Strom,26+27,DG1 + DG2,052,18:45,19:00,2,,78,2,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,3,,144,7,1,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,6,,191,5,0,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,8,,227,7,5,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,13,,188,16,2,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,8,,244,10,5,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,6,,261,22,7,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,4,,244,24,9,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,8,,199,12,3,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,5,,165,13,13,4,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,2,,174,18,11,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,8,,170,18,11,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,3,,165,23,12,3,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,5,,157,17,6,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,5,,160,17,10,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,8,,174,30,7,1,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,1,,170,10,5,3,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,3,,192,22,12,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,6,,150,27,7,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,0,,177,26,6,3,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,11,,172,29,11,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,10,,171,26,7,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,4,,136,29,8,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,7,,180,30,9,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,3,,110,130,13,5,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,5,,180,22,2,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,5,,177,18,5,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,4,,174,18,11,3,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,3,,173,16,4,3,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,6,,268,18,5,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,4,,218,17,7,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,8,,203,15,6,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,6,,195,8,7,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,6,,177,21,8,3,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,8,,207,5,5,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,14,,257,12,6,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,14,,219,8,6,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,19,,242,17,6,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,16,,266,19,11,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,8,,257,13,5,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,9,,239,14,6,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,10,,288,29,7,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,11,,252,25,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,10,,247,16,5,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,8,,268,12,4,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,9,,249,15,6,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,10,,232,4,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,14,,226,16,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,6,,246,10,3,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,10,,237,4,2,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,11,,212,7,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,6,,196,7,0,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,8,,179,3,1,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),001,06:00,06:15,2,,91,0,0,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),002,06:15,06:30,2,,102,2,0,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),003,06:30,06:45,4,,127,2,3,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),004,06:45,07:00,7,,94,4,1,2,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),005,07:00,07:15,4,,131,4,2,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),006,07:15,07:30,2,,105,9,4,2,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),007,07:30,07:45,2,,117,10,4,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),008,07:45,08:00,4,,103,3,0,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),009,08:00,08:15,5,,80,1,6,2,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),010,08:15,08:30,0,,91,1,4,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),011,08:30,08:45,3,,76,1,3,2,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),012,08:45,09:00,2,,78,6,9,2,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),013,09:00,09:15,2,,56,4,3,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),014,09:15,09:30,1,,61,3,8,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),015,09:30,09:45,3,,72,9,1,1,2
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),016,09:45,10:00,0,,76,4,0,2,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),017,10:00,10:15,0,,75,5,7,3,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),018,10:15,10:30,1,,50,8,5,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),019,10:30,10:45,0,,76,7,3,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),020,10:45,11:00,5,,83,12,8,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),021,11:00,11:15,3,,72,8,5,2,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),022,11:15,11:30,1,,64,10,1,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),023,11:30,11:45,3,,77,9,6,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),024,11:45,12:00,1,,71,70,5,4,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),025,12:00,12:15,4,,80,10,0,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),026,12:15,12:30,1,,63,7,3,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),027,12:30,12:45,1,,68,8,5,3,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),028,12:45,13:00,2,,70,7,2,2,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),029,13:00,13:15,2,,77,1,2,2,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),030,13:15,13:30,0,,102,3,2,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),031,13:30,13:45,3,,69,4,3,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),032,13:45,14:00,2,,90,1,3,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),033,14:00,14:15,2,,90,1,3,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),034,14:15,14:30,6,,64,0,4,2,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),035,14:30,14:45,9,,95,1,5,2,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),036,14:45,15:00,9,,73,3,2,1,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),037,15:00,15:15,8,,88,3,2,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),038,15:15,15:30,9,,88,1,2,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),039,15:30,15:45,0,,87,3,5,1,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),040,15:45,16:00,1,,60,2,4,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),041,16:00,16:15,6,,118,8,7,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),042,16:15,16:30,3,,93,6,2,1,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),043,16:30,16:45,5,,106,4,3,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),044,16:45,17:00,4,,93,3,3,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),045,17:00,17:15,4,,85,6,5,1,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),046,17:15,17:30,3,,93,2,2,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),047,17:30,17:45,8,,80,3,0,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),048,17:45,18:00,4,,76,4,0,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),049,18:00,18:15,1,,93,1,0,0,1
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),050,18:15,18:30,8,,65,1,0,0,0
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),051,18:30,18:45,6,,81,0,0,0,2
+26,D,2,2,DG1,Zählstrom,,Geradeausfahrer 1 Schönebecker Straße (S),052,18:45,19:00,2,,66,2,1,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),001,06:00,06:15,0,,7,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),002,06:15,06:30,0,,21,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),003,06:30,06:45,0,,8,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),004,06:45,07:00,0,,20,4,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),005,07:00,07:15,0,,25,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),006,07:15,07:30,0,,24,4,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),007,07:30,07:45,0,,19,3,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),008,07:45,08:00,0,,13,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),009,08:00,08:15,0,,25,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),010,08:15,08:30,0,,13,3,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),011,08:30,08:45,0,,21,3,1,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),012,08:45,09:00,0,,26,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),013,09:00,09:15,0,,11,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),014,09:15,09:30,0,,14,3,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),015,09:30,09:45,0,,18,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),016,09:45,10:00,0,,10,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),017,10:00,10:15,0,,26,3,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),018,10:15,10:30,0,,19,4,1,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),019,10:30,10:45,0,,15,3,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),020,10:45,11:00,0,,10,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),021,11:00,11:15,0,,15,4,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),022,11:15,11:30,0,,7,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),023,11:30,11:45,0,,14,1,0,0,1
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),024,11:45,12:00,0,,16,3,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),025,12:00,12:15,0,,15,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),026,12:15,12:30,0,,27,0,0,0,1
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),027,12:30,12:45,0,,16,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),028,12:45,13:00,0,,18,4,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),029,13:00,13:15,0,,20,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),030,13:15,13:30,0,,20,3,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),031,13:30,13:45,0,,13,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),032,13:45,14:00,0,,17,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),033,14:00,14:15,0,,5,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),034,14:15,14:30,0,,21,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),035,14:30,14:45,0,,20,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),036,14:45,15:00,0,,25,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),037,15:00,15:15,0,,20,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),038,15:15,15:30,0,,23,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),039,15:30,15:45,0,,12,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),040,15:45,16:00,0,,28,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),041,16:00,16:15,0,,31,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),042,16:15,16:30,0,,18,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),043,16:30,16:45,0,,17,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),044,16:45,17:00,0,,19,3,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),045,17:00,17:15,0,,23,2,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),046,17:15,17:30,0,,12,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),047,17:30,17:45,0,,11,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),048,17:45,18:00,0,,24,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),049,18:00,18:15,0,,11,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),050,18:15,18:30,0,,21,1,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),051,18:30,18:45,0,,6,0,0,0,0
+27,D,2,1,DG2,Zählstrom,,Geradeausfahrer 2 Schönebecker Straße (S),052,18:45,19:00,0,,12,0,0,0,0

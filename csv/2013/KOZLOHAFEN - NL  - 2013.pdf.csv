@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,001,06:00,06:15,9,,71,4,1,0,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,002,06:15,06:30,15,,111,6,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,003,06:30,06:45,22,,202,1,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,004,06:45,07:00,26,,189,15,4,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,005,07:00,07:15,25,,128,12,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,006,07:15,07:30,13,,149,13,0,1,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,007,07:30,07:45,18,,154,7,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,008,07:45,08:00,15,,141,9,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,009,08:00,08:15,13,,141,7,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,010,08:15,08:30,20,,86,11,1,0,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,011,08:30,08:45,21,,120,9,2,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,012,08:45,09:00,15,,110,7,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,013,09:00,09:15,13,,124,9,5,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,014,09:15,09:30,15,,118,4,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,015,09:30,09:45,13,,93,7,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,016,09:45,10:00,10,,119,4,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,017,10:00,10:15,13,,114,2,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,018,10:15,10:30,19,,95,4,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,019,10:30,10:45,25,,88,4,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,020,10:45,11:00,19,,128,8,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,021,11:00,11:15,13,,113,4,6,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,022,11:15,11:30,20,,128,4,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,023,11:30,11:45,20,,111,3,6,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,024,11:45,12:00,10,,80,6,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,025,12:00,12:15,13,,128,8,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,026,12:15,12:30,21,,111,8,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,027,12:30,12:45,15,,74,1,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,028,12:45,13:00,12,,91,2,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,029,13:00,13:15,23,,123,6,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,030,13:15,13:30,17,,140,10,4,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,031,13:30,13:45,11,,126,5,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,032,13:45,14:00,31,,144,8,4,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,033,14:00,14:15,25,,127,3,4,2,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,034,14:15,14:30,26,,141,10,5,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,035,14:30,14:45,17,,168,7,2,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,036,14:45,15:00,23,,150,5,5,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,037,15:00,15:15,24,,146,6,3,0,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,038,15:15,15:30,37,,191,1,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,039,15:30,15:45,34,,206,9,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,040,15:45,16:00,34,,172,7,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,041,16:00,16:15,36,,179,2,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,042,16:15,16:30,35,,196,3,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,043,16:30,16:45,31,,203,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,044,16:45,17:00,38,,189,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,045,17:00,17:15,40,,199,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,046,17:15,17:30,46,,198,4,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,047,17:30,17:45,50,,184,3,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,048,17:45,18:00,40,,166,0,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,049,18:00,18:15,50,,188,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,050,18:15,18:30,35,,150,1,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,051,18:30,18:45,22,,195,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Neue Strombrücke,052,18:45,19:00,28,,142,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,001,06:00,06:15,0,,10,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,002,06:15,06:30,2,,3,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,003,06:30,06:45,1,,9,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,004,06:45,07:00,0,,8,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,005,07:00,07:15,0,,16,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,006,07:15,07:30,0,,12,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,007,07:30,07:45,0,,16,0,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,008,07:45,08:00,1,,19,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,009,08:00,08:15,0,,10,0,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,010,08:15,08:30,0,,22,3,2,2,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,011,08:30,08:45,0,,18,0,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,012,08:45,09:00,0,,20,2,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,013,09:00,09:15,0,,14,3,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,014,09:15,09:30,0,,14,0,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,015,09:30,09:45,0,,13,2,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,016,09:45,10:00,0,,14,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,017,10:00,10:15,2,,10,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,018,10:15,10:30,0,,11,3,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,019,10:30,10:45,0,,5,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,020,10:45,11:00,0,,7,2,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,021,11:00,11:15,0,,8,1,1,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,022,11:15,11:30,0,,13,2,2,2,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,023,11:30,11:45,0,,10,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,024,11:45,12:00,1,,15,1,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,025,12:00,12:15,0,,12,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,026,12:15,12:30,1,,10,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,027,12:30,12:45,0,,16,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,028,12:45,13:00,0,,11,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,029,13:00,13:15,0,,7,2,0,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,030,13:15,13:30,0,,15,1,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,031,13:30,13:45,0,,9,1,4,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,032,13:45,14:00,0,,10,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,033,14:00,14:15,0,,14,2,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,034,14:15,14:30,0,,10,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,035,14:30,14:45,0,,20,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,036,14:45,15:00,0,,17,3,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,037,15:00,15:15,0,,13,3,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,038,15:15,15:30,0,,19,1,0,1,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,039,15:30,15:45,0,,17,0,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,040,15:45,16:00,1,,18,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,041,16:00,16:15,0,,14,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,042,16:15,16:30,0,,15,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,043,16:30,16:45,0,,10,1,0,2,1
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,044,16:45,17:00,2,,14,1,1,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,045,17:00,17:15,0,,16,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,046,17:15,17:30,0,,21,2,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,047,17:30,17:45,0,,17,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,048,17:45,18:00,0,,25,0,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,049,18:00,18:15,2,,18,1,1,1,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,050,18:15,18:30,0,,10,1,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,051,18:30,18:45,0,,15,3,0,0,0
+2,A,2,1,AL...(3),Zählstrom,,Linksabbieger Neue Strombrücke,052,18:45,19:00,0,,21,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,001,06:00,06:15,0,,1,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,002,06:15,06:30,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,003,06:30,06:45,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,004,06:45,07:00,0,,2,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,005,07:00,07:15,0,,1,0,0,1,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,006,07:15,07:30,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,007,07:30,07:45,2,,10,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,008,07:45,08:00,0,,9,3,2,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,009,08:00,08:15,1,,5,2,2,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,010,08:15,08:30,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,011,08:30,08:45,0,,10,3,2,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,012,08:45,09:00,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,013,09:00,09:15,0,,8,2,0,1,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,014,09:15,09:30,0,,9,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,015,09:30,09:45,0,,13,2,2,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,016,09:45,10:00,0,,12,5,0,1,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,017,10:00,10:15,1,,9,5,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,018,10:15,10:30,1,,6,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,019,10:30,10:45,0,,4,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,020,10:45,11:00,0,,13,3,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,021,11:00,11:15,1,,15,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,022,11:15,11:30,0,,10,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,023,11:30,11:45,0,,8,3,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,024,11:45,12:00,1,,7,4,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,025,12:00,12:15,0,,16,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,026,12:15,12:30,0,,15,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,027,12:30,12:45,0,,12,2,0,0,1
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,028,12:45,13:00,0,,9,4,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,029,13:00,13:15,1,,9,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,030,13:15,13:30,2,,13,3,3,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,031,13:30,13:45,2,,18,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,032,13:45,14:00,0,,12,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,033,14:00,14:15,2,,15,4,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,034,14:15,14:30,0,,14,3,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,035,14:30,14:45,1,,8,7,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,036,14:45,15:00,0,,14,1,2,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,037,15:00,15:15,4,,16,2,4,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,038,15:15,15:30,1,,28,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,039,15:30,15:45,0,,25,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,040,15:45,16:00,3,,25,3,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,041,16:00,16:15,1,,31,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,042,16:15,16:30,8,,16,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,043,16:30,16:45,1,,29,2,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,044,16:45,17:00,1,,22,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,045,17:00,17:15,1,,21,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,046,17:15,17:30,0,,22,2,0,3,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,047,17:30,17:45,1,,33,3,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,048,17:45,18:00,0,,27,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,049,18:00,18:15,3,,27,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,050,18:15,18:30,2,,31,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,051,18:30,18:45,0,,29,2,0,1,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Kleiner Werder,052,18:45,19:00,0,,27,1,0,1,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,001,06:00,06:15,0,,1,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,002,06:15,06:30,0,,0,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,003,06:30,06:45,0,,1,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,004,06:45,07:00,0,,3,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,005,07:00,07:15,0,,1,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,006,07:15,07:30,1,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,007,07:30,07:45,0,,5,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,008,07:45,08:00,0,,3,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,009,08:00,08:15,1,,1,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,010,08:15,08:30,1,,2,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,011,08:30,08:45,0,,0,0,1,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,012,08:45,09:00,0,,2,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,013,09:00,09:15,0,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,014,09:15,09:30,1,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,015,09:30,09:45,0,,4,0,0,1,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,016,09:45,10:00,0,,2,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,017,10:00,10:15,2,,3,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,018,10:15,10:30,3,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,019,10:30,10:45,0,,4,2,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,020,10:45,11:00,0,,4,1,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,021,11:00,11:15,0,,3,1,1,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,022,11:15,11:30,0,,2,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,023,11:30,11:45,0,,4,0,0,1,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,024,11:45,12:00,0,,3,1,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,025,12:00,12:15,0,,7,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,026,12:15,12:30,0,,5,1,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,027,12:30,12:45,0,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,028,12:45,13:00,0,,4,2,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,029,13:00,13:15,0,,3,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,030,13:15,13:30,0,,4,0,1,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,031,13:30,13:45,0,,7,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,032,13:45,14:00,1,,1,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,033,14:00,14:15,0,,1,1,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,034,14:15,14:30,0,,3,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,035,14:30,14:45,0,,1,0,1,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,036,14:45,15:00,0,,6,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,037,15:00,15:15,3,,4,1,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,038,15:15,15:30,2,,5,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,039,15:30,15:45,0,,6,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,040,15:45,16:00,0,,4,3,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,041,16:00,16:15,1,,3,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,042,16:15,16:30,2,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,043,16:30,16:45,1,,8,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,044,16:45,17:00,6,,9,3,0,0,1
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,045,17:00,17:15,1,,3,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,046,17:15,17:30,9,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,047,17:30,17:45,6,,6,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,048,17:45,18:00,2,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,049,18:00,18:15,1,,4,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,050,18:15,18:30,0,,7,1,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,051,18:30,18:45,0,,5,0,0,0,0
+7,B,1,1,BL...(6),Zählstrom,,Linksabbieger Kleiner Werder,052,18:45,19:00,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,001,06:00,06:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,002,06:15,06:30,1,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,003,06:30,06:45,1,,3,2,0,1,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,004,06:45,07:00,3,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,005,07:00,07:15,2,,8,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,006,07:15,07:30,3,,11,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,007,07:30,07:45,5,,9,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,008,07:45,08:00,0,,10,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,009,08:00,08:15,2,,5,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,010,08:15,08:30,3,,6,7,0,1,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,011,08:30,08:45,2,,6,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,012,08:45,09:00,0,,4,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,013,09:00,09:15,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,014,09:15,09:30,3,,5,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,015,09:30,09:45,2,,7,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,016,09:45,10:00,1,,3,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,017,10:00,10:15,0,,7,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,018,10:15,10:30,2,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,019,10:30,10:45,3,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,020,10:45,11:00,0,,3,0,0,1,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,021,11:00,11:15,1,,7,1,0,0,1
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,022,11:15,11:30,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,023,11:30,11:45,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,024,11:45,12:00,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,025,12:00,12:15,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,026,12:15,12:30,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,027,12:30,12:45,1,,11,0,0,3,1
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,028,12:45,13:00,0,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,029,13:00,13:15,0,,5,2,1,0,1
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,030,13:15,13:30,2,,8,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,031,13:30,13:45,0,,5,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,032,13:45,14:00,2,,4,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,033,14:00,14:15,1,,1,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,034,14:15,14:30,2,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,035,14:30,14:45,1,,8,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,036,14:45,15:00,4,,14,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,037,15:00,15:15,6,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,038,15:15,15:30,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,039,15:30,15:45,1,,8,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,040,15:45,16:00,0,,2,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,041,16:00,16:15,1,,6,2,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,042,16:15,16:30,2,,9,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,043,16:30,16:45,1,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,044,16:45,17:00,0,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,045,17:00,17:15,1,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,046,17:15,17:30,1,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,047,17:30,17:45,1,,11,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,048,17:45,18:00,2,,9,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,049,18:00,18:15,3,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,050,18:15,18:30,0,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,051,18:30,18:45,2,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zollbrücke,052,18:45,19:00,2,,2,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,001,06:00,06:15,13,,108,12,0,0,3
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,002,06:15,06:30,16,,146,15,2,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,003,06:30,06:45,28,,269,15,1,1,3
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,004,06:45,07:00,33,,170,16,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,005,07:00,07:15,30,,203,13,0,0,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,006,07:15,07:30,30,,228,13,0,0,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,007,07:30,07:45,49,,174,26,1,0,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,008,07:45,08:00,46,,198,44,3,2,3
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,009,08:00,08:15,21,,142,11,7,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,010,08:15,08:30,21,,170,12,8,1,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,011,08:30,08:45,30,,174,12,4,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,012,08:45,09:00,40,,150,15,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,013,09:00,09:15,11,,103,7,0,0,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,014,09:15,09:30,17,,174,14,4,2,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,015,09:30,09:45,31,,210,10,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,016,09:45,10:00,22,,146,9,3,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,017,10:00,10:15,28,,153,3,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,018,10:15,10:30,20,,154,9,3,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,019,10:30,10:45,15,,149,7,6,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,020,10:45,11:00,17,,112,5,2,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,021,11:00,11:15,7,,144,11,3,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,022,11:15,11:30,15,,150,9,4,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,023,11:30,11:45,19,,125,10,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,024,11:45,12:00,21,,108,10,2,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,025,12:00,12:15,21,,135,11,0,2,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,026,12:15,12:30,16,,138,9,4,2,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,027,12:30,12:45,23,,156,9,3,0,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,028,12:45,13:00,15,,143,6,6,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,029,13:00,13:15,22,,145,19,3,0,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,030,13:15,13:30,11,,104,12,3,1,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,031,13:30,13:45,35,,105,13,4,0,3
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,032,13:45,14:00,15,,101,5,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,033,14:00,14:15,13,,107,12,2,0,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,034,14:15,14:30,35,,182,11,1,0,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,035,14:30,14:45,18,,143,5,2,0,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,036,14:45,15:00,40,,182,8,3,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,037,15:00,15:15,47,,170,4,1,0,5
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,038,15:15,15:30,30,,160,9,2,0,4
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,039,15:30,15:45,26,,168,7,0,0,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,040,15:45,16:00,28,,149,7,0,0,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,041,16:00,16:15,45,,212,9,2,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,042,16:15,16:30,55,,214,8,2,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,043,16:30,16:45,26,,173,2,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,044,16:45,17:00,30,,177,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,045,17:00,17:15,29,,204,4,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,046,17:15,17:30,22,,133,3,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,047,17:30,17:45,26,,182,1,2,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,048,17:45,18:00,11,,149,8,0,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,049,18:00,18:15,17,,150,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,050,18:15,18:30,21,,145,0,0,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,051,18:30,18:45,24,,164,2,0,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Zollbrücke,052,18:45,19:00,21,,125,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,001,06:00,06:15,22,,192,16,2,0,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,002,06:15,06:30,34,,263,21,4,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,003,06:30,06:45,52,,486,20,1,3,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,004,06:45,07:00,62,,377,31,5,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,005,07:00,07:15,57,,357,25,1,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,006,07:15,07:30,47,,409,27,0,1,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,007,07:30,07:45,74,,368,34,6,0,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,008,07:45,08:00,62,,380,58,9,2,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,009,08:00,08:15,38,,304,22,13,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,010,08:15,08:30,45,,289,33,11,4,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,011,08:30,08:45,53,,328,24,10,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,012,08:45,09:00,55,,291,25,4,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,013,09:00,09:15,24,,257,21,6,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,014,09:15,09:30,36,,324,19,6,2,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,015,09:30,09:45,46,,340,23,6,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,016,09:45,10:00,33,,296,22,5,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,017,10:00,10:15,46,,296,11,4,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,018,10:15,10:30,45,,271,18,7,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,019,10:30,10:45,43,,251,15,8,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,020,10:45,11:00,36,,267,19,6,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,021,11:00,11:15,22,,290,19,11,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,022,11:15,11:30,35,,305,17,8,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,023,11:30,11:45,39,,260,17,8,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,024,11:45,12:00,33,,217,22,4,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,025,12:00,12:15,34,,302,21,1,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,026,12:15,12:30,38,,282,19,6,2,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,027,12:30,12:45,39,,273,14,6,3,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,028,12:45,13:00,27,,263,15,8,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,029,13:00,13:15,46,,292,30,6,2,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,030,13:15,13:30,32,,284,28,12,1,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,031,13:30,13:45,48,,270,20,9,1,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,032,13:45,14:00,49,,272,14,7,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,033,14:00,14:15,41,,265,22,8,2,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,034,14:15,14:30,63,,354,24,6,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,035,14:30,14:45,37,,348,20,6,1,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,036,14:45,15:00,67,,383,19,11,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,037,15:00,15:15,84,,354,16,8,0,7
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,038,15:15,15:30,70,,407,11,4,1,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,039,15:30,15:45,61,,430,18,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,040,15:45,16:00,66,,370,21,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,041,16:00,16:15,84,,445,14,3,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,042,16:15,16:30,102,,454,11,2,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,043,16:30,16:45,60,,426,5,1,2,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,044,16:45,17:00,77,,416,6,2,0,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,045,17:00,17:15,72,,448,5,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,046,17:15,17:30,78,,382,11,1,3,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,047,17:30,17:45,84,,433,9,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,048,17:45,18:00,55,,380,9,1,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,049,18:00,18:15,76,,391,4,1,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,050,18:15,18:30,58,,348,3,2,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,051,18:30,18:45,48,,410,8,0,2,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,052,18:45,19:00,51,,318,4,0,1,0

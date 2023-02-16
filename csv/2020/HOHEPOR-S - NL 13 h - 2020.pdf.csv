@@ -1,0 +1,157 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,001,06:00,06:15,2,,7,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,002,06:15,06:30,3,,3,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,003,06:30,06:45,5,,3,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,004,06:45,07:00,1,,10,0,1,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,005,07:00,07:15,5,,17,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,006,07:15,07:30,11,,20,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,007,07:30,07:45,13,,18,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,008,07:45,08:00,8,,19,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,009,08:00,08:15,9,,13,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,010,08:15,08:30,4,,10,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,011,08:30,08:45,0,,5,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,012,08:45,09:00,3,,6,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,013,09:00,09:15,2,,7,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,014,09:15,09:30,1,,9,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,015,09:30,09:45,4,,5,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,016,09:45,10:00,3,,5,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,017,10:00,10:15,1,,6,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,018,10:15,10:30,1,,4,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,019,10:30,10:45,3,,6,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,020,10:45,11:00,1,,8,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,021,11:00,11:15,1,,5,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,022,11:15,11:30,2,,6,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,023,11:30,11:45,4,,8,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,024,11:45,12:00,2,,10,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,025,12:00,12:15,4,,9,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,026,12:15,12:30,0,,8,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,027,12:30,12:45,2,,9,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,028,12:45,13:00,2,,10,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,029,13:00,13:15,5,,11,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,030,13:15,13:30,7,,8,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,031,13:30,13:45,3,,7,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,032,13:45,14:00,6,,9,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,033,14:00,14:15,1,,9,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,034,14:15,14:30,6,,9,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,035,14:30,14:45,5,,20,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,036,14:45,15:00,7,,13,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,037,15:00,15:15,5,,20,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,038,15:15,15:30,2,,38,0,2,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,039,15:30,15:45,9,,27,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,040,15:45,16:00,9,,25,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,041,16:00,16:15,7,,41,5,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,042,16:15,16:30,3,,32,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,043,16:30,16:45,5,,24,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,044,16:45,17:00,8,,12,1,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,045,17:00,17:15,9,,7,2,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,046,17:15,17:30,5,,19,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,047,17:30,17:45,8,,16,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,048,17:45,18:00,2,,10,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,049,18:00,18:15,1,,7,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,050,18:15,18:30,2,,6,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,051,18:30,18:45,1,,9,0,0,0,0
+1,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd i. R. Pfälzer Platz,052,18:45,19:00,3,,2,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,001,06:00,06:15,3,,6,0,1,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,002,06:15,06:30,5,,5,2,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,003,06:30,06:45,6,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,004,06:45,07:00,6,,9,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,005,07:00,07:15,3,,9,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,006,07:15,07:30,5,,10,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,007,07:30,07:45,4,,12,2,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,008,07:45,08:00,5,,13,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,009,08:00,08:15,7,,6,2,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,010,08:15,08:30,1,,11,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,011,08:30,08:45,4,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,012,08:45,09:00,5,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,013,09:00,09:15,4,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,014,09:15,09:30,2,,6,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,015,09:30,09:45,1,,3,0,1,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,016,09:45,10:00,1,,4,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,017,10:00,10:15,4,,3,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,018,10:15,10:30,7,,4,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,019,10:30,10:45,0,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,020,10:45,11:00,1,,6,2,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,021,11:00,11:15,2,,2,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,022,11:15,11:30,0,,4,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,023,11:30,11:45,2,,5,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,024,11:45,12:00,1,,3,2,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,025,12:00,12:15,5,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,026,12:15,12:30,1,,4,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,027,12:30,12:45,0,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,028,12:45,13:00,0,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,029,13:00,13:15,2,,8,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,030,13:15,13:30,0,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,031,13:30,13:45,0,,3,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,032,13:45,14:00,0,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,033,14:00,14:15,2,,3,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,034,14:15,14:30,0,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,035,14:30,14:45,5,,4,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,036,14:45,15:00,4,,3,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,037,15:00,15:15,1,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,038,15:15,15:30,14,,7,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,039,15:30,15:45,7,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,040,15:45,16:00,7,,11,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,041,16:00,16:15,5,,8,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,042,16:15,16:30,4,,3,1,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,043,16:30,16:45,4,,5,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,044,16:45,17:00,6,,7,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,045,17:00,17:15,3,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,046,17:15,17:30,4,,8,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,047,17:30,17:45,3,,9,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,048,17:45,18:00,3,,5,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,049,18:00,18:15,1,,6,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,050,18:15,18:30,0,,2,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,051,18:30,18:45,2,,5,0,0,0,0
+2,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer HohepfortestraßeSüd a. R. Pfälzer Platz,052,18:45,19:00,3,,2,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),001,06:00,06:15,5,,13,0,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),002,06:15,06:30,8,,8,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),003,06:30,06:45,11,,9,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),004,06:45,07:00,7,,19,0,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),005,07:00,07:15,8,,26,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),006,07:15,07:30,16,,30,3,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),007,07:30,07:45,17,,30,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),008,07:45,08:00,13,,32,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),009,08:00,08:15,16,,19,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),010,08:15,08:30,5,,21,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),011,08:30,08:45,4,,11,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),012,08:45,09:00,8,,13,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),013,09:00,09:15,6,,14,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),014,09:15,09:30,3,,15,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),015,09:30,09:45,5,,8,0,1,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),016,09:45,10:00,4,,9,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),017,10:00,10:15,5,,9,3,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),018,10:15,10:30,8,,8,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),019,10:30,10:45,3,,10,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),020,10:45,11:00,2,,14,3,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),021,11:00,11:15,3,,7,3,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),022,11:15,11:30,2,,10,3,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),023,11:30,11:45,6,,13,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),024,11:45,12:00,3,,13,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),025,12:00,12:15,9,,13,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),026,12:15,12:30,1,,12,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),027,12:30,12:45,2,,15,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),028,12:45,13:00,2,,14,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),029,13:00,13:15,7,,19,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),030,13:15,13:30,7,,14,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),031,13:30,13:45,3,,10,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),032,13:45,14:00,6,,16,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),033,14:00,14:15,3,,12,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),034,14:15,14:30,6,,16,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),035,14:30,14:45,10,,24,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),036,14:45,15:00,11,,16,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),037,15:00,15:15,6,,27,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),038,15:15,15:30,16,,45,1,2,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),039,15:30,15:45,16,,34,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),040,15:45,16:00,16,,36,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),041,16:00,16:15,12,,49,5,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),042,16:15,16:30,7,,35,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),043,16:30,16:45,9,,29,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),044,16:45,17:00,14,,19,1,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),045,17:00,17:15,12,,13,2,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),046,17:15,17:30,9,,27,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),047,17:30,17:45,11,,25,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),048,17:45,18:00,5,,15,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),049,18:00,18:15,2,,13,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),050,18:15,18:30,2,,8,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),051,18:30,18:45,3,,14,0,0,0,0
+3,D,0,0,QD,summierter Strom,1+2,DG..(11) + BG...(5),052,18:45,19:00,6,,4,0,0,0,0

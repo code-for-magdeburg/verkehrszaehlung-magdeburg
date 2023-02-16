@@ -1,0 +1,157 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,001,06:00,06:15,6,,25,1,3,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,002,06:15,06:30,3,,30,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,003,06:30,06:45,10,,44,2,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,004,06:45,07:00,14,,61,2,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,005,07:00,07:15,12,,49,7,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,006,07:15,07:30,12,,62,1,4,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,007,07:30,07:45,21,,68,4,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,008,07:45,08:00,13,,61,7,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,009,08:00,08:15,7,,77,1,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,010,08:15,08:30,11,,48,6,4,2,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,011,08:30,08:45,10,,64,5,3,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,012,08:45,09:00,15,,69,3,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,013,09:00,09:15,9,,71,3,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,014,09:15,09:30,13,,87,4,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,015,09:30,09:45,21,,87,5,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,016,09:45,10:00,11,,67,3,2,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,017,10:00,10:15,10,,62,2,2,0,1
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,018,10:15,10:30,12,,42,5,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,019,10:30,10:45,12,,69,6,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,020,10:45,11:00,18,,68,7,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,021,11:00,11:15,15,,53,3,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,022,11:15,11:30,14,,65,5,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,023,11:30,11:45,20,,69,1,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,024,11:45,12:00,17,,61,4,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,025,12:00,12:15,15,,65,0,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,026,12:15,12:30,15,,65,7,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,027,12:30,12:45,9,,62,5,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,028,12:45,13:00,13,,64,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,029,13:00,13:15,13,,63,5,1,0,1
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,030,13:15,13:30,22,,55,1,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,031,13:30,13:45,34,,62,6,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,032,13:45,14:00,21,,59,0,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,033,14:00,14:15,26,,57,6,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,034,14:15,14:30,22,,70,6,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,035,14:30,14:45,16,,62,0,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,036,14:45,15:00,33,,69,2,2,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,037,15:00,15:15,24,,51,3,2,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,038,15:15,15:30,29,,29,2,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,039,15:30,15:45,28,,72,5,0,0,1
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,040,15:45,16:00,34,,60,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,041,16:00,16:15,41,,81,2,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,042,16:15,16:30,30,,63,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,043,16:30,16:45,34,,69,2,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,044,16:45,17:00,44,,75,2,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,045,17:00,17:15,44,,74,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,046,17:15,17:30,29,,58,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,047,17:30,17:45,38,,83,2,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,048,17:45,18:00,29,,73,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,049,18:00,18:15,14,,62,0,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,050,18:15,18:30,18,,51,1,0,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,051,18:30,18:45,20,,78,1,1,0,0
+1,B,1,1,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg i. R. Hasselbachplatz,052,18:45,19:00,28,,62,0,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,001,06:00,06:15,9,,19,3,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,002,06:15,06:30,8,,26,0,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,003,06:30,06:45,19,,64,0,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,004,06:45,07:00,26,,39,2,0,1,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,005,07:00,07:15,25,,31,0,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,006,07:15,07:30,32,,41,4,2,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,007,07:30,07:45,23,,53,1,4,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,008,07:45,08:00,28,,59,3,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,009,08:00,08:15,16,,47,1,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,010,08:15,08:30,19,,52,2,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,011,08:30,08:45,21,,65,3,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,012,08:45,09:00,41,,69,3,2,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,013,09:00,09:15,43,,65,2,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,014,09:15,09:30,22,,46,1,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,015,09:30,09:45,41,,49,2,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,016,09:45,10:00,22,,54,1,2,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,017,10:00,10:15,21,,50,3,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,018,10:15,10:30,29,,45,3,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,019,10:30,10:45,21,,53,1,0,0,1
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,020,10:45,11:00,38,,60,2,2,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,021,11:00,11:15,44,,65,3,2,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,022,11:15,11:30,31,,57,8,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,023,11:30,11:45,25,,64,4,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,024,11:45,12:00,34,,48,2,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,025,12:00,12:15,23,,35,5,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,026,12:15,12:30,19,,51,4,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,027,12:30,12:45,22,,53,3,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,028,12:45,13:00,18,,37,2,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,029,13:00,13:15,29,,70,3,3,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,030,13:15,13:30,27,,55,2,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,031,13:30,13:45,24,,64,1,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,032,13:45,14:00,17,,58,4,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,033,14:00,14:15,30,,60,6,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,034,14:15,14:30,20,,63,3,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,035,14:30,14:45,20,,81,1,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,036,14:45,15:00,36,,65,2,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,037,15:00,15:15,43,,70,3,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,038,15:15,15:30,25,,87,3,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,039,15:30,15:45,42,,73,2,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,040,15:45,16:00,45,,65,0,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,041,16:00,16:15,31,,71,2,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,042,16:15,16:30,26,,59,2,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,043,16:30,16:45,31,,56,2,1,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,044,16:45,17:00,36,,70,2,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,045,17:00,17:15,44,,82,1,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,046,17:15,17:30,31,,60,4,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,047,17:30,17:45,26,,43,4,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,048,17:45,18:00,23,,39,2,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,049,18:00,18:15,28,,48,0,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,050,18:15,18:30,23,,56,3,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,051,18:30,18:45,19,,35,1,0,0,0
+2,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Breiter Weg i. H. Ulrichshaus,052,18:45,19:00,24,,34,1,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),001,06:00,06:15,15,,44,4,4,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),002,06:15,06:30,11,,56,1,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),003,06:30,06:45,29,,108,2,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),004,06:45,07:00,40,,100,4,1,1,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),005,07:00,07:15,37,,80,7,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),006,07:15,07:30,44,,103,5,6,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),007,07:30,07:45,44,,121,5,4,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),008,07:45,08:00,41,,120,10,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),009,08:00,08:15,23,,124,2,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),010,08:15,08:30,30,,100,8,5,2,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),011,08:30,08:45,31,,129,8,4,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),012,08:45,09:00,56,,138,6,3,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),013,09:00,09:15,52,,136,5,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),014,09:15,09:30,35,,133,5,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),015,09:30,09:45,62,,136,7,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),016,09:45,10:00,33,,121,4,4,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),017,10:00,10:15,31,,112,5,2,0,1
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),018,10:15,10:30,41,,87,8,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),019,10:30,10:45,33,,122,7,0,0,1
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),020,10:45,11:00,56,,128,9,3,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),021,11:00,11:15,59,,118,6,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),022,11:15,11:30,45,,122,13,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),023,11:30,11:45,45,,133,5,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),024,11:45,12:00,51,,109,6,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),025,12:00,12:15,38,,100,5,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),026,12:15,12:30,34,,116,11,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),027,12:30,12:45,31,,115,8,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),028,12:45,13:00,31,,101,3,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),029,13:00,13:15,42,,133,8,4,0,1
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),030,13:15,13:30,49,,110,3,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),031,13:30,13:45,58,,126,7,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),032,13:45,14:00,38,,117,4,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),033,14:00,14:15,56,,117,12,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),034,14:15,14:30,42,,133,9,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),035,14:30,14:45,36,,143,1,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),036,14:45,15:00,69,,134,4,3,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),037,15:00,15:15,67,,121,6,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),038,15:15,15:30,54,,116,5,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),039,15:30,15:45,70,,145,7,0,0,1
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),040,15:45,16:00,79,,125,1,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),041,16:00,16:15,72,,152,4,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),042,16:15,16:30,56,,122,2,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),043,16:30,16:45,65,,125,4,2,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),044,16:45,17:00,80,,145,4,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),045,17:00,17:15,88,,156,1,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),046,17:15,17:30,60,,118,5,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),047,17:30,17:45,64,,126,6,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),048,17:45,18:00,52,,112,3,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),049,18:00,18:15,42,,110,0,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),050,18:15,18:30,41,,107,4,0,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),051,18:30,18:45,39,,113,2,1,0,0
+3,,0,0,QB,summierter Strom,1+2,BG...(5) + DG..(11),052,18:45,19:00,52,,96,1,0,0,0

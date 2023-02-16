@@ -1,0 +1,729 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,001,06:00,06:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,002,06:15,06:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,003,06:30,06:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,004,06:45,07:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,005,07:00,07:15,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,006,07:15,07:30,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,007,07:30,07:45,0,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,008,07:45,08:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,009,08:00,08:15,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,010,08:15,08:30,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,011,08:30,08:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,012,08:45,09:00,0,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,013,09:00,09:15,0,,11,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,014,09:15,09:30,1,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,015,09:30,09:45,0,,9,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,016,09:45,10:00,0,,18,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,017,10:00,10:15,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,018,10:15,10:30,0,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,019,10:30,10:45,0,,11,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,020,10:45,11:00,1,,12,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,021,11:00,11:15,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,022,11:15,11:30,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,023,11:30,11:45,0,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,024,11:45,12:00,1,,17,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,025,12:00,12:15,1,,11,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,026,12:15,12:30,1,,17,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,027,12:30,12:45,1,,14,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,028,12:45,13:00,0,,9,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,029,13:00,13:15,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,030,13:15,13:30,1,,10,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,031,13:30,13:45,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,032,13:45,14:00,0,,17,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,033,14:00,14:15,0,,15,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,034,14:15,14:30,0,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,035,14:30,14:45,1,,13,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,036,14:45,15:00,0,,18,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,037,15:00,15:15,0,,16,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,038,15:15,15:30,0,,11,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,039,15:30,15:45,0,,13,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,040,15:45,16:00,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,041,16:00,16:15,0,,16,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,042,16:15,16:30,0,,20,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,043,16:30,16:45,0,,19,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,044,16:45,17:00,1,,24,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,045,17:00,17:15,2,,33,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,046,17:15,17:30,0,,19,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,047,17:30,17:45,0,,28,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,048,17:45,18:00,2,,15,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,049,18:00,18:15,0,,14,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,050,18:15,18:30,0,,20,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,051,18:30,18:45,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Ausfahrt City Center Cracau,052,18:45,19:00,1,,8,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,001,06:00,06:15,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,002,06:15,06:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,003,06:30,06:45,1,,1,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,004,06:45,07:00,3,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,005,07:00,07:15,2,,3,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,006,07:15,07:30,1,,5,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,007,07:30,07:45,0,,2,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,008,07:45,08:00,2,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,009,08:00,08:15,1,,7,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,010,08:15,08:30,1,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,011,08:30,08:45,2,,5,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,012,08:45,09:00,1,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,013,09:00,09:15,2,,8,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,014,09:15,09:30,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,015,09:30,09:45,0,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,016,09:45,10:00,2,,9,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,017,10:00,10:15,1,,12,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,018,10:15,10:30,1,,10,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,019,10:30,10:45,0,,17,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,020,10:45,11:00,0,,10,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,021,11:00,11:15,0,,14,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,022,11:15,11:30,0,,10,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,023,11:30,11:45,0,,6,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,024,11:45,12:00,0,,9,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,025,12:00,12:15,0,,8,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,026,12:15,12:30,1,,5,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,027,12:30,12:45,1,,10,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,028,12:45,13:00,0,,8,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,029,13:00,13:15,0,,19,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,030,13:15,13:30,0,,12,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,031,13:30,13:45,0,,13,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,032,13:45,14:00,2,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,033,14:00,14:15,0,,12,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,034,14:15,14:30,1,,13,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,035,14:30,14:45,1,,9,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,036,14:45,15:00,0,,10,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,037,15:00,15:15,2,,8,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,038,15:15,15:30,3,,8,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,039,15:30,15:45,2,,12,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,040,15:45,16:00,1,,15,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,041,16:00,16:15,3,,9,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,042,16:15,16:30,2,,14,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,043,16:30,16:45,0,,10,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,044,16:45,17:00,3,,12,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,045,17:00,17:15,0,,11,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,046,17:15,17:30,3,,10,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,047,17:30,17:45,2,,18,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,048,17:45,18:00,0,,7,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,049,18:00,18:15,16,,16,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,050,18:15,18:30,5,,12,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,051,18:30,18:45,0,,2,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Ausfahrt City Center Cracau,052,18:45,19:00,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,001,06:00,06:15,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,002,06:15,06:30,0,,0,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,003,06:30,06:45,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,004,06:45,07:00,0,,0,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,005,07:00,07:15,0,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,006,07:15,07:30,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,007,07:30,07:45,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,008,07:45,08:00,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,009,08:00,08:15,0,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,010,08:15,08:30,0,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,011,08:30,08:45,0,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,012,08:45,09:00,0,,4,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,013,09:00,09:15,0,,10,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,014,09:15,09:30,0,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,015,09:30,09:45,0,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,016,09:45,10:00,0,,11,3,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,017,10:00,10:15,2,,10,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,018,10:15,10:30,0,,5,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,019,10:30,10:45,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,020,10:45,11:00,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,021,11:00,11:15,0,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,022,11:15,11:30,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,023,11:30,11:45,0,,13,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,024,11:45,12:00,0,,9,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,025,12:00,12:15,1,,4,0,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,026,12:15,12:30,0,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,027,12:30,12:45,1,,12,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,028,12:45,13:00,1,,4,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,029,13:00,13:15,0,,16,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,030,13:15,13:30,1,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,031,13:30,13:45,1,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,032,13:45,14:00,0,,2,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,033,14:00,14:15,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,034,14:15,14:30,0,,5,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,035,14:30,14:45,0,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,036,14:45,15:00,0,,7,2,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,037,15:00,15:15,0,,12,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,038,15:15,15:30,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,039,15:30,15:45,0,,7,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,040,15:45,16:00,0,,6,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,041,16:00,16:15,1,,11,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,042,16:15,16:30,0,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,043,16:30,16:45,0,,3,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,044,16:45,17:00,0,,12,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,045,17:00,17:15,0,,12,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,046,17:15,17:30,2,,9,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,047,17:30,17:45,0,,14,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,048,17:45,18:00,1,,4,1,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,049,18:00,18:15,0,,8,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,050,18:15,18:30,0,,8,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,051,18:30,18:45,2,,1,0,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger City Cracau Center,052,18:45,19:00,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),001,06:00,06:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),002,06:15,06:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),003,06:30,06:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),004,06:45,07:00,0,,6,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),005,07:00,07:15,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),006,07:15,07:30,1,,7,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),007,07:30,07:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),008,07:45,08:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),009,08:00,08:15,1,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),010,08:15,08:30,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),011,08:30,08:45,2,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),012,08:45,09:00,0,,6,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),013,09:00,09:15,1,,8,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),014,09:15,09:30,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),015,09:30,09:45,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),016,09:45,10:00,1,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),017,10:00,10:15,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),018,10:15,10:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),019,10:30,10:45,2,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),020,10:45,11:00,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),021,11:00,11:15,2,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),022,11:15,11:30,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),023,11:30,11:45,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),024,11:45,12:00,1,,5,3,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),025,12:00,12:15,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),026,12:15,12:30,2,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),027,12:30,12:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),028,12:45,13:00,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),029,13:00,13:15,0,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),030,13:15,13:30,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),031,13:30,13:45,0,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),032,13:45,14:00,0,,12,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),033,14:00,14:15,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),034,14:15,14:30,0,,11,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),035,14:30,14:45,1,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),036,14:45,15:00,0,,13,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),037,15:00,15:15,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),038,15:15,15:30,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),039,15:30,15:45,0,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),040,15:45,16:00,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),041,16:00,16:15,1,,15,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),042,16:15,16:30,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),043,16:30,16:45,0,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),044,16:45,17:00,0,,10,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),045,17:00,17:15,2,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),046,17:15,17:30,2,,15,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),047,17:30,17:45,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),048,17:45,18:00,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),049,18:00,18:15,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),050,18:15,18:30,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),051,18:30,18:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Cracauer Straße (NW),052,18:45,19:00,0,,4,0,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),001,06:00,06:15,1,,31,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),002,06:15,06:30,4,,29,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),003,06:30,06:45,5,,43,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),004,06:45,07:00,11,,56,2,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),005,07:00,07:15,4,,34,8,0,0,1
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),006,07:15,07:30,2,,39,4,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),007,07:30,07:45,3,,35,5,0,2,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),008,07:45,08:00,6,,37,3,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),009,08:00,08:15,2,,28,8,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),010,08:15,08:30,3,,27,3,1,0,1
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),011,08:30,08:45,2,,23,3,0,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),012,08:45,09:00,5,,30,0,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),013,09:00,09:15,3,,50,4,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),014,09:15,09:30,3,,21,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),015,09:30,09:45,5,,21,0,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),016,09:45,10:00,2,,29,4,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),017,10:00,10:15,0,,27,4,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),018,10:15,10:30,0,,23,2,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),019,10:30,10:45,2,,36,2,2,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),020,10:45,11:00,0,,32,2,1,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),021,11:00,11:15,3,,17,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),022,11:15,11:30,0,,31,2,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),023,11:30,11:45,3,,35,1,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),024,11:45,12:00,2,,32,2,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),025,12:00,12:15,1,,27,1,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),026,12:15,12:30,5,,28,2,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),027,12:30,12:45,0,,20,1,0,1,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),028,12:45,13:00,2,,18,1,2,2,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),029,13:00,13:15,2,,59,1,2,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),030,13:15,13:30,1,,24,2,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),031,13:30,13:45,8,,25,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),032,13:45,14:00,2,,34,4,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),033,14:00,14:15,4,,34,2,0,1,1
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),034,14:15,14:30,3,,56,3,2,2,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),035,14:30,14:45,6,,38,3,0,0,1
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),036,14:45,15:00,6,,37,1,1,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),037,15:00,15:15,5,,49,3,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),038,15:15,15:30,4,,60,6,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),039,15:30,15:45,4,,62,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),040,15:45,16:00,2,,40,6,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),041,16:00,16:15,5,,60,6,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),042,16:15,16:30,8,,67,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),043,16:30,16:45,2,,72,4,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),044,16:45,17:00,0,,45,3,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),045,17:00,17:15,4,,59,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),046,17:15,17:30,6,,42,3,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),047,17:30,17:45,2,,40,1,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),048,17:45,18:00,1,,35,2,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),049,18:00,18:15,2,,41,3,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),050,18:15,18:30,1,,36,0,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),051,18:30,18:45,3,,46,4,0,0,0
+8,B,2,1,BG...(5),Zählstrom,,Geradeausfahrer Cracauer Straße(NW),052,18:45,19:00,0,,36,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),001,06:00,06:15,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),002,06:15,06:30,0,,5,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),003,06:30,06:45,0,,5,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),004,06:45,07:00,0,,5,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),005,07:00,07:15,0,,7,2,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),006,07:15,07:30,0,,13,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),007,07:30,07:45,0,,8,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),008,07:45,08:00,0,,8,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),009,08:00,08:15,1,,4,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),010,08:15,08:30,0,,6,0,0,0,1
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),011,08:30,08:45,0,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),012,08:45,09:00,1,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),013,09:00,09:15,0,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),014,09:15,09:30,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),015,09:30,09:45,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),016,09:45,10:00,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),017,10:00,10:15,0,,6,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),018,10:15,10:30,0,,2,2,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),019,10:30,10:45,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),020,10:45,11:00,0,,2,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),021,11:00,11:15,0,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),022,11:15,11:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),023,11:30,11:45,0,,2,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),024,11:45,12:00,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),025,12:00,12:15,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),026,12:15,12:30,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),027,12:30,12:45,0,,2,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),028,12:45,13:00,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),029,13:00,13:15,0,,4,2,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),030,13:15,13:30,0,,6,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),031,13:30,13:45,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),032,13:45,14:00,0,,5,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),033,14:00,14:15,0,,5,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),034,14:15,14:30,0,,6,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),035,14:30,14:45,0,,3,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),036,14:45,15:00,1,,7,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),037,15:00,15:15,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),038,15:15,15:30,0,,9,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),039,15:30,15:45,2,,6,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),040,15:45,16:00,1,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),041,16:00,16:15,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),042,16:15,16:30,0,,4,1,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),043,16:30,16:45,0,,5,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),044,16:45,17:00,0,,7,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),045,17:00,17:15,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),046,17:15,17:30,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),047,17:30,17:45,0,,1,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),048,17:45,18:00,0,,0,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),049,18:00,18:15,0,,2,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),050,18:15,18:30,0,,4,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),051,18:30,18:45,1,,3,0,0,0,0
+9,B,2,2,BL...(6),Zählstrom,,Linksabbieger Cracauer Straße (NW),052,18:45,19:00,0,,6,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,001,06:00,06:15,1,,4,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,002,06:15,06:30,2,,4,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,003,06:30,06:45,1,,7,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,004,06:45,07:00,0,,15,0,0,2,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,005,07:00,07:15,3,,9,0,0,2,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,006,07:15,07:30,2,,8,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,007,07:30,07:45,1,,11,3,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,008,07:45,08:00,2,,6,0,0,1,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,009,08:00,08:15,0,,7,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,010,08:15,08:30,0,,13,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,011,08:30,08:45,0,,7,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,012,08:45,09:00,1,,8,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,013,09:00,09:15,1,,6,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,014,09:15,09:30,1,,12,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,015,09:30,09:45,0,,9,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,016,09:45,10:00,0,,5,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,017,10:00,10:15,1,,2,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,018,10:15,10:30,0,,4,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,019,10:30,10:45,0,,9,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,020,10:45,11:00,1,,4,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,021,11:00,11:15,0,,7,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,022,11:15,11:30,3,,6,0,0,2,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,023,11:30,11:45,1,,7,2,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,024,11:45,12:00,0,,9,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,025,12:00,12:15,0,,9,1,0,1,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,026,12:15,12:30,0,,7,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,027,12:30,12:45,0,,8,1,1,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,028,12:45,13:00,1,,4,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,029,13:00,13:15,0,,7,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,030,13:15,13:30,1,,7,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,031,13:30,13:45,0,,11,0,1,2,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,032,13:45,14:00,1,,8,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,033,14:00,14:15,0,,8,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,034,14:15,14:30,2,,11,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,035,14:30,14:45,0,,10,0,0,2,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,036,14:45,15:00,2,,8,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,037,15:00,15:15,0,,16,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,038,15:15,15:30,2,,12,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,039,15:30,15:45,0,,9,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,040,15:45,16:00,1,,13,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,041,16:00,16:15,1,,17,2,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,042,16:15,16:30,0,,18,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,043,16:30,16:45,0,,15,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,044,16:45,17:00,0,,10,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,045,17:00,17:15,1,,11,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,046,17:15,17:30,1,,15,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,047,17:30,17:45,1,,12,1,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,048,17:45,18:00,1,,8,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,049,18:00,18:15,1,,7,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,050,18:15,18:30,0,,11,0,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,051,18:30,18:45,2,,10,2,0,0,0
+13,C,1,1,DR...(7),Zählstrom,,Rechtsabbieger Friedrich-Ebert-Straße,052,18:45,19:00,0,,6,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,001,06:00,06:15,1,,1,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,002,06:15,06:30,0,,0,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,003,06:30,06:45,2,,0,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,004,06:45,07:00,8,,1,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,005,07:00,07:15,6,,5,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,006,07:15,07:30,0,,1,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,007,07:30,07:45,0,,5,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,008,07:45,08:00,0,,6,2,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,009,08:00,08:15,3,,6,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,010,08:15,08:30,4,,4,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,011,08:30,08:45,1,,9,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,012,08:45,09:00,4,,8,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,013,09:00,09:15,1,,6,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,014,09:15,09:30,1,,7,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,015,09:30,09:45,1,,11,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,016,09:45,10:00,1,,14,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,017,10:00,10:15,1,,10,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,018,10:15,10:30,1,,12,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,019,10:30,10:45,1,,13,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,020,10:45,11:00,2,,6,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,021,11:00,11:15,0,,10,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,022,11:15,11:30,2,,9,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,023,11:30,11:45,3,,11,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,024,11:45,12:00,2,,14,1,2,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,025,12:00,12:15,3,,13,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,026,12:15,12:30,2,,12,1,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,027,12:30,12:45,0,,13,1,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,028,12:45,13:00,3,,14,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,029,13:00,13:15,2,,8,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,030,13:15,13:30,4,,8,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,031,13:30,13:45,1,,11,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,032,13:45,14:00,0,,7,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,033,14:00,14:15,15,,12,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,034,14:15,14:30,5,,10,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,035,14:30,14:45,5,,14,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,036,14:45,15:00,11,,6,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,037,15:00,15:15,16,,11,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,038,15:15,15:30,4,,14,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,039,15:30,15:45,5,,13,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,040,15:45,16:00,2,,13,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,041,16:00,16:15,1,,8,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,042,16:15,16:30,3,,19,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,043,16:30,16:45,4,,20,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,044,16:45,17:00,2,,13,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,045,17:00,17:15,4,,15,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,046,17:15,17:30,5,,15,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,047,17:30,17:45,1,,11,2,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,048,17:45,18:00,5,,14,1,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,049,18:00,18:15,1,,13,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,050,18:15,18:30,1,,8,0,1,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,051,18:30,18:45,2,,5,0,0,0,0
+14,C,2,1,CG...(8),Zählstrom,,Geradeausfahrer Friedrich-Ebert-Straße,052,18:45,19:00,1,,6,0,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,001,06:00,06:15,0,,17,0,0,0,1
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,002,06:15,06:30,1,,37,1,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,003,06:30,06:45,1,,62,3,2,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,004,06:45,07:00,0,,64,4,1,1,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,005,07:00,07:15,0,,40,7,1,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,006,07:15,07:30,0,,40,2,0,1,1
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,007,07:30,07:45,0,,53,10,1,3,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,008,07:45,08:00,0,,70,4,2,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,009,08:00,08:15,1,,42,4,3,1,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,010,08:15,08:30,0,,35,2,1,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,011,08:30,08:45,0,,37,12,1,1,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,012,08:45,09:00,1,,41,5,3,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,013,09:00,09:15,0,,43,5,1,1,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,014,09:15,09:30,0,,46,4,2,2,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,015,09:30,09:45,1,,50,5,2,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,016,09:45,10:00,0,,53,5,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,017,10:00,10:15,0,,43,7,3,1,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,018,10:15,10:30,0,,75,2,2,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,019,10:30,10:45,0,,50,4,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,020,10:45,11:00,0,,34,1,5,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,021,11:00,11:15,0,,37,5,7,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,022,11:15,11:30,0,,37,4,3,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,023,11:30,11:45,0,,43,0,5,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,024,11:45,12:00,0,,41,5,1,3,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,025,12:00,12:15,0,,62,4,0,1,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,026,12:15,12:30,1,,54,5,0,1,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,027,12:30,12:45,1,,36,5,3,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,028,12:45,13:00,1,,56,5,3,1,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,029,13:00,13:15,2,,53,2,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,030,13:15,13:30,0,,47,2,2,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,031,13:30,13:45,0,,40,2,2,2,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,032,13:45,14:00,0,,47,2,3,3,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,033,14:00,14:15,2,,52,5,2,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,034,14:15,14:30,0,,69,1,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,035,14:30,14:45,0,,59,4,3,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,036,14:45,15:00,0,,74,6,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,037,15:00,15:15,0,,57,6,1,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,038,15:15,15:30,0,,70,3,2,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,039,15:30,15:45,0,,75,4,3,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,040,15:45,16:00,1,,115,6,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,041,16:00,16:15,2,,87,9,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,042,16:15,16:30,1,,96,8,1,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,043,16:30,16:45,2,,84,0,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,044,16:45,17:00,0,,65,2,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,045,17:00,17:15,0,,78,2,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,046,17:15,17:30,1,,58,1,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,047,17:30,17:45,0,,60,6,1,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,048,17:45,18:00,0,,61,1,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,049,18:00,18:15,0,,49,1,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,050,18:15,18:30,0,,78,2,0,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,051,18:30,18:45,0,,50,1,1,0,0
+15,C,2,2,CL...(9),Zählstrom,,Linksabbieger Friedrich-Ebert-Straße,052,18:45,19:00,0,,42,1,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,001,06:00,06:15,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,002,06:15,06:30,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,003,06:30,06:45,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,004,06:45,07:00,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,005,07:00,07:15,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,006,07:15,07:30,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,007,07:30,07:45,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,008,07:45,08:00,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,009,08:00,08:15,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,010,08:15,08:30,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,011,08:30,08:45,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,012,08:45,09:00,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,013,09:00,09:15,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,014,09:15,09:30,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,015,09:30,09:45,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,016,09:45,10:00,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,017,10:00,10:15,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,018,10:15,10:30,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,019,10:30,10:45,0,,2,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,020,10:45,11:00,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,021,11:00,11:15,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,022,11:15,11:30,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,023,11:30,11:45,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,024,11:45,12:00,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,025,12:00,12:15,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,026,12:15,12:30,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,027,12:30,12:45,0,,2,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,028,12:45,13:00,0,,2,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,029,13:00,13:15,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,030,13:15,13:30,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,031,13:30,13:45,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,032,13:45,14:00,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,033,14:00,14:15,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,034,14:15,14:30,0,,3,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,035,14:30,14:45,0,,2,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,036,14:45,15:00,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,037,15:00,15:15,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,038,15:15,15:30,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,039,15:30,15:45,0,,3,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,040,15:45,16:00,0,,1,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,041,16:00,16:15,0,,2,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,042,16:15,16:30,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,043,16:30,16:45,0,,3,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,044,16:45,17:00,0,,3,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,045,17:00,17:15,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,046,17:15,17:30,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,047,17:30,17:45,0,,0,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,048,17:45,18:00,0,,2,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,049,18:00,18:15,0,,1,2,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,050,18:15,18:30,0,,2,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,051,18:30,18:45,0,,2,0,0,0,0
+16,C,2,2,CW..(15),Zählstrom,,Wender Friedrich-Ebert-Straße,052,18:45,19:00,0,,0,0,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),001,06:00,06:15,0,,64,0,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),002,06:15,06:30,1,,84,2,1,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),003,06:30,06:45,0,,114,6,2,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),004,06:45,07:00,1,,90,3,0,2,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),005,07:00,07:15,1,,90,3,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),006,07:15,07:30,1,,85,9,0,2,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),007,07:30,07:45,1,,90,5,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),008,07:45,08:00,0,,75,7,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),009,08:00,08:15,0,,65,5,2,0,1
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),010,08:15,08:30,0,,52,3,3,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),011,08:30,08:45,0,,61,5,4,2,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),012,08:45,09:00,1,,55,4,1,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),013,09:00,09:15,0,,56,2,1,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),014,09:15,09:30,0,,70,2,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),015,09:30,09:45,0,,59,4,3,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),016,09:45,10:00,0,,60,1,4,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),017,10:00,10:15,0,,49,5,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),018,10:15,10:30,0,,51,6,2,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),019,10:30,10:45,1,,31,7,1,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),020,10:45,11:00,1,,42,9,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),021,11:00,11:15,0,,56,8,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),022,11:15,11:30,0,,27,4,2,4,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),023,11:30,11:45,0,,40,4,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),024,11:45,12:00,0,,48,6,5,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),025,12:00,12:15,0,,37,7,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),026,12:15,12:30,0,,33,5,1,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),027,12:30,12:45,0,,42,5,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),028,12:45,13:00,0,,47,1,0,4,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),029,13:00,13:15,1,,46,4,2,2,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),030,13:15,13:30,3,,39,3,2,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),031,13:30,13:45,2,,40,4,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),032,13:45,14:00,2,,53,4,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),033,14:00,14:15,0,,74,7,4,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),034,14:15,14:30,0,,55,3,3,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),035,14:30,14:45,0,,60,3,0,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),036,14:45,15:00,3,,33,3,1,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),037,15:00,15:15,0,,69,5,1,4,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),038,15:15,15:30,1,,79,4,5,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),039,15:30,15:45,1,,59,3,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),040,15:45,16:00,1,,62,3,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),041,16:00,16:15,0,,63,6,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),042,16:15,16:30,4,,60,3,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),043,16:30,16:45,0,,59,4,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),044,16:45,17:00,2,,63,7,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),045,17:00,17:15,2,,50,2,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),046,17:15,17:30,1,,55,1,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),047,17:30,17:45,1,,59,2,2,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),048,17:45,18:00,0,,33,4,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),049,18:00,18:15,0,,46,5,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),050,18:15,18:30,0,,39,1,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),051,18:30,18:45,0,,38,2,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Cracauer Straße (SO),052,18:45,19:00,0,,34,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),001,06:00,06:15,0,,30,0,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),002,06:15,06:30,1,,66,1,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),003,06:30,06:45,2,,69,6,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),004,06:45,07:00,4,,77,0,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),005,07:00,07:15,5,,65,4,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),006,07:15,07:30,2,,59,9,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),007,07:30,07:45,6,,57,1,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),008,07:45,08:00,1,,49,1,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),009,08:00,08:15,1,,56,0,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),010,08:15,08:30,2,,49,0,2,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),011,08:30,08:45,2,,47,6,0,1,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),012,08:45,09:00,1,,41,5,0,2,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),013,09:00,09:15,2,,38,0,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),014,09:15,09:30,1,,44,6,2,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),015,09:30,09:45,1,,54,5,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),016,09:45,10:00,3,,34,7,2,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),017,10:00,10:15,0,,30,4,2,2,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),018,10:15,10:30,0,,35,7,3,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),019,10:30,10:45,1,,39,7,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),020,10:45,11:00,1,,31,5,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),021,11:00,11:15,2,,36,3,2,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),022,11:15,11:30,2,,30,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),023,11:30,11:45,1,,29,2,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),024,11:45,12:00,1,,38,5,2,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),025,12:00,12:15,2,,31,1,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),026,12:15,12:30,6,,33,2,1,1,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),027,12:30,12:45,6,,39,2,0,2,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),028,12:45,13:00,2,,20,6,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),029,13:00,13:15,2,,51,2,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),030,13:15,13:30,1,,37,3,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),031,13:30,13:45,3,,49,3,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),032,13:45,14:00,2,,32,2,0,1,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),033,14:00,14:15,1,,58,3,0,2,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),034,14:15,14:30,4,,48,1,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),035,14:30,14:45,3,,35,3,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),036,14:45,15:00,4,,45,0,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),037,15:00,15:15,4,,65,8,1,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),038,15:15,15:30,13,,60,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),039,15:30,15:45,6,,64,4,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),040,15:45,16:00,5,,53,0,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),041,16:00,16:15,4,,37,4,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),042,16:15,16:30,2,,44,5,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),043,16:30,16:45,0,,50,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),044,16:45,17:00,2,,43,3,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),045,17:00,17:15,5,,43,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),046,17:15,17:30,2,,41,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),047,17:30,17:45,4,,45,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),048,17:45,18:00,5,,36,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),049,18:00,18:15,8,,37,1,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),050,18:15,18:30,1,,48,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),051,18:30,18:45,3,,28,2,0,0,0
+21,D,2,1,DG..(11),Zählstrom,,Geradeausfahrer Cracauer Straße(SO),052,18:45,19:00,0,,23,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),001,06:00,06:15,0,,1,0,1,1,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),002,06:15,06:30,0,,0,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),003,06:30,06:45,0,,0,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),004,06:45,07:00,0,,1,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),005,07:00,07:15,0,,4,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),006,07:15,07:30,0,,6,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),007,07:30,07:45,0,,6,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),008,07:45,08:00,0,,3,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),009,08:00,08:15,0,,4,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),010,08:15,08:30,0,,6,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),011,08:30,08:45,0,,7,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),012,08:45,09:00,0,,4,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),013,09:00,09:15,0,,5,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),014,09:15,09:30,0,,8,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),015,09:30,09:45,0,,6,2,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),016,09:45,10:00,1,,2,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),017,10:00,10:15,0,,2,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),018,10:15,10:30,0,,3,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),019,10:30,10:45,0,,9,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),020,10:45,11:00,0,,2,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),021,11:00,11:15,0,,5,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),022,11:15,11:30,0,,8,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),023,11:30,11:45,0,,9,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),024,11:45,12:00,0,,6,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),025,12:00,12:15,0,,4,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),026,12:15,12:30,0,,6,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),027,12:30,12:45,0,,8,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),028,12:45,13:00,0,,2,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),029,13:00,13:15,1,,11,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),030,13:15,13:30,0,,3,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),031,13:30,13:45,1,,11,2,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),032,13:45,14:00,0,,8,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),033,14:00,14:15,0,,8,1,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),034,14:15,14:30,0,,6,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),035,14:30,14:45,2,,7,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),036,14:45,15:00,0,,6,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),037,15:00,15:15,0,,9,4,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),038,15:15,15:30,0,,9,1,1,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),039,15:30,15:45,0,,13,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),040,15:45,16:00,0,,11,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),041,16:00,16:15,0,,4,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),042,16:15,16:30,0,,5,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),043,16:30,16:45,0,,3,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),044,16:45,17:00,0,,3,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),045,17:00,17:15,0,,7,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),046,17:15,17:30,0,,9,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),047,17:30,17:45,0,,7,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),048,17:45,18:00,0,,5,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),049,18:00,18:15,0,,11,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),050,18:15,18:30,0,,4,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),051,18:30,18:45,0,,4,0,0,0,0
+22,D,2,1,DL..(12),Zählstrom,,Linksabbieger Cracauer Straße (SO),052,18:45,19:00,0,,0,0,0,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,4,,152,2,3,1,1
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,9,,225,5,1,1,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,12,,303,16,6,1,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,27,,321,11,2,5,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,21,,269,27,3,2,1
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,9,,274,25,1,4,1
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,11,,280,26,5,5,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,11,,267,17,3,1,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,10,,236,21,6,1,1
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,10,,205,9,7,0,2
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,9,,212,30,5,5,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,15,,209,19,5,4,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,10,,244,21,4,3,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,7,,229,17,6,2,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,8,,246,17,6,1,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,10,,243,20,8,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,5,,207,20,8,3,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,2,,231,20,9,1,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,7,,226,22,5,2,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,6,,185,22,7,1,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,7,,210,19,10,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,7,,186,12,6,6,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,8,,215,11,10,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,7,,229,24,12,4,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,9,,214,19,6,2,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,18,,210,15,5,3,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,10,,212,18,8,3,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,11,,190,16,5,7,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,10,,296,16,6,2,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,12,,208,13,8,1,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,16,,231,13,6,4,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,9,,230,13,5,4,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,22,,288,19,6,3,1
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,15,,304,11,5,3,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,19,,267,14,4,3,1
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,27,,264,15,2,1,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,27,,328,27,4,4,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,27,,345,18,8,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,20,,346,16,4,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,14,,348,17,2,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,18,,333,31,1,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,20,,367,19,4,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,8,,348,11,2,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,10,,310,16,0,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,20,,331,12,0,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,23,,290,8,1,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,11,,306,15,3,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,15,,225,12,2,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,28,,251,13,0,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,8,,275,7,1,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,13,,204,12,2,0,0
+26,,0,0,SUMME ZU,summierter Strom,4+10+17+23,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,2,,172,4,0,0,0

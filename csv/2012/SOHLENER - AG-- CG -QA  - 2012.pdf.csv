@@ -1,0 +1,181 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,001,05:00,05:15,0,1,2,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,002,05:15,05:30,0,0,5,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,003,05:30,05:45,1,0,8,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,004,05:45,06:00,0,0,4,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,005,06:00,06:15,0,0,5,,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,006,06:15,06:30,1,0,14,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,007,06:30,06:45,0,1,12,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,008,06:45,07:00,0,0,21,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,009,07:00,07:15,0,0,30,,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,010,07:15,07:30,0,0,41,,2,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,011,07:30,07:45,0,0,26,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,012,07:45,08:00,0,0,18,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,013,08:00,08:15,0,0,14,,2,2,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,014,08:15,08:30,0,0,10,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,015,08:30,08:45,0,0,17,,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,016,08:45,09:00,0,1,13,,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,017,09:00,09:15,0,0,2,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,018,09:15,09:30,2,0,15,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,019,09:30,09:45,0,0,21,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,020,09:45,10:00,2,0,13,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,021,10:00,10:15,0,0,15,,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,022,10:15,10:30,0,0,13,,3,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,023,10:30,10:45,0,0,19,,3,2,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,024,10:45,11:00,0,0,10,,3,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,025,11:00,11:15,1,0,19,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,026,11:15,11:30,1,1,17,,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,027,11:30,11:45,0,1,15,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,028,11:45,12:00,0,0,13,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,029,12:00,12:15,0,0,12,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,030,12:15,12:30,1,0,10,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,031,12:30,12:45,1,0,12,,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,032,12:45,13:00,0,0,15,,2,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,033,13:00,13:15,0,0,14,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,034,13:15,13:30,0,0,21,,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,035,13:30,13:45,2,0,11,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,036,13:45,14:00,0,0,18,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,037,14:00,14:15,0,0,21,,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,038,14:15,14:30,0,0,24,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,039,14:30,14:45,0,0,20,,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,040,14:45,15:00,1,0,13,,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,041,15:00,15:15,1,0,24,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,042,15:15,15:30,0,1,20,,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,043,15:30,15:45,0,1,24,,2,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,044,15:45,16:00,0,1,29,,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,045,16:00,16:15,0,0,16,,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,046,16:15,16:30,1,0,36,,2,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,047,16:30,16:45,0,0,29,,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,048,16:45,17:00,0,1,18,,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,049,17:00,17:15,0,0,33,,1,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,050,17:15,17:30,0,0,19,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,051,17:30,17:45,0,0,18,,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,052,17:45,18:00,0,1,16,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,053,18:00,18:15,3,1,14,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,054,18:15,18:30,0,1,22,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,055,18:30,18:45,0,1,16,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,056,18:45,19:00,0,1,16,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,057,19:00,19:15,0,0,18,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,058,19:15,19:30,0,0,14,,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,059,19:30,19:45,0,0,12,,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. SW,060,19:45,20:00,1,1,10,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,001,05:00,05:15,0,0,7,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,002,05:15,05:30,0,0,11,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,003,05:30,05:45,0,0,11,,2,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,004,05:45,06:00,0,0,9,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,005,06:00,06:15,1,0,21,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,006,06:15,06:30,0,0,18,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,007,06:30,06:45,0,0,24,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,008,06:45,07:00,0,0,26,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,009,07:00,07:15,1,0,21,,0,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,010,07:15,07:30,0,0,22,,2,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,011,07:30,07:45,0,0,17,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,012,07:45,08:00,0,0,13,,3,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,013,08:00,08:15,0,0,11,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,014,08:15,08:30,0,0,13,,2,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,015,08:30,08:45,0,1,7,,2,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,016,08:45,09:00,0,0,13,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,017,09:00,09:15,0,0,8,,2,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,018,09:15,09:30,0,0,9,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,019,09:30,09:45,0,0,16,,3,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,020,09:45,10:00,0,0,11,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,021,10:00,10:15,0,0,19,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,022,10:15,10:30,2,0,13,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,023,10:30,10:45,0,0,14,,2,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,024,10:45,11:00,0,0,20,,1,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,025,11:00,11:15,0,0,15,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,026,11:15,11:30,0,0,18,,3,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,027,11:30,11:45,0,0,14,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,028,11:45,12:00,0,0,9,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,029,12:00,12:15,0,1,13,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,030,12:15,12:30,0,1,19,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,031,12:30,12:45,0,0,10,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,032,12:45,13:00,0,0,14,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,033,13:00,13:15,0,0,22,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,034,13:15,13:30,0,0,20,,2,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,035,13:30,13:45,0,1,20,,1,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,036,13:45,14:00,0,0,8,,1,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,037,14:00,14:15,0,0,15,,2,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,038,14:15,14:30,0,0,19,,2,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,039,14:30,14:45,1,0,13,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,040,14:45,15:00,0,0,23,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,041,15:00,15:15,0,0,40,,3,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,042,15:15,15:30,0,1,34,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,043,15:30,15:45,0,0,20,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,044,15:45,16:00,0,1,27,,2,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,045,16:00,16:15,0,2,28,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,046,16:15,16:30,2,1,24,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,047,16:30,16:45,0,0,26,,0,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,048,16:45,17:00,0,0,25,,0,2,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,049,17:00,17:15,0,0,27,,0,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,050,17:15,17:30,0,0,12,,0,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,051,17:30,17:45,1,1,13,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,052,17:45,18:00,0,0,20,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,053,18:00,18:15,0,0,14,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,054,18:15,18:30,0,1,25,,1,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,055,18:30,18:45,1,0,9,,0,1,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,056,18:45,19:00,0,1,9,,0,2,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,057,19:00,19:15,0,0,9,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,058,19:15,19:30,0,0,10,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,059,19:30,19:45,0,0,10,,0,0,0
+2,C,1,1,CG...(9),Zählstrom,,Geradeausfahrer Sohlener Straßea. R. NO,060,19:45,20:00,0,0,7,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),001,05:00,05:15,0,1,9,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),002,05:15,05:30,0,0,16,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),003,05:30,05:45,1,0,19,,3,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),004,05:45,06:00,0,0,13,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),005,06:00,06:15,1,0,26,,2,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),006,06:15,06:30,1,0,32,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),007,06:30,06:45,0,1,36,,2,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),008,06:45,07:00,0,0,47,,2,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),009,07:00,07:15,1,0,51,,2,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),010,07:15,07:30,0,0,63,,4,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),011,07:30,07:45,0,0,43,,1,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),012,07:45,08:00,0,0,31,,3,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),013,08:00,08:15,0,0,25,,3,2,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),014,08:15,08:30,0,0,23,,2,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),015,08:30,08:45,0,1,24,,2,2,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),016,08:45,09:00,0,1,26,,3,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),017,09:00,09:15,0,0,10,,2,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),018,09:15,09:30,2,0,24,,1,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),019,09:30,09:45,0,0,37,,3,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),020,09:45,10:00,2,0,24,,2,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),021,10:00,10:15,0,0,34,,2,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),022,10:15,10:30,2,0,26,,3,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),023,10:30,10:45,0,0,33,,5,3,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),024,10:45,11:00,0,0,30,,4,2,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),025,11:00,11:15,1,0,34,,1,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),026,11:15,11:30,1,1,35,,5,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),027,11:30,11:45,0,1,29,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),028,11:45,12:00,0,0,22,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),029,12:00,12:15,0,1,25,,2,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),030,12:15,12:30,1,1,29,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),031,12:30,12:45,1,0,22,,2,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),032,12:45,13:00,0,0,29,,3,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),033,13:00,13:15,0,0,36,,1,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),034,13:15,13:30,0,0,41,,4,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),035,13:30,13:45,2,1,31,,2,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),036,13:45,14:00,0,0,26,,2,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),037,14:00,14:15,0,0,36,,4,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),038,14:15,14:30,0,0,43,,3,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),039,14:30,14:45,1,0,33,,1,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),040,14:45,15:00,1,0,36,,0,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),041,15:00,15:15,1,0,64,,3,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),042,15:15,15:30,0,2,54,,2,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),043,15:30,15:45,0,1,44,,3,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),044,15:45,16:00,0,2,56,,3,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),045,16:00,16:15,0,2,44,,3,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),046,16:15,16:30,3,1,60,,3,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),047,16:30,16:45,0,0,55,,1,2,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),048,16:45,17:00,0,1,43,,0,3,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),049,17:00,17:15,0,0,60,,1,2,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),050,17:15,17:30,0,0,31,,0,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),051,17:30,17:45,1,1,31,,2,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),052,17:45,18:00,0,1,36,,1,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),053,18:00,18:15,3,1,28,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),054,18:15,18:30,0,2,47,,1,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),055,18:30,18:45,1,1,25,,0,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),056,18:45,19:00,0,2,25,,0,2,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),057,19:00,19:15,0,0,27,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),058,19:15,19:30,0,0,24,,0,1,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),059,19:30,19:45,0,0,22,,0,0,0
+3,A,0,0,QA,summierter Strom,1+2,AG...(2) + CG...(9),060,19:45,20:00,1,1,17,,0,0,0

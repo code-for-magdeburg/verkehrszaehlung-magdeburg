@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),001,06:00,06:15,3,,92,2,6,6,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),002,06:15,06:30,0,,87,4,4,5,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),003,06:30,06:45,0,,102,4,5,2,4
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),004,06:45,07:00,2,,103,11,1,4,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),005,07:00,07:15,0,,89,10,6,8,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),006,07:15,07:30,1,,87,7,3,8,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),007,07:30,07:45,0,,98,9,9,11,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),008,07:45,08:00,0,,83,9,10,7,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),009,08:00,08:15,2,,107,11,9,5,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),010,08:15,08:30,0,,75,4,6,6,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),011,08:30,08:45,1,,93,13,4,8,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),012,08:45,09:00,2,,88,16,3,7,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),013,09:00,09:15,1,,78,6,9,3,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),014,09:15,09:30,1,,79,9,5,9,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),015,09:30,09:45,1,,93,20,4,12,3
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),016,09:45,10:00,0,,75,17,5,2,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),017,10:00,10:15,2,,80,20,0,5,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),018,10:15,10:30,0,,101,20,4,11,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),019,10:30,10:45,3,,101,15,1,7,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),020,10:45,11:00,2,,82,4,5,7,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),021,11:00,11:15,0,,97,9,4,11,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),022,11:15,11:30,0,,111,13,2,6,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),023,11:30,11:45,0,,99,9,6,5,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),024,11:45,12:00,1,,116,18,7,11,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),025,12:00,12:15,0,,105,21,4,10,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),026,12:15,12:30,2,,102,8,5,9,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),027,12:30,12:45,0,,143,13,3,6,3
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),028,12:45,13:00,0,,98,10,4,4,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),029,13:00,13:15,1,,140,11,5,7,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),030,13:15,13:30,0,,127,9,3,9,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),031,13:30,13:45,0,,159,11,4,10,5
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),032,13:45,14:00,0,,137,9,3,2,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),033,14:00,14:15,0,,130,4,7,14,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),034,14:15,14:30,0,,142,9,1,2,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),035,14:30,14:45,1,,224,4,6,5,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),036,14:45,15:00,0,,204,8,9,3,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),037,15:00,15:15,0,,206,5,5,4,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),038,15:15,15:30,0,,233,11,5,11,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),039,15:30,15:45,0,,195,12,4,6,3
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),040,15:45,16:00,0,,194,5,4,2,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),041,16:00,16:15,0,,234,27,8,6,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),042,16:15,16:30,1,,259,19,3,2,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),043,16:30,16:45,3,,233,11,9,2,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),044,16:45,17:00,0,,223,20,4,6,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),045,17:00,17:15,0,,238,18,3,6,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),046,17:15,17:30,0,,262,9,1,4,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),047,17:30,17:45,0,,173,15,1,5,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),048,17:45,18:00,0,,187,12,1,5,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),049,18:00,18:15,0,,212,10,1,6,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),050,18:15,18:30,0,,189,10,0,2,2
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),051,18:30,18:45,0,,160,16,1,7,1
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Berliner Chaussee (W),052,18:45,19:00,2,,151,7,0,1,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),001,06:00,06:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),002,06:15,06:30,0,,5,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),003,06:30,06:45,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),004,06:45,07:00,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),005,07:00,07:15,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),006,07:15,07:30,0,,5,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),007,07:30,07:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),008,07:45,08:00,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),009,08:00,08:15,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),010,08:15,08:30,0,,7,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),011,08:30,08:45,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),012,08:45,09:00,0,,5,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),013,09:00,09:15,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),014,09:15,09:30,0,,7,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),015,09:30,09:45,0,,2,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),016,09:45,10:00,1,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),017,10:00,10:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),018,10:15,10:30,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),019,10:30,10:45,0,,8,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),020,10:45,11:00,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),021,11:00,11:15,0,,5,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),022,11:15,11:30,0,,9,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),023,11:30,11:45,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),024,11:45,12:00,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),025,12:00,12:15,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),026,12:15,12:30,0,,3,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),027,12:30,12:45,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),028,12:45,13:00,1,,2,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),029,13:00,13:15,0,,5,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),030,13:15,13:30,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),031,13:30,13:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),032,13:45,14:00,0,,2,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),033,14:00,14:15,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),034,14:15,14:30,0,,5,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),035,14:30,14:45,0,,3,1,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),036,14:45,15:00,2,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),037,15:00,15:15,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),038,15:15,15:30,0,,8,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),039,15:30,15:45,0,,6,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),040,15:45,16:00,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),041,16:00,16:15,0,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),042,16:15,16:30,0,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),043,16:30,16:45,2,,13,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),044,16:45,17:00,0,,6,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),045,17:00,17:15,0,,4,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),046,17:15,17:30,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),047,17:30,17:45,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),048,17:45,18:00,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),049,18:00,18:15,0,,6,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),050,18:15,18:30,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),051,18:30,18:45,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Berliner Chaussee(W),052,18:45,19:00,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,001,06:00,06:15,0,,7,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,002,06:15,06:30,0,,4,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,003,06:30,06:45,0,,7,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,004,06:45,07:00,1,,7,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,005,07:00,07:15,0,,8,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,006,07:15,07:30,0,,14,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,007,07:30,07:45,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,008,07:45,08:00,0,,5,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,009,08:00,08:15,1,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,010,08:15,08:30,0,,8,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,011,08:30,08:45,2,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,012,08:45,09:00,0,,8,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,013,09:00,09:15,0,,7,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,014,09:15,09:30,1,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,015,09:30,09:45,0,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,016,09:45,10:00,0,,3,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,017,10:00,10:15,0,,6,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,018,10:15,10:30,0,,6,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,019,10:30,10:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,020,10:45,11:00,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,021,11:00,11:15,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,022,11:15,11:30,0,,2,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,023,11:30,11:45,0,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,024,11:45,12:00,0,,3,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,025,12:00,12:15,0,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,026,12:15,12:30,0,,3,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,027,12:30,12:45,0,,1,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,028,12:45,13:00,0,,5,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,029,13:00,13:15,0,,5,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,030,13:15,13:30,0,,6,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,031,13:30,13:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,032,13:45,14:00,1,,2,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,033,14:00,14:15,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,034,14:15,14:30,0,,1,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,035,14:30,14:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,036,14:45,15:00,0,,4,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,037,15:00,15:15,1,,5,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,038,15:15,15:30,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,039,15:30,15:45,0,,6,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,040,15:45,16:00,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,041,16:00,16:15,0,,7,2,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,042,16:15,16:30,0,,11,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,043,16:30,16:45,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,044,16:45,17:00,1,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,045,17:00,17:15,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,046,17:15,17:30,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,047,17:30,17:45,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,048,17:45,18:00,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,049,18:00,18:15,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,050,18:15,18:30,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,051,18:30,18:45,1,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Zum Friedensweiler,052,18:45,19:00,1,,3,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,001,06:00,06:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,002,06:15,06:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,003,06:30,06:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,004,06:45,07:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,005,07:00,07:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,006,07:15,07:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,007,07:30,07:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,008,07:45,08:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,009,08:00,08:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,010,08:15,08:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,011,08:30,08:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,012,08:45,09:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,013,09:00,09:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,014,09:15,09:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,015,09:30,09:45,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,016,09:45,10:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,017,10:00,10:15,0,,0,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,018,10:15,10:30,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,019,10:30,10:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,020,10:45,11:00,0,,0,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,021,11:00,11:15,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,022,11:15,11:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,023,11:30,11:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,024,11:45,12:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,025,12:00,12:15,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,026,12:15,12:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,027,12:30,12:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,028,12:45,13:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,029,13:00,13:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,030,13:15,13:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,031,13:30,13:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,032,13:45,14:00,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,033,14:00,14:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,034,14:15,14:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,035,14:30,14:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,036,14:45,15:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,037,15:00,15:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,038,15:15,15:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,039,15:30,15:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,040,15:45,16:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,041,16:00,16:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,042,16:15,16:30,0,,0,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,043,16:30,16:45,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,044,16:45,17:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,045,17:00,17:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,046,17:15,17:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,047,17:30,17:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,048,17:45,18:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,049,18:00,18:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,050,18:15,18:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,051,18:30,18:45,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Zum Friedensweiler,052,18:45,19:00,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),001,06:00,06:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),002,06:15,06:30,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),003,06:30,06:45,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),004,06:45,07:00,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),005,07:00,07:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),006,07:15,07:30,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),007,07:30,07:45,0,,1,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),008,07:45,08:00,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),009,08:00,08:15,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),010,08:15,08:30,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),011,08:30,08:45,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),012,08:45,09:00,0,,0,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),013,09:00,09:15,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),014,09:15,09:30,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),015,09:30,09:45,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),016,09:45,10:00,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),017,10:00,10:15,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),018,10:15,10:30,0,,0,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),019,10:30,10:45,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),020,10:45,11:00,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),021,11:00,11:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),022,11:15,11:30,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),023,11:30,11:45,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),024,11:45,12:00,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),025,12:00,12:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),026,12:15,12:30,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),027,12:30,12:45,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),028,12:45,13:00,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),029,13:00,13:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),030,13:15,13:30,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),031,13:30,13:45,0,,0,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),032,13:45,14:00,0,,2,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),033,14:00,14:15,1,,1,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),034,14:15,14:30,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),035,14:30,14:45,0,,0,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),036,14:45,15:00,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),037,15:00,15:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),038,15:15,15:30,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),039,15:30,15:45,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),040,15:45,16:00,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),041,16:00,16:15,0,,0,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),042,16:15,16:30,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),043,16:30,16:45,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),044,16:45,17:00,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),045,17:00,17:15,1,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),046,17:15,17:30,0,,0,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),047,17:30,17:45,0,,2,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),048,17:45,18:00,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),049,18:00,18:15,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),050,18:15,18:30,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),051,18:30,18:45,1,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Berliner Chaussee(O),052,18:45,19:00,0,,4,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),001,06:00,06:15,1,,134,17,4,3,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),002,06:15,06:30,0,,231,21,5,7,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),003,06:30,06:45,1,,213,23,8,5,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),004,06:45,07:00,0,,224,27,8,8,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),005,07:00,07:15,1,,223,31,3,4,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),006,07:15,07:30,1,,295,20,6,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),007,07:30,07:45,0,,132,13,2,1,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),008,07:45,08:00,2,,131,12,6,8,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),009,08:00,08:15,0,,164,13,3,3,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),010,08:15,08:30,0,,169,18,9,6,3
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),011,08:30,08:45,0,,155,21,5,11,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),012,08:45,09:00,0,,159,18,6,3,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),013,09:00,09:15,0,,182,27,4,7,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),014,09:15,09:30,0,,111,17,2,7,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),015,09:30,09:45,0,,140,17,4,9,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),016,09:45,10:00,0,,112,17,2,7,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),017,10:00,10:15,0,,135,15,7,4,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),018,10:15,10:30,0,,105,12,5,3,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),019,10:30,10:45,0,,122,16,2,5,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),020,10:45,11:00,1,,107,10,4,2,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),021,11:00,11:15,0,,92,23,3,10,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),022,11:15,11:30,0,,86,13,7,5,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),023,11:30,11:45,0,,80,15,4,3,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),024,11:45,12:00,3,,93,14,6,9,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),025,12:00,12:15,0,,105,21,6,5,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),026,12:15,12:30,0,,119,11,4,4,3
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),027,12:30,12:45,0,,102,18,5,7,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),028,12:45,13:00,0,,90,14,4,13,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),029,13:00,13:15,1,,120,10,9,10,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),030,13:15,13:30,1,,117,14,4,6,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),031,13:30,13:45,0,,110,9,2,11,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),032,13:45,14:00,1,,80,29,9,7,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),033,14:00,14:15,4,,93,10,5,9,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),034,14:15,14:30,0,,105,21,4,10,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),035,14:30,14:45,0,,84,0,4,11,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),036,14:45,15:00,0,,99,9,3,6,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),037,15:00,15:15,0,,100,12,5,6,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),038,15:15,15:30,1,,128,22,3,10,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),039,15:30,15:45,4,,142,19,3,7,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),040,15:45,16:00,2,,102,0,1,6,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),041,16:00,16:15,0,,196,29,4,11,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),042,16:15,16:30,0,,174,16,2,6,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),043,16:30,16:45,0,,183,17,3,4,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),044,16:45,17:00,1,,129,10,2,10,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),045,17:00,17:15,0,,127,7,0,8,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),046,17:15,17:30,1,,108,7,3,10,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),047,17:30,17:45,0,,126,13,3,4,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),048,17:45,18:00,0,,103,12,1,7,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),049,18:00,18:15,0,,103,9,1,2,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),050,18:15,18:30,0,,109,9,1,1,1
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),051,18:30,18:45,0,,89,10,0,6,2
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Berliner Chaussee (O),052,18:45,19:00,0,,89,17,3,6,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,001,06:00,06:15,4,,235,20,10,9,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,002,06:15,06:30,0,,330,26,10,12,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,003,06:30,06:45,1,,325,28,13,7,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,004,06:45,07:00,3,,336,38,9,12,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,005,07:00,07:15,1,,325,41,9,12,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,006,07:15,07:30,2,,402,27,9,9,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,007,07:30,07:45,0,,236,22,12,12,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,008,07:45,08:00,2,,223,22,16,15,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,009,08:00,08:15,3,,275,24,12,8,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,010,08:15,08:30,0,,259,24,15,12,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,011,08:30,08:45,3,,254,34,9,19,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,012,08:45,09:00,2,,260,35,9,10,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,013,09:00,09:15,1,,272,34,13,10,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,014,09:15,09:30,2,,200,27,7,16,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,015,09:30,09:45,1,,242,38,8,21,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,016,09:45,10:00,1,,193,35,7,9,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,017,10:00,10:15,2,,222,37,7,9,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,018,10:15,10:30,0,,215,34,10,14,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,019,10:30,10:45,3,,233,32,3,12,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,020,10:45,11:00,3,,197,15,9,9,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,021,11:00,11:15,0,,198,32,7,21,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,022,11:15,11:30,0,,208,31,9,11,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,023,11:30,11:45,0,,189,24,10,8,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,024,11:45,12:00,4,,215,33,13,20,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,025,12:00,12:15,0,,222,42,10,15,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,026,12:15,12:30,2,,227,21,9,13,4
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,027,12:30,12:45,0,,249,32,8,13,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,028,12:45,13:00,1,,195,25,9,17,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,029,13:00,13:15,2,,271,23,14,17,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,030,13:15,13:30,1,,254,24,7,15,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,031,13:30,13:45,0,,273,20,7,21,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,032,13:45,14:00,2,,224,41,13,9,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,033,14:00,14:15,5,,231,14,13,23,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,034,14:15,14:30,0,,253,31,6,12,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,035,14:30,14:45,1,,312,5,12,16,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,036,14:45,15:00,2,,310,19,12,9,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,037,15:00,15:15,1,,314,18,10,10,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,038,15:15,15:30,1,,376,33,8,21,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,039,15:30,15:45,4,,351,33,7,13,5
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,040,15:45,16:00,2,,302,5,5,8,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,041,16:00,16:15,0,,451,59,13,17,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,042,16:15,16:30,1,,458,36,5,8,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,043,16:30,16:45,5,,437,28,12,6,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,044,16:45,17:00,2,,365,30,6,16,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,045,17:00,17:15,1,,373,28,3,14,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,046,17:15,17:30,1,,379,17,4,14,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,047,17:30,17:45,0,,303,29,4,9,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,048,17:45,18:00,0,,295,24,2,12,1
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,049,18:00,18:15,0,,327,20,2,8,2
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,050,18:15,18:30,0,,305,19,1,3,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,051,18:30,18:45,2,,256,26,1,13,3
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,052,18:45,19:00,3,,250,24,3,7,0

@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,001,06:00,06:15,0,,19,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,002,06:15,06:30,0,,16,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,003,06:30,06:45,1,,17,4,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,004,06:45,07:00,0,,36,4,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,005,07:00,07:15,5,,39,9,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,006,07:15,07:30,16,,53,6,1,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,007,07:30,07:45,4,,52,8,1,1,3
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,008,07:45,08:00,1,,37,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,009,08:00,08:15,2,,23,7,0,2,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,010,08:15,08:30,0,,29,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,011,08:30,08:45,0,,27,3,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,012,08:45,09:00,5,,32,5,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,013,09:00,09:15,1,,18,1,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,014,09:15,09:30,0,,32,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,015,09:30,09:45,1,,33,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,016,09:45,10:00,1,,29,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,017,10:00,10:15,0,,33,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,018,10:15,10:30,0,,35,5,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,019,10:30,10:45,1,,37,1,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,020,10:45,11:00,2,,45,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,021,11:00,11:15,0,,34,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,022,11:15,11:30,2,,27,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,023,11:30,11:45,2,,32,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,024,11:45,12:00,2,,24,5,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,025,12:00,12:15,1,,34,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,026,12:15,12:30,1,,37,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,027,12:30,12:45,2,,42,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,028,12:45,13:00,4,,41,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,029,13:00,13:15,0,,49,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,030,13:15,13:30,2,,32,6,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,031,13:30,13:45,0,,23,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,032,13:45,14:00,0,,48,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,033,14:00,14:15,1,,36,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,034,14:15,14:30,2,,38,3,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,035,14:30,14:45,2,,39,3,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,036,14:45,15:00,2,,52,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,037,15:00,15:15,0,,53,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,038,15:15,15:30,1,,52,4,0,0,3
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,039,15:30,15:45,3,,64,2,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,040,15:45,16:00,1,,43,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,041,16:00,16:15,0,,60,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,042,16:15,16:30,1,,59,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,043,16:30,16:45,2,,74,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,044,16:45,17:00,2,,52,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,045,17:00,17:15,5,,59,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,046,17:15,17:30,1,,51,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,047,17:30,17:45,8,,50,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,048,17:45,18:00,4,,51,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,049,18:00,18:15,2,,45,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,050,18:15,18:30,0,,34,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,051,18:30,18:45,2,,36,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Kirschweg (BrückeMR) West,052,18:45,19:00,2,,49,3,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,001,06:00,06:15,0,,20,0,0,1,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,002,06:15,06:30,0,,36,3,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,003,06:30,06:45,0,,29,4,0,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,004,06:45,07:00,1,,38,7,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,005,07:00,07:15,2,,41,5,1,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,006,07:15,07:30,2,,56,1,2,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,007,07:30,07:45,2,,52,5,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,008,07:45,08:00,0,,45,2,1,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,009,08:00,08:15,2,,25,2,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,010,08:15,08:30,1,,36,2,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,011,08:30,08:45,1,,34,6,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,012,08:45,09:00,0,,39,4,3,1,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,013,09:00,09:15,0,,23,3,3,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,014,09:15,09:30,1,,25,1,1,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,015,09:30,09:45,0,,30,5,1,1,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,016,09:45,10:00,0,,32,1,0,1,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,017,10:00,10:15,0,,30,3,2,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,018,10:15,10:30,1,,34,2,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,019,10:30,10:45,2,,31,2,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,020,10:45,11:00,0,,42,5,2,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,021,11:00,11:15,0,,31,9,2,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,022,11:15,11:30,2,,24,2,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,023,11:30,11:45,2,,35,3,1,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,024,11:45,12:00,0,,30,0,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,025,12:00,12:15,0,,25,6,2,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,026,12:15,12:30,0,,30,2,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,027,12:30,12:45,0,,36,2,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,028,12:45,13:00,0,,30,0,0,0,3
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,029,13:00,13:15,1,,26,10,1,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,030,13:15,13:30,0,,29,4,0,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,031,13:30,13:45,0,,22,2,0,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,032,13:45,14:00,1,,29,2,3,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,033,14:00,14:15,0,,24,2,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,034,14:15,14:30,1,,29,2,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,035,14:30,14:45,1,,49,5,0,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,036,14:45,15:00,0,,45,6,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,037,15:00,15:15,1,,40,4,0,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,038,15:15,15:30,2,,36,4,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,039,15:30,15:45,1,,51,3,2,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,040,15:45,16:00,0,,62,3,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,041,16:00,16:15,1,,56,6,1,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,042,16:15,16:30,1,,52,3,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,043,16:30,16:45,3,,53,2,1,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,044,16:45,17:00,1,,43,1,0,1,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,045,17:00,17:15,0,,52,1,0,0,2
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,046,17:15,17:30,1,,43,2,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,047,17:30,17:45,0,,54,1,1,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,048,17:45,18:00,1,,45,2,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,049,18:00,18:15,3,,45,6,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,050,18:15,18:30,1,,27,1,0,0,0
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,051,18:30,18:45,0,,36,1,0,0,1
+2,A,2,1,AG...(2),Zählstrom,,Geradeausfahrer Kirschweg (Brücke MR) West,052,18:45,19:00,1,,36,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,001,06:00,06:15,0,,14,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,002,06:15,06:30,0,,9,0,1,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,003,06:30,06:45,0,,20,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,004,06:45,07:00,0,,16,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,005,07:00,07:15,0,,16,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,006,07:15,07:30,0,,19,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,007,07:30,07:45,0,,17,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,008,07:45,08:00,0,,8,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,009,08:00,08:15,5,,14,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,010,08:15,08:30,1,,16,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,011,08:30,08:45,2,,17,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,012,08:45,09:00,4,,13,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,013,09:00,09:15,6,,11,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,014,09:15,09:30,0,,14,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,015,09:30,09:45,0,,4,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,016,09:45,10:00,0,,8,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,017,10:00,10:15,0,,5,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,018,10:15,10:30,0,,4,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,019,10:30,10:45,0,,8,2,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,020,10:45,11:00,0,,7,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,021,11:00,11:15,0,,5,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,022,11:15,11:30,0,,4,2,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,023,11:30,11:45,0,,4,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,024,11:45,12:00,0,,11,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,025,12:00,12:15,0,,6,2,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,026,12:15,12:30,0,,2,0,1,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,027,12:30,12:45,0,,7,2,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,028,12:45,13:00,0,,2,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,029,13:00,13:15,3,,6,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,030,13:15,13:30,5,,8,0,1,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,031,13:30,13:45,0,,16,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,032,13:45,14:00,0,,7,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,033,14:00,14:15,0,,14,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,034,14:15,14:30,0,,11,0,1,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,035,14:30,14:45,0,,12,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,036,14:45,15:00,0,,8,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,037,15:00,15:15,0,,19,3,0,0,1
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,038,15:15,15:30,0,,16,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,039,15:30,15:45,0,,21,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,040,15:45,16:00,0,,14,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,041,16:00,16:15,0,,11,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,042,16:15,16:30,0,,13,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,043,16:30,16:45,0,,5,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,044,16:45,17:00,0,,5,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,045,17:00,17:15,0,,7,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,046,17:15,17:30,0,,4,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,047,17:30,17:45,0,,10,1,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,048,17:45,18:00,0,,8,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,049,18:00,18:15,0,,8,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,050,18:15,18:30,0,,8,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,051,18:30,18:45,1,,4,0,0,0,0
+3,A,3,1,AL...(3),Zählstrom,,Linksabbieger Kirschweg (BrückeMR) West,052,18:45,19:00,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,001,06:00,06:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,002,06:15,06:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,003,06:30,06:45,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,004,06:45,07:00,0,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,005,07:00,07:15,0,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,006,07:15,07:30,0,,9,1,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,007,07:30,07:45,0,,21,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,008,07:45,08:00,0,,15,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,009,08:00,08:15,0,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,010,08:15,08:30,0,,7,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,011,08:30,08:45,0,,6,0,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,012,08:45,09:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,013,09:00,09:15,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,014,09:15,09:30,1,,11,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,015,09:30,09:45,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,016,09:45,10:00,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,017,10:00,10:15,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,018,10:15,10:30,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,019,10:30,10:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,020,10:45,11:00,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,021,11:00,11:15,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,022,11:15,11:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,023,11:30,11:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,024,11:45,12:00,0,,2,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,025,12:00,12:15,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,026,12:15,12:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,027,12:30,12:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,028,12:45,13:00,0,,3,2,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,029,13:00,13:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,030,13:15,13:30,1,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,031,13:30,13:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,032,13:45,14:00,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,033,14:00,14:15,1,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,034,14:15,14:30,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,035,14:30,14:45,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,036,14:45,15:00,0,,9,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,037,15:00,15:15,0,,8,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,038,15:15,15:30,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,039,15:30,15:45,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,040,15:45,16:00,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,041,16:00,16:15,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,042,16:15,16:30,0,,10,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,043,16:30,16:45,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,044,16:45,17:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,045,17:00,17:15,0,,6,2,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,046,17:15,17:30,0,,8,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,047,17:30,17:45,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,048,17:45,18:00,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,049,18:00,18:15,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,050,18:15,18:30,0,,9,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,051,18:30,18:45,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Rampe MR,052,18:45,19:00,0,,5,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,001,06:00,06:15,0,,1,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,002,06:15,06:30,0,,5,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,003,06:30,06:45,0,,5,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,004,06:45,07:00,0,,8,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,005,07:00,07:15,0,,7,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,006,07:15,07:30,9,,26,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,007,07:30,07:45,3,,14,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,008,07:45,08:00,0,,6,2,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,009,08:00,08:15,0,,12,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,010,08:15,08:30,0,,3,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,011,08:30,08:45,0,,5,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,012,08:45,09:00,0,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,013,09:00,09:15,0,,3,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,014,09:15,09:30,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,015,09:30,09:45,2,,6,1,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,016,09:45,10:00,3,,6,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,017,10:00,10:15,2,,5,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,018,10:15,10:30,1,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,019,10:30,10:45,3,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,020,10:45,11:00,3,,7,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,021,11:00,11:15,0,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,022,11:15,11:30,3,,8,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,023,11:30,11:45,2,,7,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,024,11:45,12:00,2,,5,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,025,12:00,12:15,4,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,026,12:15,12:30,4,,5,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,027,12:30,12:45,1,,12,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,028,12:45,13:00,2,,6,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,029,13:00,13:15,3,,8,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,030,13:15,13:30,1,,9,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,031,13:30,13:45,0,,3,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,032,13:45,14:00,3,,6,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,033,14:00,14:15,0,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,034,14:15,14:30,0,,6,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,035,14:30,14:45,0,,6,1,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,036,14:45,15:00,0,,7,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,037,15:00,15:15,3,,10,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,038,15:15,15:30,1,,9,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,039,15:30,15:45,0,,9,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,040,15:45,16:00,0,,17,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,041,16:00,16:15,5,,10,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,042,16:15,16:30,7,,7,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,043,16:30,16:45,5,,19,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,044,16:45,17:00,0,,15,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,045,17:00,17:15,4,,11,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,046,17:15,17:30,4,,10,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,047,17:30,17:45,4,,12,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,048,17:45,18:00,4,,6,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,049,18:00,18:15,6,,3,1,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,050,18:15,18:30,5,,6,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,051,18:30,18:45,1,,10,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Rampe MR,052,18:45,19:00,4,,4,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,001,06:00,06:15,0,,7,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,002,06:15,06:30,0,,8,0,0,0,1
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,003,06:30,06:45,0,,12,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,004,06:45,07:00,0,,22,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,005,07:00,07:15,0,,22,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,006,07:15,07:30,0,,19,4,1,0,2
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,007,07:30,07:45,0,,29,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,008,07:45,08:00,0,,10,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,009,08:00,08:15,0,,16,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,010,08:15,08:30,0,,7,1,1,0,1
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,011,08:30,08:45,0,,9,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,012,08:45,09:00,0,,7,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,013,09:00,09:15,0,,9,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,014,09:15,09:30,0,,13,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,015,09:30,09:45,0,,8,1,2,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,016,09:45,10:00,0,,8,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,017,10:00,10:15,0,,5,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,018,10:15,10:30,0,,9,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,019,10:30,10:45,0,,9,1,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,020,10:45,11:00,0,,2,0,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,021,11:00,11:15,0,,8,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,022,11:15,11:30,0,,6,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,023,11:30,11:45,0,,10,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,024,11:45,12:00,0,,5,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,025,12:00,12:15,1,,10,0,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,026,12:15,12:30,0,,12,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,027,12:30,12:45,0,,7,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,028,12:45,13:00,0,,9,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,029,13:00,13:15,1,,11,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,030,13:15,13:30,0,,11,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,031,13:30,13:45,0,,6,0,1,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,032,13:45,14:00,0,,7,3,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,033,14:00,14:15,0,,4,2,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,034,14:15,14:30,0,,13,0,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,035,14:30,14:45,0,,8,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,036,14:45,15:00,0,,15,1,2,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,037,15:00,15:15,0,,9,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,038,15:15,15:30,0,,13,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,039,15:30,15:45,0,,6,0,1,0,1
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,040,15:45,16:00,0,,9,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,041,16:00,16:15,0,,16,2,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,042,16:15,16:30,0,,7,0,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,043,16:30,16:45,0,,13,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,044,16:45,17:00,0,,16,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,045,17:00,17:15,0,,16,2,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,046,17:15,17:30,0,,5,1,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,047,17:30,17:45,0,,6,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,048,17:45,18:00,0,,12,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,049,18:00,18:15,0,,8,0,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,050,18:15,18:30,0,,9,0,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,051,18:30,18:45,1,,7,1,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Rampe MR,052,18:45,19:00,0,,8,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),001,06:00,06:15,0,,32,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),002,06:15,06:30,1,,65,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),003,06:30,06:45,1,,47,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),004,06:45,07:00,1,,51,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),005,07:00,07:15,0,,64,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),006,07:15,07:30,0,,65,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),007,07:30,07:45,1,,65,5,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),008,07:45,08:00,1,,56,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),009,08:00,08:15,1,,42,4,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),010,08:15,08:30,0,,38,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),011,08:30,08:45,1,,22,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),012,08:45,09:00,0,,43,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),013,09:00,09:15,0,,33,2,2,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),014,09:15,09:30,1,,26,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),015,09:30,09:45,0,,49,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),016,09:45,10:00,0,,38,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),017,10:00,10:15,0,,24,3,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),018,10:15,10:30,0,,25,4,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),019,10:30,10:45,1,,26,3,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),020,10:45,11:00,0,,26,4,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),021,11:00,11:15,1,,35,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),022,11:15,11:30,0,,33,4,4,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),023,11:30,11:45,0,,28,5,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),024,11:45,12:00,0,,24,4,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),025,12:00,12:15,0,,34,8,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),026,12:15,12:30,0,,32,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),027,12:30,12:45,0,,23,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),028,12:45,13:00,0,,35,5,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),029,13:00,13:15,0,,28,5,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),030,13:15,13:30,4,,39,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),031,13:30,13:45,0,,35,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),032,13:45,14:00,2,,21,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),033,14:00,14:15,1,,51,3,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),034,14:15,14:30,0,,52,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),035,14:30,14:45,2,,43,0,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),036,14:45,15:00,1,,46,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),037,15:00,15:15,0,,52,1,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),038,15:15,15:30,0,,43,2,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),039,15:30,15:45,1,,45,4,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),040,15:45,16:00,0,,49,3,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),041,16:00,16:15,0,,79,7,2,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),042,16:15,16:30,0,,51,1,2,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),043,16:30,16:45,0,,51,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),044,16:45,17:00,0,,44,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),045,17:00,17:15,0,,47,4,0,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),046,17:15,17:30,0,,35,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),047,17:30,17:45,0,,43,1,2,0,1
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),048,17:45,18:00,0,,36,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),049,18:00,18:15,0,,27,3,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),050,18:15,18:30,0,,40,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),051,18:30,18:45,0,,32,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Kirschweg (O),052,18:45,19:00,0,,26,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),001,06:00,06:15,2,,15,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),002,06:15,06:30,2,,31,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),003,06:30,06:45,1,,17,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),004,06:45,07:00,1,,20,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),005,07:00,07:15,0,,31,1,1,0,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),006,07:15,07:30,1,,26,3,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),007,07:30,07:45,0,,22,3,0,0,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),008,07:45,08:00,1,,50,2,0,0,3
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),009,08:00,08:15,0,,15,0,1,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),010,08:15,08:30,0,,23,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),011,08:30,08:45,0,,14,1,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),012,08:45,09:00,0,,20,1,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),013,09:00,09:15,1,,14,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),014,09:15,09:30,0,,13,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),015,09:30,09:45,0,,17,2,5,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),016,09:45,10:00,0,,11,4,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),017,10:00,10:15,0,,24,1,2,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),018,10:15,10:30,0,,28,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),019,10:30,10:45,0,,15,0,2,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),020,10:45,11:00,2,,22,3,4,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),021,11:00,11:15,1,,13,4,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),022,11:15,11:30,1,,22,2,1,1,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),023,11:30,11:45,1,,19,4,0,2,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),024,11:45,12:00,1,,21,1,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),025,12:00,12:15,1,,19,5,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),026,12:15,12:30,0,,20,3,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),027,12:30,12:45,0,,19,2,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),028,12:45,13:00,0,,19,1,1,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),029,13:00,13:15,1,,20,1,2,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),030,13:15,13:30,1,,21,2,1,1,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),031,13:30,13:45,0,,15,1,0,0,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),032,13:45,14:00,1,,20,2,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),033,14:00,14:15,2,,20,1,0,1,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),034,14:15,14:30,2,,37,2,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),035,14:30,14:45,2,,32,1,0,0,3
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),036,14:45,15:00,2,,42,1,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),037,15:00,15:15,2,,40,0,0,0,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),038,15:15,15:30,1,,44,3,1,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),039,15:30,15:45,1,,66,1,1,1,3
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),040,15:45,16:00,1,,56,0,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),041,16:00,16:15,0,,47,2,0,0,3
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),042,16:15,16:30,0,,59,2,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),043,16:30,16:45,2,,32,0,0,0,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),044,16:45,17:00,1,,43,3,0,0,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),045,17:00,17:15,0,,41,1,0,1,2
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),046,17:15,17:30,0,,37,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),047,17:30,17:45,0,,21,2,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),048,17:45,18:00,1,,30,0,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),049,18:00,18:15,1,,18,1,1,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),050,18:15,18:30,0,,20,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),051,18:30,18:45,2,,18,2,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Kirschweg (O),052,18:45,19:00,0,,14,1,0,0,1
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),001,06:00,06:15,0,,3,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),002,06:15,06:30,1,,2,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),003,06:30,06:45,0,,0,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),004,06:45,07:00,0,,2,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),005,07:00,07:15,2,,6,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),006,07:15,07:30,0,,8,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),007,07:30,07:45,0,,5,1,2,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),008,07:45,08:00,0,,5,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),009,08:00,08:15,0,,11,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),010,08:15,08:30,0,,5,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),011,08:30,08:45,0,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),012,08:45,09:00,2,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),013,09:00,09:15,0,,5,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),014,09:15,09:30,0,,5,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),015,09:30,09:45,0,,7,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),016,09:45,10:00,0,,19,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),017,10:00,10:15,0,,9,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),018,10:15,10:30,0,,5,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),019,10:30,10:45,0,,12,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),020,10:45,11:00,0,,8,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),021,11:00,11:15,0,,6,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),022,11:15,11:30,0,,8,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),023,11:30,11:45,0,,13,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),024,11:45,12:00,0,,6,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),025,12:00,12:15,1,,9,0,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),026,12:15,12:30,0,,7,3,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),027,12:30,12:45,0,,5,7,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),028,12:45,13:00,0,,4,0,2,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),029,13:00,13:15,0,,6,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),030,13:15,13:30,0,,10,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),031,13:30,13:45,0,,5,1,0,2,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),032,13:45,14:00,0,,16,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),033,14:00,14:15,0,,14,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),034,14:15,14:30,0,,11,2,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),035,14:30,14:45,1,,7,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),036,14:45,15:00,1,,11,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),037,15:00,15:15,0,,7,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),038,15:15,15:30,0,,7,0,0,1,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),039,15:30,15:45,0,,19,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),040,15:45,16:00,0,,6,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),041,16:00,16:15,0,,16,2,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),042,16:15,16:30,1,,15,1,1,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),043,16:30,16:45,0,,15,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),044,16:45,17:00,0,,18,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),045,17:00,17:15,0,,19,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),046,17:15,17:30,0,,6,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),047,17:30,17:45,0,,13,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),048,17:45,18:00,1,,12,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),049,18:00,18:15,3,,13,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),050,18:15,18:30,1,,18,1,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),051,18:30,18:45,1,,5,0,0,0,0
+15,C,2,1,CL...(9),Zählstrom,,Linksabbieger Kirschweg (O),052,18:45,19:00,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,001,06:00,06:15,0,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,002,06:15,06:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,003,06:30,06:45,1,,10,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,004,06:45,07:00,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,005,07:00,07:15,1,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,006,07:15,07:30,0,,6,3,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,007,07:30,07:45,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,008,07:45,08:00,0,,5,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,009,08:00,08:15,1,,7,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,010,08:15,08:30,1,,1,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,011,08:30,08:45,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,012,08:45,09:00,2,,10,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,013,09:00,09:15,0,,7,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,014,09:15,09:30,0,,12,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,015,09:30,09:45,0,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,016,09:45,10:00,0,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,017,10:00,10:15,0,,10,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,018,10:15,10:30,1,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,019,10:30,10:45,0,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,020,10:45,11:00,1,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,021,11:00,11:15,0,,8,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,022,11:15,11:30,0,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,023,11:30,11:45,0,,11,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,024,11:45,12:00,0,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,025,12:00,12:15,1,,9,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,026,12:15,12:30,2,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,027,12:30,12:45,0,,4,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,028,12:45,13:00,0,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,029,13:00,13:15,0,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,030,13:15,13:30,0,,6,0,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,031,13:30,13:45,0,,4,1,0,1,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,032,13:45,14:00,1,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,033,14:00,14:15,0,,10,2,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,034,14:15,14:30,0,,8,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,035,14:30,14:45,1,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,036,14:45,15:00,2,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,037,15:00,15:15,1,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,038,15:15,15:30,1,,6,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,039,15:30,15:45,3,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,040,15:45,16:00,0,,11,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,041,16:00,16:15,2,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,042,16:15,16:30,0,,11,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,043,16:30,16:45,1,,18,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,044,16:45,17:00,0,,14,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,045,17:00,17:15,1,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,046,17:15,17:30,0,,9,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,047,17:30,17:45,0,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,048,17:45,18:00,0,,6,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,049,18:00,18:15,0,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,050,18:15,18:30,0,,11,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,051,18:30,18:45,0,,12,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Hermann-Hesse-Straße,052,18:45,19:00,0,,10,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,001,06:00,06:15,2,,36,3,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,002,06:15,06:30,3,,43,4,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,003,06:30,06:45,1,,46,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,004,06:45,07:00,3,,52,5,1,1,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,005,07:00,07:15,2,,42,2,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,006,07:15,07:30,1,,86,8,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,007,07:30,07:45,0,,78,5,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,008,07:45,08:00,2,,52,3,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,009,08:00,08:15,3,,25,3,0,1,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,010,08:15,08:30,5,,37,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,011,08:30,08:45,2,,46,7,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,012,08:45,09:00,5,,45,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,013,09:00,09:15,12,,26,8,1,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,014,09:15,09:30,9,,26,4,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,015,09:30,09:45,2,,48,2,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,016,09:45,10:00,2,,38,1,2,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,017,10:00,10:15,2,,69,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,018,10:15,10:30,7,,29,6,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,019,10:30,10:45,3,,23,4,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,020,10:45,11:00,1,,33,3,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,021,11:00,11:15,3,,35,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,022,11:15,11:30,3,,15,2,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,023,11:30,11:45,3,,26,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,024,11:45,12:00,3,,25,3,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,025,12:00,12:15,1,,40,0,1,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,026,12:15,12:30,2,,20,6,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,027,12:30,12:45,2,,32,2,1,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,028,12:45,13:00,1,,26,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,029,13:00,13:15,2,,35,3,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,030,13:15,13:30,5,,44,4,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,031,13:30,13:45,0,,36,4,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,032,13:45,14:00,5,,26,3,2,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,033,14:00,14:15,4,,46,5,1,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,034,14:15,14:30,2,,28,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,035,14:30,14:45,5,,31,1,1,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,036,14:45,15:00,4,,51,6,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,037,15:00,15:15,4,,32,3,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,038,15:15,15:30,7,,46,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,039,15:30,15:45,3,,34,3,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,040,15:45,16:00,1,,26,5,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,041,16:00,16:15,1,,31,2,1,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,042,16:15,16:30,4,,31,4,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,043,16:30,16:45,5,,43,4,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,044,16:45,17:00,2,,40,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,045,17:00,17:15,2,,41,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,046,17:15,17:30,4,,25,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,047,17:30,17:45,5,,30,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,048,17:45,18:00,2,,29,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,049,18:00,18:15,0,,36,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,050,18:15,18:30,2,,25,1,1,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,051,18:30,18:45,1,,23,2,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Hermann-Hesse--Straße,052,18:45,19:00,0,,30,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,001,06:00,06:15,0,,4,2,0,1,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,002,06:15,06:30,0,,6,2,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,003,06:30,06:45,0,,11,4,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,004,06:45,07:00,3,,16,3,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,005,07:00,07:15,0,,13,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,006,07:15,07:30,0,,35,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,007,07:30,07:45,2,,28,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,008,07:45,08:00,2,,21,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,009,08:00,08:15,1,,7,2,1,1,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,010,08:15,08:30,2,,12,4,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,011,08:30,08:45,2,,13,3,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,012,08:45,09:00,1,,17,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,013,09:00,09:15,3,,21,2,3,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,014,09:15,09:30,1,,25,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,015,09:30,09:45,2,,22,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,016,09:45,10:00,3,,23,3,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,017,10:00,10:15,4,,20,1,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,018,10:15,10:30,0,,10,1,3,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,019,10:30,10:45,0,,15,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,020,10:45,11:00,1,,19,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,021,11:00,11:15,2,,22,3,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,022,11:15,11:30,2,,7,1,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,023,11:30,11:45,6,,19,1,2,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,024,11:45,12:00,1,,13,0,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,025,12:00,12:15,1,,9,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,026,12:15,12:30,0,,15,1,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,027,12:30,12:45,2,,19,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,028,12:45,13:00,0,,7,4,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,029,13:00,13:15,1,,15,5,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,030,13:15,13:30,14,,18,3,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,031,13:30,13:45,4,,16,0,1,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,032,13:45,14:00,0,,11,6,2,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,033,14:00,14:15,3,,20,3,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,034,14:15,14:30,3,,22,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,035,14:30,14:45,2,,14,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,036,14:45,15:00,3,,12,3,2,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,037,15:00,15:15,2,,23,4,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,038,15:15,15:30,4,,35,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,039,15:30,15:45,1,,17,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,040,15:45,16:00,1,,35,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,041,16:00,16:15,1,,18,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,042,16:15,16:30,3,,19,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,043,16:30,16:45,1,,25,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,044,16:45,17:00,1,,16,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,045,17:00,17:15,1,,16,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,046,17:15,17:30,0,,13,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,047,17:30,17:45,3,,24,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,048,17:45,18:00,1,,29,0,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,049,18:00,18:15,1,,16,2,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,050,18:15,18:30,2,,17,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,051,18:30,18:45,1,,10,1,0,0,0
+21,D,2,1,DL..(12),Zählstrom,,Linksabbieger Hermann-Hesse-Straße,052,18:45,19:00,0,,8,3,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,4,,159,13,0,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,7,,224,10,3,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,5,,222,17,0,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,9,,274,25,2,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,12,,293,22,2,0,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,29,,408,32,5,0,7
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,12,,387,31,3,1,6
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,7,,310,19,2,0,5
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,15,,206,22,4,4,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,10,,214,15,5,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,8,,203,22,4,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,19,,241,12,5,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,23,,176,18,14,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,13,,204,11,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,7,,235,16,11,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,9,,225,13,4,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,8,,237,14,8,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,10,,190,21,5,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,10,,189,14,6,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,10,,221,20,9,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,7,,203,23,7,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,13,,164,17,7,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,16,,210,20,5,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,9,,175,17,3,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,11,,200,28,5,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,9,,188,19,4,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,7,,212,23,2,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,7,,193,16,4,0,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,12,,213,28,4,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,33,,231,20,2,2,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,4,,187,13,3,4,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,13,,203,24,8,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,12,,245,25,4,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,10,,262,13,3,1,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,16,,257,14,1,1,8
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,15,,304,21,5,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,13,,302,18,2,0,5
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,17,,313,19,3,1,5
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,13,,350,15,4,1,7
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,4,,337,16,1,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,10,,363,23,5,0,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,17,,334,17,4,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,19,,355,12,1,0,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,7,,309,10,0,1,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,13,,322,17,1,2,5
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,10,,246,8,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,20,,277,9,3,0,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,14,,266,7,0,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,16,,230,14,1,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,11,,224,11,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,10,,200,12,0,0,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,7,,200,11,0,0,1

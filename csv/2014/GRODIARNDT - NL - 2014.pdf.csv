@@ -1,0 +1,729 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,001,06:00,06:15,0,,3,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,002,06:15,06:30,0,,3,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,003,06:30,06:45,0,,3,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,004,06:45,07:00,1,,2,2,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,005,07:00,07:15,0,,7,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,006,07:15,07:30,3,,8,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,007,07:30,07:45,0,,4,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,008,07:45,08:00,0,,4,1,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,009,08:00,08:15,0,,7,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,010,08:15,08:30,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,011,08:30,08:45,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,012,08:45,09:00,2,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,013,09:00,09:15,2,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,014,09:15,09:30,1,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,015,09:30,09:45,5,,6,0,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,016,09:45,10:00,3,,9,2,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,017,10:00,10:15,3,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,018,10:15,10:30,1,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,019,10:30,10:45,4,,8,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,020,10:45,11:00,1,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,021,11:00,11:15,0,,6,1,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,022,11:15,11:30,1,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,023,11:30,11:45,2,,5,1,1,0,2
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,024,11:45,12:00,3,,4,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,025,12:00,12:15,1,,4,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,026,12:15,12:30,1,,3,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,027,12:30,12:45,0,,6,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,028,12:45,13:00,3,,10,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,029,13:00,13:15,0,,3,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,030,13:15,13:30,0,,5,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,031,13:30,13:45,0,,6,2,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,032,13:45,14:00,1,,7,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,033,14:00,14:15,0,,9,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,034,14:15,14:30,0,,5,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,035,14:30,14:45,0,,9,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,036,14:45,15:00,0,,9,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,037,15:00,15:15,4,,11,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,038,15:15,15:30,1,,10,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,039,15:30,15:45,4,,6,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,040,15:45,16:00,0,,12,1,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,041,16:00,16:15,2,,10,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,042,16:15,16:30,5,,5,1,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,043,16:30,16:45,3,,11,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,044,16:45,17:00,3,,8,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,045,17:00,17:15,3,,6,1,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,046,17:15,17:30,7,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,047,17:30,17:45,3,,9,0,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,048,17:45,18:00,3,,5,0,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,049,18:00,18:15,1,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,050,18:15,18:30,6,,10,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,051,18:30,18:45,2,,3,0,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Große Diesdorfer Straße / Arndtstraße,052,18:45,19:00,2,,6,1,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),001,06:00,06:15,6,,24,1,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),002,06:15,06:30,4,,36,10,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),003,06:30,06:45,10,,58,8,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),004,06:45,07:00,7,,54,3,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),005,07:00,07:15,6,,47,3,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),006,07:15,07:30,8,,52,4,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),007,07:30,07:45,4,,44,2,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),008,07:45,08:00,9,,64,3,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),009,08:00,08:15,13,,50,3,0,1,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),010,08:15,08:30,6,,60,1,0,0,2
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),011,08:30,08:45,4,,55,3,0,0,2
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),012,08:45,09:00,8,,49,6,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),013,09:00,09:15,5,,48,1,0,0,1
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),014,09:15,09:30,7,,47,2,0,0,1
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),015,09:30,09:45,14,,40,0,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),016,09:45,10:00,8,,52,3,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),017,10:00,10:15,4,,38,3,0,0,1
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),018,10:15,10:30,4,,29,7,0,0,1
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),019,10:30,10:45,9,,46,5,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),020,10:45,11:00,10,,47,6,0,0,1
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),021,11:00,11:15,6,,37,4,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),022,11:15,11:30,10,,60,2,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),023,11:30,11:45,7,,45,2,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),024,11:45,12:00,6,,46,3,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),025,12:00,12:15,5,,43,1,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),026,12:15,12:30,7,,36,0,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),027,12:30,12:45,4,,37,4,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),028,12:45,13:00,12,,45,1,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),029,13:00,13:15,5,,30,4,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),030,13:15,13:30,4,,31,4,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),031,13:30,13:45,5,,31,1,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),032,13:45,14:00,5,,37,5,2,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),033,14:00,14:15,4,,36,5,0,1,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),034,14:15,14:30,5,,45,7,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),035,14:30,14:45,3,,43,1,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),036,14:45,15:00,4,,64,5,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),037,15:00,15:15,8,,51,1,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),038,15:15,15:30,7,,51,2,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),039,15:30,15:45,5,,52,1,1,1,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),040,15:45,16:00,7,,65,8,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),041,16:00,16:15,9,,46,5,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),042,16:15,16:30,4,,45,1,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),043,16:30,16:45,2,,47,0,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),044,16:45,17:00,6,,53,3,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),045,17:00,17:15,6,,49,1,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),046,17:15,17:30,8,,45,2,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),047,17:30,17:45,9,,32,1,1,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),048,17:45,18:00,5,,47,4,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),049,18:00,18:15,5,,56,2,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),050,18:15,18:30,1,,38,1,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),051,18:30,18:45,7,,53,1,0,0,0
+2,A,1,2,AG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (W),052,18:45,19:00,4,,44,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),001,06:00,06:15,0,,2,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),002,06:15,06:30,0,,2,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),003,06:30,06:45,0,,12,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),004,06:45,07:00,0,,13,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),005,07:00,07:15,0,,22,1,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),006,07:15,07:30,0,,30,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),007,07:30,07:45,0,,25,3,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),008,07:45,08:00,0,,22,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),009,08:00,08:15,0,,19,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),010,08:15,08:30,0,,12,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),011,08:30,08:45,0,,26,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),012,08:45,09:00,0,,18,2,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),013,09:00,09:15,0,,18,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),014,09:15,09:30,0,,12,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),015,09:30,09:45,0,,28,0,2,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),016,09:45,10:00,0,,29,4,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),017,10:00,10:15,0,,26,2,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),018,10:15,10:30,0,,24,2,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),019,10:30,10:45,0,,17,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),020,10:45,11:00,0,,13,1,1,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),021,11:00,11:15,0,,17,1,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),022,11:15,11:30,0,,19,0,1,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),023,11:30,11:45,0,,29,3,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),024,11:45,12:00,0,,20,1,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),025,12:00,12:15,0,,17,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),026,12:15,12:30,0,,8,3,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),027,12:30,12:45,0,,15,1,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),028,12:45,13:00,0,,8,3,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),029,13:00,13:15,0,,9,0,1,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),030,13:15,13:30,0,,11,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),031,13:30,13:45,0,,11,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),032,13:45,14:00,0,,8,1,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),033,14:00,14:15,0,,7,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),034,14:15,14:30,0,,6,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),035,14:30,14:45,0,,7,1,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),036,14:45,15:00,0,,12,2,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),037,15:00,15:15,0,,13,2,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),038,15:15,15:30,0,,11,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),039,15:30,15:45,0,,8,1,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),040,15:45,16:00,0,,20,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),041,16:00,16:15,0,,9,1,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),042,16:15,16:30,0,,20,2,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),043,16:30,16:45,0,,9,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),044,16:45,17:00,0,,12,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),045,17:00,17:15,0,,15,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),046,17:15,17:30,0,,24,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),047,17:30,17:45,0,,15,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),048,17:45,18:00,0,,15,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),049,18:00,18:15,0,,13,2,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),050,18:15,18:30,0,,15,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),051,18:30,18:45,0,,12,0,0,0,0
+3,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (W),052,18:45,19:00,1,,11,0,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,001,06:00,06:15,6,,26,1,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,002,06:15,06:30,4,,38,10,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,003,06:30,06:45,10,,70,8,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,004,06:45,07:00,7,,67,3,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,005,07:00,07:15,6,,69,4,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,006,07:15,07:30,8,,82,4,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,007,07:30,07:45,4,,69,5,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,008,07:45,08:00,9,,86,3,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,009,08:00,08:15,13,,69,3,0,1,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,010,08:15,08:30,6,,72,1,0,0,2
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,011,08:30,08:45,4,,81,3,0,0,2
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,012,08:45,09:00,8,,67,8,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,013,09:00,09:15,5,,66,1,0,0,1
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,014,09:15,09:30,7,,59,2,0,0,1
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,015,09:30,09:45,14,,68,0,2,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,016,09:45,10:00,8,,81,7,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,017,10:00,10:15,4,,64,5,0,0,1
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,018,10:15,10:30,4,,53,9,0,0,1
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,019,10:30,10:45,9,,63,5,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,020,10:45,11:00,10,,60,7,1,0,1
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,021,11:00,11:15,6,,54,5,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,022,11:15,11:30,10,,79,2,2,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,023,11:30,11:45,7,,74,5,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,024,11:45,12:00,6,,66,4,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,025,12:00,12:15,5,,60,1,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,026,12:15,12:30,7,,44,3,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,027,12:30,12:45,4,,52,5,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,028,12:45,13:00,12,,53,4,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,029,13:00,13:15,5,,39,4,2,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,030,13:15,13:30,4,,42,4,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,031,13:30,13:45,5,,42,1,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,032,13:45,14:00,5,,45,6,2,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,033,14:00,14:15,4,,43,5,0,1,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,034,14:15,14:30,5,,51,7,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,035,14:30,14:45,3,,50,2,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,036,14:45,15:00,4,,76,7,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,037,15:00,15:15,8,,64,3,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,038,15:15,15:30,7,,62,2,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,039,15:30,15:45,5,,60,2,1,1,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,040,15:45,16:00,7,,85,8,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,041,16:00,16:15,9,,55,6,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,042,16:15,16:30,4,,65,3,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,043,16:30,16:45,2,,56,0,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,044,16:45,17:00,6,,65,3,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,045,17:00,17:15,6,,64,1,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,046,17:15,17:30,8,,69,2,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,047,17:30,17:45,9,,47,1,1,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,048,17:45,18:00,5,,62,4,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,049,18:00,18:15,5,,69,4,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,050,18:15,18:30,1,,53,1,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,051,18:30,18:45,7,,65,1,0,0,0
+4,A,0,0,AG...(2),summierter Strom,2+3,AG1 + AG2,052,18:45,19:00,5,,55,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),001,06:00,06:15,0,,0,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),002,06:15,06:30,0,,0,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),003,06:30,06:45,1,,0,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),004,06:45,07:00,1,,2,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),005,07:00,07:15,3,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),006,07:15,07:30,0,,6,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),007,07:30,07:45,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),008,07:45,08:00,1,,2,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),009,08:00,08:15,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),010,08:15,08:30,1,,4,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),011,08:30,08:45,1,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),012,08:45,09:00,0,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),013,09:00,09:15,0,,4,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),014,09:15,09:30,0,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),015,09:30,09:45,1,,2,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),016,09:45,10:00,0,,1,4,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),017,10:00,10:15,0,,3,2,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),018,10:15,10:30,0,,6,1,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),019,10:30,10:45,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),020,10:45,11:00,0,,8,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),021,11:00,11:15,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),022,11:15,11:30,0,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),023,11:30,11:45,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),024,11:45,12:00,0,,1,1,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),025,12:00,12:15,0,,4,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),026,12:15,12:30,0,,5,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),027,12:30,12:45,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),028,12:45,13:00,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),029,13:00,13:15,1,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),030,13:15,13:30,0,,4,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),031,13:30,13:45,0,,5,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),032,13:45,14:00,0,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),033,14:00,14:15,1,,4,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),034,14:15,14:30,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),035,14:30,14:45,2,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),036,14:45,15:00,0,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),037,15:00,15:15,0,,3,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),038,15:15,15:30,1,,2,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),039,15:30,15:45,0,,2,1,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),040,15:45,16:00,0,,0,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),041,16:00,16:15,0,,6,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),042,16:15,16:30,0,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),043,16:30,16:45,0,,4,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),044,16:45,17:00,0,,4,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),045,17:00,17:15,0,,9,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),046,17:15,17:30,0,,6,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),047,17:30,17:45,1,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),048,17:45,18:00,0,,1,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),049,18:00,18:15,0,,2,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),050,18:15,18:30,0,,4,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),051,18:30,18:45,0,,8,0,0,0,0
+5,A,2,2,AL...(3),Zählstrom,,Linksabbieger Große Diesdorfer Straße (W),052,18:45,19:00,0,,2,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),001,06:00,06:15,0,,1,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),002,06:15,06:30,0,,1,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),003,06:30,06:45,0,,6,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),004,06:45,07:00,2,,5,0,1,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),005,07:00,07:15,0,,4,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),006,07:15,07:30,1,,5,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),007,07:30,07:45,2,,3,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),008,07:45,08:00,0,,7,0,1,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),009,08:00,08:15,0,,3,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),010,08:15,08:30,0,,10,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),011,08:30,08:45,0,,8,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),012,08:45,09:00,0,,6,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),013,09:00,09:15,1,,2,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),014,09:15,09:30,0,,5,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),015,09:30,09:45,2,,5,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),016,09:45,10:00,3,,4,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),017,10:00,10:15,2,,4,2,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),018,10:15,10:30,1,,5,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),019,10:30,10:45,1,,2,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),020,10:45,11:00,0,,2,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),021,11:00,11:15,0,,4,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),022,11:15,11:30,0,,4,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),023,11:30,11:45,2,,7,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),024,11:45,12:00,0,,6,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),025,12:00,12:15,0,,0,3,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),026,12:15,12:30,3,,4,3,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),027,12:30,12:45,3,,3,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),028,12:45,13:00,0,,2,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),029,13:00,13:15,0,,3,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),030,13:15,13:30,0,,2,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),031,13:30,13:45,4,,2,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),032,13:45,14:00,3,,4,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),033,14:00,14:15,2,,4,0,1,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),034,14:15,14:30,1,,6,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),035,14:30,14:45,0,,5,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),036,14:45,15:00,1,,6,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),037,15:00,15:15,0,,7,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),038,15:15,15:30,1,,4,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),039,15:30,15:45,3,,2,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),040,15:45,16:00,0,,7,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),041,16:00,16:15,1,,7,1,1,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),042,16:15,16:30,6,,6,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),043,16:30,16:45,4,,8,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),044,16:45,17:00,4,,8,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),045,17:00,17:15,2,,9,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),046,17:15,17:30,3,,8,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),047,17:30,17:45,1,,6,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),048,17:45,18:00,6,,5,1,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),049,18:00,18:15,3,,7,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),050,18:15,18:30,1,,5,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),051,18:30,18:45,0,,7,0,0,0,0
+10,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Große DiesdorferStraße (O),052,18:45,19:00,0,,3,0,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),001,06:00,06:15,0,,17,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),002,06:15,06:30,2,,18,5,5,1,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),003,06:30,06:45,4,,26,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),004,06:45,07:00,4,,52,0,3,0,1
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),005,07:00,07:15,3,,32,2,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),006,07:15,07:30,4,,27,1,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),007,07:30,07:45,3,,47,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),008,07:45,08:00,4,,41,4,2,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),009,08:00,08:15,3,,43,4,2,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),010,08:15,08:30,4,,23,2,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),011,08:30,08:45,6,,27,4,3,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),012,08:45,09:00,7,,32,1,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),013,09:00,09:15,3,,20,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),014,09:15,09:30,6,,25,1,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),015,09:30,09:45,4,,57,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),016,09:45,10:00,4,,34,4,0,1,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),017,10:00,10:15,3,,41,4,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),018,10:15,10:30,5,,34,3,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),019,10:30,10:45,2,,38,2,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),020,10:45,11:00,4,,36,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),021,11:00,11:15,2,,34,4,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),022,11:15,11:30,4,,38,5,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),023,11:30,11:45,7,,35,5,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),024,11:45,12:00,3,,34,5,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),025,12:00,12:15,3,,42,5,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),026,12:15,12:30,5,,44,3,2,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),027,12:30,12:45,6,,31,1,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),028,12:45,13:00,3,,42,1,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),029,13:00,13:15,4,,34,3,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),030,13:15,13:30,9,,25,1,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),031,13:30,13:45,8,,26,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),032,13:45,14:00,10,,33,4,2,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),033,14:00,14:15,6,,32,8,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),034,14:15,14:30,10,,24,4,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),035,14:30,14:45,13,,35,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),036,14:45,15:00,6,,38,1,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),037,15:00,15:15,9,,51,3,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),038,15:15,15:30,12,,44,8,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),039,15:30,15:45,8,,46,4,1,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),040,15:45,16:00,4,,0,0,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),041,16:00,16:15,11,,56,2,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),042,16:15,16:30,13,,78,5,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),043,16:30,16:45,11,,75,4,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),044,16:45,17:00,12,,65,6,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),045,17:00,17:15,9,,52,3,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),046,17:15,17:30,10,,57,5,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),047,17:30,17:45,3,,47,1,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),048,17:45,18:00,10,,51,2,2,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),049,18:00,18:15,7,,42,2,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),050,18:15,18:30,7,,31,2,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),051,18:30,18:45,6,,32,1,0,0,0
+11,C,1,2,CG1,Zählstrom,,Geradeausfahrer 1 Große Diesdorfer Straße (O),052,18:45,19:00,1,,34,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),001,06:00,06:15,0,,5,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),002,06:15,06:30,0,,4,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),003,06:30,06:45,0,,9,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),004,06:45,07:00,0,,7,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),005,07:00,07:15,0,,9,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),006,07:15,07:30,0,,17,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),007,07:30,07:45,0,,7,3,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),008,07:45,08:00,0,,14,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),009,08:00,08:15,0,,10,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),010,08:15,08:30,0,,8,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),011,08:30,08:45,0,,14,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),012,08:45,09:00,0,,10,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),013,09:00,09:15,0,,7,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),014,09:15,09:30,0,,6,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),015,09:30,09:45,0,,6,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),016,09:45,10:00,0,,11,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),017,10:00,10:15,0,,14,4,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),018,10:15,10:30,0,,6,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),019,10:30,10:45,0,,18,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),020,10:45,11:00,0,,25,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),021,11:00,11:15,0,,12,4,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),022,11:15,11:30,0,,9,2,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),023,11:30,11:45,0,,19,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),024,11:45,12:00,0,,9,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),025,12:00,12:15,0,,21,3,1,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),026,12:15,12:30,0,,22,3,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),027,12:30,12:45,0,,20,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),028,12:45,13:00,0,,11,2,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),029,13:00,13:15,0,,3,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),030,13:15,13:30,0,,9,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),031,13:30,13:45,0,,21,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),032,13:45,14:00,0,,23,3,2,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),033,14:00,14:15,0,,14,3,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),034,14:15,14:30,0,,21,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),035,14:30,14:45,0,,24,3,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),036,14:45,15:00,0,,28,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),037,15:00,15:15,0,,17,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),038,15:15,15:30,0,,22,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),039,15:30,15:45,0,,38,2,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),040,15:45,16:00,0,,63,4,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),041,16:00,16:15,0,,32,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),042,16:15,16:30,0,,24,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),043,16:30,16:45,0,,34,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),044,16:45,17:00,0,,24,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),045,17:00,17:15,0,,14,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),046,17:15,17:30,0,,28,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),047,17:30,17:45,0,,17,1,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),048,17:45,18:00,0,,20,3,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),049,18:00,18:15,0,,25,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),050,18:15,18:30,0,,29,2,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),051,18:30,18:45,0,,33,0,0,0,0
+12,C,2,1,CG2,Zählstrom,,Geradeausfahrer 2 Große Diesdorfer Straße (O),052,18:45,19:00,0,,8,0,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,001,06:00,06:15,0,,22,3,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,002,06:15,06:30,2,,22,5,5,1,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,003,06:30,06:45,4,,35,3,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,004,06:45,07:00,4,,59,0,3,0,1
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,005,07:00,07:15,3,,41,2,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,006,07:15,07:30,4,,44,2,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,007,07:30,07:45,3,,54,6,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,008,07:45,08:00,4,,55,4,2,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,009,08:00,08:15,3,,53,5,2,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,010,08:15,08:30,4,,31,2,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,011,08:30,08:45,6,,41,4,3,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,012,08:45,09:00,7,,42,1,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,013,09:00,09:15,3,,27,3,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,014,09:15,09:30,6,,31,1,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,015,09:30,09:45,4,,63,3,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,016,09:45,10:00,4,,45,4,0,1,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,017,10:00,10:15,3,,55,8,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,018,10:15,10:30,5,,40,4,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,019,10:30,10:45,2,,56,3,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,020,10:45,11:00,4,,61,3,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,021,11:00,11:15,2,,46,8,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,022,11:15,11:30,4,,47,7,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,023,11:30,11:45,7,,54,6,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,024,11:45,12:00,3,,43,5,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,025,12:00,12:15,3,,63,8,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,026,12:15,12:30,5,,66,6,2,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,027,12:30,12:45,6,,51,2,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,028,12:45,13:00,3,,53,3,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,029,13:00,13:15,4,,37,3,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,030,13:15,13:30,9,,34,1,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,031,13:30,13:45,8,,47,4,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,032,13:45,14:00,10,,56,7,4,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,033,14:00,14:15,6,,46,11,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,034,14:15,14:30,10,,45,5,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,035,14:30,14:45,13,,59,6,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,036,14:45,15:00,6,,66,1,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,037,15:00,15:15,9,,68,3,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,038,15:15,15:30,12,,66,9,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,039,15:30,15:45,8,,84,6,1,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,040,15:45,16:00,4,,63,4,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,041,16:00,16:15,11,,88,3,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,042,16:15,16:30,13,,102,6,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,043,16:30,16:45,11,,109,4,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,044,16:45,17:00,12,,89,7,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,045,17:00,17:15,9,,66,4,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,046,17:15,17:30,10,,85,6,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,047,17:30,17:45,3,,64,2,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,048,17:45,18:00,10,,71,5,2,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,049,18:00,18:15,7,,67,2,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,050,18:15,18:30,7,,60,4,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,051,18:30,18:45,6,,65,1,0,0,0
+13,C,0,0,CG...(8),summierter Strom,11+12,CG1 + CG2,052,18:45,19:00,1,,42,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),001,06:00,06:15,0,,3,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),002,06:15,06:30,0,,3,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),003,06:30,06:45,0,,8,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),004,06:45,07:00,2,,9,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),005,07:00,07:15,0,,14,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),006,07:15,07:30,0,,18,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),007,07:30,07:45,2,,10,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),008,07:45,08:00,0,,12,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),009,08:00,08:15,0,,10,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),010,08:15,08:30,0,,8,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),011,08:30,08:45,1,,6,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),012,08:45,09:00,3,,13,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),013,09:00,09:15,0,,16,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),014,09:15,09:30,1,,8,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),015,09:30,09:45,0,,14,2,1,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),016,09:45,10:00,0,,17,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),017,10:00,10:15,0,,12,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),018,10:15,10:30,1,,15,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),019,10:30,10:45,1,,13,0,1,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),020,10:45,11:00,0,,15,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),021,11:00,11:15,3,,22,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),022,11:15,11:30,1,,14,3,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),023,11:30,11:45,0,,7,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),024,11:45,12:00,1,,10,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),025,12:00,12:15,0,,11,1,1,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),026,12:15,12:30,2,,11,0,1,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),027,12:30,12:45,2,,19,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),028,12:45,13:00,1,,17,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),029,13:00,13:15,1,,16,3,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),030,13:15,13:30,0,,12,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),031,13:30,13:45,3,,19,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),032,13:45,14:00,3,,17,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),033,14:00,14:15,2,,14,1,1,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),034,14:15,14:30,2,,17,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),035,14:30,14:45,4,,14,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),036,14:45,15:00,2,,18,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),037,15:00,15:15,4,,20,3,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),038,15:15,15:30,6,,26,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),039,15:30,15:45,1,,19,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),040,15:45,16:00,1,,23,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),041,16:00,16:15,0,,18,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),042,16:15,16:30,1,,26,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),043,16:30,16:45,5,,26,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),044,16:45,17:00,3,,18,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),045,17:00,17:15,3,,20,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),046,17:15,17:30,6,,19,2,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),047,17:30,17:45,10,,15,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),048,17:45,18:00,3,,25,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),049,18:00,18:15,4,,13,1,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),050,18:15,18:30,0,,14,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),051,18:30,18:45,0,,18,0,0,0,0
+14,C,2,2,CL...(9),Zählstrom,,Linksabbieger Große Diesdorfer Straße (O),052,18:45,19:00,0,,20,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,001,06:00,06:15,0,,7,0,1,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,002,06:15,06:30,3,,12,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,003,06:30,06:45,5,,8,2,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,004,06:45,07:00,4,,17,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,005,07:00,07:15,7,,14,3,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,006,07:15,07:30,3,,25,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,007,07:30,07:45,6,,25,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,008,07:45,08:00,12,,19,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,009,08:00,08:15,3,,17,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,010,08:15,08:30,3,,18,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,011,08:30,08:45,2,,14,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,012,08:45,09:00,4,,20,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,013,09:00,09:15,1,,14,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,014,09:15,09:30,3,,13,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,015,09:30,09:45,1,,12,2,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,016,09:45,10:00,3,,18,3,2,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,017,10:00,10:15,0,,20,3,1,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,018,10:15,10:30,1,,13,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,019,10:30,10:45,2,,11,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,020,10:45,11:00,5,,13,2,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,021,11:00,11:15,4,,14,3,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,022,11:15,11:30,3,,19,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,023,11:30,11:45,1,,23,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,024,11:45,12:00,3,,13,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,025,12:00,12:15,1,,16,1,1,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,026,12:15,12:30,3,,15,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,027,12:30,12:45,2,,18,2,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,028,12:45,13:00,3,,5,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,029,13:00,13:15,0,,17,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,030,13:15,13:30,4,,16,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,031,13:30,13:45,1,,14,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,032,13:45,14:00,0,,4,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,033,14:00,14:15,0,,16,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,034,14:15,14:30,2,,7,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,035,14:30,14:45,0,,8,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,036,14:45,15:00,4,,13,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,037,15:00,15:15,0,,20,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,038,15:15,15:30,0,,16,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,039,15:30,15:45,2,,17,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,040,15:45,16:00,0,,21,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,041,16:00,16:15,0,,16,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,042,16:15,16:30,4,,25,1,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,043,16:30,16:45,5,,20,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,044,16:45,17:00,2,,11,2,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,045,17:00,17:15,1,,16,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,046,17:15,17:30,0,,18,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,047,17:30,17:45,0,,18,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,048,17:45,18:00,1,,19,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,049,18:00,18:15,3,,17,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,050,18:15,18:30,4,,18,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,051,18:30,18:45,2,,15,0,0,0,0
+18,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Arndtstraße,052,18:45,19:00,2,,15,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,001,06:00,06:15,0,,4,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,002,06:15,06:30,2,,3,0,1,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,003,06:30,06:45,2,,4,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,004,06:45,07:00,1,,9,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,005,07:00,07:15,3,,6,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,006,07:15,07:30,5,,11,2,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,007,07:30,07:45,4,,7,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,008,07:45,08:00,2,,9,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,009,08:00,08:15,2,,8,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,010,08:15,08:30,2,,9,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,011,08:30,08:45,1,,5,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,012,08:45,09:00,1,,9,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,013,09:00,09:15,2,,5,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,014,09:15,09:30,3,,11,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,015,09:30,09:45,2,,8,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,016,09:45,10:00,3,,9,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,017,10:00,10:15,2,,7,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,018,10:15,10:30,1,,10,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,019,10:30,10:45,1,,5,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,020,10:45,11:00,2,,9,0,1,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,021,11:00,11:15,1,,8,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,022,11:15,11:30,1,,8,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,023,11:30,11:45,2,,10,2,1,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,024,11:45,12:00,1,,11,0,2,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,025,12:00,12:15,1,,5,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,026,12:15,12:30,2,,7,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,027,12:30,12:45,0,,5,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,028,12:45,13:00,0,,7,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,029,13:00,13:15,2,,12,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,030,13:15,13:30,1,,7,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,031,13:30,13:45,0,,10,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,032,13:45,14:00,0,,12,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,033,14:00,14:15,0,,9,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,034,14:15,14:30,0,,15,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,035,14:30,14:45,1,,11,3,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,036,14:45,15:00,0,,7,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,037,15:00,15:15,3,,16,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,038,15:15,15:30,5,,8,3,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,039,15:30,15:45,0,,14,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,040,15:45,16:00,0,,15,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,041,16:00,16:15,3,,11,2,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,042,16:15,16:30,4,,29,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,043,16:30,16:45,2,,10,1,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,044,16:45,17:00,0,,13,2,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,045,17:00,17:15,4,,18,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,046,17:15,17:30,1,,10,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,047,17:30,17:45,5,,10,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,048,17:45,18:00,5,,15,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,049,18:00,18:15,3,,10,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,050,18:15,18:30,3,,8,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,051,18:30,18:45,1,,10,0,0,0,0
+19,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Arndtstraße,052,18:45,19:00,1,,9,0,0,0,0
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,001,06:00,06:15,0,,0,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,002,06:15,06:30,0,,4,1,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,003,06:30,06:45,2,,0,1,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,004,06:45,07:00,0,,4,0,0,0,2
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,005,07:00,07:15,0,,1,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,006,07:15,07:30,0,,4,1,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,007,07:30,07:45,0,,5,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,008,07:45,08:00,1,,1,0,1,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,009,08:00,08:15,0,,1,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,010,08:15,08:30,0,,3,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,011,08:30,08:45,1,,6,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,012,08:45,09:00,0,,3,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,013,09:00,09:15,0,,0,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,014,09:15,09:30,0,,0,2,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,015,09:30,09:45,0,,2,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,016,09:45,10:00,0,,7,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,017,10:00,10:15,0,,5,1,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,018,10:15,10:30,0,,3,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,019,10:30,10:45,0,,4,2,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,020,10:45,11:00,2,,1,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,021,11:00,11:15,0,,3,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,022,11:15,11:30,0,,8,1,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,023,11:30,11:45,1,,4,2,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,024,11:45,12:00,0,,0,1,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,025,12:00,12:15,0,,3,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,026,12:15,12:30,0,,3,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,027,12:30,12:45,0,,4,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,028,12:45,13:00,0,,7,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,029,13:00,13:15,0,,0,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,030,13:15,13:30,0,,1,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,031,13:30,13:45,0,,2,0,0,0,0
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,032,13:45,14:00,0,,1,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,033,14:00,14:15,0,,9,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,034,14:15,14:30,0,,4,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,035,14:30,14:45,0,,2,0,0,0,2
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,036,14:45,15:00,0,,6,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,037,15:00,15:15,0,,4,1,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,038,15:15,15:30,1,,6,1,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,039,15:30,15:45,0,,3,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,040,15:45,16:00,0,,4,1,0,0,2
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,041,16:00,16:15,0,,10,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,042,16:15,16:30,0,,6,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,043,16:30,16:45,0,,5,1,0,0,2
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,044,16:45,17:00,0,,3,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,045,17:00,17:15,1,,8,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,046,17:15,17:30,0,,6,0,0,0,2
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,047,17:30,17:45,1,,5,0,0,0,0
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,048,17:45,18:00,0,,5,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,049,18:00,18:15,0,,8,0,0,0,1
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,050,18:15,18:30,0,,5,0,0,0,0
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,051,18:30,18:45,0,,2,0,0,0,2
+20,D,2,1,DL..(12),Zählstrom,,Linksabbieger Arndtstraße,052,18:45,19:00,0,,1,0,0,0,0
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,001,06:00,06:15,6,,66,4,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,002,06:15,06:30,11,,86,18,6,1,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,003,06:30,06:45,24,,134,16,0,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,004,06:45,07:00,22,,174,7,4,0,4
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,005,07:00,07:15,22,,157,11,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,006,07:15,07:30,24,,203,13,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,007,07:30,07:45,21,,180,13,0,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,008,07:45,08:00,29,,195,9,4,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,009,08:00,08:15,21,,171,9,2,1,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,010,08:15,08:30,16,,159,6,0,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,011,08:30,08:45,16,,171,7,3,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,012,08:45,09:00,25,,164,12,1,0,1
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,013,09:00,09:15,14,,137,8,0,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,014,09:15,09:30,21,,130,8,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,015,09:30,09:45,29,,180,7,3,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,016,09:45,10:00,24,,191,23,3,1,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,017,10:00,10:15,14,,176,23,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,018,10:15,10:30,14,,150,18,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,019,10:30,10:45,20,,165,12,1,0,1
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,020,10:45,11:00,24,,176,14,2,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,021,11:00,11:15,16,,160,18,1,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,022,11:15,11:30,20,,185,15,3,0,1
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,023,11:30,11:45,22,,187,19,2,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,024,11:45,12:00,17,,154,12,3,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,025,12:00,12:15,11,,166,14,4,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,026,12:15,12:30,23,,158,14,4,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,027,12:30,12:45,17,,161,9,0,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,028,12:45,13:00,22,,157,9,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,029,13:00,13:15,13,,130,10,3,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,030,13:15,13:30,18,,123,6,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,031,13:30,13:45,21,,147,11,0,0,1
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,032,13:45,14:00,22,,147,16,6,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,033,14:00,14:15,15,,154,18,2,1,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,034,14:15,14:30,20,,153,14,2,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,035,14:30,14:45,23,,159,14,1,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,036,14:45,15:00,17,,202,9,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,037,15:00,15:15,28,,213,11,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,038,15:15,15:30,34,,200,17,0,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,039,15:30,15:45,23,,207,10,2,1,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,040,15:45,16:00,12,,230,14,1,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,041,16:00,16:15,26,,221,14,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,042,16:15,16:30,37,,265,12,0,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,043,16:30,16:45,32,,249,6,0,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,044,16:45,17:00,30,,219,17,0,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,045,17:00,17:15,29,,216,7,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,046,17:15,17:30,35,,226,11,0,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,047,17:30,17:45,33,,175,3,1,0,2
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,048,17:45,18:00,33,,208,11,2,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,049,18:00,18:15,26,,202,7,0,0,1
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,050,18:15,18:30,22,,177,5,0,0,1
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,051,18:30,18:45,18,,193,2,0,0,3
+24,,0,0,SUMME ZU,summierter Strom,6+15+21,QA1 + QC1 + QD1,052,18:45,19:00,11,,153,2,0,0,0

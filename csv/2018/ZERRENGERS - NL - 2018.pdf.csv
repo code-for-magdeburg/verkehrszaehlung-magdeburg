@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),001,06:00,06:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),002,06:15,06:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),003,06:30,06:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),004,06:45,07:00,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),005,07:00,07:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),006,07:15,07:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),007,07:30,07:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),008,07:45,08:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),009,08:00,08:15,1,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),010,08:15,08:30,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),011,08:30,08:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),012,08:45,09:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),013,09:00,09:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),014,09:15,09:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),015,09:30,09:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),016,09:45,10:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),017,10:00,10:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),018,10:15,10:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),019,10:30,10:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),020,10:45,11:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),021,11:00,11:15,1,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),022,11:15,11:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),023,11:30,11:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),024,11:45,12:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),025,12:00,12:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),026,12:15,12:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),027,12:30,12:45,1,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),028,12:45,13:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),029,13:00,13:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),030,13:15,13:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),031,13:30,13:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),032,13:45,14:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),033,14:00,14:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),034,14:15,14:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),035,14:30,14:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),036,14:45,15:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),037,15:00,15:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),038,15:15,15:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),039,15:30,15:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),040,15:45,16:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),041,16:00,16:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),042,16:15,16:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),043,16:30,16:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),044,16:45,17:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),045,17:00,17:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),046,17:15,17:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),047,17:30,17:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),048,17:45,18:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),049,18:00,18:15,1,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),050,18:15,18:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),051,18:30,18:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Zerrenner Straße(W),052,18:45,19:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),001,06:00,06:15,0,,52,3,1,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),002,06:15,06:30,0,,84,4,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),003,06:30,06:45,0,,109,14,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),004,06:45,07:00,0,,97,6,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),005,07:00,07:15,0,,109,8,0,2,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),006,07:15,07:30,0,,78,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),007,07:30,07:45,3,,89,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),008,07:45,08:00,0,,92,8,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),009,08:00,08:15,0,,74,3,4,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),010,08:15,08:30,0,,79,5,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),011,08:30,08:45,0,,42,2,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),012,08:45,09:00,1,,67,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),013,09:00,09:15,0,,65,4,1,4,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),014,09:15,09:30,0,,58,3,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),015,09:30,09:45,1,,79,5,3,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),016,09:45,10:00,0,,40,2,1,2,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),017,10:00,10:15,0,,39,4,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),018,10:15,10:30,0,,31,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),019,10:30,10:45,0,,33,2,1,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),020,10:45,11:00,1,,45,0,2,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),021,11:00,11:15,1,,27,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),022,11:15,11:30,0,,34,1,3,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),023,11:30,11:45,0,,33,6,1,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),024,11:45,12:00,0,,29,3,2,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),025,12:00,12:15,0,,21,4,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),026,12:15,12:30,0,,32,4,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),027,12:30,12:45,0,,28,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),028,12:45,13:00,0,,37,3,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),029,13:00,13:15,0,,37,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),030,13:15,13:30,0,,45,4,5,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),031,13:30,13:45,2,,41,3,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),032,13:45,14:00,0,,26,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),033,14:00,14:15,1,,28,3,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),034,14:15,14:30,3,,34,3,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),035,14:30,14:45,0,,26,2,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),036,14:45,15:00,0,,41,3,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),037,15:00,15:15,0,,40,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),038,15:15,15:30,1,,28,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),039,15:30,15:45,2,,39,7,1,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),040,15:45,16:00,0,,36,4,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),041,16:00,16:15,2,,56,3,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),042,16:15,16:30,1,,53,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),043,16:30,16:45,1,,40,5,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),044,16:45,17:00,0,,46,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),045,17:00,17:15,0,,49,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),046,17:15,17:30,0,,21,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),047,17:30,17:45,0,,49,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),048,17:45,18:00,0,,58,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),049,18:00,18:15,1,,38,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),050,18:15,18:30,5,,34,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),051,18:30,18:45,2,,27,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Zerrennerstraße(W),052,18:45,19:00,0,,28,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),001,06:00,06:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),002,06:15,06:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),003,06:30,06:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),004,06:45,07:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),005,07:00,07:15,2,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),006,07:15,07:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),007,07:30,07:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),008,07:45,08:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),009,08:00,08:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),010,08:15,08:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),011,08:30,08:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),012,08:45,09:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),013,09:00,09:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),014,09:15,09:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),015,09:30,09:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),016,09:45,10:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),017,10:00,10:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),018,10:15,10:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),019,10:30,10:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),020,10:45,11:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),021,11:00,11:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),022,11:15,11:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),023,11:30,11:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),024,11:45,12:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),025,12:00,12:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),026,12:15,12:30,1,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),027,12:30,12:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),028,12:45,13:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),029,13:00,13:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),030,13:15,13:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),031,13:30,13:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),032,13:45,14:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),033,14:00,14:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),034,14:15,14:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),035,14:30,14:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),036,14:45,15:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),037,15:00,15:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),038,15:15,15:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),039,15:30,15:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),040,15:45,16:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),041,16:00,16:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),042,16:15,16:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),043,16:30,16:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),044,16:45,17:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),045,17:00,17:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),046,17:15,17:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),047,17:30,17:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),048,17:45,18:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),049,18:00,18:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),050,18:15,18:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),051,18:30,18:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Zerrennerstraße (W),052,18:45,19:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,001,06:00,06:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,002,06:15,06:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,003,06:30,06:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,004,06:45,07:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,005,07:00,07:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,006,07:15,07:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,007,07:30,07:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,008,07:45,08:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,009,08:00,08:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,010,08:15,08:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,011,08:30,08:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,012,08:45,09:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,013,09:00,09:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,014,09:15,09:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,015,09:30,09:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,016,09:45,10:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,017,10:00,10:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,018,10:15,10:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,019,10:30,10:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,020,10:45,11:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,021,11:00,11:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,022,11:15,11:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,023,11:30,11:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,024,11:45,12:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,025,12:00,12:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,026,12:15,12:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,027,12:30,12:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,028,12:45,13:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,029,13:00,13:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,030,13:15,13:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,031,13:30,13:45,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,032,13:45,14:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,033,14:00,14:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,034,14:15,14:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,035,14:30,14:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,036,14:45,15:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,037,15:00,15:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,038,15:15,15:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,039,15:30,15:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,040,15:45,16:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,041,16:00,16:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,042,16:15,16:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,043,16:30,16:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,044,16:45,17:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,045,17:00,17:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,046,17:15,17:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,047,17:30,17:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,048,17:45,18:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,049,18:00,18:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,050,18:15,18:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,051,18:30,18:45,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Gersdorfer Straße,052,18:45,19:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,001,06:00,06:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,002,06:15,06:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,003,06:30,06:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,004,06:45,07:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,005,07:00,07:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,006,07:15,07:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,007,07:30,07:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,008,07:45,08:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,009,08:00,08:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,010,08:15,08:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,011,08:30,08:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,012,08:45,09:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,013,09:00,09:15,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,014,09:15,09:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,015,09:30,09:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,016,09:45,10:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,017,10:00,10:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,018,10:15,10:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,019,10:30,10:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,020,10:45,11:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,021,11:00,11:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,022,11:15,11:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,023,11:30,11:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,024,11:45,12:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,025,12:00,12:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,026,12:15,12:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,027,12:30,12:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,028,12:45,13:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,029,13:00,13:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,030,13:15,13:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,031,13:30,13:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,032,13:45,14:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,033,14:00,14:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,034,14:15,14:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,035,14:30,14:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,036,14:45,15:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,037,15:00,15:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,038,15:15,15:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,039,15:30,15:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,040,15:45,16:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,041,16:00,16:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,042,16:15,16:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,043,16:30,16:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,044,16:45,17:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,045,17:00,17:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,046,17:15,17:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,047,17:30,17:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,048,17:45,18:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,049,18:00,18:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,050,18:15,18:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,051,18:30,18:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Gersdorfer Straße,052,18:45,19:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,001,06:00,06:15,0,,4,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,002,06:15,06:30,1,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,003,06:30,06:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,004,06:45,07:00,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,005,07:00,07:15,0,,3,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,006,07:15,07:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,007,07:30,07:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,008,07:45,08:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,009,08:00,08:15,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,010,08:15,08:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,011,08:30,08:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,012,08:45,09:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,013,09:00,09:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,014,09:15,09:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,015,09:30,09:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,016,09:45,10:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,017,10:00,10:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,018,10:15,10:30,0,,2,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,019,10:30,10:45,1,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,020,10:45,11:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,021,11:00,11:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,022,11:15,11:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,023,11:30,11:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,024,11:45,12:00,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,025,12:00,12:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,026,12:15,12:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,027,12:30,12:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,028,12:45,13:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,029,13:00,13:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,030,13:15,13:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,031,13:30,13:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,032,13:45,14:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,033,14:00,14:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,034,14:15,14:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,035,14:30,14:45,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,036,14:45,15:00,0,,0,1,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,037,15:00,15:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,038,15:15,15:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,039,15:30,15:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,040,15:45,16:00,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,041,16:00,16:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,042,16:15,16:30,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,043,16:30,16:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,044,16:45,17:00,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,045,17:00,17:15,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,046,17:15,17:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,047,17:30,17:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,048,17:45,18:00,0,,3,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,049,18:00,18:15,0,,1,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,050,18:15,18:30,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,051,18:30,18:45,0,,0,0,0,0,0
+9,B,1,3,BL...(6),Zählstrom,,Linksabbieger Gersdorfer Straße,052,18:45,19:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),001,06:00,06:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),002,06:15,06:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),003,06:30,06:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),004,06:45,07:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),006,07:15,07:30,0,,4,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),007,07:30,07:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),008,07:45,08:00,0,,2,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),009,08:00,08:15,0,,2,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),010,08:15,08:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),011,08:30,08:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),012,08:45,09:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),013,09:00,09:15,2,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),014,09:15,09:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),015,09:30,09:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),016,09:45,10:00,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),017,10:00,10:15,0,,5,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),018,10:15,10:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),019,10:30,10:45,1,,1,2,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),020,10:45,11:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),021,11:00,11:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),022,11:15,11:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),023,11:30,11:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),024,11:45,12:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),025,12:00,12:15,1,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),026,12:15,12:30,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),027,12:30,12:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),028,12:45,13:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),029,13:00,13:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),030,13:15,13:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),031,13:30,13:45,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),032,13:45,14:00,0,,6,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),033,14:00,14:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),034,14:15,14:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),035,14:30,14:45,0,,7,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),036,14:45,15:00,0,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),037,15:00,15:15,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),038,15:15,15:30,2,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),039,15:30,15:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),040,15:45,16:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),041,16:00,16:15,1,,6,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),042,16:15,16:30,1,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),043,16:30,16:45,0,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),044,16:45,17:00,2,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),045,17:00,17:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),046,17:15,17:30,1,,11,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),047,17:30,17:45,1,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),048,17:45,18:00,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),049,18:00,18:15,1,,1,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),050,18:15,18:30,2,,3,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),051,18:30,18:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Zerrennerstraße (O),052,18:45,19:00,2,,3,1,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),001,06:00,06:15,0,,5,0,0,1,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),002,06:15,06:30,0,,13,2,0,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),003,06:30,06:45,1,,24,2,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),004,06:45,07:00,1,,28,0,1,1,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),005,07:00,07:15,0,,25,9,0,1,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),006,07:15,07:30,0,,20,1,1,1,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),007,07:30,07:45,2,,28,1,2,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),008,07:45,08:00,0,,31,6,2,2,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),009,08:00,08:15,0,,26,1,2,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),010,08:15,08:30,0,,28,1,0,1,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),011,08:30,08:45,0,,31,3,2,2,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),012,08:45,09:00,1,,28,2,0,1,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),013,09:00,09:15,1,,23,1,3,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),014,09:15,09:30,0,,21,1,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),015,09:30,09:45,0,,27,0,2,1,2
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),016,09:45,10:00,0,,36,1,3,1,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),017,10:00,10:15,1,,36,4,2,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),018,10:15,10:30,2,,24,3,3,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),019,10:30,10:45,0,,36,2,1,0,2
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),020,10:45,11:00,0,,33,3,3,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),021,11:00,11:15,0,,44,3,3,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),022,11:15,11:30,0,,35,4,3,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),023,11:30,11:45,0,,46,3,1,1,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),024,11:45,12:00,0,,28,1,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),025,12:00,12:15,0,,53,5,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),026,12:15,12:30,0,,27,2,0,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),027,12:30,12:45,0,,45,4,1,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),028,12:45,13:00,0,,32,0,1,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),029,13:00,13:15,0,,40,3,0,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),030,13:15,13:30,0,,41,2,1,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),031,13:30,13:45,2,,44,4,0,0,2
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),032,13:45,14:00,0,,34,1,0,1,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),033,14:00,14:15,2,,46,2,0,2,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),034,14:15,14:30,1,,40,2,1,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),035,14:30,14:45,0,,47,3,2,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),036,14:45,15:00,0,,62,2,2,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),037,15:00,15:15,1,,65,0,5,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),038,15:15,15:30,3,,77,3,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),039,15:30,15:45,0,,92,2,0,2,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),040,15:45,16:00,1,,59,1,0,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),041,16:00,16:15,2,,116,3,0,1,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),042,16:15,16:30,2,,86,2,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),043,16:30,16:45,2,,77,2,0,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),044,16:45,17:00,2,,69,4,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),045,17:00,17:15,2,,92,1,2,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),046,17:15,17:30,1,,82,2,1,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),047,17:30,17:45,3,,62,1,0,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),048,17:45,18:00,1,,51,5,2,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),049,18:00,18:15,0,,77,1,0,0,0
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),050,18:15,18:30,3,,72,2,0,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),051,18:30,18:45,2,,57,1,0,0,1
+14,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Zerrennerstraße(O),052,18:45,19:00,1,,30,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),001,06:00,06:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),002,06:15,06:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),003,06:30,06:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),004,06:45,07:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),005,07:00,07:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),006,07:15,07:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),007,07:30,07:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),008,07:45,08:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),009,08:00,08:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),010,08:15,08:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),011,08:30,08:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),012,08:45,09:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),013,09:00,09:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),014,09:15,09:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),015,09:30,09:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),016,09:45,10:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),017,10:00,10:15,0,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),018,10:15,10:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),019,10:30,10:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),020,10:45,11:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),021,11:00,11:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),022,11:15,11:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),023,11:30,11:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),024,11:45,12:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),025,12:00,12:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),026,12:15,12:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),027,12:30,12:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),028,12:45,13:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),029,13:00,13:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),030,13:15,13:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),031,13:30,13:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),032,13:45,14:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),033,14:00,14:15,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),034,14:15,14:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),035,14:30,14:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),036,14:45,15:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),037,15:00,15:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),038,15:15,15:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),039,15:30,15:45,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),040,15:45,16:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),041,16:00,16:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),042,16:15,16:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),043,16:30,16:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),044,16:45,17:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),045,17:00,17:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),046,17:15,17:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),047,17:30,17:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),048,17:45,18:00,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),049,18:00,18:15,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),050,18:15,18:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),051,18:30,18:45,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Zerrennerstraße (O),052,18:45,19:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,001,06:00,06:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,002,06:15,06:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,003,06:30,06:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,004,06:45,07:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,005,07:00,07:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,006,07:15,07:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,007,07:30,07:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,008,07:45,08:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,009,08:00,08:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,010,08:15,08:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,011,08:30,08:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,012,08:45,09:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,013,09:00,09:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,014,09:15,09:30,0,,0,0,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,015,09:30,09:45,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,016,09:45,10:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,017,10:00,10:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,018,10:15,10:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,019,10:30,10:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,020,10:45,11:00,0,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,021,11:00,11:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,022,11:15,11:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,023,11:30,11:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,024,11:45,12:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,025,12:00,12:15,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,026,12:15,12:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,027,12:30,12:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,028,12:45,13:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,029,13:00,13:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,030,13:15,13:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,031,13:30,13:45,0,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,032,13:45,14:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,033,14:00,14:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,034,14:15,14:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,035,14:30,14:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,036,14:45,15:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,037,15:00,15:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,038,15:15,15:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,039,15:30,15:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,040,15:45,16:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,041,16:00,16:15,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,042,16:15,16:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,043,16:30,16:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,044,16:45,17:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,045,17:00,17:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,046,17:15,17:30,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,047,17:30,17:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,048,17:45,18:00,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,049,18:00,18:15,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,050,18:15,18:30,0,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,051,18:30,18:45,0,,0,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Krumme Straße,052,18:45,19:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,001,06:00,06:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,002,06:15,06:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,003,06:30,06:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,004,06:45,07:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,005,07:00,07:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,006,07:15,07:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,007,07:30,07:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,008,07:45,08:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,009,08:00,08:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,010,08:15,08:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,011,08:30,08:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,012,08:45,09:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,013,09:00,09:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,014,09:15,09:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,015,09:30,09:45,0,,1,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,016,09:45,10:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,017,10:00,10:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,018,10:15,10:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,019,10:30,10:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,020,10:45,11:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,021,11:00,11:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,022,11:15,11:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,023,11:30,11:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,024,11:45,12:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,025,12:00,12:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,026,12:15,12:30,0,,1,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,027,12:30,12:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,028,12:45,13:00,0,,1,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,029,13:00,13:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,030,13:15,13:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,031,13:30,13:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,032,13:45,14:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,033,14:00,14:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,034,14:15,14:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,035,14:30,14:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,036,14:45,15:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,037,15:00,15:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,038,15:15,15:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,039,15:30,15:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,040,15:45,16:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,041,16:00,16:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,042,16:15,16:30,0,,2,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,043,16:30,16:45,0,,0,1,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,044,16:45,17:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,045,17:00,17:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,046,17:15,17:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,047,17:30,17:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,048,17:45,18:00,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,049,18:00,18:15,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,050,18:15,18:30,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,051,18:30,18:45,0,,0,0,0,0,0
+20,C,1,2,CG..(11),Zählstrom,,Geradeausfahrer Krumme Straße,052,18:45,19:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,001,06:00,06:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,002,06:15,06:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,003,06:30,06:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,004,06:45,07:00,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,005,07:00,07:15,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,006,07:15,07:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,007,07:30,07:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,008,07:45,08:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,009,08:00,08:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,010,08:15,08:30,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,011,08:30,08:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,012,08:45,09:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,013,09:00,09:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,014,09:15,09:30,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,015,09:30,09:45,0,,1,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,016,09:45,10:00,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,017,10:00,10:15,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,018,10:15,10:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,019,10:30,10:45,0,,3,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,020,10:45,11:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,021,11:00,11:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,022,11:15,11:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,023,11:30,11:45,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,024,11:45,12:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,025,12:00,12:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,026,12:15,12:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,027,12:30,12:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,028,12:45,13:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,029,13:00,13:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,030,13:15,13:30,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,031,13:30,13:45,0,,2,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,032,13:45,14:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,033,14:00,14:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,034,14:15,14:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,035,14:30,14:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,036,14:45,15:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,037,15:00,15:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,038,15:15,15:30,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,039,15:30,15:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,040,15:45,16:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,041,16:00,16:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,042,16:15,16:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,043,16:30,16:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,044,16:45,17:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,045,17:00,17:15,0,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,046,17:15,17:30,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,047,17:30,17:45,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,048,17:45,18:00,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,049,18:00,18:15,0,,0,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,050,18:15,18:30,1,,1,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,051,18:30,18:45,2,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Krumme Straße,052,18:45,19:00,0,,0,0,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,0,,61,3,1,1,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,1,,97,6,0,2,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,1,,135,16,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,1,,132,7,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,2,,139,17,0,3,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,0,,104,4,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,5,,120,5,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,0,,125,15,4,3,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,1,,106,4,7,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,0,,112,7,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,0,,76,5,5,2,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,2,,97,6,1,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,3,,93,5,4,4,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,0,,82,4,2,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,1,,110,6,5,1,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,1,,79,3,4,3,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,1,,85,10,4,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,2,,58,6,4,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,2,,75,6,2,1,3
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,1,,83,4,5,3,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,2,,73,6,4,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,0,,71,5,6,1,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,0,,82,9,2,2,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,0,,58,5,2,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,1,,79,10,0,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,1,,63,7,0,0,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,1,,75,6,1,0,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,0,,72,3,1,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,0,,80,4,1,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,0,,90,6,6,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,5,,91,8,0,0,3
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,0,,67,3,1,1,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,3,,77,5,2,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,4,,76,5,1,2,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,0,,82,5,4,1,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,0,,105,7,4,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,2,,108,2,6,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,6,,109,6,1,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,2,,135,9,1,3,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,1,,97,5,0,0,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,5,,185,7,0,2,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,4,,145,6,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,3,,121,8,0,0,2
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,4,,118,5,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,2,,144,3,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,2,,114,3,1,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,4,,112,4,0,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,1,,114,10,2,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,3,,117,2,0,0,0
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,11,,111,4,0,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,6,,87,3,0,0,1
+25,,0,0,Summe Zu,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,3,,61,2,0,0,0

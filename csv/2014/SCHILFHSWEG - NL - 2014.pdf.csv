@@ -1,0 +1,365 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),001,06:00,06:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),002,06:15,06:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),003,06:30,06:45,1,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),004,06:45,07:00,0,,6,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),005,07:00,07:15,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),006,07:15,07:30,1,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),007,07:30,07:45,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),008,07:45,08:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),009,08:00,08:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),010,08:15,08:30,1,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),011,08:30,08:45,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),012,08:45,09:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),013,09:00,09:15,0,,0,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),014,09:15,09:30,0,,2,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),015,09:30,09:45,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),016,09:45,10:00,1,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),017,10:00,10:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),018,10:15,10:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),019,10:30,10:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),020,10:45,11:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),021,11:00,11:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),022,11:15,11:30,1,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),023,11:30,11:45,1,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),024,11:45,12:00,1,,3,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),025,12:00,12:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),026,12:15,12:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),027,12:30,12:45,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),028,12:45,13:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),029,13:00,13:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),030,13:15,13:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),031,13:30,13:45,0,,0,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),032,13:45,14:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),033,14:00,14:15,0,,0,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),034,14:15,14:30,1,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),035,14:30,14:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),036,14:45,15:00,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),037,15:00,15:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),038,15:15,15:30,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),039,15:30,15:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),040,15:45,16:00,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),041,16:00,16:15,0,,3,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),042,16:15,16:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),043,16:30,16:45,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),044,16:45,17:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),045,17:00,17:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),046,17:15,17:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),047,17:30,17:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),048,17:45,18:00,2,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),049,18:00,18:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),050,18:15,18:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),051,18:30,18:45,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Schilfbreite (W),052,18:45,19:00,0,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),001,06:00,06:15,2,,30,2,0,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),002,06:15,06:30,0,,31,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),003,06:30,06:45,2,,34,0,0,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),004,06:45,07:00,1,,50,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),005,07:00,07:15,4,,48,1,1,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),006,07:15,07:30,3,,64,8,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),007,07:30,07:45,1,,47,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),008,07:45,08:00,1,,51,2,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),009,08:00,08:15,1,,25,4,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),010,08:15,08:30,1,,31,3,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),011,08:30,08:45,0,,25,2,2,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),012,08:45,09:00,1,,23,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),013,09:00,09:15,3,,38,2,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),014,09:15,09:30,2,,27,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),015,09:30,09:45,0,,33,6,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),016,09:45,10:00,1,,37,4,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),017,10:00,10:15,2,,23,2,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),018,10:15,10:30,4,,23,3,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),019,10:30,10:45,2,,26,1,4,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),020,10:45,11:00,2,,33,5,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),021,11:00,11:15,3,,21,1,2,0,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),022,11:15,11:30,2,,18,3,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),023,11:30,11:45,0,,27,3,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),024,11:45,12:00,0,,22,1,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),025,12:00,12:15,3,,19,2,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),026,12:15,12:30,2,,17,2,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),027,12:30,12:45,0,,16,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),028,12:45,13:00,2,,28,3,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),029,13:00,13:15,1,,38,2,2,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),030,13:15,13:30,0,,36,1,3,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),031,13:30,13:45,0,,30,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),032,13:45,14:00,4,,29,3,3,1,2
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),033,14:00,14:15,0,,21,3,2,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),034,14:15,14:30,2,,33,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),035,14:30,14:45,3,,32,1,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),036,14:45,15:00,4,,31,2,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),037,15:00,15:15,1,,25,1,3,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),038,15:15,15:30,2,,35,2,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),039,15:30,15:45,3,,30,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),040,15:45,16:00,7,,27,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),041,16:00,16:15,0,,26,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),042,16:15,16:30,3,,39,0,0,1,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),043,16:30,16:45,5,,37,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),044,16:45,17:00,2,,40,0,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),045,17:00,17:15,1,,25,0,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),046,17:15,17:30,2,,26,0,1,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),047,17:30,17:45,2,,19,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),048,17:45,18:00,1,,17,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),049,18:00,18:15,1,,28,3,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),050,18:15,18:30,1,,24,2,3,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),051,18:30,18:45,5,,23,1,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Schilfbreite (W),052,18:45,19:00,2,,19,0,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),001,06:00,06:15,3,,21,2,1,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),002,06:15,06:30,1,,32,0,2,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),003,06:30,06:45,1,,19,3,3,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),004,06:45,07:00,2,,25,0,0,1,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),005,07:00,07:15,3,,29,4,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),006,07:15,07:30,1,,45,4,0,1,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),007,07:30,07:45,0,,34,5,1,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),008,07:45,08:00,0,,28,4,1,1,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),009,08:00,08:15,0,,25,4,2,2,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),010,08:15,08:30,0,,21,2,3,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),011,08:30,08:45,0,,18,1,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),012,08:45,09:00,1,,28,4,2,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),013,09:00,09:15,0,,36,2,3,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),014,09:15,09:30,1,,28,4,2,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),015,09:30,09:45,0,,32,1,0,1,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),016,09:45,10:00,0,,31,1,1,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),017,10:00,10:15,0,,39,5,1,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),018,10:15,10:30,4,,32,4,2,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),019,10:30,10:45,0,,38,3,3,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),020,10:45,11:00,2,,38,2,3,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),021,11:00,11:15,0,,40,5,3,1,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),022,11:15,11:30,0,,38,8,1,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),023,11:30,11:45,4,,42,3,1,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),024,11:45,12:00,1,,29,2,5,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),025,12:00,12:15,1,,48,4,2,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),026,12:15,12:30,1,,36,5,2,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),027,12:30,12:45,0,,36,3,3,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),028,12:45,13:00,2,,33,5,4,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),029,13:00,13:15,1,,46,3,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),030,13:15,13:30,1,,37,5,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),031,13:30,13:45,1,,29,2,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),032,13:45,14:00,2,,36,5,2,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),033,14:00,14:15,2,,39,5,0,1,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),034,14:15,14:30,0,,38,4,1,1,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),035,14:30,14:45,6,,47,4,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),036,14:45,15:00,3,,58,4,3,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),037,15:00,15:15,0,,51,1,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),038,15:15,15:30,2,,47,4,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),039,15:30,15:45,7,,67,3,1,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),040,15:45,16:00,2,,59,3,1,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),041,16:00,16:15,2,,82,5,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),042,16:15,16:30,2,,66,1,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),043,16:30,16:45,1,,71,3,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),044,16:45,17:00,1,,62,2,1,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),045,17:00,17:15,5,,72,4,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),046,17:15,17:30,3,,38,0,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),047,17:30,17:45,0,,35,2,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),048,17:45,18:00,3,,43,2,0,0,0
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),049,18:00,18:15,2,,46,2,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),050,18:15,18:30,1,,47,3,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),051,18:30,18:45,2,,34,1,0,0,1
+6,C,1,1,CG...(8),Zählstrom,,Geradeausfahrer Schilfbreite (NO),052,18:45,19:00,2,,33,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),001,06:00,06:15,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),002,06:15,06:30,2,,4,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),003,06:30,06:45,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),004,06:45,07:00,1,,8,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),005,07:00,07:15,0,,8,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),006,07:15,07:30,2,,12,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),007,07:30,07:45,0,,13,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),008,07:45,08:00,0,,6,2,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),009,08:00,08:15,0,,6,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),010,08:15,08:30,0,,3,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),011,08:30,08:45,0,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),012,08:45,09:00,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),013,09:00,09:15,0,,1,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),014,09:15,09:30,0,,4,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),015,09:30,09:45,0,,3,1,1,1,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),016,09:45,10:00,1,,4,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),017,10:00,10:15,0,,4,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),018,10:15,10:30,0,,1,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),019,10:30,10:45,0,,3,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),020,10:45,11:00,0,,2,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),021,11:00,11:15,0,,7,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),022,11:15,11:30,1,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),023,11:30,11:45,1,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),024,11:45,12:00,0,,5,0,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),025,12:00,12:15,1,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),026,12:15,12:30,0,,4,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),027,12:30,12:45,0,,4,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),028,12:45,13:00,0,,6,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),029,13:00,13:15,0,,4,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),030,13:15,13:30,1,,3,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),031,13:30,13:45,2,,4,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),032,13:45,14:00,0,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),033,14:00,14:15,0,,5,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),034,14:15,14:30,1,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),035,14:30,14:45,0,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),036,14:45,15:00,0,,4,0,1,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),037,15:00,15:15,0,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),038,15:15,15:30,2,,3,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),039,15:30,15:45,0,,6,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),040,15:45,16:00,0,,2,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),041,16:00,16:15,0,,5,3,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),042,16:15,16:30,5,,3,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),043,16:30,16:45,1,,8,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),044,16:45,17:00,3,,4,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),045,17:00,17:15,0,,4,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),046,17:15,17:30,0,,6,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),047,17:30,17:45,2,,6,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),048,17:45,18:00,1,,5,1,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),049,18:00,18:15,0,,4,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),050,18:15,18:30,0,,12,2,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),051,18:30,18:45,0,,0,0,0,0,0
+7,C,1,2,CL...(9),Zählstrom,,Linksabbieger Schilfbreite  (NO),052,18:45,19:00,5,,3,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,001,06:00,06:15,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,002,06:15,06:30,1,,2,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,003,06:30,06:45,1,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,004,06:45,07:00,1,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,005,07:00,07:15,1,,6,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,006,07:15,07:30,2,,5,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,007,07:30,07:45,1,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,008,07:45,08:00,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,009,08:00,08:15,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,010,08:15,08:30,1,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,011,08:30,08:45,1,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,012,08:45,09:00,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,013,09:00,09:15,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,014,09:15,09:30,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,015,09:30,09:45,1,,1,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,016,09:45,10:00,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,017,10:00,10:15,0,,1,0,1,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,018,10:15,10:30,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,019,10:30,10:45,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,020,10:45,11:00,1,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,021,11:00,11:15,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,022,11:15,11:30,1,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,023,11:30,11:45,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,024,11:45,12:00,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,025,12:00,12:15,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,026,12:15,12:30,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,027,12:30,12:45,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,028,12:45,13:00,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,029,13:00,13:15,0,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,030,13:15,13:30,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,031,13:30,13:45,1,,4,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,032,13:45,14:00,0,,6,0,2,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,033,14:00,14:15,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,034,14:15,14:30,0,,4,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,035,14:30,14:45,0,,2,0,1,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,036,14:45,15:00,1,,3,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,037,15:00,15:15,0,,3,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,038,15:15,15:30,1,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,039,15:30,15:45,0,,3,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,040,15:45,16:00,0,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,041,16:00,16:15,0,,14,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,042,16:15,16:30,0,,13,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,043,16:30,16:45,0,,6,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,044,16:45,17:00,1,,1,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,045,17:00,17:15,1,,9,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,046,17:15,17:30,1,,2,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,047,17:30,17:45,2,,5,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,048,17:45,18:00,0,,8,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,049,18:00,18:15,1,,7,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,050,18:15,18:30,1,,5,1,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,051,18:30,18:45,0,,0,0,0,0,0
+11,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Heinz-Sommer-Weg,052,18:45,19:00,0,,6,1,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,001,06:00,06:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,002,06:15,06:30,0,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,003,06:30,06:45,0,,4,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,004,06:45,07:00,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,005,07:00,07:15,1,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,006,07:15,07:30,0,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,007,07:30,07:45,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,008,07:45,08:00,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,009,08:00,08:15,0,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,010,08:15,08:30,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,011,08:30,08:45,1,,2,2,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,012,08:45,09:00,0,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,013,09:00,09:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,014,09:15,09:30,0,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,015,09:30,09:45,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,016,09:45,10:00,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,017,10:00,10:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,018,10:15,10:30,0,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,019,10:30,10:45,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,020,10:45,11:00,0,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,021,11:00,11:15,0,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,022,11:15,11:30,0,,2,0,1,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,023,11:30,11:45,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,024,11:45,12:00,0,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,025,12:00,12:15,1,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,026,12:15,12:30,1,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,027,12:30,12:45,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,028,12:45,13:00,0,,6,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,029,13:00,13:15,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,030,13:15,13:30,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,031,13:30,13:45,0,,4,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,032,13:45,14:00,0,,10,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,033,14:00,14:15,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,034,14:15,14:30,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,035,14:30,14:45,1,,5,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,036,14:45,15:00,1,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,037,15:00,15:15,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,038,15:15,15:30,0,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,039,15:30,15:45,1,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,040,15:45,16:00,1,,2,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,041,16:00,16:15,0,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,042,16:15,16:30,0,,4,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,043,16:30,16:45,0,,2,3,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,044,16:45,17:00,0,,6,2,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,045,17:00,17:15,0,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,046,17:15,17:30,1,,5,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,047,17:30,17:45,1,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,048,17:45,18:00,0,,3,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,049,18:00,18:15,2,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,050,18:15,18:30,0,,1,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,051,18:30,18:45,1,,0,0,0,0,0
+12,D,1,2,DL..(12),Zählstrom,,Linksabbieger Heinz-Sommer-Weg,052,18:45,19:00,0,,2,0,0,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,001,06:00,06:15,5,,55,4,1,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,002,06:15,06:30,4,,73,1,2,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,003,06:30,06:45,5,,59,3,3,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,004,06:45,07:00,5,,92,7,0,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,005,07:00,07:15,9,,103,5,1,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,006,07:15,07:30,9,,133,13,1,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,007,07:30,07:45,3,,100,9,1,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,008,07:45,08:00,1,,90,8,4,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,009,08:00,08:15,1,,62,8,4,2,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,010,08:15,08:30,3,,56,6,4,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,011,08:30,08:45,2,,51,6,2,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,012,08:45,09:00,2,,57,4,2,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,013,09:00,09:15,3,,76,5,4,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,014,09:15,09:30,3,,67,8,2,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,015,09:30,09:45,2,,73,9,1,2,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,016,09:45,10:00,3,,75,5,3,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,017,10:00,10:15,2,,68,8,4,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,018,10:15,10:30,8,,65,9,3,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,019,10:30,10:45,2,,73,5,7,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,020,10:45,11:00,5,,78,8,5,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,021,11:00,11:15,3,,74,6,5,1,3
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,022,11:15,11:30,5,,62,11,4,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,023,11:30,11:45,6,,74,6,2,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,024,11:45,12:00,2,,66,5,7,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,025,12:00,12:15,6,,74,6,3,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,026,12:15,12:30,4,,62,8,4,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,027,12:30,12:45,0,,60,8,4,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,028,12:45,13:00,4,,76,8,4,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,029,13:00,13:15,2,,92,5,2,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,030,13:15,13:30,2,,79,7,3,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,031,13:30,13:45,4,,71,7,1,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,032,13:45,14:00,6,,84,8,7,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,033,14:00,14:15,2,,70,8,3,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,034,14:15,14:30,4,,80,5,1,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,035,14:30,14:45,10,,89,5,2,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,036,14:45,15:00,9,,96,6,5,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,037,15:00,15:15,1,,84,3,3,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,038,15:15,15:30,7,,90,7,1,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,039,15:30,15:45,11,,109,5,1,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,040,15:45,16:00,11,,96,5,1,0,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,041,16:00,16:15,2,,130,9,1,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,042,16:15,16:30,10,,127,2,0,1,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,043,16:30,16:45,8,,127,8,0,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,044,16:45,17:00,7,,115,5,3,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,045,17:00,17:15,7,,115,4,0,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,046,17:15,17:30,7,,79,0,1,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,047,17:30,17:45,7,,69,4,0,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,048,17:45,18:00,7,,77,6,0,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,049,18:00,18:15,6,,88,5,0,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,050,18:15,18:30,3,,90,8,3,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,051,18:30,18:45,8,,62,2,0,0,2
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QC1 + QD1,052,18:45,19:00,9,,67,2,0,0,0

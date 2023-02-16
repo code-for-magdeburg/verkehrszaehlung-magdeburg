@@ -1,0 +1,1301 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,001,06:00,06:15,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,002,06:15,06:30,0,0,19,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,003,06:30,06:45,0,0,10,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,004,06:45,07:00,0,0,11,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,005,07:00,07:15,0,0,8,,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,006,07:15,07:30,0,0,6,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,007,07:30,07:45,0,0,13,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,008,07:45,08:00,0,0,10,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,009,08:00,08:15,0,0,14,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,010,08:15,08:30,0,0,11,,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,011,08:30,08:45,2,0,17,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,012,08:45,09:00,1,0,10,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,013,09:00,09:15,0,0,18,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,014,09:15,09:30,0,0,12,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,015,09:30,09:45,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,016,09:45,10:00,0,0,11,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,017,10:00,10:15,0,0,6,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,018,10:15,10:30,1,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,019,10:30,10:45,0,0,18,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,020,10:45,11:00,2,0,14,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,021,11:00,11:15,0,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,022,11:15,11:30,0,0,7,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,023,11:30,11:45,0,0,13,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,024,11:45,12:00,2,0,10,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,025,12:00,12:15,0,0,18,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,026,12:15,12:30,1,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,027,12:30,12:45,2,0,10,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,028,12:45,13:00,0,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,029,13:00,13:15,1,0,12,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,030,13:15,13:30,1,0,8,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,031,13:30,13:45,0,0,9,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,032,13:45,14:00,0,0,12,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,033,14:00,14:15,0,0,11,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,034,14:15,14:30,0,0,15,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,035,14:30,14:45,1,0,17,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,036,14:45,15:00,1,0,17,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,037,15:00,15:15,2,0,11,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,038,15:15,15:30,3,2,16,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,039,15:30,15:45,1,0,26,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,040,15:45,16:00,0,0,10,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,041,16:00,16:15,2,0,17,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,042,16:15,16:30,2,0,17,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,043,16:30,16:45,0,0,19,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,044,16:45,17:00,2,0,15,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,045,17:00,17:15,2,1,17,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,046,17:15,17:30,1,0,13,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,047,17:30,17:45,1,0,16,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,048,17:45,18:00,1,1,16,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,049,18:00,18:15,3,0,13,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,050,18:15,18:30,3,0,19,,0,0,2
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,051,18:30,18:45,0,0,15,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Brenneckestraße,052,18:45,19:00,0,0,17,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,001,06:00,06:15,0,0,40,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,002,06:15,06:30,2,0,39,,1,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,003,06:30,06:45,3,1,37,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,004,06:45,07:00,3,2,62,,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,005,07:00,07:15,3,1,63,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,006,07:15,07:30,8,3,40,,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,007,07:30,07:45,7,1,47,,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,008,07:45,08:00,2,0,47,,0,2,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,009,08:00,08:15,1,0,41,,0,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,010,08:15,08:30,4,0,41,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,011,08:30,08:45,0,0,28,,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,012,08:45,09:00,4,0,35,,0,0,3
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,013,09:00,09:15,6,0,41,,3,4,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,014,09:15,09:30,2,1,31,,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,015,09:30,09:45,0,0,27,,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,016,09:45,10:00,2,0,29,,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,017,10:00,10:15,4,1,30,,0,2,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,018,10:15,10:30,0,0,37,,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,019,10:30,10:45,0,1,33,,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,020,10:45,11:00,3,0,43,,2,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,021,11:00,11:15,2,2,44,,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,022,11:15,11:30,3,0,35,,0,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,023,11:30,11:45,3,0,31,,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,024,11:45,12:00,3,0,30,,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,025,12:00,12:15,5,0,41,,2,1,5
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,026,12:15,12:30,2,0,30,,0,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,027,12:30,12:45,3,1,33,,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,028,12:45,13:00,1,1,43,,2,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,029,13:00,13:15,1,1,46,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,030,13:15,13:30,3,1,40,,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,031,13:30,13:45,0,0,36,,2,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,032,13:45,14:00,4,0,40,,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,033,14:00,14:15,2,1,35,,0,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,034,14:15,14:30,4,0,49,,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,035,14:30,14:45,7,1,43,,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,036,14:45,15:00,2,0,38,,1,2,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,037,15:00,15:15,5,1,47,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,038,15:15,15:30,5,0,38,,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,039,15:30,15:45,3,0,49,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,040,15:45,16:00,5,1,33,,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,041,16:00,16:15,3,3,71,,8,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,042,16:15,16:30,3,1,47,,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,043,16:30,16:45,5,1,40,,0,3,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,044,16:45,17:00,5,1,37,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,045,17:00,17:15,2,1,43,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,046,17:15,17:30,10,0,44,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,047,17:30,17:45,5,0,42,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,048,17:45,18:00,2,0,62,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,049,18:00,18:15,3,1,41,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,050,18:15,18:30,8,2,44,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,051,18:30,18:45,5,1,54,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Brenneckestraße,052,18:45,19:00,5,1,35,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,001,06:00,06:15,0,0,5,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,002,06:15,06:30,0,0,9,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,003,06:30,06:45,1,0,18,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,004,06:45,07:00,0,0,18,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,005,07:00,07:15,2,1,18,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,006,07:15,07:30,3,0,18,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,007,07:30,07:45,1,0,22,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,008,07:45,08:00,1,0,16,,2,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,009,08:00,08:15,1,10,4,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,010,08:15,08:30,0,0,15,,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,011,08:30,08:45,0,0,20,,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,012,08:45,09:00,0,0,9,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,013,09:00,09:15,0,1,29,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,014,09:15,09:30,3,2,12,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,015,09:30,09:45,0,0,18,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,016,09:45,10:00,0,0,26,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,017,10:00,10:15,1,0,21,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,018,10:15,10:30,1,0,7,,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,019,10:30,10:45,2,0,11,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,020,10:45,11:00,0,0,18,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,021,11:00,11:15,1,0,12,,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,022,11:15,11:30,1,0,26,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,023,11:30,11:45,0,0,10,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,024,11:45,12:00,0,0,9,,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,025,12:00,12:15,0,0,13,,2,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,026,12:15,12:30,0,1,8,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,027,12:30,12:45,0,0,8,,1,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,028,12:45,13:00,0,0,20,,0,1,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,029,13:00,13:15,0,0,13,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,030,13:15,13:30,0,0,19,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,031,13:30,13:45,0,0,13,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,032,13:45,14:00,1,1,6,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,033,14:00,14:15,0,0,11,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,034,14:15,14:30,0,0,6,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,035,14:30,14:45,1,1,19,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,036,14:45,15:00,1,1,12,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,037,15:00,15:15,1,0,20,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,038,15:15,15:30,0,1,15,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,039,15:30,15:45,0,0,14,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,040,15:45,16:00,0,0,15,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,041,16:00,16:15,1,1,19,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,042,16:15,16:30,0,0,15,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,043,16:30,16:45,1,1,22,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,044,16:45,17:00,1,0,9,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,045,17:00,17:15,0,1,13,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,046,17:15,17:30,1,0,12,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,047,17:30,17:45,0,0,9,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,048,17:45,18:00,2,0,12,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,049,18:00,18:15,0,1,14,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,050,18:15,18:30,2,0,9,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,051,18:30,18:45,3,0,11,,0,0,0
+3,A,2,1,AL...(3),Zählstrom,,Linksabbieger Brenneckestraße,052,18:45,19:00,0,0,19,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),001,06:00,06:15,0,0,50,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),002,06:15,06:30,2,0,67,,1,4,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),003,06:30,06:45,4,1,65,,1,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),004,06:45,07:00,3,2,91,,2,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),005,07:00,07:15,5,2,89,,3,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),006,07:15,07:30,11,3,64,,0,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),007,07:30,07:45,8,1,82,,0,0,1
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),008,07:45,08:00,3,0,73,,2,2,1
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),009,08:00,08:15,2,10,59,,0,3,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),010,08:15,08:30,4,0,67,,4,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),011,08:30,08:45,2,0,65,,3,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),012,08:45,09:00,5,0,54,,0,0,3
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),013,09:00,09:15,6,1,88,,3,4,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),014,09:15,09:30,5,3,55,,2,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),015,09:30,09:45,0,0,49,,1,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),016,09:45,10:00,2,0,66,,2,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),017,10:00,10:15,5,1,57,,0,2,1
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),018,10:15,10:30,2,0,49,,1,2,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),019,10:30,10:45,2,1,62,,2,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),020,10:45,11:00,5,0,75,,2,3,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),021,11:00,11:15,3,2,64,,1,2,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),022,11:15,11:30,4,0,68,,1,3,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),023,11:30,11:45,3,0,54,,2,2,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),024,11:45,12:00,5,0,49,,3,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),025,12:00,12:15,5,0,72,,4,1,5
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),026,12:15,12:30,3,1,42,,0,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),027,12:30,12:45,5,1,51,,3,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),028,12:45,13:00,1,1,71,,2,3,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),029,13:00,13:15,2,1,71,,1,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),030,13:15,13:30,4,1,67,,2,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),031,13:30,13:45,0,0,58,,3,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),032,13:45,14:00,5,1,58,,0,2,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),033,14:00,14:15,2,1,57,,0,2,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),034,14:15,14:30,4,0,70,,1,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),035,14:30,14:45,9,2,79,,1,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),036,14:45,15:00,4,1,67,,2,2,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),037,15:00,15:15,8,1,78,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),038,15:15,15:30,8,3,69,,2,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),039,15:30,15:45,4,0,89,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),040,15:45,16:00,5,1,58,,1,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),041,16:00,16:15,6,4,107,,8,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),042,16:15,16:30,5,1,79,,1,1,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),043,16:30,16:45,6,2,81,,0,3,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),044,16:45,17:00,8,1,61,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),045,17:00,17:15,4,3,73,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),046,17:15,17:30,12,0,69,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),047,17:30,17:45,6,0,67,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),048,17:45,18:00,5,1,90,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),049,18:00,18:15,6,2,68,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),050,18:15,18:30,13,2,72,,0,0,2
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),051,18:30,18:45,8,1,80,,0,0,0
+4,A,0,0,QA1,Querschnitt,,AR...(1) + AG...(2) + AL...(3),052,18:45,19:00,5,1,71,,0,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),001,06:00,06:15,1,4,48,,0,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),002,06:15,06:30,3,1,66,,0,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),003,06:30,06:45,3,4,73,,2,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),004,06:45,07:00,8,0,71,,3,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),005,07:00,07:15,4,2,71,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),006,07:15,07:30,4,1,78,,3,2,1
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),007,07:30,07:45,7,0,73,,2,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),008,07:45,08:00,5,0,73,,0,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),009,08:00,08:15,6,0,59,,2,4,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),010,08:15,08:30,1,1,76,,0,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),011,08:30,08:45,12,0,57,,2,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),012,08:45,09:00,11,0,58,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),013,09:00,09:15,5,1,80,,3,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),014,09:15,09:30,3,0,64,,1,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),015,09:30,09:45,6,0,76,,2,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),016,09:45,10:00,9,2,66,,0,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),017,10:00,10:15,2,1,62,,2,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),018,10:15,10:30,7,0,64,,1,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),019,10:30,10:45,1,2,69,,1,3,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),020,10:45,11:00,4,1,58,,2,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),021,11:00,11:15,4,0,61,,0,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),022,11:15,11:30,4,1,58,,1,3,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),023,11:30,11:45,1,2,53,,1,3,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),024,11:45,12:00,6,1,62,,1,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),025,12:00,12:15,5,0,56,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),026,12:15,12:30,2,2,66,,0,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),027,12:30,12:45,4,0,60,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),028,12:45,13:00,1,2,66,,4,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),029,13:00,13:15,2,1,64,,1,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),030,13:15,13:30,1,0,42,,2,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),031,13:30,13:45,4,1,68,,0,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),032,13:45,14:00,4,0,66,,4,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),033,14:00,14:15,5,0,63,,4,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),034,14:15,14:30,1,1,63,,0,0,1
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),035,14:30,14:45,5,0,75,,0,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),036,14:45,15:00,3,0,65,,0,3,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),037,15:00,15:15,3,2,55,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),038,15:15,15:30,11,2,68,,1,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),039,15:30,15:45,4,2,72,,0,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),040,15:45,16:00,1,2,66,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),041,16:00,16:15,7,0,94,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),042,16:15,16:30,6,4,100,,0,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),043,16:30,16:45,9,4,96,,2,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),044,16:45,17:00,5,2,85,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),045,17:00,17:15,0,0,69,,0,2,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),046,17:15,17:30,7,0,70,,2,1,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),047,17:30,17:45,11,0,92,,0,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),048,17:45,18:00,5,1,76,,0,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),049,18:00,18:15,5,0,85,,0,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),050,18:15,18:30,6,2,78,,2,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),051,18:30,18:45,6,2,55,,1,0,0
+5,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8) + DL..(12),052,18:45,19:00,4,0,57,,0,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,001,06:00,06:15,1,4,98,,0,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,002,06:15,06:30,5,1,133,,1,4,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,003,06:30,06:45,7,5,138,,3,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,004,06:45,07:00,11,2,162,,5,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,005,07:00,07:15,9,4,160,,4,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,006,07:15,07:30,15,4,142,,3,3,1
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,007,07:30,07:45,15,1,155,,2,0,1
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,008,07:45,08:00,8,0,146,,2,3,1
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,009,08:00,08:15,8,10,118,,2,7,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,010,08:15,08:30,5,1,143,,4,2,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,011,08:30,08:45,14,0,122,,5,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,012,08:45,09:00,16,0,112,,1,0,3
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,013,09:00,09:15,11,2,168,,6,4,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,014,09:15,09:30,8,3,119,,3,3,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,015,09:30,09:45,6,0,125,,3,3,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,016,09:45,10:00,11,2,132,,2,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,017,10:00,10:15,7,2,119,,2,3,1
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,018,10:15,10:30,9,0,113,,2,4,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,019,10:30,10:45,3,3,131,,3,4,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,020,10:45,11:00,9,1,133,,4,4,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,021,11:00,11:15,7,2,125,,1,4,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,022,11:15,11:30,8,1,126,,2,6,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,023,11:30,11:45,4,2,107,,3,5,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,024,11:45,12:00,11,1,111,,4,2,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,025,12:00,12:15,10,0,128,,5,1,5
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,026,12:15,12:30,5,3,108,,0,2,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,027,12:30,12:45,9,1,111,,4,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,028,12:45,13:00,2,3,137,,6,5,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,029,13:00,13:15,4,2,135,,2,2,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,030,13:15,13:30,5,1,109,,4,3,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,031,13:30,13:45,4,1,126,,3,2,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,032,13:45,14:00,9,1,124,,4,3,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,033,14:00,14:15,7,1,120,,4,3,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,034,14:15,14:30,5,1,133,,1,1,1
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,035,14:30,14:45,14,2,154,,1,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,036,14:45,15:00,7,1,132,,2,5,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,037,15:00,15:15,11,3,133,,1,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,038,15:15,15:30,19,5,137,,3,2,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,039,15:30,15:45,8,2,161,,0,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,040,15:45,16:00,6,3,124,,2,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,041,16:00,16:15,13,4,201,,9,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,042,16:15,16:30,11,5,179,,1,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,043,16:30,16:45,15,6,177,,2,3,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,044,16:45,17:00,13,3,146,,1,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,045,17:00,17:15,4,3,142,,0,2,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,046,17:15,17:30,19,0,139,,2,1,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,047,17:30,17:45,17,0,159,,0,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,048,17:45,18:00,10,2,166,,0,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,049,18:00,18:15,11,2,153,,0,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,050,18:15,18:30,19,4,150,,2,0,2
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,051,18:30,18:45,14,3,135,,1,0,0
+6,A,0,0,QA,Querschnitt,,QA1 + QA2,052,18:45,19:00,9,1,128,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,001,06:00,06:15,0,1,8,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,002,06:15,06:30,0,0,10,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,003,06:30,06:45,1,0,12,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,004,06:45,07:00,4,0,19,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,005,07:00,07:15,1,1,14,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,006,07:15,07:30,1,0,18,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,007,07:30,07:45,3,0,14,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,008,07:45,08:00,1,0,20,,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,009,08:00,08:15,2,0,18,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,010,08:15,08:30,0,0,19,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,011,08:30,08:45,4,0,20,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,012,08:45,09:00,6,0,20,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,013,09:00,09:15,3,0,23,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,014,09:15,09:30,0,0,16,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,015,09:30,09:45,3,0,29,,2,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,016,09:45,10:00,5,0,15,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,017,10:00,10:15,0,0,23,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,018,10:15,10:30,1,0,24,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,019,10:30,10:45,0,1,22,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,020,10:45,11:00,3,0,25,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,021,11:00,11:15,1,0,24,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,022,11:15,11:30,0,1,17,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,023,11:30,11:45,0,0,18,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,024,11:45,12:00,2,0,23,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,025,12:00,12:15,2,0,17,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,026,12:15,12:30,1,2,23,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,027,12:30,12:45,1,0,25,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,028,12:45,13:00,1,1,25,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,029,13:00,13:15,0,0,26,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,030,13:15,13:30,0,0,15,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,031,13:30,13:45,3,0,27,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,032,13:45,14:00,2,0,23,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,033,14:00,14:15,3,0,23,,1,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,034,14:15,14:30,1,0,13,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,035,14:30,14:45,1,0,20,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,036,14:45,15:00,0,0,17,,0,1,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,037,15:00,15:15,1,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,038,15:15,15:30,4,1,12,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,039,15:30,15:45,0,1,21,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,040,15:45,16:00,1,0,20,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,041,16:00,16:15,2,0,30,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,042,16:15,16:30,3,1,35,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,043,16:30,16:45,0,0,37,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,044,16:45,17:00,0,0,41,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,045,17:00,17:15,0,0,29,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,046,17:15,17:30,4,0,25,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,047,17:30,17:45,6,0,35,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,048,17:45,18:00,1,1,29,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,049,18:00,18:15,3,0,26,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,050,18:15,18:30,5,0,32,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,051,18:30,18:45,2,1,28,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Leipziger Straße,052,18:45,19:00,2,0,30,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,001,06:00,06:15,0,0,23,,1,0,4
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,002,06:15,06:30,0,1,24,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,003,06:30,06:45,5,1,41,,0,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,004,06:45,07:00,1,0,47,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,005,07:00,07:15,5,0,53,,5,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,006,07:15,07:30,7,0,46,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,007,07:30,07:45,5,0,69,,1,1,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,008,07:45,08:00,2,1,43,,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,009,08:00,08:15,5,0,64,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,010,08:15,08:30,6,0,58,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,011,08:30,08:45,3,1,51,,3,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,012,08:45,09:00,6,0,53,,3,1,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,013,09:00,09:15,2,0,58,,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,014,09:15,09:30,6,0,59,,2,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,015,09:30,09:45,7,1,84,,5,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,016,09:45,10:00,1,1,67,,3,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,017,10:00,10:15,4,0,77,,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,018,10:15,10:30,8,0,81,,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,019,10:30,10:45,15,1,73,,1,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,020,10:45,11:00,6,0,85,,2,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,021,11:00,11:15,5,1,81,,0,2,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,022,11:15,11:30,9,1,77,,5,0,3
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,023,11:30,11:45,8,1,60,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,024,11:45,12:00,6,0,71,,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,025,12:00,12:15,7,0,69,,1,1,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,026,12:15,12:30,8,2,70,,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,027,12:30,12:45,6,2,70,,5,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,028,12:45,13:00,4,2,66,,4,1,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,029,13:00,13:15,3,3,83,,3,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,030,13:15,13:30,7,2,87,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,031,13:30,13:45,4,2,85,,2,1,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,032,13:45,14:00,3,4,78,,1,1,3
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,033,14:00,14:15,4,2,76,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,034,14:15,14:30,9,1,93,,5,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,035,14:30,14:45,5,1,74,,1,1,3
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,036,14:45,15:00,7,2,98,,2,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,037,15:00,15:15,11,2,102,,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,038,15:15,15:30,5,3,99,,3,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,039,15:30,15:45,17,2,102,,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,040,15:45,16:00,10,1,93,,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,041,16:00,16:15,15,3,116,,1,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,042,16:15,16:30,5,3,116,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,043,16:30,16:45,13,0,109,,0,1,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,044,16:45,17:00,11,2,110,,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,045,17:00,17:15,10,2,93,,1,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,046,17:15,17:30,5,1,87,,2,3,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,047,17:30,17:45,6,0,91,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,048,17:45,18:00,8,3,82,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,049,18:00,18:15,7,1,72,,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,050,18:15,18:30,12,0,71,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,051,18:30,18:45,6,2,70,,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Brenneckestraße,052,18:45,19:00,5,4,62,,0,3,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,001,06:00,06:15,0,0,8,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,002,06:15,06:30,0,0,5,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,003,06:30,06:45,0,0,10,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,004,06:45,07:00,0,0,8,,2,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,005,07:00,07:15,0,1,7,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,006,07:15,07:30,0,0,6,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,007,07:30,07:45,1,1,13,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,008,07:45,08:00,0,0,12,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,009,08:00,08:15,0,0,16,,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,010,08:15,08:30,1,0,8,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,011,08:30,08:45,0,0,9,,0,2,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,012,08:45,09:00,0,1,9,,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,013,09:00,09:15,0,0,5,,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,014,09:15,09:30,0,1,7,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,015,09:30,09:45,2,0,16,,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,016,09:45,10:00,2,1,14,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,017,10:00,10:15,1,0,7,,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,018,10:15,10:30,0,1,15,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,019,10:30,10:45,0,0,15,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,020,10:45,11:00,0,1,13,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,021,11:00,11:15,0,0,8,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,022,11:15,11:30,0,0,13,,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,023,11:30,11:45,0,0,4,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,024,11:45,12:00,0,0,5,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,025,12:00,12:15,0,0,5,,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,026,12:15,12:30,0,0,6,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,027,12:30,12:45,1,0,10,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,028,12:45,13:00,1,1,4,,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,029,13:00,13:15,2,1,16,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,030,13:15,13:30,0,0,12,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,031,13:30,13:45,1,0,9,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,032,13:45,14:00,1,0,9,,0,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,033,14:00,14:15,0,1,13,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,034,14:15,14:30,0,0,4,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,035,14:30,14:45,2,1,15,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,036,14:45,15:00,2,0,17,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,037,15:00,15:15,0,0,14,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,038,15:15,15:30,0,1,12,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,039,15:30,15:45,3,0,16,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,040,15:45,16:00,4,0,16,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,041,16:00,16:15,3,0,20,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,042,16:15,16:30,0,0,16,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,043,16:30,16:45,0,0,15,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,044,16:45,17:00,0,0,17,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,045,17:00,17:15,0,1,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,046,17:15,17:30,0,0,14,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,047,17:30,17:45,0,0,13,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,048,17:45,18:00,0,0,15,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,049,18:00,18:15,0,0,15,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,050,18:15,18:30,0,0,17,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,051,18:30,18:45,0,0,9,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Leipziger Straße,052,18:45,19:00,0,1,6,,0,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),001,06:00,06:15,0,1,39,,1,0,4
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),002,06:15,06:30,0,1,39,,0,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),003,06:30,06:45,6,1,63,,0,0,2
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),004,06:45,07:00,5,0,74,,3,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),005,07:00,07:15,6,2,74,,6,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),006,07:15,07:30,8,0,70,,1,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),007,07:30,07:45,9,1,96,,1,1,2
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),008,07:45,08:00,3,1,75,,1,1,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),009,08:00,08:15,7,0,98,,3,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),010,08:15,08:30,7,0,85,,0,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),011,08:30,08:45,7,1,80,,4,3,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),012,08:45,09:00,12,1,82,,3,2,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),013,09:00,09:15,5,0,86,,3,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),014,09:15,09:30,6,1,82,,2,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),015,09:30,09:45,12,1,129,,7,1,2
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),016,09:45,10:00,8,2,96,,3,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),017,10:00,10:15,5,0,107,,2,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),018,10:15,10:30,9,1,120,,1,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),019,10:30,10:45,15,2,110,,2,0,2
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),020,10:45,11:00,9,1,123,,2,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),021,11:00,11:15,6,1,113,,0,2,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),022,11:15,11:30,9,2,107,,6,0,3
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),023,11:30,11:45,8,1,82,,2,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),024,11:45,12:00,8,0,99,,0,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),025,12:00,12:15,9,0,91,,3,1,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),026,12:15,12:30,9,4,99,,3,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),027,12:30,12:45,8,2,105,,5,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),028,12:45,13:00,6,4,95,,6,1,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),029,13:00,13:15,5,4,125,,3,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),030,13:15,13:30,7,2,114,,2,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),031,13:30,13:45,8,2,121,,2,1,2
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),032,13:45,14:00,6,4,110,,1,2,3
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),033,14:00,14:15,7,3,112,,2,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),034,14:15,14:30,10,1,110,,5,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),035,14:30,14:45,8,2,109,,1,1,3
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),036,14:45,15:00,9,2,132,,2,1,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),037,15:00,15:15,12,2,118,,1,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),038,15:15,15:30,9,5,123,,4,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),039,15:30,15:45,20,3,139,,1,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),040,15:45,16:00,15,1,129,,0,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),041,16:00,16:15,20,3,166,,2,0,2
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),042,16:15,16:30,8,4,167,,1,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),043,16:30,16:45,13,0,161,,1,1,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),044,16:45,17:00,11,2,168,,0,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),045,17:00,17:15,10,3,125,,1,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),046,17:15,17:30,9,1,126,,3,3,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),047,17:30,17:45,12,0,139,,0,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),048,17:45,18:00,9,4,126,,1,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),049,18:00,18:15,10,1,113,,0,0,1
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),050,18:15,18:30,17,0,120,,1,0,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),051,18:30,18:45,8,3,107,,0,1,0
+10,B,0,0,QB1,Querschnitt,,BR...(4) + BG...(5) + BL...(6),052,18:45,19:00,7,5,98,,0,3,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),001,06:00,06:15,7,1,54,,1,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),002,06:15,06:30,8,2,88,,2,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),003,06:30,06:45,25,2,114,,1,1,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),004,06:45,07:00,24,0,113,,9,2,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),005,07:00,07:15,19,3,135,,2,2,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),006,07:15,07:30,26,0,150,,6,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),007,07:30,07:45,10,0,138,,0,2,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),008,07:45,08:00,17,0,136,,4,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),009,08:00,08:15,15,10,91,,0,1,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),010,08:15,08:30,13,2,95,,3,0,2
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),011,08:30,08:45,10,5,100,,6,1,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),012,08:45,09:00,9,1,92,,3,0,2
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),013,09:00,09:15,10,1,87,,2,1,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),014,09:15,09:30,9,3,80,,2,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),015,09:30,09:45,13,1,97,,1,1,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),016,09:45,10:00,18,1,86,,4,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),017,10:00,10:15,6,0,74,,3,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),018,10:15,10:30,9,1,70,,1,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),019,10:30,10:45,12,0,84,,7,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),020,10:45,11:00,5,0,84,,0,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),021,11:00,11:15,10,2,84,,3,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),022,11:15,11:30,6,0,70,,0,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),023,11:30,11:45,4,2,52,,2,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),024,11:45,12:00,5,0,65,,2,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),025,12:00,12:15,3,2,83,,4,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),026,12:15,12:30,7,3,65,,0,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),027,12:30,12:45,3,0,55,,3,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),028,12:45,13:00,2,0,53,,2,1,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),029,13:00,13:15,10,4,85,,4,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),030,13:15,13:30,7,0,68,,2,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),031,13:30,13:45,7,2,81,,1,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),032,13:45,14:00,10,1,76,,0,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),033,14:00,14:15,13,2,69,,2,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),034,14:15,14:30,12,4,65,,1,1,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),035,14:30,14:45,19,3,103,,1,2,4
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),036,14:45,15:00,13,2,73,,1,13,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),037,15:00,15:15,6,2,102,,1,2,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),038,15:15,15:30,13,1,79,,1,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),039,15:30,15:45,4,0,80,,1,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),040,15:45,16:00,3,0,63,,1,1,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),041,16:00,16:15,16,1,83,,1,1,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),042,16:15,16:30,6,0,67,,0,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),043,16:30,16:45,7,2,114,,0,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),044,16:45,17:00,5,1,64,,0,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),045,17:00,17:15,8,1,87,,0,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),046,17:15,17:30,11,1,66,,0,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),047,17:30,17:45,6,0,69,,1,0,1
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),048,17:45,18:00,8,2,59,,2,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),049,18:00,18:15,7,1,55,,0,0,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),050,18:15,18:30,11,1,48,,1,2,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),051,18:30,18:45,7,1,71,,0,1,0
+11,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7) + DG..(11),052,18:45,19:00,0,0,45,,1,2,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,001,06:00,06:15,7,2,93,,2,0,5
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,002,06:15,06:30,8,3,127,,2,0,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,003,06:30,06:45,31,3,177,,1,1,3
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,004,06:45,07:00,29,0,187,,12,2,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,005,07:00,07:15,25,5,209,,8,3,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,006,07:15,07:30,34,0,220,,7,0,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,007,07:30,07:45,19,1,234,,1,3,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,008,07:45,08:00,20,1,211,,5,1,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,009,08:00,08:15,22,10,189,,3,2,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,010,08:15,08:30,20,2,180,,3,0,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,011,08:30,08:45,17,6,180,,10,4,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,012,08:45,09:00,21,2,174,,6,2,3
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,013,09:00,09:15,15,1,173,,5,1,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,014,09:15,09:30,15,4,162,,4,1,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,015,09:30,09:45,25,2,226,,8,2,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,016,09:45,10:00,26,3,182,,7,1,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,017,10:00,10:15,11,0,181,,5,0,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,018,10:15,10:30,18,2,190,,2,1,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,019,10:30,10:45,27,2,194,,9,0,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,020,10:45,11:00,14,1,207,,2,1,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,021,11:00,11:15,16,3,197,,3,2,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,022,11:15,11:30,15,2,177,,6,0,3
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,023,11:30,11:45,12,3,134,,4,0,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,024,11:45,12:00,13,0,164,,2,0,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,025,12:00,12:15,12,2,174,,7,1,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,026,12:15,12:30,16,7,164,,3,0,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,027,12:30,12:45,11,2,160,,8,0,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,028,12:45,13:00,8,4,148,,8,2,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,029,13:00,13:15,15,8,210,,7,0,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,030,13:15,13:30,14,2,182,,4,0,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,031,13:30,13:45,15,4,202,,3,1,3
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,032,13:45,14:00,16,5,186,,1,2,4
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,033,14:00,14:15,20,5,181,,4,1,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,034,14:15,14:30,22,5,175,,6,1,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,035,14:30,14:45,27,5,212,,2,3,7
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,036,14:45,15:00,22,4,205,,3,14,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,037,15:00,15:15,18,4,220,,2,2,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,038,15:15,15:30,22,6,202,,5,0,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,039,15:30,15:45,24,3,219,,2,0,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,040,15:45,16:00,18,1,192,,1,2,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,041,16:00,16:15,36,4,249,,3,1,2
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,042,16:15,16:30,14,4,234,,1,0,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,043,16:30,16:45,20,2,275,,1,1,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,044,16:45,17:00,16,3,232,,0,0,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,045,17:00,17:15,18,4,212,,1,1,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,046,17:15,17:30,20,2,192,,3,3,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,047,17:30,17:45,18,0,208,,1,0,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,048,17:45,18:00,17,6,185,,3,0,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,049,18:00,18:15,17,2,168,,0,0,1
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,050,18:15,18:30,28,1,168,,2,2,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,051,18:30,18:45,15,4,178,,0,2,0
+12,B,0,0,QB,Querschnitt,,QB1 + QB2,052,18:45,19:00,7,5,143,,1,5,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,001,06:00,06:15,0,0,3,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,002,06:15,06:30,1,0,9,,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,003,06:30,06:45,3,0,11,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,004,06:45,07:00,3,0,6,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,005,07:00,07:15,1,0,14,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,006,07:15,07:30,1,0,11,,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,007,07:30,07:45,1,0,17,,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,008,07:45,08:00,2,0,11,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,009,08:00,08:15,1,0,14,,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,010,08:15,08:30,0,0,9,,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,011,08:30,08:45,0,1,11,,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,012,08:45,09:00,0,0,14,,3,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,013,09:00,09:15,1,0,7,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,014,09:15,09:30,0,0,6,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,015,09:30,09:45,1,1,10,,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,016,09:45,10:00,1,0,14,,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,017,10:00,10:15,0,0,11,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,018,10:15,10:30,1,0,18,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,019,10:30,10:45,1,0,15,,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,020,10:45,11:00,1,0,12,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,021,11:00,11:15,1,1,15,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,022,11:15,11:30,0,0,2,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,023,11:30,11:45,0,0,7,,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,024,11:45,12:00,2,0,15,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,025,12:00,12:15,1,0,6,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,026,12:15,12:30,0,0,10,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,027,12:30,12:45,0,0,10,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,028,12:45,13:00,0,0,4,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,029,13:00,13:15,0,1,9,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,030,13:15,13:30,0,0,8,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,031,13:30,13:45,1,0,12,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,032,13:45,14:00,0,0,7,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,033,14:00,14:15,3,0,9,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,034,14:15,14:30,0,2,11,,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,035,14:30,14:45,1,0,13,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,036,14:45,15:00,0,0,13,,0,12,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,037,15:00,15:15,1,0,8,,0,1,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,038,15:15,15:30,0,0,10,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,039,15:30,15:45,0,0,6,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,040,15:45,16:00,1,0,6,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,041,16:00,16:15,0,0,8,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,042,16:15,16:30,0,0,10,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,043,16:30,16:45,0,0,15,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,044,16:45,17:00,0,0,13,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,045,17:00,17:15,2,0,9,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,046,17:15,17:30,4,0,5,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,047,17:30,17:45,1,0,11,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,048,17:45,18:00,2,0,10,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,049,18:00,18:15,2,0,7,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,050,18:15,18:30,3,0,6,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,051,18:30,18:45,0,0,11,,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Salbker Straße,052,18:45,19:00,0,0,4,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,001,06:00,06:15,0,2,34,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,002,06:15,06:30,1,1,43,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,003,06:30,06:45,1,3,47,,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,004,06:45,07:00,2,0,32,,3,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,005,07:00,07:15,3,0,39,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,006,07:15,07:30,1,1,40,,2,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,007,07:30,07:45,3,0,39,,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,008,07:45,08:00,3,0,37,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,009,08:00,08:15,2,0,30,,1,4,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,010,08:15,08:30,1,1,44,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,011,08:30,08:45,5,0,28,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,012,08:45,09:00,2,0,29,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,013,09:00,09:15,0,0,37,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,014,09:15,09:30,0,0,34,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,015,09:30,09:45,3,0,39,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,016,09:45,10:00,3,1,37,,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,017,10:00,10:15,1,0,34,,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,018,10:15,10:30,4,0,33,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,019,10:30,10:45,1,1,34,,0,3,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,020,10:45,11:00,1,1,25,,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,021,11:00,11:15,1,0,28,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,022,11:15,11:30,1,0,35,,1,3,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,023,11:30,11:45,0,2,26,,0,3,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,024,11:45,12:00,3,0,27,,1,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,025,12:00,12:15,2,0,27,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,026,12:15,12:30,1,0,29,,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,027,12:30,12:45,1,0,29,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,028,12:45,13:00,0,1,34,,2,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,029,13:00,13:15,1,1,30,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,030,13:15,13:30,1,0,14,,1,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,031,13:30,13:45,1,1,31,,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,032,13:45,14:00,2,0,32,,2,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,033,14:00,14:15,2,0,29,,3,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,034,14:15,14:30,0,1,44,,0,0,1
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,035,14:30,14:45,3,0,45,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,036,14:45,15:00,0,0,41,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,037,15:00,15:15,1,1,38,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,038,15:15,15:30,7,1,48,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,039,15:30,15:45,1,1,37,,0,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,040,15:45,16:00,0,2,36,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,041,16:00,16:15,4,0,57,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,042,16:15,16:30,3,1,47,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,043,16:30,16:45,9,3,46,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,044,16:45,17:00,2,1,33,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,045,17:00,17:15,0,0,35,,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,046,17:15,17:30,3,0,36,,1,1,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,047,17:30,17:45,3,0,43,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,048,17:45,18:00,4,0,31,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,049,18:00,18:15,1,0,45,,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,050,18:15,18:30,1,2,27,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,051,18:30,18:45,4,1,22,,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Salbker Straße,052,18:45,19:00,2,0,21,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,001,06:00,06:15,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,002,06:15,06:30,0,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,003,06:30,06:45,0,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,004,06:45,07:00,0,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,005,07:00,07:15,0,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,006,07:15,07:30,0,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,007,07:30,07:45,0,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,008,07:45,08:00,2,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,009,08:00,08:15,0,0,5,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,010,08:15,08:30,0,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,011,08:30,08:45,0,0,9,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,012,08:45,09:00,0,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,013,09:00,09:15,0,0,5,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,014,09:15,09:30,3,0,10,,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,015,09:30,09:45,0,1,9,,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,016,09:45,10:00,0,0,6,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,017,10:00,10:15,0,0,5,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,018,10:15,10:30,0,0,8,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,019,10:30,10:45,0,0,13,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,020,10:45,11:00,0,0,5,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,021,11:00,11:15,0,0,6,,0,1,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,022,11:15,11:30,0,0,13,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,023,11:30,11:45,0,0,8,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,024,11:45,12:00,0,0,8,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,025,12:00,12:15,0,0,8,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,026,12:15,12:30,0,1,11,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,027,12:30,12:45,1,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,028,12:45,13:00,0,0,8,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,029,13:00,13:15,1,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,030,13:15,13:30,4,0,6,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,031,13:30,13:45,0,0,6,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,032,13:45,14:00,0,0,9,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,033,14:00,14:15,0,0,7,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,034,14:15,14:30,0,0,13,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,035,14:30,14:45,2,0,11,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,036,14:45,15:00,0,1,6,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,037,15:00,15:15,0,1,4,,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,038,15:15,15:30,0,0,6,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,039,15:30,15:45,0,0,10,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,040,15:45,16:00,0,0,6,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,041,16:00,16:15,0,0,4,,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,042,16:15,16:30,0,1,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,043,16:30,16:45,0,0,6,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,044,16:45,17:00,0,0,4,,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,045,17:00,17:15,0,0,11,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,046,17:15,17:30,1,0,2,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,047,17:30,17:45,0,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,048,17:45,18:00,0,0,5,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,049,18:00,18:15,0,0,4,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,050,18:15,18:30,0,0,9,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,051,18:30,18:45,0,0,3,,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Salbker Straße,052,18:45,19:00,3,0,4,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),001,06:00,06:15,0,2,39,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),002,06:15,06:30,2,1,55,,1,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),003,06:30,06:45,4,3,60,,1,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),004,06:45,07:00,5,0,42,,3,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),005,07:00,07:15,4,0,56,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),006,07:15,07:30,2,1,55,,3,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),007,07:30,07:45,4,0,59,,2,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),008,07:45,08:00,7,0,50,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),009,08:00,08:15,3,0,49,,1,5,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),010,08:15,08:30,1,1,57,,1,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),011,08:30,08:45,5,1,48,,1,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),012,08:45,09:00,2,0,47,,4,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),013,09:00,09:15,1,0,49,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),014,09:15,09:30,3,0,50,,1,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),015,09:30,09:45,4,2,58,,1,3,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),016,09:45,10:00,4,1,57,,1,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),017,10:00,10:15,1,0,50,,1,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),018,10:15,10:30,5,0,59,,0,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),019,10:30,10:45,2,1,62,,1,3,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),020,10:45,11:00,2,1,42,,1,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),021,11:00,11:15,2,1,49,,0,3,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),022,11:15,11:30,1,0,50,,1,3,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),023,11:30,11:45,0,2,41,,1,3,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),024,11:45,12:00,5,0,50,,1,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),025,12:00,12:15,3,0,41,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),026,12:15,12:30,1,1,50,,0,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),027,12:30,12:45,2,0,43,,1,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),028,12:45,13:00,0,1,46,,2,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),029,13:00,13:15,2,2,42,,0,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),030,13:15,13:30,5,0,28,,1,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),031,13:30,13:45,2,1,49,,0,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),032,13:45,14:00,2,0,48,,2,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),033,14:00,14:15,5,0,45,,3,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),034,14:15,14:30,0,3,68,,0,1,1
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),035,14:30,14:45,6,0,69,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),036,14:45,15:00,0,1,60,,0,14,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),037,15:00,15:15,2,2,50,,2,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),038,15:15,15:30,7,1,64,,0,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),039,15:30,15:45,1,1,53,,0,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),040,15:45,16:00,1,2,48,,1,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),041,16:00,16:15,4,0,69,,1,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),042,16:15,16:30,3,2,60,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),043,16:30,16:45,9,3,67,,1,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),044,16:45,17:00,2,1,50,,2,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),045,17:00,17:15,2,0,55,,0,2,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),046,17:15,17:30,8,0,43,,1,1,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),047,17:30,17:45,4,0,57,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),048,17:45,18:00,6,0,46,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),049,18:00,18:15,3,0,56,,0,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),050,18:15,18:30,4,2,42,,1,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),051,18:30,18:45,4,1,36,,1,0,0
+16,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8) + CL...(9),052,18:45,19:00,5,0,29,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),001,06:00,06:15,0,0,51,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),002,06:15,06:30,3,0,51,,1,4,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),003,06:30,06:45,4,1,48,,1,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),004,06:45,07:00,3,2,75,,5,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),005,07:00,07:15,4,2,74,,1,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),006,07:15,07:30,8,3,54,,0,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),007,07:30,07:45,9,2,63,,0,0,1
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),008,07:45,08:00,2,0,68,,0,2,1
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),009,08:00,08:15,1,0,63,,0,4,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),010,08:15,08:30,5,0,57,,2,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),011,08:30,08:45,1,0,47,,2,2,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),012,08:45,09:00,5,2,51,,0,1,3
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),013,09:00,09:15,6,0,54,,4,4,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),014,09:15,09:30,3,2,48,,2,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),015,09:30,09:45,3,0,49,,1,2,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),016,09:45,10:00,6,1,47,,2,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),017,10:00,10:15,5,1,42,,1,2,1
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),018,10:15,10:30,1,1,57,,0,2,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),019,10:30,10:45,0,1,53,,1,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),020,10:45,11:00,3,1,62,,2,3,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),021,11:00,11:15,2,2,60,,0,2,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),022,11:15,11:30,3,0,53,,1,3,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),023,11:30,11:45,3,0,40,,1,2,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),024,11:45,12:00,3,0,44,,2,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),025,12:00,12:15,5,0,53,,3,1,5
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),026,12:15,12:30,2,0,44,,0,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),027,12:30,12:45,4,1,45,,2,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),028,12:45,13:00,2,2,50,,3,2,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),029,13:00,13:15,3,2,71,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),030,13:15,13:30,3,1,60,,1,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),031,13:30,13:45,2,0,50,,2,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),032,13:45,14:00,5,1,62,,0,3,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),033,14:00,14:15,3,2,58,,0,2,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),034,14:15,14:30,5,0,62,,1,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),035,14:30,14:45,9,3,63,,2,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),036,14:45,15:00,5,0,63,,1,2,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),037,15:00,15:15,5,1,69,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),038,15:15,15:30,6,1,56,,2,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),039,15:30,15:45,7,0,69,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),040,15:45,16:00,9,1,57,,1,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),041,16:00,16:15,6,3,100,,8,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),042,16:15,16:30,4,1,73,,1,1,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),043,16:30,16:45,5,1,57,,0,3,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),044,16:45,17:00,5,1,57,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),045,17:00,17:15,2,2,53,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),046,17:15,17:30,10,0,64,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),047,17:30,17:45,7,0,58,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),048,17:45,18:00,3,0,85,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),049,18:00,18:15,4,1,62,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),050,18:15,18:30,11,2,67,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),051,18:30,18:45,8,1,68,,0,0,0
+17,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6) + DR..(10),052,18:45,19:00,5,2,45,,0,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,001,06:00,06:15,0,2,90,,0,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,002,06:15,06:30,5,1,106,,2,4,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,003,06:30,06:45,8,4,108,,2,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,004,06:45,07:00,8,2,117,,8,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,005,07:00,07:15,8,2,130,,1,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,006,07:15,07:30,10,4,109,,3,3,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,007,07:30,07:45,13,2,122,,2,1,1
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,008,07:45,08:00,9,0,118,,0,2,1
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,009,08:00,08:15,4,0,112,,1,9,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,010,08:15,08:30,6,1,114,,3,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,011,08:30,08:45,6,1,95,,3,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,012,08:45,09:00,7,2,98,,4,1,3
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,013,09:00,09:15,7,0,103,,4,4,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,014,09:15,09:30,6,2,98,,3,3,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,015,09:30,09:45,7,2,107,,2,5,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,016,09:45,10:00,10,2,104,,3,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,017,10:00,10:15,6,1,92,,2,3,1
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,018,10:15,10:30,6,1,116,,0,4,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,019,10:30,10:45,2,2,115,,2,4,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,020,10:45,11:00,5,2,104,,3,4,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,021,11:00,11:15,4,3,109,,0,5,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,022,11:15,11:30,4,0,103,,2,6,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,023,11:30,11:45,3,2,81,,2,5,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,024,11:45,12:00,8,0,94,,3,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,025,12:00,12:15,8,0,94,,3,1,5
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,026,12:15,12:30,3,1,94,,0,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,027,12:30,12:45,6,1,88,,3,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,028,12:45,13:00,2,3,96,,5,4,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,029,13:00,13:15,5,4,113,,0,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,030,13:15,13:30,8,1,88,,2,3,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,031,13:30,13:45,4,1,99,,2,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,032,13:45,14:00,7,1,110,,2,4,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,033,14:00,14:15,8,2,103,,3,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,034,14:15,14:30,5,3,130,,1,2,1
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,035,14:30,14:45,15,3,132,,2,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,036,14:45,15:00,5,1,123,,1,16,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,037,15:00,15:15,7,3,119,,2,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,038,15:15,15:30,13,2,120,,2,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,039,15:30,15:45,8,1,122,,0,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,040,15:45,16:00,10,3,105,,2,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,041,16:00,16:15,10,3,169,,9,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,042,16:15,16:30,7,3,133,,1,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,043,16:30,16:45,14,4,124,,1,3,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,044,16:45,17:00,7,2,107,,2,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,045,17:00,17:15,4,2,108,,0,2,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,046,17:15,17:30,18,0,107,,1,1,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,047,17:30,17:45,11,0,115,,0,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,048,17:45,18:00,9,0,131,,0,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,049,18:00,18:15,7,1,118,,0,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,050,18:15,18:30,15,4,109,,1,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,051,18:30,18:45,12,2,104,,1,0,0
+18,C,0,0,QC,Querschnitt,,QC1 + QC2,052,18:45,19:00,10,2,74,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,001,06:00,06:15,0,0,3,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,002,06:15,06:30,1,0,7,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,003,06:30,06:45,1,0,1,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,004,06:45,07:00,0,0,5,,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,005,07:00,07:15,1,0,4,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,006,07:15,07:30,0,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,007,07:30,07:45,1,0,3,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,008,07:45,08:00,0,0,9,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,009,08:00,08:15,0,0,6,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,010,08:15,08:30,0,0,8,,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,011,08:30,08:45,1,0,10,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,012,08:45,09:00,1,1,7,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,013,09:00,09:15,0,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,014,09:15,09:30,1,0,10,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,015,09:30,09:45,1,0,6,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,016,09:45,10:00,2,0,4,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,017,10:00,10:15,0,0,5,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,018,10:15,10:30,1,0,5,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,019,10:30,10:45,0,0,5,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,020,10:45,11:00,0,0,6,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,021,11:00,11:15,0,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,022,11:15,11:30,0,0,5,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,023,11:30,11:45,0,0,5,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,024,11:45,12:00,0,0,9,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,025,12:00,12:15,0,0,7,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,026,12:15,12:30,0,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,027,12:30,12:45,0,0,2,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,028,12:45,13:00,0,0,3,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,029,13:00,13:15,0,0,9,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,030,13:15,13:30,0,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,031,13:30,13:45,1,0,5,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,032,13:45,14:00,0,1,13,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,033,14:00,14:15,1,0,10,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,034,14:15,14:30,1,0,9,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,035,14:30,14:45,0,1,5,,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,036,14:45,15:00,1,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,037,15:00,15:15,0,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,038,15:15,15:30,1,0,6,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,039,15:30,15:45,1,0,4,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,040,15:45,16:00,0,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,041,16:00,16:15,0,0,9,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,042,16:15,16:30,1,0,10,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,043,16:30,16:45,0,0,2,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,044,16:45,17:00,0,0,3,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,045,17:00,17:15,0,0,7,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,046,17:15,17:30,0,0,6,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,047,17:30,17:45,2,0,3,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,048,17:45,18:00,1,0,8,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,049,18:00,18:15,1,0,6,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,050,18:15,18:30,3,0,6,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,051,18:30,18:45,3,0,5,,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Leipziger Chaussee,052,18:45,19:00,0,0,4,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,001,06:00,06:15,7,1,46,,1,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,002,06:15,06:30,7,2,70,,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,003,06:30,06:45,21,2,85,,1,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,004,06:45,07:00,21,0,89,,9,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,005,07:00,07:15,16,2,103,,2,2,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,006,07:15,07:30,22,0,121,,5,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,007,07:30,07:45,8,0,99,,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,008,07:45,08:00,14,0,109,,2,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,009,08:00,08:15,13,0,73,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,010,08:15,08:30,13,2,71,,1,0,2
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,011,08:30,08:45,10,4,69,,4,1,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,012,08:45,09:00,9,1,69,,0,0,2
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,013,09:00,09:15,9,0,51,,2,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,014,09:15,09:30,6,1,62,,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,015,09:30,09:45,12,0,69,,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,016,09:45,10:00,17,1,46,,3,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,017,10:00,10:15,5,0,42,,3,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,018,10:15,10:30,7,1,45,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,019,10:30,10:45,9,0,58,,6,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,020,10:45,11:00,4,0,54,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,021,11:00,11:15,8,1,57,,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,022,11:15,11:30,5,0,42,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,023,11:30,11:45,4,2,35,,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,024,11:45,12:00,3,0,41,,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,025,12:00,12:15,2,2,64,,2,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,026,12:15,12:30,7,2,47,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,027,12:30,12:45,3,0,37,,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,028,12:45,13:00,2,0,29,,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,029,13:00,13:15,10,3,63,,4,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,030,13:15,13:30,7,0,41,,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,031,13:30,13:45,6,2,56,,1,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,032,13:45,14:00,9,0,63,,0,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,033,14:00,14:15,10,2,49,,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,034,14:15,14:30,12,2,48,,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,035,14:30,14:45,17,2,71,,1,2,4
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,036,14:45,15:00,12,1,48,,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,037,15:00,15:15,4,2,74,,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,038,15:15,15:30,13,0,54,,1,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,039,15:30,15:45,4,0,60,,1,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,040,15:45,16:00,2,0,42,,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,041,16:00,16:15,15,0,56,,1,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,042,16:15,16:30,6,0,42,,0,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,043,16:30,16:45,6,1,77,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,044,16:45,17:00,4,1,42,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,045,17:00,17:15,6,0,65,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,046,17:15,17:30,6,1,49,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,047,17:30,17:45,5,0,49,,1,0,1
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,048,17:45,18:00,4,2,37,,2,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,049,18:00,18:15,5,0,34,,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,050,18:15,18:30,6,1,33,,1,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,051,18:30,18:45,4,1,49,,0,1,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Leipziger Chaussee,052,18:45,19:00,0,0,22,,1,2,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,001,06:00,06:15,1,1,6,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,002,06:15,06:30,2,0,13,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,003,06:30,06:45,1,1,14,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,004,06:45,07:00,2,0,20,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,005,07:00,07:15,0,1,18,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,006,07:15,07:30,2,0,20,,1,0,1
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,007,07:30,07:45,1,0,20,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,008,07:45,08:00,1,0,16,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,009,08:00,08:15,2,0,11,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,010,08:15,08:30,0,0,13,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,011,08:30,08:45,3,0,9,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,012,08:45,09:00,3,0,9,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,013,09:00,09:15,2,1,20,,2,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,014,09:15,09:30,3,0,14,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,015,09:30,09:45,0,0,8,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,016,09:45,10:00,1,1,14,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,017,10:00,10:15,1,1,5,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,018,10:15,10:30,2,0,7,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,019,10:30,10:45,0,0,13,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,020,10:45,11:00,0,0,8,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,021,11:00,11:15,2,0,9,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,022,11:15,11:30,3,0,6,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,023,11:30,11:45,1,0,9,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,024,11:45,12:00,1,1,12,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,025,12:00,12:15,1,0,12,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,026,12:15,12:30,0,0,14,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,027,12:30,12:45,2,0,6,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,028,12:45,13:00,0,0,7,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,029,13:00,13:15,1,0,8,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,030,13:15,13:30,0,0,13,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,031,13:30,13:45,0,0,10,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,032,13:45,14:00,0,0,11,,2,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,033,14:00,14:15,0,0,11,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,034,14:15,14:30,0,0,6,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,035,14:30,14:45,1,0,10,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,036,14:45,15:00,3,0,7,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,037,15:00,15:15,1,1,15,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,038,15:15,15:30,0,0,8,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,039,15:30,15:45,3,0,14,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,040,15:45,16:00,0,0,10,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,041,16:00,16:15,1,0,7,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,042,16:15,16:30,0,2,18,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,043,16:30,16:45,0,1,13,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,044,16:45,17:00,3,1,11,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,045,17:00,17:15,0,0,5,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,046,17:15,17:30,0,0,9,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,047,17:30,17:45,2,0,14,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,048,17:45,18:00,0,0,16,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,049,18:00,18:15,1,0,14,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,050,18:15,18:30,0,0,19,,1,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,051,18:30,18:45,0,0,5,,0,0,0
+21,D,1,1,DL..(12),Zählstrom,,Linksabbieger Leipziger Chaussee,052,18:45,19:00,0,0,6,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),001,06:00,06:15,8,2,55,,1,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),002,06:15,06:30,10,2,90,,1,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),003,06:30,06:45,23,3,100,,2,1,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),004,06:45,07:00,23,0,114,,10,2,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),005,07:00,07:15,17,3,125,,2,2,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),006,07:15,07:30,24,0,149,,6,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),007,07:30,07:45,10,0,122,,0,1,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),008,07:45,08:00,15,0,134,,2,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),009,08:00,08:15,15,0,90,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),010,08:15,08:30,13,2,92,,2,0,2
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),011,08:30,08:45,14,4,88,,5,1,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),012,08:45,09:00,13,2,85,,0,0,2
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),013,09:00,09:15,11,1,79,,4,1,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),014,09:15,09:30,10,1,86,,3,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),015,09:30,09:45,13,0,83,,1,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),016,09:45,10:00,20,2,64,,3,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),017,10:00,10:15,6,1,52,,4,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),018,10:15,10:30,10,1,57,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),019,10:30,10:45,9,0,76,,6,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),020,10:45,11:00,4,0,68,,1,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),021,11:00,11:15,10,1,74,,2,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),022,11:15,11:30,8,0,53,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),023,11:30,11:45,5,2,49,,2,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),024,11:45,12:00,4,1,62,,1,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),025,12:00,12:15,3,2,83,,2,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),026,12:15,12:30,7,2,69,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),027,12:30,12:45,5,0,45,,2,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),028,12:45,13:00,2,0,39,,3,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),029,13:00,13:15,11,3,80,,5,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),030,13:15,13:30,7,0,62,,2,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),031,13:30,13:45,7,2,71,,1,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),032,13:45,14:00,9,1,87,,2,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),033,14:00,14:15,11,2,70,,2,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),034,14:15,14:30,13,2,63,,1,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),035,14:30,14:45,18,3,86,,2,2,4
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),036,14:45,15:00,16,1,63,,1,1,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),037,15:00,15:15,5,3,97,,1,1,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),038,15:15,15:30,14,0,68,,1,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),039,15:30,15:45,8,0,78,,1,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),040,15:45,16:00,2,0,60,,1,1,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),041,16:00,16:15,16,0,72,,1,1,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),042,16:15,16:30,7,2,70,,0,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),043,16:30,16:45,6,2,92,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),044,16:45,17:00,7,2,56,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),045,17:00,17:15,6,0,77,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),046,17:15,17:30,6,1,64,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),047,17:30,17:45,9,0,66,,1,0,1
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),048,17:45,18:00,5,2,61,,2,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),049,18:00,18:15,7,0,54,,0,0,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),050,18:15,18:30,9,1,58,,2,2,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),051,18:30,18:45,7,1,59,,0,1,0
+22,D,0,0,QD1,Querschnitt,,DR..(10) + DG..(11) + DL..(12),052,18:45,19:00,0,0,32,,1,2,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),001,06:00,06:15,0,0,30,,1,0,4
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),002,06:15,06:30,0,1,46,,0,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),003,06:30,06:45,5,1,53,,0,0,2
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),004,06:45,07:00,1,0,62,,1,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),005,07:00,07:15,5,0,64,,7,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),006,07:15,07:30,7,0,56,,1,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),007,07:30,07:45,5,0,85,,1,1,2
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),008,07:45,08:00,4,1,55,,1,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),009,08:00,08:15,5,0,83,,2,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),010,08:15,08:30,6,0,73,,2,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),011,08:30,08:45,5,1,77,,3,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),012,08:45,09:00,7,0,67,,3,1,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),013,09:00,09:15,2,0,81,,1,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),014,09:15,09:30,9,0,81,,3,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),015,09:30,09:45,7,2,97,,6,0,2
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),016,09:45,10:00,1,1,84,,3,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),017,10:00,10:15,4,0,88,,1,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),018,10:15,10:30,9,0,94,,0,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),019,10:30,10:45,15,1,104,,2,0,2
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),020,10:45,11:00,8,0,104,,2,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),021,11:00,11:15,5,1,95,,0,3,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),022,11:15,11:30,9,1,97,,6,0,3
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),023,11:30,11:45,8,1,81,,3,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),024,11:45,12:00,8,0,89,,0,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),025,12:00,12:15,7,0,95,,1,1,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),026,12:15,12:30,9,3,85,,3,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),027,12:30,12:45,9,2,84,,5,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),028,12:45,13:00,4,2,82,,4,1,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),029,13:00,13:15,5,3,98,,4,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),030,13:15,13:30,12,2,101,,2,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),031,13:30,13:45,4,2,100,,3,1,2
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),032,13:45,14:00,3,4,99,,1,1,3
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),033,14:00,14:15,4,2,94,,1,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),034,14:15,14:30,9,1,121,,5,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),035,14:30,14:45,8,1,102,,1,1,3
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),036,14:45,15:00,8,3,121,,3,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),037,15:00,15:15,13,3,117,,2,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),038,15:15,15:30,8,5,121,,3,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),039,15:30,15:45,18,2,138,,1,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),040,15:45,16:00,10,1,109,,0,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),041,16:00,16:15,17,3,137,,2,0,2
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),042,16:15,16:30,7,4,136,,1,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),043,16:30,16:45,13,0,134,,0,1,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),044,16:45,17:00,13,2,129,,1,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),045,17:00,17:15,12,3,121,,1,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),046,17:15,17:30,7,1,102,,2,3,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),047,17:30,17:45,7,0,110,,0,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),048,17:45,18:00,9,4,103,,1,0,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),049,18:00,18:15,10,1,89,,0,0,1
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),050,18:15,18:30,15,0,99,,1,0,2
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),051,18:30,18:45,6,2,88,,0,1,0
+23,D,0,0,QD2,Querschnitt,,AR...(1) + BG...(5) + CL...(9),052,18:45,19:00,8,4,83,,0,3,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,001,06:00,06:15,8,2,85,,2,0,5
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,002,06:15,06:30,10,3,136,,1,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,003,06:30,06:45,28,4,153,,2,1,3
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,004,06:45,07:00,24,0,176,,11,2,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,005,07:00,07:15,22,3,189,,9,3,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,006,07:15,07:30,31,0,205,,7,0,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,007,07:30,07:45,15,0,207,,1,2,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,008,07:45,08:00,19,1,189,,3,0,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,009,08:00,08:15,20,0,173,,2,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,010,08:15,08:30,19,2,165,,4,0,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,011,08:30,08:45,19,5,165,,8,2,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,012,08:45,09:00,20,2,152,,3,1,3
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,013,09:00,09:15,13,1,160,,5,1,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,014,09:15,09:30,19,1,167,,6,1,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,015,09:30,09:45,20,2,180,,7,0,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,016,09:45,10:00,21,3,148,,6,1,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,017,10:00,10:15,10,1,140,,5,0,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,018,10:15,10:30,19,1,151,,0,1,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,019,10:30,10:45,24,1,180,,8,0,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,020,10:45,11:00,12,0,172,,3,1,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,021,11:00,11:15,15,2,169,,2,3,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,022,11:15,11:30,17,1,150,,6,0,3
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,023,11:30,11:45,13,3,130,,5,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,024,11:45,12:00,12,1,151,,1,0,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,025,12:00,12:15,10,2,178,,3,1,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,026,12:15,12:30,16,5,154,,3,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,027,12:30,12:45,14,2,129,,7,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,028,12:45,13:00,6,2,121,,7,1,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,029,13:00,13:15,16,6,178,,9,0,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,030,13:15,13:30,19,2,163,,4,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,031,13:30,13:45,11,4,171,,4,1,3
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,032,13:45,14:00,12,5,186,,3,1,4
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,033,14:00,14:15,15,4,164,,3,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,034,14:15,14:30,22,3,184,,6,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,035,14:30,14:45,26,4,188,,3,3,7
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,036,14:45,15:00,24,4,184,,4,1,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,037,15:00,15:15,18,6,214,,3,1,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,038,15:15,15:30,22,5,189,,4,0,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,039,15:30,15:45,26,2,216,,2,0,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,040,15:45,16:00,12,1,169,,1,2,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,041,16:00,16:15,33,3,209,,3,1,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,042,16:15,16:30,14,6,206,,1,0,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,043,16:30,16:45,19,2,226,,0,1,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,044,16:45,17:00,20,4,185,,1,0,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,045,17:00,17:15,18,3,198,,1,1,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,046,17:15,17:30,13,2,166,,2,3,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,047,17:30,17:45,16,0,176,,1,0,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,048,17:45,18:00,14,6,164,,3,0,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,049,18:00,18:15,17,1,143,,0,0,1
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,050,18:15,18:30,24,1,157,,3,2,2
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,051,18:30,18:45,13,3,147,,0,2,0
+24,D,0,0,QD,Querschnitt,,QD1 + QD2,052,18:45,19:00,8,4,115,,1,5,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,8,5,183,,2,0,5
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,14,4,251,,3,4,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,37,8,288,,4,2,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,36,2,321,,18,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,32,7,344,,11,3,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,45,4,338,,10,3,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,31,2,359,,3,3,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,28,1,332,,5,3,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,27,10,296,,4,9,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,25,3,301,,7,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,28,6,281,,13,4,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,32,3,268,,7,2,6
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,23,2,302,,10,5,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,24,5,273,,8,4,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,29,3,319,,10,5,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,34,5,283,,9,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,17,2,266,,7,3,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,26,2,285,,2,5,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,28,4,310,,11,4,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,20,2,308,,6,5,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,21,5,300,,3,7,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,22,2,278,,8,6,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,16,5,226,,7,5,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,22,1,260,,5,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,20,2,287,,9,2,7
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,20,8,260,,3,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,20,3,244,,11,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,9,6,251,,13,6,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,20,10,318,,9,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,23,3,271,,7,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,17,5,299,,6,3,3
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,22,6,303,,5,5,4
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,25,6,284,,7,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,27,6,311,,7,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,41,7,343,,4,4,7
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,29,5,322,,5,18,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,27,8,343,,4,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,38,9,324,,7,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,33,4,359,,2,1,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,23,4,295,,3,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,46,7,414,,12,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,23,9,376,,2,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,34,7,401,,2,4,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,28,6,335,,2,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,22,6,330,,1,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,35,2,302,,4,4,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,31,0,329,,1,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,25,7,323,,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,26,3,291,,0,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,43,5,292,,4,2,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,27,6,282,,1,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,17,6,230,,1,5,0

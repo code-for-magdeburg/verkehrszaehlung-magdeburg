@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,001,06:00,06:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,002,06:15,06:30,2,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,003,06:30,06:45,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,004,06:45,07:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,005,07:00,07:15,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,006,07:15,07:30,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,007,07:30,07:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,008,07:45,08:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,009,08:00,08:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,010,08:15,08:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,011,08:30,08:45,1,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,012,08:45,09:00,1,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,013,09:00,09:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,014,09:15,09:30,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,015,09:30,09:45,2,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,016,09:45,10:00,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,017,10:00,10:15,0,,0,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,018,10:15,10:30,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,019,10:30,10:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,020,10:45,11:00,1,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,021,11:00,11:15,0,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,022,11:15,11:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,023,11:30,11:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,024,11:45,12:00,0,,1,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,025,12:00,12:15,0,,0,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,026,12:15,12:30,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,027,12:30,12:45,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,028,12:45,13:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,029,13:00,13:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,030,13:15,13:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,031,13:30,13:45,1,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,032,13:45,14:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,033,14:00,14:15,1,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,034,14:15,14:30,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,035,14:30,14:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,036,14:45,15:00,1,,0,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,037,15:00,15:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,038,15:15,15:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,039,15:30,15:45,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,040,15:45,16:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,041,16:00,16:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,042,16:15,16:30,2,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,043,16:30,16:45,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,044,16:45,17:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,045,17:00,17:15,0,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,046,17:15,17:30,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,047,17:30,17:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,048,17:45,18:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,049,18:00,18:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,050,18:15,18:30,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,051,18:30,18:45,1,,2,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Weferlinger Straße,052,18:45,19:00,1,,3,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,001,06:00,06:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,002,06:15,06:30,1,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,003,06:30,06:45,4,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,004,06:45,07:00,1,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,005,07:00,07:15,1,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,006,07:15,07:30,1,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,007,07:30,07:45,4,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,008,07:45,08:00,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,009,08:00,08:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,010,08:15,08:30,5,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,011,08:30,08:45,2,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,012,08:45,09:00,3,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,013,09:00,09:15,2,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,014,09:15,09:30,2,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,015,09:30,09:45,1,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,016,09:45,10:00,1,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,017,10:00,10:15,0,,3,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,018,10:15,10:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,019,10:30,10:45,2,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,020,10:45,11:00,3,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,021,11:00,11:15,1,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,022,11:15,11:30,3,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,023,11:30,11:45,2,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,024,11:45,12:00,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,025,12:00,12:15,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,026,12:15,12:30,2,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,027,12:30,12:45,1,,0,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,028,12:45,13:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,029,13:00,13:15,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,030,13:15,13:30,2,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,031,13:30,13:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,032,13:45,14:00,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,033,14:00,14:15,2,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,034,14:15,14:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,035,14:30,14:45,3,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,036,14:45,15:00,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,037,15:00,15:15,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,038,15:15,15:30,1,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,039,15:30,15:45,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,040,15:45,16:00,4,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,041,16:00,16:15,0,,1,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,042,16:15,16:30,2,,4,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,043,16:30,16:45,1,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,044,16:45,17:00,3,,3,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,045,17:00,17:15,4,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,046,17:15,17:30,0,,1,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,047,17:30,17:45,0,,1,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,048,17:45,18:00,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,049,18:00,18:15,1,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,050,18:15,18:30,0,,0,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,051,18:30,18:45,0,,2,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Weferlinger Straße,052,18:45,19:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,001,06:00,06:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,002,06:15,06:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,003,06:30,06:45,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,004,06:45,07:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,005,07:00,07:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,006,07:15,07:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,007,07:30,07:45,1,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,008,07:45,08:00,1,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,009,08:00,08:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,010,08:15,08:30,1,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,011,08:30,08:45,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,012,08:45,09:00,1,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,013,09:00,09:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,014,09:15,09:30,1,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,015,09:30,09:45,0,,1,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,016,09:45,10:00,1,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,017,10:00,10:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,018,10:15,10:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,019,10:30,10:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,020,10:45,11:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,021,11:00,11:15,1,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,022,11:15,11:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,023,11:30,11:45,0,,0,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,024,11:45,12:00,1,,0,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,025,12:00,12:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,026,12:15,12:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,027,12:30,12:45,0,,1,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,028,12:45,13:00,0,,1,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,029,13:00,13:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,030,13:15,13:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,031,13:30,13:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,032,13:45,14:00,1,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,033,14:00,14:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,034,14:15,14:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,035,14:30,14:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,036,14:45,15:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,037,15:00,15:15,0,,0,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,038,15:15,15:30,0,,0,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,039,15:30,15:45,0,,2,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,040,15:45,16:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,041,16:00,16:15,1,,3,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,042,16:15,16:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,043,16:30,16:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,044,16:45,17:00,4,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,045,17:00,17:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,046,17:15,17:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,047,17:30,17:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,048,17:45,18:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,049,18:00,18:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,050,18:15,18:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,051,18:30,18:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Weferlinger Straße,052,18:45,19:00,1,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,001,06:00,06:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,002,06:15,06:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,003,06:30,06:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,004,06:45,07:00,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,005,07:00,07:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,006,07:15,07:30,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,007,07:30,07:45,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,008,07:45,08:00,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,009,08:00,08:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,010,08:15,08:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,011,08:30,08:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,012,08:45,09:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,013,09:00,09:15,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,014,09:15,09:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,015,09:30,09:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,016,09:45,10:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,017,10:00,10:15,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,018,10:15,10:30,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,019,10:30,10:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,020,10:45,11:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,021,11:00,11:15,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,022,11:15,11:30,3,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,023,11:30,11:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,024,11:45,12:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,025,12:00,12:15,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,026,12:15,12:30,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,027,12:30,12:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,028,12:45,13:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,029,13:00,13:15,2,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,030,13:15,13:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,031,13:30,13:45,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,032,13:45,14:00,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,033,14:00,14:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,034,14:15,14:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,035,14:30,14:45,3,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,036,14:45,15:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,037,15:00,15:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,038,15:15,15:30,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,039,15:30,15:45,3,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,040,15:45,16:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,041,16:00,16:15,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,042,16:15,16:30,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,043,16:30,16:45,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,044,16:45,17:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,045,17:00,17:15,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,046,17:15,17:30,2,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,047,17:30,17:45,3,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,048,17:45,18:00,1,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,049,18:00,18:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,050,18:15,18:30,2,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,051,18:30,18:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Beimsstraße (N) nur Rad,052,18:45,19:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),001,06:00,06:15,2,,14,0,1,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),002,06:15,06:30,6,,22,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),003,06:30,06:45,14,,47,1,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),004,06:45,07:00,15,,42,3,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),005,07:00,07:15,10,,46,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),006,07:15,07:30,17,,63,0,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),007,07:30,07:45,14,,53,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),008,07:45,08:00,9,,51,1,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),009,08:00,08:15,6,,38,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),010,08:15,08:30,10,,39,3,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),011,08:30,08:45,6,,35,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),012,08:45,09:00,0,,17,0,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),013,09:00,09:15,7,,19,7,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),014,09:15,09:30,2,,24,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),015,09:30,09:45,3,,23,0,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),016,09:45,10:00,8,,18,0,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),017,10:00,10:15,4,,34,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),018,10:15,10:30,4,,30,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),019,10:30,10:45,2,,26,2,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),020,10:45,11:00,4,,23,0,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),021,11:00,11:15,7,,23,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),022,11:15,11:30,7,,15,2,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),023,11:30,11:45,3,,36,3,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),024,11:45,12:00,0,,28,2,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),025,12:00,12:15,7,,19,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),026,12:15,12:30,1,,27,6,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),027,12:30,12:45,7,,21,1,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),028,12:45,13:00,2,,15,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),029,13:00,13:15,3,,22,5,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),030,13:15,13:30,7,,28,1,1,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),031,13:30,13:45,4,,19,1,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),032,13:45,14:00,0,,30,2,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),033,14:00,14:15,4,,33,2,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),034,14:15,14:30,2,,27,4,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),035,14:30,14:45,8,,27,0,2,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),036,14:45,15:00,4,,31,2,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),037,15:00,15:15,5,,30,4,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),038,15:15,15:30,3,,23,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),039,15:30,15:45,2,,39,1,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),040,15:45,16:00,3,,14,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),041,16:00,16:15,6,,40,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),042,16:15,16:30,4,,40,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),043,16:30,16:45,9,,31,2,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),044,16:45,17:00,8,,30,2,0,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),045,17:00,17:15,7,,33,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),046,17:15,17:30,10,,26,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),047,17:30,17:45,2,,31,1,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),048,17:45,18:00,9,,26,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),049,18:00,18:15,5,,37,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),050,18:15,18:30,6,,25,1,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),051,18:30,18:45,8,,20,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Beimsstraße (N),052,18:45,19:00,5,,20,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,001,06:00,06:15,2,,2,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,002,06:15,06:30,0,,9,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,003,06:30,06:45,0,,7,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,004,06:45,07:00,0,,3,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,005,07:00,07:15,0,,5,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,006,07:15,07:30,2,,6,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,007,07:30,07:45,0,,9,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,008,07:45,08:00,1,,10,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,009,08:00,08:15,0,,7,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,010,08:15,08:30,3,,8,1,1,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,011,08:30,08:45,1,,12,0,1,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,012,08:45,09:00,1,,11,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,013,09:00,09:15,0,,15,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,014,09:15,09:30,0,,9,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,015,09:30,09:45,3,,7,1,3,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,016,09:45,10:00,0,,10,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,017,10:00,10:15,0,,15,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,018,10:15,10:30,2,,18,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,019,10:30,10:45,1,,11,0,1,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,020,10:45,11:00,2,,16,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,021,11:00,11:15,1,,8,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,022,11:15,11:30,1,,13,0,1,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,023,11:30,11:45,0,,11,0,0,1,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,024,11:45,12:00,3,,8,2,1,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,025,12:00,12:15,1,,10,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,026,12:15,12:30,0,,9,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,027,12:30,12:45,2,,10,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,028,12:45,13:00,0,,4,0,0,1,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,029,13:00,13:15,0,,13,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,030,13:15,13:30,1,,15,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,031,13:30,13:45,1,,18,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,032,13:45,14:00,1,,8,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,033,14:00,14:15,1,,9,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,034,14:15,14:30,0,,17,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,035,14:30,14:45,1,,21,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,036,14:45,15:00,1,,16,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,037,15:00,15:15,0,,16,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,038,15:15,15:30,3,,20,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,039,15:30,15:45,2,,34,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,040,15:45,16:00,2,,13,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,041,16:00,16:15,1,,35,3,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,042,16:15,16:30,0,,48,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,043,16:30,16:45,5,,22,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,044,16:45,17:00,7,,15,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,045,17:00,17:15,1,,22,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,046,17:15,17:30,2,,21,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,047,17:30,17:45,0,,17,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,048,17:45,18:00,1,,12,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,049,18:00,18:15,0,,13,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,050,18:15,18:30,2,,16,1,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,051,18:30,18:45,3,,12,0,0,0,0
+12,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Spielhagenstraße,052,18:45,19:00,0,,13,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,001,06:00,06:15,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,002,06:15,06:30,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,003,06:30,06:45,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,004,06:45,07:00,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,006,07:15,07:30,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,007,07:30,07:45,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,008,07:45,08:00,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,009,08:00,08:15,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,010,08:15,08:30,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,011,08:30,08:45,2,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,012,08:45,09:00,3,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,013,09:00,09:15,5,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,014,09:15,09:30,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,015,09:30,09:45,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,016,09:45,10:00,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,017,10:00,10:15,5,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,018,10:15,10:30,2,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,019,10:30,10:45,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,020,10:45,11:00,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,021,11:00,11:15,2,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,022,11:15,11:30,3,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,023,11:30,11:45,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,024,11:45,12:00,7,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,025,12:00,12:15,2,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,026,12:15,12:30,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,027,12:30,12:45,2,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,028,12:45,13:00,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,029,13:00,13:15,3,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,030,13:15,13:30,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,031,13:30,13:45,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,032,13:45,14:00,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,033,14:00,14:15,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,034,14:15,14:30,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,035,14:30,14:45,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,036,14:45,15:00,4,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,037,15:00,15:15,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,038,15:15,15:30,3,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,039,15:30,15:45,4,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,040,15:45,16:00,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,041,16:00,16:15,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,042,16:15,16:30,4,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,043,16:30,16:45,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,044,16:45,17:00,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,045,17:00,17:15,2,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,046,17:15,17:30,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,047,17:30,17:45,3,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,048,17:45,18:00,5,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,049,18:00,18:15,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,050,18:15,18:30,0,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,051,18:30,18:45,1,,0,0,0,0,0
+13,C,1,2,CG...((),Zählstrom,,Geradeausfahrer Spielhagenstraßenur RAD,052,18:45,19:00,2,,0,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),001,06:00,06:15,0,,1,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),002,06:15,06:30,1,,5,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),003,06:30,06:45,3,,4,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),004,06:45,07:00,2,,7,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),005,07:00,07:15,0,,7,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),006,07:15,07:30,4,,7,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),007,07:30,07:45,2,,4,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),008,07:45,08:00,6,,12,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),009,08:00,08:15,1,,5,1,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),010,08:15,08:30,4,,2,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),011,08:30,08:45,4,,10,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),012,08:45,09:00,3,,9,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),013,09:00,09:15,3,,7,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),014,09:15,09:30,3,,9,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),015,09:30,09:45,6,,8,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),016,09:45,10:00,1,,5,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),017,10:00,10:15,2,,5,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),018,10:15,10:30,3,,11,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),019,10:30,10:45,4,,9,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),020,10:45,11:00,5,,8,0,0,1,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),021,11:00,11:15,3,,10,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),022,11:15,11:30,1,,11,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),023,11:30,11:45,0,,6,1,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),024,11:45,12:00,4,,10,1,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),025,12:00,12:15,2,,8,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),026,12:15,12:30,3,,8,1,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),027,12:30,12:45,0,,3,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),028,12:45,13:00,0,,5,0,1,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),029,13:00,13:15,3,,7,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),030,13:15,13:30,2,,8,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),031,13:30,13:45,2,,14,2,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),032,13:45,14:00,5,,4,1,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),033,14:00,14:15,0,,6,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),034,14:15,14:30,0,,5,1,1,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),035,14:30,14:45,3,,8,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),036,14:45,15:00,5,,10,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),037,15:00,15:15,2,,10,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),038,15:15,15:30,1,,18,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),039,15:30,15:45,3,,11,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),040,15:45,16:00,1,,10,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),041,16:00,16:15,4,,12,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),042,16:15,16:30,1,,8,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),043,16:30,16:45,6,,9,1,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),044,16:45,17:00,3,,9,0,1,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),045,17:00,17:15,2,,7,2,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),046,17:15,17:30,1,,18,1,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),047,17:30,17:45,3,,5,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),048,17:45,18:00,5,,10,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),049,18:00,18:15,4,,5,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),050,18:15,18:30,2,,4,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),051,18:30,18:45,3,,10,0,0,0,0
+17,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Beimsstraße (S),052,18:45,19:00,1,,5,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),001,06:00,06:15,0,,16,1,2,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),002,06:15,06:30,5,,12,1,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),003,06:30,06:45,9,,12,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),004,06:45,07:00,0,,25,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),005,07:00,07:15,4,,28,3,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),006,07:15,07:30,14,,30,1,1,2,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),007,07:30,07:45,4,,26,0,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),008,07:45,08:00,9,,33,3,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),009,08:00,08:15,5,,27,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),010,08:15,08:30,5,,23,1,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),011,08:30,08:45,10,,21,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),012,08:45,09:00,4,,17,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),013,09:00,09:15,3,,29,0,0,1,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),014,09:15,09:30,7,,45,1,0,1,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),015,09:30,09:45,0,,23,3,1,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),016,09:45,10:00,6,,26,3,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),017,10:00,10:15,4,,29,3,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),018,10:15,10:30,1,,37,0,1,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),019,10:30,10:45,2,,28,4,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),020,10:45,11:00,5,,27,1,2,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),021,11:00,11:15,3,,29,1,2,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),022,11:15,11:30,7,,25,0,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),023,11:30,11:45,1,,24,2,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),024,11:45,12:00,2,,33,4,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),025,12:00,12:15,1,,29,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),026,12:15,12:30,4,,21,3,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),027,12:30,12:45,7,,29,2,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),028,12:45,13:00,3,,20,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),029,13:00,13:15,6,,26,5,3,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),030,13:15,13:30,3,,26,0,0,0,2
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),031,13:30,13:45,1,,25,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),032,13:45,14:00,7,,28,0,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),033,14:00,14:15,5,,27,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),034,14:15,14:30,8,,21,0,0,0,2
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),035,14:30,14:45,5,,36,0,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),036,14:45,15:00,11,,33,2,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),037,15:00,15:15,11,,38,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),038,15:15,15:30,6,,50,2,2,0,2
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),039,15:30,15:45,11,,25,1,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),040,15:45,16:00,9,,33,0,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),041,16:00,16:15,12,,43,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),042,16:15,16:30,14,,43,2,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),043,16:30,16:45,11,,40,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),044,16:45,17:00,9,,55,1,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),045,17:00,17:15,12,,31,2,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),046,17:15,17:30,4,,38,2,0,0,1
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),047,17:30,17:45,8,,22,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),048,17:45,18:00,9,,37,0,1,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),049,18:00,18:15,9,,31,1,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),050,18:15,18:30,6,,32,1,0,0,2
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),051,18:30,18:45,9,,33,0,0,0,0
+18,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Beimsstraße (S),052,18:45,19:00,7,,26,0,0,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,6,,43,2,3,0,2
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,17,,67,2,0,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,30,,91,2,1,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,21,,96,6,0,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,17,,113,3,1,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,47,,143,2,2,2,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,34,,137,1,0,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,31,,132,7,1,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,12,,93,5,0,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,31,,107,5,1,0,2
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,26,,101,4,2,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,18,,79,3,1,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,20,,89,7,0,2,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,16,,109,4,0,1,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,20,,83,6,6,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,18,,81,3,1,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,15,,107,8,1,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,15,,115,1,2,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,15,,91,9,4,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,23,,92,2,3,1,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,20,,87,4,2,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,27,,90,2,3,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,10,,101,7,1,1,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,12,,95,13,3,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,18,,84,1,3,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,12,,73,11,0,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,20,,85,6,0,0,2
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,8,,61,4,1,1,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,17,,87,11,3,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,19,,96,1,1,0,4
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,12,,91,4,0,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,16,,83,4,2,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,18,,105,3,2,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,14,,94,5,2,0,2
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,28,,107,1,3,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,25,,121,6,3,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,24,,118,5,1,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,18,,140,7,2,0,2
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,24,,136,4,0,0,2
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,20,,94,0,1,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,26,,160,8,0,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,28,,181,4,1,1,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,38,,127,4,1,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,39,,137,3,2,1,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,34,,121,5,0,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,24,,128,7,1,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,21,,101,3,1,0,1
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,34,,113,1,1,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,21,,113,2,0,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,26,,100,3,3,0,2
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,29,,100,2,0,0,0
+22,,0,0,Summe Zu,summierter Strom,4+9+14+19,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,17,,84,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),001,06:00,06:15,0,,5,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),002,06:15,06:30,1,,12,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),003,06:30,06:45,0,,10,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),004,06:45,07:00,0,,10,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),005,07:00,07:15,2,,18,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),006,07:15,07:30,7,,25,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),007,07:30,07:45,6,,35,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),008,07:45,08:00,1,,21,2,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),009,08:00,08:15,0,,8,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),010,08:15,08:30,0,,19,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),011,08:30,08:45,1,,15,0,1,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),012,08:45,09:00,0,,13,1,1,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),013,09:00,09:15,2,,11,0,0,1,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),014,09:15,09:30,0,,10,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),015,09:30,09:45,2,,13,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),016,09:45,10:00,0,,14,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),017,10:00,10:15,1,,15,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),018,10:15,10:30,2,,10,0,1,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),019,10:30,10:45,1,,12,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),020,10:45,11:00,0,,9,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),021,11:00,11:15,0,,8,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),022,11:15,11:30,2,,14,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),023,11:30,11:45,1,,10,0,1,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),024,11:45,12:00,0,,9,2,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),025,12:00,12:15,3,,8,0,2,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),026,12:15,12:30,0,,6,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),027,12:30,12:45,0,,10,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),028,12:45,13:00,1,,7,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),029,13:00,13:15,0,,11,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),030,13:15,13:30,3,,9,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),031,13:30,13:45,2,,8,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),032,13:45,14:00,0,,8,1,1,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),033,14:00,14:15,2,,19,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),034,14:15,14:30,1,,18,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),035,14:30,14:45,3,,6,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),036,14:45,15:00,1,,20,1,1,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),037,15:00,15:15,3,,12,0,1,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),038,15:15,15:30,0,,14,3,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),039,15:30,15:45,0,,10,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),040,15:45,16:00,1,,12,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),041,16:00,16:15,0,,16,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),042,16:15,16:30,1,,22,0,0,1,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),043,16:30,16:45,4,,11,0,1,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),044,16:45,17:00,2,,14,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),045,17:00,17:15,2,,14,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),046,17:15,17:30,1,,13,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),047,17:30,17:45,2,,15,1,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),048,17:45,18:00,2,,15,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),049,18:00,18:15,1,,14,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),050,18:15,18:30,3,,11,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),051,18:30,18:45,3,,10,0,0,0,0
+23,B,1,3,BL...(6),Zählstrom,,Linksabbieger Beimsstraße (N),052,18:45,19:00,0,,11,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,001,06:00,06:15,2,,2,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,002,06:15,06:30,1,,1,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,003,06:30,06:45,0,,1,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,004,06:45,07:00,2,,2,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,005,07:00,07:15,0,,1,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,006,07:15,07:30,1,,4,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,007,07:30,07:45,2,,3,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,008,07:45,08:00,2,,3,1,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,009,08:00,08:15,0,,5,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,010,08:15,08:30,3,,9,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,011,08:30,08:45,1,,1,2,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,012,08:45,09:00,5,,7,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,013,09:00,09:15,2,,6,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,014,09:15,09:30,1,,7,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,015,09:30,09:45,3,,3,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,016,09:45,10:00,0,,3,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,017,10:00,10:15,3,,6,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,018,10:15,10:30,2,,5,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,019,10:30,10:45,3,,2,2,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,020,10:45,11:00,3,,4,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,021,11:00,11:15,1,,4,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,022,11:15,11:30,3,,10,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,023,11:30,11:45,2,,10,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,024,11:45,12:00,1,,6,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,025,12:00,12:15,2,,9,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,026,12:15,12:30,1,,0,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,027,12:30,12:45,3,,11,1,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,028,12:45,13:00,2,,7,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,029,13:00,13:15,2,,5,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,030,13:15,13:30,0,,7,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,031,13:30,13:45,0,,6,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,032,13:45,14:00,1,,2,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,033,14:00,14:15,2,,9,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,034,14:15,14:30,2,,5,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,035,14:30,14:45,2,,5,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,036,14:45,15:00,1,,10,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,037,15:00,15:15,2,,12,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,038,15:15,15:30,4,,10,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,039,15:30,15:45,3,,9,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,040,15:45,16:00,0,,6,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,041,16:00,16:15,1,,8,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,042,16:15,16:30,3,,11,1,1,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,043,16:30,16:45,1,,8,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,044,16:45,17:00,1,,5,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,045,17:00,17:15,5,,8,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,046,17:15,17:30,4,,8,0,1,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,047,17:30,17:45,2,,7,1,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,048,17:45,18:00,7,,8,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,049,18:00,18:15,1,,10,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,050,18:15,18:30,3,,8,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,051,18:30,18:45,2,,11,0,0,0,0
+24,C,1,3,CL...(9),Zählstrom,,Linksabbieger Spielhagenstraße,052,18:45,19:00,2,,5,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,001,06:00,06:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,002,06:15,06:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,003,06:30,06:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,004,06:45,07:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,005,07:00,07:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,006,07:15,07:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,007,07:30,07:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,008,07:45,08:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,009,08:00,08:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,010,08:15,08:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,011,08:30,08:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,012,08:45,09:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,013,09:00,09:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,014,09:15,09:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,015,09:30,09:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,016,09:45,10:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,017,10:00,10:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,018,10:15,10:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,019,10:30,10:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,020,10:45,11:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,021,11:00,11:15,2,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,022,11:15,11:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,023,11:30,11:45,1,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,024,11:45,12:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,025,12:00,12:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,026,12:15,12:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,027,12:30,12:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,028,12:45,13:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,029,13:00,13:15,1,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,030,13:15,13:30,1,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,031,13:30,13:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,032,13:45,14:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,033,14:00,14:15,1,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,034,14:15,14:30,1,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,035,14:30,14:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,036,14:45,15:00,1,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,037,15:00,15:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,038,15:15,15:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,039,15:30,15:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,040,15:45,16:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,041,16:00,16:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,042,16:15,16:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,043,16:30,16:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,044,16:45,17:00,2,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,045,17:00,17:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,046,17:15,17:30,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,047,17:30,17:45,1,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,048,17:45,18:00,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,049,18:00,18:15,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,050,18:15,18:30,2,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,051,18:30,18:45,0,,0,0,0,0,0
+25,D,1,1,DL..(12),Zählstrom,,Linksabbieger Beimsstraße (S) nur RAD,052,18:45,19:00,0,,0,0,0,0,0

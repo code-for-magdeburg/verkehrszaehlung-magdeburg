@@ -1,0 +1,833 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),001,06:00,06:15,0,,3,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),002,06:15,06:30,2,,5,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),003,06:30,06:45,0,,1,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),004,06:45,07:00,1,,5,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),005,07:00,07:15,2,,6,1,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),006,07:15,07:30,0,,8,4,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),007,07:30,07:45,0,,7,2,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),008,07:45,08:00,0,,8,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),009,08:00,08:15,0,,10,2,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),010,08:15,08:30,0,,8,5,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),011,08:30,08:45,0,,11,3,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),012,08:45,09:00,0,,7,2,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),013,09:00,09:15,0,,10,1,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),014,09:15,09:30,0,,14,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),015,09:30,09:45,1,,7,1,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),016,09:45,10:00,0,,6,1,0,1,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),017,10:00,10:15,2,,10,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),018,10:15,10:30,2,,17,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),019,10:30,10:45,2,,11,0,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),020,10:45,11:00,2,,10,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),021,11:00,11:15,1,,18,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),022,11:15,11:30,3,,7,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),023,11:30,11:45,0,,17,0,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),024,11:45,12:00,0,,15,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),025,12:00,12:15,2,,13,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),026,12:15,12:30,0,,13,1,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),027,12:30,12:45,4,,13,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),028,12:45,13:00,0,,8,2,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),029,13:00,13:15,0,,6,0,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),030,13:15,13:30,8,,10,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),031,13:30,13:45,5,,14,2,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),032,13:45,14:00,0,,13,2,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),033,14:00,14:15,0,,19,1,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),034,14:15,14:30,1,,16,2,1,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),035,14:30,14:45,0,,13,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),036,14:45,15:00,3,,12,0,3,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),037,15:00,15:15,1,,15,3,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),038,15:15,15:30,5,,14,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),039,15:30,15:45,3,,18,3,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),040,15:45,16:00,3,,13,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),041,16:00,16:15,1,,27,0,2,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),042,16:15,16:30,5,,21,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),043,16:30,16:45,2,,26,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),044,16:45,17:00,2,,22,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),045,17:00,17:15,6,,19,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),046,17:15,17:30,0,,17,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),047,17:30,17:45,1,,24,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),048,17:45,18:00,3,,26,1,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),049,18:00,18:15,3,,22,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),050,18:15,18:30,2,,18,0,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),051,18:30,18:45,4,,25,2,0,0,0
+1,A,1,1,AG...(2),Zählstrom,,Geradeausfahrer Klusdamm (W),052,18:45,19:00,1,,15,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),001,06:00,06:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),002,06:15,06:30,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),003,06:30,06:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),004,06:45,07:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),005,07:00,07:15,0,,5,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),006,07:15,07:30,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),007,07:30,07:45,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),008,07:45,08:00,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),009,08:00,08:15,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),010,08:15,08:30,0,,2,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),011,08:30,08:45,0,,6,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),012,08:45,09:00,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),013,09:00,09:15,0,,2,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),014,09:15,09:30,0,,3,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),015,09:30,09:45,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),016,09:45,10:00,0,,5,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),017,10:00,10:15,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),018,10:15,10:30,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),019,10:30,10:45,0,,5,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),020,10:45,11:00,0,,0,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),021,11:00,11:15,0,,6,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),022,11:15,11:30,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),023,11:30,11:45,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),024,11:45,12:00,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),025,12:00,12:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),026,12:15,12:30,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),027,12:30,12:45,1,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),028,12:45,13:00,0,,2,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),029,13:00,13:15,0,,1,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),030,13:15,13:30,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),031,13:30,13:45,0,,5,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),032,13:45,14:00,0,,1,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),033,14:00,14:15,0,,3,0,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),034,14:15,14:30,0,,4,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),035,14:30,14:45,0,,5,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),036,14:45,15:00,0,,6,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),037,15:00,15:15,0,,3,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),038,15:15,15:30,0,,5,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),039,15:30,15:45,0,,5,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),040,15:45,16:00,0,,3,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),041,16:00,16:15,2,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),042,16:15,16:30,0,,8,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),043,16:30,16:45,1,,9,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),044,16:45,17:00,0,,8,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),045,17:00,17:15,5,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),046,17:15,17:30,0,,8,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),047,17:30,17:45,1,,6,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),048,17:45,18:00,0,,8,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),049,18:00,18:15,1,,7,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),050,18:15,18:30,1,,13,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),051,18:30,18:45,3,,8,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Klusdamm (W),052,18:45,19:00,1,,8,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),001,06:00,06:15,0,,3,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),002,06:15,06:30,2,,5,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),003,06:30,06:45,0,,2,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),004,06:45,07:00,1,,6,2,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),005,07:00,07:15,2,,11,2,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),006,07:15,07:30,0,,11,4,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),007,07:30,07:45,0,,11,2,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),008,07:45,08:00,0,,10,1,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),009,08:00,08:15,0,,12,2,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),010,08:15,08:30,0,,10,6,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),011,08:30,08:45,0,,17,4,3,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),012,08:45,09:00,0,,10,2,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),013,09:00,09:15,0,,12,2,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),014,09:15,09:30,0,,17,2,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),015,09:30,09:45,1,,8,1,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),016,09:45,10:00,0,,11,1,0,1,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),017,10:00,10:15,2,,10,1,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),018,10:15,10:30,2,,19,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),019,10:30,10:45,2,,16,0,2,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),020,10:45,11:00,2,,10,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),021,11:00,11:15,1,,24,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),022,11:15,11:30,3,,10,1,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),023,11:30,11:45,0,,20,0,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),024,11:45,12:00,0,,16,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),025,12:00,12:15,2,,14,1,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),026,12:15,12:30,0,,16,1,2,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),027,12:30,12:45,5,,15,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),028,12:45,13:00,0,,10,2,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),029,13:00,13:15,0,,7,0,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),030,13:15,13:30,8,,13,2,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),031,13:30,13:45,5,,19,3,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),032,13:45,14:00,0,,14,3,2,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),033,14:00,14:15,0,,22,1,2,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),034,14:15,14:30,1,,20,2,1,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),035,14:30,14:45,0,,18,1,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),036,14:45,15:00,3,,18,0,3,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),037,15:00,15:15,1,,18,4,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),038,15:15,15:30,5,,19,1,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),039,15:30,15:45,3,,23,4,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),040,15:45,16:00,3,,16,1,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),041,16:00,16:15,3,,39,0,2,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),042,16:15,16:30,5,,29,1,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),043,16:30,16:45,3,,35,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),044,16:45,17:00,2,,30,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),045,17:00,17:15,11,,31,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),046,17:15,17:30,0,,25,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),047,17:30,17:45,2,,30,2,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),048,17:45,18:00,3,,34,2,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),049,18:00,18:15,4,,29,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),050,18:15,18:30,3,,31,0,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),051,18:30,18:45,7,,33,2,0,0,0
+3,A,0,0,QA1,Querschnitt,,AG...(2) + AL...(3),052,18:45,19:00,2,,23,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),001,06:00,06:15,0,,11,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),002,06:15,06:30,7,,31,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),003,06:30,06:45,7,,28,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),004,06:45,07:00,9,,32,1,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),005,07:00,07:15,17,,48,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),006,07:15,07:30,9,,41,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),007,07:30,07:45,8,,31,0,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),008,07:45,08:00,3,,25,1,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),009,08:00,08:15,3,,18,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),010,08:15,08:30,2,,12,0,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),011,08:30,08:45,2,,12,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),012,08:45,09:00,0,,16,2,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),013,09:00,09:15,0,,15,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),014,09:15,09:30,0,,10,0,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),015,09:30,09:45,2,,22,1,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),016,09:45,10:00,2,,25,1,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),017,10:00,10:15,5,,18,2,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),018,10:15,10:30,3,,20,1,0,1,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),019,10:30,10:45,1,,19,1,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),020,10:45,11:00,5,,12,4,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),021,11:00,11:15,3,,14,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),022,11:15,11:30,4,,12,0,1,1,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),023,11:30,11:45,1,,11,3,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),024,11:45,12:00,0,,13,2,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),025,12:00,12:15,0,,11,0,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),026,12:15,12:30,0,,16,1,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),027,12:30,12:45,2,,16,2,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),028,12:45,13:00,2,,7,1,1,1,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),029,13:00,13:15,2,,13,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),030,13:15,13:30,1,,16,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),031,13:30,13:45,3,,11,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),032,13:45,14:00,0,,7,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),033,14:00,14:15,1,,18,1,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),034,14:15,14:30,3,,13,1,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),035,14:30,14:45,0,,12,1,2,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),036,14:45,15:00,1,,16,3,2,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),037,15:00,15:15,3,,13,3,3,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),038,15:15,15:30,1,,20,3,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),039,15:30,15:45,1,,21,2,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),040,15:45,16:00,0,,11,2,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),041,16:00,16:15,3,,20,3,1,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),042,16:15,16:30,4,,16,1,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),043,16:30,16:45,3,,11,1,2,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),044,16:45,17:00,3,,26,3,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),045,17:00,17:15,6,,13,1,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),046,17:15,17:30,3,,19,1,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),047,17:30,17:45,1,,15,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),048,17:45,18:00,0,,12,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),049,18:00,18:15,0,,22,0,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),050,18:15,18:30,5,,22,1,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),051,18:30,18:45,1,,23,1,0,0,0
+4,A,0,0,QA2,Querschnitt,,BR...(4) + CG...(8),052,18:45,19:00,2,,10,0,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,001,06:00,06:15,0,,14,0,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,002,06:15,06:30,9,,36,0,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,003,06:30,06:45,7,,30,0,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,004,06:45,07:00,10,,38,3,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,005,07:00,07:15,19,,59,2,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,006,07:15,07:30,9,,52,4,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,007,07:30,07:45,8,,42,2,2,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,008,07:45,08:00,3,,35,2,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,009,08:00,08:15,3,,30,2,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,010,08:15,08:30,2,,22,6,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,011,08:30,08:45,2,,29,4,3,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,012,08:45,09:00,0,,26,4,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,013,09:00,09:15,0,,27,2,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,014,09:15,09:30,0,,27,2,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,015,09:30,09:45,3,,30,2,2,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,016,09:45,10:00,2,,36,2,0,1,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,017,10:00,10:15,7,,28,3,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,018,10:15,10:30,5,,39,1,0,1,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,019,10:30,10:45,3,,35,1,2,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,020,10:45,11:00,7,,22,4,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,021,11:00,11:15,4,,38,0,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,022,11:15,11:30,7,,22,1,1,1,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,023,11:30,11:45,1,,31,3,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,024,11:45,12:00,0,,29,2,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,025,12:00,12:15,2,,25,1,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,026,12:15,12:30,0,,32,2,2,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,027,12:30,12:45,7,,31,2,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,028,12:45,13:00,2,,17,3,2,1,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,029,13:00,13:15,2,,20,0,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,030,13:15,13:30,9,,29,2,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,031,13:30,13:45,8,,30,3,1,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,032,13:45,14:00,0,,21,3,2,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,033,14:00,14:15,1,,40,2,3,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,034,14:15,14:30,4,,33,3,2,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,035,14:30,14:45,0,,30,2,2,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,036,14:45,15:00,4,,34,3,5,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,037,15:00,15:15,4,,31,7,3,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,038,15:15,15:30,6,,39,4,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,039,15:30,15:45,4,,44,6,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,040,15:45,16:00,3,,27,3,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,041,16:00,16:15,6,,59,3,3,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,042,16:15,16:30,9,,45,2,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,043,16:30,16:45,6,,46,1,2,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,044,16:45,17:00,5,,56,3,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,045,17:00,17:15,17,,44,1,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,046,17:15,17:30,3,,44,1,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,047,17:30,17:45,3,,45,2,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,048,17:45,18:00,3,,46,2,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,049,18:00,18:15,4,,51,0,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,050,18:15,18:30,8,,53,1,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,051,18:30,18:45,8,,56,3,0,0,0
+5,A,0,0,QA,Querschnitt,,QA1 + QA2,052,18:45,19:00,4,,33,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,001,06:00,06:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,002,06:15,06:30,1,,13,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,003,06:30,06:45,0,,12,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,004,06:45,07:00,1,,11,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,005,07:00,07:15,2,,17,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,006,07:15,07:30,2,,17,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,007,07:30,07:45,1,,8,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,008,07:45,08:00,1,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,009,08:00,08:15,1,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,010,08:15,08:30,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,011,08:30,08:45,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,012,08:45,09:00,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,013,09:00,09:15,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,014,09:15,09:30,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,015,09:30,09:45,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,016,09:45,10:00,0,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,017,10:00,10:15,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,018,10:15,10:30,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,019,10:30,10:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,020,10:45,11:00,0,,4,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,021,11:00,11:15,2,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,022,11:15,11:30,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,023,11:30,11:45,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,024,11:45,12:00,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,025,12:00,12:15,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,026,12:15,12:30,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,027,12:30,12:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,028,12:45,13:00,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,029,13:00,13:15,0,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,030,13:15,13:30,0,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,031,13:30,13:45,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,032,13:45,14:00,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,033,14:00,14:15,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,034,14:15,14:30,1,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,035,14:30,14:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,036,14:45,15:00,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,037,15:00,15:15,1,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,038,15:15,15:30,0,,8,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,039,15:30,15:45,0,,6,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,040,15:45,16:00,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,041,16:00,16:15,0,,7,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,042,16:15,16:30,1,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,043,16:30,16:45,3,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,044,16:45,17:00,1,,6,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,045,17:00,17:15,3,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,046,17:15,17:30,1,,7,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,047,17:30,17:45,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,048,17:45,18:00,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,049,18:00,18:15,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,050,18:15,18:30,2,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,051,18:30,18:45,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Erich-Kästner-Straße,052,18:45,19:00,2,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,001,06:00,06:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,002,06:15,06:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,003,06:30,06:45,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,004,06:45,07:00,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,005,07:00,07:15,0,,2,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,006,07:15,07:30,0,,5,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,007,07:30,07:45,0,,3,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,008,07:45,08:00,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,009,08:00,08:15,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,010,08:15,08:30,0,,0,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,011,08:30,08:45,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,012,08:45,09:00,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,013,09:00,09:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,014,09:15,09:30,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,015,09:30,09:45,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,016,09:45,10:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,017,10:00,10:15,0,,3,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,018,10:15,10:30,0,,5,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,019,10:30,10:45,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,020,10:45,11:00,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,021,11:00,11:15,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,022,11:15,11:30,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,023,11:30,11:45,1,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,024,11:45,12:00,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,025,12:00,12:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,026,12:15,12:30,3,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,027,12:30,12:45,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,028,12:45,13:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,029,13:00,13:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,030,13:15,13:30,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,031,13:30,13:45,1,,0,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,032,13:45,14:00,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,033,14:00,14:15,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,034,14:15,14:30,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,035,14:30,14:45,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,036,14:45,15:00,0,,3,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,037,15:00,15:15,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,038,15:15,15:30,0,,0,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,039,15:30,15:45,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,040,15:45,16:00,0,,1,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,041,16:00,16:15,0,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,042,16:15,16:30,0,,1,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,043,16:30,16:45,2,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,044,16:45,17:00,0,,0,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,045,17:00,17:15,2,,6,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,046,17:15,17:30,0,,5,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,047,17:30,17:45,3,,2,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,048,17:45,18:00,0,,1,1,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,049,18:00,18:15,1,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,050,18:15,18:30,0,,4,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,051,18:30,18:45,0,,5,0,0,0,0
+7,B,1,2,BL...(6),Zählstrom,,Linksabbieger Erich-Kästner-Straße,052,18:45,19:00,0,,2,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),001,06:00,06:15,0,,0,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),002,06:15,06:30,1,,13,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),003,06:30,06:45,0,,12,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),004,06:45,07:00,1,,12,1,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),005,07:00,07:15,2,,19,1,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),006,07:15,07:30,2,,22,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),007,07:30,07:45,1,,11,1,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),008,07:45,08:00,1,,8,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),009,08:00,08:15,1,,4,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),010,08:15,08:30,0,,2,1,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),011,08:30,08:45,0,,3,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),012,08:45,09:00,0,,6,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),013,09:00,09:15,0,,4,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),014,09:15,09:30,0,,2,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),015,09:30,09:45,0,,5,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),016,09:45,10:00,0,,6,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),017,10:00,10:15,0,,6,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),018,10:15,10:30,0,,8,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),019,10:30,10:45,0,,5,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),020,10:45,11:00,0,,5,2,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),021,11:00,11:15,2,,4,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),022,11:15,11:30,0,,5,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),023,11:30,11:45,1,,8,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),024,11:45,12:00,0,,3,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),025,12:00,12:15,0,,2,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),026,12:15,12:30,3,,2,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),027,12:30,12:45,0,,4,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),028,12:45,13:00,0,,1,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),029,13:00,13:15,0,,6,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),030,13:15,13:30,0,,8,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),031,13:30,13:45,1,,1,1,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),032,13:45,14:00,0,,5,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),033,14:00,14:15,0,,4,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),034,14:15,14:30,1,,5,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),035,14:30,14:45,0,,4,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),036,14:45,15:00,0,,4,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),037,15:00,15:15,1,,3,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),038,15:15,15:30,0,,8,2,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),039,15:30,15:45,0,,7,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),040,15:45,16:00,0,,3,1,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),041,16:00,16:15,0,,9,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),042,16:15,16:30,1,,5,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),043,16:30,16:45,5,,3,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),044,16:45,17:00,1,,6,2,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),045,17:00,17:15,5,,8,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),046,17:15,17:30,1,,12,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),047,17:30,17:45,3,,5,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),048,17:45,18:00,0,,3,1,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),049,18:00,18:15,1,,9,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),050,18:15,18:30,2,,9,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),051,18:30,18:45,0,,10,0,0,0,0
+8,B,0,0,QB1,Querschnitt,,BR...(4) + BL...(6),052,18:45,19:00,2,,4,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),001,06:00,06:15,1,,2,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),002,06:15,06:30,3,,1,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),003,06:30,06:45,3,,3,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),004,06:45,07:00,1,,5,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),005,07:00,07:15,2,,8,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),006,07:15,07:30,3,,9,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),007,07:30,07:45,0,,7,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),008,07:45,08:00,0,,3,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),009,08:00,08:15,2,,4,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),010,08:15,08:30,1,,3,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),011,08:30,08:45,1,,6,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),012,08:45,09:00,0,,8,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),013,09:00,09:15,0,,6,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),014,09:15,09:30,0,,4,2,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),015,09:30,09:45,0,,4,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),016,09:45,10:00,1,,5,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),017,10:00,10:15,2,,0,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),018,10:15,10:30,0,,5,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),019,10:30,10:45,0,,6,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),020,10:45,11:00,2,,5,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),021,11:00,11:15,2,,6,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),022,11:15,11:30,3,,3,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),023,11:30,11:45,12,,3,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),024,11:45,12:00,0,,2,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),025,12:00,12:15,0,,3,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),026,12:15,12:30,1,,5,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),027,12:30,12:45,1,,6,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),028,12:45,13:00,0,,2,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),029,13:00,13:15,0,,6,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),030,13:15,13:30,0,,3,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),031,13:30,13:45,0,,6,1,1,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),032,13:45,14:00,0,,3,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),033,14:00,14:15,0,,3,0,1,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),034,14:15,14:30,0,,7,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),035,14:30,14:45,0,,7,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),036,14:45,15:00,0,,7,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),037,15:00,15:15,0,,4,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),038,15:15,15:30,0,,6,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),039,15:30,15:45,0,,8,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),040,15:45,16:00,0,,4,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),041,16:00,16:15,3,,13,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),042,16:15,16:30,2,,12,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),043,16:30,16:45,1,,10,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),044,16:45,17:00,0,,12,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),045,17:00,17:15,5,,13,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),046,17:15,17:30,0,,10,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),047,17:30,17:45,5,,8,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),048,17:45,18:00,2,,9,1,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),049,18:00,18:15,3,,10,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),050,18:15,18:30,1,,16,0,1,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),051,18:30,18:45,3,,12,0,0,0,0
+9,B,0,0,QB2,Querschnitt,,AL...(3) + CR...(7),052,18:45,19:00,2,,8,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,001,06:00,06:15,1,,2,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,002,06:15,06:30,4,,14,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,003,06:30,06:45,3,,15,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,004,06:45,07:00,2,,17,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,005,07:00,07:15,4,,27,2,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,006,07:15,07:30,5,,31,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,007,07:30,07:45,1,,18,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,008,07:45,08:00,1,,11,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,009,08:00,08:15,3,,8,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,010,08:15,08:30,1,,5,2,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,011,08:30,08:45,1,,9,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,012,08:45,09:00,0,,14,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,013,09:00,09:15,0,,10,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,014,09:15,09:30,0,,6,2,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,015,09:30,09:45,0,,9,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,016,09:45,10:00,1,,11,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,017,10:00,10:15,2,,6,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,018,10:15,10:30,0,,13,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,019,10:30,10:45,0,,11,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,020,10:45,11:00,2,,10,2,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,021,11:00,11:15,4,,10,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,022,11:15,11:30,3,,8,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,023,11:30,11:45,13,,11,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,024,11:45,12:00,0,,5,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,025,12:00,12:15,0,,5,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,026,12:15,12:30,4,,7,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,027,12:30,12:45,1,,10,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,028,12:45,13:00,0,,3,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,029,13:00,13:15,0,,12,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,030,13:15,13:30,0,,11,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,031,13:30,13:45,1,,7,2,1,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,032,13:45,14:00,0,,8,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,033,14:00,14:15,0,,7,0,1,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,034,14:15,14:30,1,,12,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,035,14:30,14:45,0,,11,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,036,14:45,15:00,0,,11,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,037,15:00,15:15,1,,7,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,038,15:15,15:30,0,,14,2,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,039,15:30,15:45,0,,15,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,040,15:45,16:00,0,,7,2,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,041,16:00,16:15,3,,22,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,042,16:15,16:30,3,,17,1,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,043,16:30,16:45,6,,13,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,044,16:45,17:00,1,,18,2,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,045,17:00,17:15,10,,21,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,046,17:15,17:30,1,,22,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,047,17:30,17:45,8,,13,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,048,17:45,18:00,2,,12,2,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,049,18:00,18:15,4,,19,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,050,18:15,18:30,3,,25,0,1,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,051,18:30,18:45,3,,22,0,0,0,0
+10,B,0,0,QB,Querschnitt,,QB1 + QB2,052,18:45,19:00,4,,12,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),001,06:00,06:15,1,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),002,06:15,06:30,3,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),003,06:30,06:45,3,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),004,06:45,07:00,1,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),005,07:00,07:15,2,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),006,07:15,07:30,3,,6,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),007,07:30,07:45,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),008,07:45,08:00,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),009,08:00,08:15,2,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),010,08:15,08:30,1,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),011,08:30,08:45,1,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),012,08:45,09:00,0,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),013,09:00,09:15,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),014,09:15,09:30,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),015,09:30,09:45,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),016,09:45,10:00,1,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),017,10:00,10:15,2,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),018,10:15,10:30,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),019,10:30,10:45,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),020,10:45,11:00,2,,5,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),021,11:00,11:15,2,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),022,11:15,11:30,3,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),023,11:30,11:45,12,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),024,11:45,12:00,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),025,12:00,12:15,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),026,12:15,12:30,1,,2,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),027,12:30,12:45,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),028,12:45,13:00,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),029,13:00,13:15,0,,5,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),030,13:15,13:30,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),031,13:30,13:45,0,,1,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),032,13:45,14:00,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),033,14:00,14:15,0,,0,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),034,14:15,14:30,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),035,14:30,14:45,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),036,14:45,15:00,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),037,15:00,15:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),038,15:15,15:30,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),039,15:30,15:45,0,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),040,15:45,16:00,0,,1,1,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),041,16:00,16:15,1,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),042,16:15,16:30,2,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),043,16:30,16:45,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),044,16:45,17:00,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),045,17:00,17:15,0,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),046,17:15,17:30,0,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),047,17:30,17:45,4,,2,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),048,17:45,18:00,2,,1,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),049,18:00,18:15,2,,3,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),050,18:15,18:30,0,,3,0,1,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),051,18:30,18:45,0,,4,0,0,0,0
+11,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Klusdamm (O),052,18:45,19:00,1,,0,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),001,06:00,06:15,0,,11,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),002,06:15,06:30,6,,18,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),003,06:30,06:45,7,,16,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),004,06:45,07:00,8,,21,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),005,07:00,07:15,15,,31,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),006,07:15,07:30,7,,24,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),007,07:30,07:45,7,,23,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),008,07:45,08:00,2,,19,1,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),009,08:00,08:15,2,,15,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),010,08:15,08:30,2,,10,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),011,08:30,08:45,2,,10,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),012,08:45,09:00,0,,11,2,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),013,09:00,09:15,0,,11,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),014,09:15,09:30,0,,9,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),015,09:30,09:45,2,,18,1,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),016,09:45,10:00,2,,19,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),017,10:00,10:15,5,,15,2,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),018,10:15,10:30,3,,17,1,0,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),019,10:30,10:45,1,,16,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),020,10:45,11:00,5,,8,2,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),021,11:00,11:15,1,,12,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),022,11:15,11:30,4,,9,0,1,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),023,11:30,11:45,1,,7,3,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),024,11:45,12:00,0,,12,2,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),025,12:00,12:15,0,,9,0,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),026,12:15,12:30,0,,15,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),027,12:30,12:45,2,,13,2,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),028,12:45,13:00,2,,6,1,1,1,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),029,13:00,13:15,2,,7,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),030,13:15,13:30,1,,10,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),031,13:30,13:45,3,,10,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),032,13:45,14:00,0,,4,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),033,14:00,14:15,1,,14,1,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),034,14:15,14:30,2,,8,1,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),035,14:30,14:45,0,,9,1,2,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),036,14:45,15:00,1,,15,3,2,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),037,15:00,15:15,2,,11,3,3,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),038,15:15,15:30,1,,12,2,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),039,15:30,15:45,1,,15,2,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),040,15:45,16:00,0,,9,2,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),041,16:00,16:15,3,,13,3,1,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),042,16:15,16:30,3,,12,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),043,16:30,16:45,0,,10,1,2,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),044,16:45,17:00,2,,20,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),045,17:00,17:15,3,,11,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),046,17:15,17:30,2,,12,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),047,17:30,17:45,1,,12,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),048,17:45,18:00,0,,10,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),049,18:00,18:15,0,,17,0,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),050,18:15,18:30,3,,17,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),051,18:30,18:45,1,,18,1,0,0,0
+12,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Klusdamm (O),052,18:45,19:00,0,,8,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),001,06:00,06:15,1,,13,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),002,06:15,06:30,9,,19,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),003,06:30,06:45,10,,18,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),004,06:45,07:00,9,,25,0,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),005,07:00,07:15,17,,34,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),006,07:15,07:30,10,,30,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),007,07:30,07:45,7,,26,0,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),008,07:45,08:00,2,,20,1,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),009,08:00,08:15,4,,17,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),010,08:15,08:30,3,,11,0,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),011,08:30,08:45,3,,10,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),012,08:45,09:00,0,,16,2,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),013,09:00,09:15,0,,15,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),014,09:15,09:30,0,,10,0,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),015,09:30,09:45,2,,21,1,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),016,09:45,10:00,3,,19,1,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),017,10:00,10:15,7,,15,2,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),018,10:15,10:30,3,,20,1,0,1,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),019,10:30,10:45,1,,17,1,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),020,10:45,11:00,7,,13,2,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),021,11:00,11:15,3,,12,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),022,11:15,11:30,7,,9,0,1,1,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),023,11:30,11:45,13,,7,3,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),024,11:45,12:00,0,,13,2,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),025,12:00,12:15,0,,11,0,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),026,12:15,12:30,1,,17,2,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),027,12:30,12:45,2,,17,2,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),028,12:45,13:00,2,,6,1,1,1,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),029,13:00,13:15,2,,12,1,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),030,13:15,13:30,1,,10,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),031,13:30,13:45,3,,11,0,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),032,13:45,14:00,0,,6,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),033,14:00,14:15,1,,14,1,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),034,14:15,14:30,2,,11,1,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),035,14:30,14:45,0,,11,1,2,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),036,14:45,15:00,1,,16,3,2,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),037,15:00,15:15,2,,12,3,3,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),038,15:15,15:30,1,,13,2,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),039,15:30,15:45,1,,18,2,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),040,15:45,16:00,0,,10,3,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),041,16:00,16:15,4,,14,3,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),042,16:15,16:30,5,,16,1,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),043,16:30,16:45,0,,11,1,2,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),044,16:45,17:00,2,,24,1,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),045,17:00,17:15,3,,12,1,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),046,17:15,17:30,2,,14,1,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),047,17:30,17:45,5,,14,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),048,17:45,18:00,2,,11,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),049,18:00,18:15,2,,20,0,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),050,18:15,18:30,3,,20,1,1,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),051,18:30,18:45,1,,22,1,0,0,0
+13,C,0,0,QC1,Querschnitt,,CR...(7) + CG...(8),052,18:45,19:00,1,,8,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),001,06:00,06:15,0,,3,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),002,06:15,06:30,2,,5,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),003,06:30,06:45,0,,1,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),004,06:45,07:00,1,,6,2,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),005,07:00,07:15,2,,8,2,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),006,07:15,07:30,0,,13,4,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),007,07:30,07:45,0,,10,3,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),008,07:45,08:00,0,,10,1,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),009,08:00,08:15,0,,11,2,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),010,08:15,08:30,0,,8,6,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),011,08:30,08:45,0,,12,3,3,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),012,08:45,09:00,0,,8,2,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),013,09:00,09:15,0,,10,1,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),014,09:15,09:30,0,,15,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),015,09:30,09:45,1,,8,1,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),016,09:45,10:00,0,,6,1,0,1,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),017,10:00,10:15,2,,13,1,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),018,10:15,10:30,2,,22,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),019,10:30,10:45,2,,13,0,2,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),020,10:45,11:00,2,,11,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),021,11:00,11:15,1,,20,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),022,11:15,11:30,3,,9,1,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),023,11:30,11:45,1,,21,0,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),024,11:45,12:00,0,,17,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),025,12:00,12:15,2,,13,1,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),026,12:15,12:30,3,,14,1,2,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),027,12:30,12:45,4,,14,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),028,12:45,13:00,0,,8,2,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),029,13:00,13:15,0,,6,0,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),030,13:15,13:30,8,,12,2,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),031,13:30,13:45,6,,14,3,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),032,13:45,14:00,0,,15,2,2,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),033,14:00,14:15,0,,19,1,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),034,14:15,14:30,1,,16,2,1,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),035,14:30,14:45,0,,14,1,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),036,14:45,15:00,3,,15,0,3,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),037,15:00,15:15,1,,16,3,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),038,15:15,15:30,5,,14,2,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),039,15:30,15:45,3,,19,3,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),040,15:45,16:00,3,,14,2,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),041,16:00,16:15,1,,29,0,2,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),042,16:15,16:30,5,,22,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),043,16:30,16:45,4,,28,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),044,16:45,17:00,2,,22,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),045,17:00,17:15,8,,25,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),046,17:15,17:30,0,,22,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),047,17:30,17:45,4,,26,2,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),048,17:45,18:00,3,,27,2,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),049,18:00,18:15,4,,26,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),050,18:15,18:30,2,,22,0,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),051,18:30,18:45,4,,30,2,0,0,0
+14,C,0,0,QC2,Querschnitt,,AG...(2) + BL...(6),052,18:45,19:00,1,,17,0,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,001,06:00,06:15,1,,16,0,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,002,06:15,06:30,11,,24,0,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,003,06:30,06:45,10,,19,0,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,004,06:45,07:00,10,,31,2,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,005,07:00,07:15,19,,42,2,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,006,07:15,07:30,10,,43,4,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,007,07:30,07:45,7,,36,3,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,008,07:45,08:00,2,,30,2,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,009,08:00,08:15,4,,28,2,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,010,08:15,08:30,3,,19,6,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,011,08:30,08:45,3,,22,3,3,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,012,08:45,09:00,0,,24,4,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,013,09:00,09:15,0,,25,1,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,014,09:15,09:30,0,,25,0,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,015,09:30,09:45,3,,29,2,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,016,09:45,10:00,3,,25,2,0,1,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,017,10:00,10:15,9,,28,3,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,018,10:15,10:30,5,,42,1,0,1,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,019,10:30,10:45,3,,30,1,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,020,10:45,11:00,9,,24,2,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,021,11:00,11:15,4,,32,0,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,022,11:15,11:30,10,,18,1,1,1,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,023,11:30,11:45,14,,28,3,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,024,11:45,12:00,0,,30,2,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,025,12:00,12:15,2,,24,1,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,026,12:15,12:30,4,,31,3,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,027,12:30,12:45,6,,31,2,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,028,12:45,13:00,2,,14,3,2,1,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,029,13:00,13:15,2,,18,1,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,030,13:15,13:30,9,,22,2,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,031,13:30,13:45,9,,25,3,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,032,13:45,14:00,0,,21,2,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,033,14:00,14:15,1,,33,2,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,034,14:15,14:30,3,,27,3,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,035,14:30,14:45,0,,25,2,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,036,14:45,15:00,4,,31,3,5,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,037,15:00,15:15,3,,28,6,3,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,038,15:15,15:30,6,,27,4,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,039,15:30,15:45,4,,37,5,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,040,15:45,16:00,3,,24,5,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,041,16:00,16:15,5,,43,3,3,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,042,16:15,16:30,10,,38,1,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,043,16:30,16:45,4,,39,1,2,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,044,16:45,17:00,4,,46,1,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,045,17:00,17:15,11,,37,1,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,046,17:15,17:30,2,,36,1,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,047,17:30,17:45,9,,40,2,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,048,17:45,18:00,5,,38,2,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,049,18:00,18:15,6,,46,0,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,050,18:15,18:30,5,,42,1,1,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,051,18:30,18:45,5,,52,3,0,0,0
+15,C,0,0,QC,Querschnitt,,QC1 + QC2,052,18:45,19:00,2,,25,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,001,06:00,06:15,1,,16,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,002,06:15,06:30,12,,37,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,003,06:30,06:45,10,,32,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,004,06:45,07:00,11,,43,3,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,005,07:00,07:15,21,,64,3,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,006,07:15,07:30,12,,63,4,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,007,07:30,07:45,8,,48,3,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,008,07:45,08:00,3,,38,2,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,009,08:00,08:15,5,,33,2,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,010,08:15,08:30,3,,23,7,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,011,08:30,08:45,3,,30,4,3,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,012,08:45,09:00,0,,32,4,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,013,09:00,09:15,0,,31,2,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,014,09:15,09:30,0,,29,2,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,015,09:30,09:45,3,,34,2,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,016,09:45,10:00,3,,36,2,0,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,017,10:00,10:15,9,,31,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,018,10:15,10:30,5,,47,1,0,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,019,10:30,10:45,3,,38,1,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,020,10:45,11:00,9,,28,4,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,021,11:00,11:15,6,,40,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,022,11:15,11:30,10,,24,1,1,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,023,11:30,11:45,14,,35,3,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,024,11:45,12:00,0,,32,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,025,12:00,12:15,2,,27,1,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,026,12:15,12:30,4,,35,3,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,027,12:30,12:45,7,,36,2,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,028,12:45,13:00,2,,17,3,2,1,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,029,13:00,13:15,2,,25,1,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,030,13:15,13:30,9,,31,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,031,13:30,13:45,9,,31,4,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,032,13:45,14:00,0,,25,3,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,033,14:00,14:15,1,,40,2,3,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,034,14:15,14:30,4,,36,3,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,035,14:30,14:45,0,,33,2,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,036,14:45,15:00,4,,38,3,5,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,037,15:00,15:15,4,,33,7,3,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,038,15:15,15:30,6,,40,5,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,039,15:30,15:45,4,,48,6,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,040,15:45,16:00,3,,29,5,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,041,16:00,16:15,7,,62,3,3,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,042,16:15,16:30,11,,50,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,043,16:30,16:45,8,,49,1,2,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,044,16:45,17:00,5,,60,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,045,17:00,17:15,19,,51,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,046,17:15,17:30,3,,51,1,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,047,17:30,17:45,10,,49,2,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,048,17:45,18:00,5,,48,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,049,18:00,18:15,7,,58,0,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,050,18:15,18:30,8,,60,1,1,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,051,18:30,18:45,8,,65,3,0,0,0
+16,,0,0,SUMME ZU,summierter Strom,3+8+13,QA1 + QB1 + QC1,052,18:45,19:00,5,,35,0,0,0,0

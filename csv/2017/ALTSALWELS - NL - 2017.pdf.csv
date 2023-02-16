@@ -1,0 +1,469 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,001,06:00,06:15,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,002,06:15,06:30,0,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,003,06:30,06:45,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,004,06:45,07:00,0,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,005,07:00,07:15,0,,11,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,006,07:15,07:30,2,,5,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,007,07:30,07:45,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,008,07:45,08:00,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,009,08:00,08:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,010,08:15,08:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,011,08:30,08:45,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,012,08:45,09:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,013,09:00,09:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,014,09:15,09:30,1,,11,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,015,09:30,09:45,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,016,09:45,10:00,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,017,10:00,10:15,0,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,018,10:15,10:30,0,,6,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,019,10:30,10:45,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,020,10:45,11:00,2,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,021,11:00,11:15,0,,0,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,022,11:15,11:30,2,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,023,11:30,11:45,1,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,024,11:45,12:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,025,12:00,12:15,0,,1,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,026,12:15,12:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,027,12:30,12:45,0,,3,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,028,12:45,13:00,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,029,13:00,13:15,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,030,13:15,13:30,0,,6,0,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,031,13:30,13:45,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,032,13:45,14:00,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,033,14:00,14:15,0,,6,1,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,034,14:15,14:30,0,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,035,14:30,14:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,036,14:45,15:00,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,037,15:00,15:15,0,,7,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,038,15:15,15:30,0,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,039,15:30,15:45,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,040,15:45,16:00,0,,7,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,041,16:00,16:15,3,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,042,16:15,16:30,0,,4,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,043,16:30,16:45,0,,10,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,044,16:45,17:00,1,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,045,17:00,17:15,1,,8,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,046,17:15,17:30,0,,2,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,047,17:30,17:45,0,,3,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,048,17:45,18:00,0,,5,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,049,18:00,18:15,0,,4,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,050,18:15,18:30,0,,9,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,051,18:30,18:45,4,,2,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Welsleber Straße,052,18:45,19:00,0,,7,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,001,06:00,06:15,1,,10,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,002,06:15,06:30,0,,11,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,003,06:30,06:45,0,,13,4,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,004,06:45,07:00,0,,12,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,005,07:00,07:15,3,,24,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,006,07:15,07:30,0,,26,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,007,07:30,07:45,1,,28,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,008,07:45,08:00,0,,12,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,009,08:00,08:15,2,,12,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,010,08:15,08:30,0,,17,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,011,08:30,08:45,0,,19,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,012,08:45,09:00,0,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,013,09:00,09:15,0,,12,3,2,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,014,09:15,09:30,0,,9,0,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,015,09:30,09:45,0,,19,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,016,09:45,10:00,0,,11,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,017,10:00,10:15,1,,7,1,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,018,10:15,10:30,1,,6,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,019,10:30,10:45,2,,9,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,020,10:45,11:00,1,,7,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,021,11:00,11:15,1,,10,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,022,11:15,11:30,3,,9,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,023,11:30,11:45,0,,11,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,024,11:45,12:00,1,,7,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,025,12:00,12:15,0,,4,1,2,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,026,12:15,12:30,0,,10,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,027,12:30,12:45,0,,10,1,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,028,12:45,13:00,0,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,029,13:00,13:15,1,,16,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,030,13:15,13:30,3,,17,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,031,13:30,13:45,0,,18,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,032,13:45,14:00,0,,9,4,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,033,14:00,14:15,0,,13,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,034,14:15,14:30,0,,17,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,035,14:30,14:45,0,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,036,14:45,15:00,0,,9,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,037,15:00,15:15,0,,10,3,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,038,15:15,15:30,0,,11,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,039,15:30,15:45,0,,17,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,040,15:45,16:00,0,,18,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,041,16:00,16:15,0,,9,0,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,042,16:15,16:30,1,,18,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,043,16:30,16:45,1,,16,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,044,16:45,17:00,0,,14,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,045,17:00,17:15,0,,13,0,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,046,17:15,17:30,0,,7,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,047,17:30,17:45,0,,8,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,048,17:45,18:00,0,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,049,18:00,18:15,0,,12,0,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,050,18:15,18:30,0,,9,2,0,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,051,18:30,18:45,1,,7,1,1,0,0
+2,A,1,2,AL...(3),Zählstrom,,Linksabbieger Welsleber Straße,052,18:45,19:00,0,,5,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),001,06:00,06:15,0,,0,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),002,06:15,06:30,0,,3,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),003,06:30,06:45,0,,2,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),004,06:45,07:00,0,,4,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),005,07:00,07:15,0,,1,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),006,07:15,07:30,0,,7,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),007,07:30,07:45,0,,7,2,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),008,07:45,08:00,0,,8,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),009,08:00,08:15,1,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),010,08:15,08:30,0,,5,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),011,08:30,08:45,0,,14,0,2,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),012,08:45,09:00,0,,7,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),013,09:00,09:15,0,,4,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),014,09:15,09:30,0,,2,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),015,09:30,09:45,0,,10,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),016,09:45,10:00,0,,10,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),017,10:00,10:15,2,,17,3,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),018,10:15,10:30,0,,8,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),019,10:30,10:45,3,,12,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),020,10:45,11:00,1,,14,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),021,11:00,11:15,2,,9,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),022,11:15,11:30,0,,13,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),023,11:30,11:45,4,,17,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),024,11:45,12:00,1,,3,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),025,12:00,12:15,0,,11,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),026,12:15,12:30,0,,9,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),027,12:30,12:45,0,,14,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),028,12:45,13:00,1,,10,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),029,13:00,13:15,0,,6,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),030,13:15,13:30,0,,11,2,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),031,13:30,13:45,0,,13,1,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),032,13:45,14:00,0,,7,0,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),033,14:00,14:15,0,,10,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),034,14:15,14:30,0,,13,2,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),035,14:30,14:45,0,,21,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),036,14:45,15:00,0,,14,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),037,15:00,15:15,0,,14,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),038,15:15,15:30,0,,11,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),039,15:30,15:45,0,,16,5,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),040,15:45,16:00,0,,12,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),041,16:00,16:15,1,,12,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),042,16:15,16:30,0,,14,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),043,16:30,16:45,1,,12,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),044,16:45,17:00,1,,17,4,1,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),045,17:00,17:15,2,,19,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),046,17:15,17:30,2,,17,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),047,17:30,17:45,0,,11,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),048,17:45,18:00,0,,23,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),049,18:00,18:15,0,,14,0,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),050,18:15,18:30,0,,29,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),051,18:30,18:45,2,,14,1,0,0,0
+6,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Alt Salbke (N),052,18:45,19:00,1,,15,1,0,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,001,06:00,06:15,1,,58,2,2,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,002,06:15,06:30,0,,68,1,2,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,003,06:30,06:45,3,,102,3,1,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,004,06:45,07:00,0,,100,3,0,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,005,07:00,07:15,3,,112,8,0,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,006,07:15,07:30,4,,124,3,2,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,007,07:30,07:45,1,,117,5,3,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,008,07:45,08:00,1,,87,5,1,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,009,08:00,08:15,1,,67,2,2,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,010,08:15,08:30,3,,61,1,5,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,011,08:30,08:45,2,,66,4,6,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,012,08:45,09:00,5,,102,0,3,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,013,09:00,09:15,1,,111,2,1,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,014,09:15,09:30,0,,108,1,1,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,015,09:30,09:45,3,,109,14,3,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,016,09:45,10:00,2,,99,9,0,3,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,017,10:00,10:15,1,,111,5,2,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,018,10:15,10:30,2,,95,2,2,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,019,10:30,10:45,5,,112,11,2,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,020,10:45,11:00,2,,110,6,2,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,021,11:00,11:15,3,,91,15,5,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,022,11:15,11:30,1,,111,8,7,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,023,11:30,11:45,1,,62,9,3,2,1
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,024,11:45,12:00,0,,85,8,4,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,025,12:00,12:15,2,,101,8,2,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,026,12:15,12:30,0,,105,12,2,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,027,12:30,12:45,2,,89,10,4,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,028,12:45,13:00,2,,87,11,3,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,029,13:00,13:15,2,,98,3,3,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,030,13:15,13:30,6,,92,3,4,2,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,031,13:30,13:45,1,,131,1,2,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,032,13:45,14:00,2,,95,4,1,2,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,033,14:00,14:15,2,,132,0,1,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,034,14:15,14:30,7,,142,1,1,2,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,035,14:30,14:45,3,,129,2,0,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,036,14:45,15:00,1,,158,3,4,3,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,037,15:00,15:15,1,,159,1,0,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,038,15:15,15:30,1,,146,2,2,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,039,15:30,15:45,1,,172,0,2,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,040,15:45,16:00,1,,169,4,2,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,041,16:00,16:15,1,,130,17,1,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,042,16:15,16:30,2,,163,6,1,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,043,16:30,16:45,5,,182,13,0,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,044,16:45,17:00,3,,174,1,3,2,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,045,17:00,17:15,3,,184,16,4,0,1
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,046,17:15,17:30,1,,160,6,0,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,047,17:30,17:45,5,,167,3,2,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,048,17:45,18:00,0,,97,3,1,1,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,049,18:00,18:15,2,,98,1,0,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,050,18:15,18:30,4,,140,8,0,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,051,18:30,18:45,2,,103,9,0,0,0
+7,B,0,0,BG...(5),summierter Strom,17+18,BG1 + BG2,052,18:45,19:00,1,,81,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),001,06:00,06:15,1,,95,2,2,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),002,06:15,06:30,0,,98,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),003,06:30,06:45,0,,124,6,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),004,06:45,07:00,1,,140,10,2,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),005,07:00,07:15,2,,146,5,0,2,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),006,07:15,07:30,2,,140,2,2,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),007,07:30,07:45,0,,150,5,4,2,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),008,07:45,08:00,1,,119,6,2,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),009,08:00,08:15,0,,107,7,5,2,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),010,08:15,08:30,7,,96,3,4,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),011,08:30,08:45,1,,109,8,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),012,08:45,09:00,1,,44,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),013,09:00,09:15,2,,65,2,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),014,09:15,09:30,2,,60,3,0,3,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),015,09:30,09:45,2,,112,6,0,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),016,09:45,10:00,3,,114,10,1,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),017,10:00,10:15,6,,93,11,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),018,10:15,10:30,2,,106,9,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),019,10:30,10:45,0,,78,3,4,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),020,10:45,11:00,2,,110,9,3,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),021,11:00,11:15,5,,109,7,3,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),022,11:15,11:30,6,,107,7,4,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),023,11:30,11:45,9,,106,9,2,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),024,11:45,12:00,0,,74,2,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),025,12:00,12:15,2,,90,6,4,2,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),026,12:15,12:30,2,,127,6,2,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),027,12:30,12:45,1,,106,1,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),028,12:45,13:00,7,,78,7,3,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),029,13:00,13:15,2,,132,6,3,2,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),030,13:15,13:30,1,,86,5,3,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),031,13:30,13:45,2,,102,3,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),032,13:45,14:00,0,,90,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),033,14:00,14:15,0,,93,1,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),034,14:15,14:30,1,,120,3,0,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),035,14:30,14:45,0,,118,3,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),036,14:45,15:00,4,,108,2,1,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),037,15:00,15:15,1,,111,1,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),038,15:15,15:30,5,,126,3,0,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),039,15:30,15:45,6,,96,6,2,3,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),040,15:45,16:00,1,,112,5,2,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),041,16:00,16:15,4,,141,6,2,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),042,16:15,16:30,4,,115,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),043,16:30,16:45,6,,127,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),044,16:45,17:00,4,,96,3,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),045,17:00,17:15,2,,86,2,1,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),046,17:15,17:30,6,,113,8,1,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),047,17:30,17:45,7,,109,3,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),048,17:45,18:00,1,,104,5,1,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),049,18:00,18:15,1,,92,2,2,1,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),050,18:15,18:30,1,,96,2,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),051,18:30,18:45,2,,79,4,0,0,0
+11,D,1,1,DG..(11),Zählstrom,,Geradeausfahrer Alt Salbke (S),052,18:45,19:00,1,,70,5,1,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),001,06:00,06:15,0,,3,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),002,06:15,06:30,0,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),003,06:30,06:45,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),004,06:45,07:00,0,,4,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),005,07:00,07:15,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),006,07:15,07:30,0,,4,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),007,07:30,07:45,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),008,07:45,08:00,0,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),009,08:00,08:15,0,,0,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),010,08:15,08:30,0,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),011,08:30,08:45,0,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),012,08:45,09:00,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),013,09:00,09:15,0,,0,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),014,09:15,09:30,0,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),015,09:30,09:45,0,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),016,09:45,10:00,0,,5,1,2,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),017,10:00,10:15,0,,4,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),018,10:15,10:30,3,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),019,10:30,10:45,0,,1,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),020,10:45,11:00,0,,3,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),021,11:00,11:15,0,,0,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),022,11:15,11:30,3,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),023,11:30,11:45,0,,2,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),024,11:45,12:00,0,,2,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),025,12:00,12:15,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),026,12:15,12:30,0,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),027,12:30,12:45,2,,0,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),028,12:45,13:00,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),029,13:00,13:15,0,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),030,13:15,13:30,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),031,13:30,13:45,0,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),032,13:45,14:00,0,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),033,14:00,14:15,0,,0,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),034,14:15,14:30,0,,3,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),035,14:30,14:45,0,,10,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),036,14:45,15:00,0,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),037,15:00,15:15,0,,7,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),038,15:15,15:30,0,,2,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),039,15:30,15:45,0,,7,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),040,15:45,16:00,0,,8,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),041,16:00,16:15,1,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),042,16:15,16:30,0,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),043,16:30,16:45,0,,5,0,1,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),044,16:45,17:00,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),045,17:00,17:15,1,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),046,17:15,17:30,0,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),047,17:30,17:45,0,,9,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),048,17:45,18:00,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),049,18:00,18:15,1,,4,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),050,18:15,18:30,0,,2,1,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),051,18:30,18:45,0,,5,0,0,0,0
+12,D,2,1,DL..(12),Zählstrom,,Linksabbieger Alt Salbke (S),052,18:45,19:00,1,,2,0,0,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,001,06:00,06:15,3,,169,5,4,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,002,06:15,06:30,0,,186,5,2,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,003,06:30,06:45,3,,246,15,1,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,004,06:45,07:00,1,,265,19,2,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,005,07:00,07:15,8,,296,15,0,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,006,07:15,07:30,8,,306,6,4,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,007,07:30,07:45,3,,308,13,8,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,008,07:45,08:00,2,,229,13,3,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,009,08:00,08:15,4,,191,10,7,3,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,010,08:15,08:30,10,,182,4,9,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,011,08:30,08:45,3,,213,12,9,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,012,08:45,09:00,6,,173,3,3,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,013,09:00,09:15,3,,194,7,4,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,014,09:15,09:30,3,,191,5,2,3,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,015,09:30,09:45,5,,252,20,3,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,016,09:45,10:00,5,,240,22,3,4,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,017,10:00,10:15,10,,236,22,4,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,018,10:15,10:30,8,,222,11,3,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,019,10:30,10:45,10,,216,16,6,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,020,10:45,11:00,8,,247,20,5,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,021,11:00,11:15,11,,219,22,8,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,022,11:15,11:30,15,,254,16,12,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,023,11:30,11:45,15,,202,21,5,3,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,024,11:45,12:00,2,,175,11,6,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,025,12:00,12:15,4,,209,15,8,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,026,12:15,12:30,2,,257,20,4,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,027,12:30,12:45,5,,222,13,6,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,028,12:45,13:00,11,,195,18,6,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,029,13:00,13:15,5,,258,10,6,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,030,13:15,13:30,10,,214,12,9,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,031,13:30,13:45,3,,269,5,4,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,032,13:45,14:00,2,,209,10,2,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,033,14:00,14:15,2,,254,6,3,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,034,14:15,14:30,8,,303,10,1,3,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,035,14:30,14:45,3,,295,5,1,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,036,14:45,15:00,5,,296,5,5,4,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,037,15:00,15:15,2,,308,7,1,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,038,15:15,15:30,6,,298,6,2,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,039,15:30,15:45,7,,312,13,5,4,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,040,15:45,16:00,2,,326,10,4,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,041,16:00,16:15,10,,298,23,4,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,042,16:15,16:30,7,,318,11,1,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,043,16:30,16:45,13,,352,19,1,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,044,16:45,17:00,9,,310,8,5,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,045,17:00,17:15,9,,315,20,6,1,1
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,046,17:15,17:30,9,,303,17,1,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,047,17:30,17:45,12,,307,6,2,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,048,17:45,18:00,1,,246,9,2,2,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,049,18:00,18:15,4,,224,3,2,1,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,050,18:15,18:30,5,,285,14,0,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,051,18:30,18:45,11,,210,15,1,0,0
+16,,0,0,Summe Zu,summierter Strom,3+8+13,QA1 + QB1 + QD1,052,18:45,19:00,4,,180,10,1,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),001,06:00,06:15,1,,53,0,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),002,06:15,06:30,0,,54,1,2,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),003,06:30,06:45,3,,91,3,1,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),004,06:45,07:00,0,,87,3,0,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),005,07:00,07:15,3,,94,8,0,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),006,07:15,07:30,4,,106,3,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),007,07:30,07:45,1,,83,5,3,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),008,07:45,08:00,1,,66,5,1,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),009,08:00,08:15,1,,55,2,2,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),010,08:15,08:30,3,,51,1,5,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),011,08:30,08:45,2,,59,4,6,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),012,08:45,09:00,5,,81,0,3,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),013,09:00,09:15,1,,95,2,1,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),014,09:15,09:30,0,,96,1,1,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),015,09:30,09:45,3,,95,12,3,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),016,09:45,10:00,2,,84,7,0,3,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),017,10:00,10:15,1,,95,5,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),018,10:15,10:30,2,,85,2,2,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),019,10:30,10:45,5,,100,10,2,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),020,10:45,11:00,2,,91,6,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),021,11:00,11:15,3,,68,11,4,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),022,11:15,11:30,1,,97,8,7,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),023,11:30,11:45,1,,49,9,3,2,1
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),024,11:45,12:00,0,,75,7,4,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),025,12:00,12:15,2,,85,4,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),026,12:15,12:30,0,,94,12,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),027,12:30,12:45,2,,77,9,4,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),028,12:45,13:00,2,,74,10,3,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),029,13:00,13:15,2,,84,3,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),030,13:15,13:30,6,,74,3,4,2,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),031,13:30,13:45,1,,109,1,2,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),032,13:45,14:00,2,,77,3,1,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),033,14:00,14:15,2,,108,0,1,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),034,14:15,14:30,7,,109,1,1,2,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),035,14:30,14:45,3,,107,2,0,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),036,14:45,15:00,1,,136,3,4,3,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),037,15:00,15:15,1,,130,1,0,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),038,15:15,15:30,1,,122,1,2,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),039,15:30,15:45,1,,127,0,2,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),040,15:45,16:00,1,,141,4,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),041,16:00,16:15,1,,110,17,1,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),042,16:15,16:30,2,,132,5,1,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),043,16:30,16:45,5,,148,8,0,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),044,16:45,17:00,3,,127,1,3,2,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),045,17:00,17:15,3,,147,14,4,0,1
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),046,17:15,17:30,1,,126,5,0,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),047,17:30,17:45,5,,137,3,2,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),048,17:45,18:00,0,,70,3,1,1,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),049,18:00,18:15,2,,82,1,0,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),050,18:15,18:30,4,,117,7,0,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),051,18:30,18:45,2,,85,9,0,0,0
+17,B,1,2,BG1,Zählstrom,,Geradeausfahrer 1 Alt Salbke (N),052,18:45,19:00,1,,72,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),001,06:00,06:15,0,,5,2,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),002,06:15,06:30,0,,14,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),003,06:30,06:45,0,,11,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),004,06:45,07:00,0,,13,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),005,07:00,07:15,0,,18,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),006,07:15,07:30,0,,18,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),007,07:30,07:45,0,,34,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),008,07:45,08:00,0,,21,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),009,08:00,08:15,0,,12,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),010,08:15,08:30,0,,10,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),011,08:30,08:45,0,,7,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),012,08:45,09:00,0,,21,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),013,09:00,09:15,0,,16,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),014,09:15,09:30,0,,12,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),015,09:30,09:45,0,,14,2,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),016,09:45,10:00,0,,15,2,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),017,10:00,10:15,0,,16,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),018,10:15,10:30,0,,10,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),019,10:30,10:45,0,,12,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),020,10:45,11:00,0,,19,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),021,11:00,11:15,0,,23,4,1,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),022,11:15,11:30,0,,14,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),023,11:30,11:45,0,,13,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),024,11:45,12:00,0,,10,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),025,12:00,12:15,0,,16,4,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),026,12:15,12:30,0,,11,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),027,12:30,12:45,0,,12,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),028,12:45,13:00,0,,13,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),029,13:00,13:15,0,,14,0,1,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),030,13:15,13:30,0,,18,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),031,13:30,13:45,0,,22,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),032,13:45,14:00,0,,18,1,0,1,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),033,14:00,14:15,0,,24,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),034,14:15,14:30,0,,33,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),035,14:30,14:45,0,,22,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),036,14:45,15:00,0,,22,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),037,15:00,15:15,0,,29,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),038,15:15,15:30,0,,24,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),039,15:30,15:45,0,,45,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),040,15:45,16:00,0,,28,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),041,16:00,16:15,0,,20,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),042,16:15,16:30,0,,31,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),043,16:30,16:45,0,,34,5,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),044,16:45,17:00,0,,47,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),045,17:00,17:15,0,,37,2,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),046,17:15,17:30,0,,34,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),047,17:30,17:45,0,,30,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),048,17:45,18:00,0,,27,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),049,18:00,18:15,0,,16,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),050,18:15,18:30,0,,23,1,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),051,18:30,18:45,0,,18,0,0,0,0
+18,B,2,1,BG2,Zählstrom,,Geradeausfahrer 2 Alt Salbke (N),052,18:45,19:00,0,,9,2,0,0,0

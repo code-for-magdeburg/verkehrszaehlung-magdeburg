@@ -1,0 +1,677 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,001,06:00,06:15,0,,20,1,1,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,002,06:15,06:30,1,,45,1,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,003,06:30,06:45,3,,50,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,004,06:45,07:00,3,,64,5,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,005,07:00,07:15,3,,41,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,006,07:15,07:30,1,,46,3,2,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,007,07:30,07:45,1,,50,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,008,07:45,08:00,0,,26,2,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,009,08:00,08:15,2,,41,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,010,08:15,08:30,0,,29,7,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,011,08:30,08:45,1,,37,4,5,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,012,08:45,09:00,0,,25,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,013,09:00,09:15,1,,30,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,014,09:15,09:30,0,,30,7,6,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,015,09:30,09:45,3,,38,3,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,016,09:45,10:00,5,,64,4,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,017,10:00,10:15,3,,61,4,0,0,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,018,10:15,10:30,5,,54,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,019,10:30,10:45,2,,63,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,020,10:45,11:00,5,,50,8,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,021,11:00,11:15,0,,56,0,3,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,022,11:15,11:30,5,,65,4,3,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,023,11:30,11:45,3,,59,1,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,024,11:45,12:00,4,,66,4,1,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,025,12:00,12:15,2,,66,1,1,3,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,026,12:15,12:30,1,,50,5,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,027,12:30,12:45,2,,59,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,028,12:45,13:00,2,,68,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,029,13:00,13:15,1,,59,2,2,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,030,13:15,13:30,0,,45,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,031,13:30,13:45,4,,80,0,1,1,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,032,13:45,14:00,1,,43,4,1,4,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,033,14:00,14:15,2,,79,6,2,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,034,14:15,14:30,1,,70,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,035,14:30,14:45,2,,77,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,036,14:45,15:00,1,,62,4,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,037,15:00,15:15,3,,115,3,1,2,1
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,038,15:15,15:30,4,,93,4,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,039,15:30,15:45,2,,94,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,040,15:45,16:00,1,,105,3,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,041,16:00,16:15,3,,140,8,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,042,16:15,16:30,5,,128,3,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,043,16:30,16:45,1,,127,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,044,16:45,17:00,3,,111,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,045,17:00,17:15,4,,119,1,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,046,17:15,17:30,2,,108,6,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,047,17:30,17:45,3,,100,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,048,17:45,18:00,2,,76,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,049,18:00,18:15,1,,85,2,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,050,18:15,18:30,6,,103,0,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,051,18:30,18:45,2,,77,2,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Genthiner Straße,052,18:45,19:00,3,,68,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,001,06:00,06:15,2,,20,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,002,06:15,06:30,2,,17,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,003,06:30,06:45,2,,32,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,004,06:45,07:00,7,,37,5,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,005,07:00,07:15,5,,21,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,006,07:15,07:30,4,,17,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,007,07:30,07:45,0,,37,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,008,07:45,08:00,4,,22,0,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,009,08:00,08:15,6,,19,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,010,08:15,08:30,2,,19,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,011,08:30,08:45,0,,29,2,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,012,08:45,09:00,1,,7,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,013,09:00,09:15,0,,17,1,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,014,09:15,09:30,0,,18,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,015,09:30,09:45,0,,15,2,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,016,09:45,10:00,1,,27,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,017,10:00,10:15,1,,18,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,018,10:15,10:30,2,,11,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,019,10:30,10:45,1,,20,4,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,020,10:45,11:00,1,,11,2,0,0,1
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,021,11:00,11:15,3,,17,3,2,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,022,11:15,11:30,4,,15,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,023,11:30,11:45,0,,15,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,024,11:45,12:00,3,,16,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,025,12:00,12:15,3,,8,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,026,12:15,12:30,0,,14,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,027,12:30,12:45,1,,19,5,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,028,12:45,13:00,0,,13,4,1,1,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,029,13:00,13:15,5,,19,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,030,13:15,13:30,3,,19,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,031,13:30,13:45,3,,19,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,032,13:45,14:00,1,,14,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,033,14:00,14:15,0,,22,4,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,034,14:15,14:30,0,,23,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,035,14:30,14:45,0,,27,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,036,14:45,15:00,4,,7,3,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,037,15:00,15:15,2,,28,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,038,15:15,15:30,4,,23,2,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,039,15:30,15:45,4,,19,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,040,15:45,16:00,0,,18,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,041,16:00,16:15,5,,22,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,042,16:15,16:30,0,,23,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,043,16:30,16:45,1,,22,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,044,16:45,17:00,3,,19,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,045,17:00,17:15,2,,16,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,046,17:15,17:30,1,,22,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,047,17:30,17:45,0,,18,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,048,17:45,18:00,3,,16,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,049,18:00,18:15,7,,16,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,050,18:15,18:30,1,,15,1,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,051,18:30,18:45,1,,19,0,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Genthiner Straße,052,18:45,19:00,0,,11,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,001,06:00,06:15,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,002,06:15,06:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,003,06:30,06:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,004,06:45,07:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,005,07:00,07:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,006,07:15,07:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,007,07:30,07:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,008,07:45,08:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,009,08:00,08:15,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,010,08:15,08:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,011,08:30,08:45,1,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,012,08:45,09:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,013,09:00,09:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,014,09:15,09:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,015,09:30,09:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,016,09:45,10:00,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,017,10:00,10:15,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,018,10:15,10:30,0,,0,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,019,10:30,10:45,2,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,020,10:45,11:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,021,11:00,11:15,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,022,11:15,11:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,023,11:30,11:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,024,11:45,12:00,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,025,12:00,12:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,026,12:15,12:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,027,12:30,12:45,0,,2,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,028,12:45,13:00,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,029,13:00,13:15,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,030,13:15,13:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,031,13:30,13:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,032,13:45,14:00,0,,0,0,1,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,033,14:00,14:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,034,14:15,14:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,035,14:30,14:45,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,036,14:45,15:00,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,037,15:00,15:15,0,,2,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,038,15:15,15:30,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,039,15:30,15:45,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,040,15:45,16:00,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,041,16:00,16:15,0,,2,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,042,16:15,16:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,043,16:30,16:45,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,044,16:45,17:00,0,,2,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,045,17:00,17:15,0,,3,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,046,17:15,17:30,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,047,17:30,17:45,0,,1,1,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,048,17:45,18:00,0,,4,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,049,18:00,18:15,0,,1,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,050,18:15,18:30,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,051,18:30,18:45,0,,0,0,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Genthiner Straße,052,18:45,19:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),001,06:00,06:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),002,06:15,06:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),003,06:30,06:45,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),004,06:45,07:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),005,07:00,07:15,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),006,07:15,07:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),007,07:30,07:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),008,07:45,08:00,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),009,08:00,08:15,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),010,08:15,08:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),011,08:30,08:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),012,08:45,09:00,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),013,09:00,09:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),014,09:15,09:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),015,09:30,09:45,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),016,09:45,10:00,1,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),017,10:00,10:15,2,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),018,10:15,10:30,1,,5,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),019,10:30,10:45,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),020,10:45,11:00,1,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),021,11:00,11:15,0,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),022,11:15,11:30,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),023,11:30,11:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),024,11:45,12:00,0,,1,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),025,12:00,12:15,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),026,12:15,12:30,0,,1,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),027,12:30,12:45,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),028,12:45,13:00,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),029,13:00,13:15,1,,4,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),030,13:15,13:30,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),031,13:30,13:45,0,,2,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),032,13:45,14:00,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),033,14:00,14:15,0,,7,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),034,14:15,14:30,0,,3,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),035,14:30,14:45,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),036,14:45,15:00,0,,6,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),037,15:00,15:15,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),038,15:15,15:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),039,15:30,15:45,0,,0,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),040,15:45,16:00,0,,2,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),041,16:00,16:15,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),042,16:15,16:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),043,16:30,16:45,0,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),044,16:45,17:00,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),045,17:00,17:15,1,,5,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),046,17:15,17:30,0,,2,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),047,17:30,17:45,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),048,17:45,18:00,0,,1,1,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),049,18:00,18:15,0,,4,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),050,18:15,18:30,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),051,18:30,18:45,0,,3,0,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Pfeifferstraße (N),052,18:45,19:00,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),001,06:00,06:15,2,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),002,06:15,06:30,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),003,06:30,06:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),004,06:45,07:00,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),005,07:00,07:15,1,,2,2,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),006,07:15,07:30,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),007,07:30,07:45,2,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),008,07:45,08:00,1,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),009,08:00,08:15,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),010,08:15,08:30,2,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),011,08:30,08:45,0,,2,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),012,08:45,09:00,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),013,09:00,09:15,1,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),014,09:15,09:30,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),015,09:30,09:45,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),016,09:45,10:00,2,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),017,10:00,10:15,1,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),018,10:15,10:30,0,,0,1,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),019,10:30,10:45,1,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),020,10:45,11:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),021,11:00,11:15,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),022,11:15,11:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),023,11:30,11:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),024,11:45,12:00,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),025,12:00,12:15,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),026,12:15,12:30,2,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),027,12:30,12:45,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),028,12:45,13:00,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),029,13:00,13:15,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),030,13:15,13:30,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),031,13:30,13:45,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),032,13:45,14:00,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),033,14:00,14:15,3,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),034,14:15,14:30,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),035,14:30,14:45,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),036,14:45,15:00,3,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),037,15:00,15:15,0,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),038,15:15,15:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),039,15:30,15:45,0,,2,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),040,15:45,16:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),041,16:00,16:15,2,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),042,16:15,16:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),043,16:30,16:45,2,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),044,16:45,17:00,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),045,17:00,17:15,1,,3,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),046,17:15,17:30,0,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),047,17:30,17:45,2,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),048,17:45,18:00,2,,0,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),049,18:00,18:15,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),050,18:15,18:30,1,,4,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),051,18:30,18:45,1,,1,0,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Pfeifferstraße (N),052,18:45,19:00,1,,2,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),001,06:00,06:15,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),002,06:15,06:30,2,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),003,06:30,06:45,4,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),004,06:45,07:00,2,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),005,07:00,07:15,8,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),006,07:15,07:30,2,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),007,07:30,07:45,1,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),008,07:45,08:00,5,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),009,08:00,08:15,1,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),010,08:15,08:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),011,08:30,08:45,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),012,08:45,09:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),013,09:00,09:15,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),014,09:15,09:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),015,09:30,09:45,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),016,09:45,10:00,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),017,10:00,10:15,1,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),018,10:15,10:30,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),019,10:30,10:45,0,,2,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),020,10:45,11:00,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),021,11:00,11:15,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),022,11:15,11:30,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),023,11:30,11:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),024,11:45,12:00,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),025,12:00,12:15,1,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),026,12:15,12:30,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),027,12:30,12:45,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),028,12:45,13:00,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),029,13:00,13:15,2,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),030,13:15,13:30,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),031,13:30,13:45,2,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),032,13:45,14:00,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),033,14:00,14:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),034,14:15,14:30,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),035,14:30,14:45,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),036,14:45,15:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),037,15:00,15:15,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),038,15:15,15:30,3,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),039,15:30,15:45,0,,2,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),040,15:45,16:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),041,16:00,16:15,1,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),042,16:15,16:30,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),043,16:30,16:45,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),044,16:45,17:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),045,17:00,17:15,0,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),046,17:15,17:30,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),047,17:30,17:45,1,,1,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),048,17:45,18:00,0,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),049,18:00,18:15,2,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),050,18:15,18:30,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),051,18:30,18:45,1,,0,0,0,0,0
+9,B,1,1,BL...(6),Zählstrom,,Linksabbieger Pfeifferstraße (N),052,18:45,19:00,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,001,06:00,06:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,002,06:15,06:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,003,06:30,06:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,004,06:45,07:00,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,005,07:00,07:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,006,07:15,07:30,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,007,07:30,07:45,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,008,07:45,08:00,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,009,08:00,08:15,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,010,08:15,08:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,011,08:30,08:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,012,08:45,09:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,013,09:00,09:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,014,09:15,09:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,015,09:30,09:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,016,09:45,10:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,017,10:00,10:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,018,10:15,10:30,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,019,10:30,10:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,020,10:45,11:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,021,11:00,11:15,0,,2,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,022,11:15,11:30,1,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,023,11:30,11:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,024,11:45,12:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,025,12:00,12:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,026,12:15,12:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,027,12:30,12:45,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,028,12:45,13:00,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,029,13:00,13:15,0,,0,0,1,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,030,13:15,13:30,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,031,13:30,13:45,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,032,13:45,14:00,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,033,14:00,14:15,4,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,034,14:15,14:30,0,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,035,14:30,14:45,1,,3,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,036,14:45,15:00,0,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,037,15:00,15:15,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,038,15:15,15:30,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,039,15:30,15:45,1,,0,1,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,040,15:45,16:00,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,041,16:00,16:15,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,042,16:15,16:30,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,043,16:30,16:45,2,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,044,16:45,17:00,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,045,17:00,17:15,0,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,046,17:15,17:30,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,047,17:30,17:45,1,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,048,17:45,18:00,2,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,049,18:00,18:15,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,050,18:15,18:30,2,,0,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,051,18:30,18:45,1,,1,0,0,0,0
+13,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Schwarzkopfweg,052,18:45,19:00,2,,0,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,001,06:00,06:15,1,,7,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,002,06:15,06:30,1,,17,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,003,06:30,06:45,4,,20,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,004,06:45,07:00,1,,15,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,005,07:00,07:15,4,,24,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,006,07:15,07:30,5,,20,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,007,07:30,07:45,1,,10,0,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,008,07:45,08:00,1,,8,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,009,08:00,08:15,2,,17,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,010,08:15,08:30,1,,8,5,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,011,08:30,08:45,1,,18,5,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,012,08:45,09:00,1,,15,0,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,013,09:00,09:15,4,,19,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,014,09:15,09:30,0,,15,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,015,09:30,09:45,2,,21,3,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,016,09:45,10:00,0,,23,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,017,10:00,10:15,0,,27,1,2,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,018,10:15,10:30,1,,18,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,019,10:30,10:45,4,,18,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,020,10:45,11:00,1,,18,0,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,021,11:00,11:15,1,,20,5,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,022,11:15,11:30,3,,9,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,023,11:30,11:45,0,,11,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,024,11:45,12:00,5,,19,4,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,025,12:00,12:15,0,,23,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,026,12:15,12:30,3,,12,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,027,12:30,12:45,4,,16,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,028,12:45,13:00,1,,17,9,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,029,13:00,13:15,5,,15,1,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,030,13:15,13:30,2,,16,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,031,13:30,13:45,0,,14,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,032,13:45,14:00,0,,19,4,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,033,14:00,14:15,0,,25,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,034,14:15,14:30,2,,24,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,035,14:30,14:45,3,,30,7,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,036,14:45,15:00,2,,36,5,0,2,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,037,15:00,15:15,15,,43,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,038,15:15,15:30,7,,23,3,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,039,15:30,15:45,4,,26,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,040,15:45,16:00,1,,25,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,041,16:00,16:15,7,,30,2,1,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,042,16:15,16:30,0,,24,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,043,16:30,16:45,4,,22,2,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,044,16:45,17:00,3,,19,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,045,17:00,17:15,0,,27,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,046,17:15,17:30,6,,21,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,047,17:30,17:45,3,,20,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,048,17:45,18:00,0,,29,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,049,18:00,18:15,4,,23,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,050,18:15,18:30,0,,17,1,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,051,18:30,18:45,0,,16,0,0,0,0
+14,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Schwarzkopfweg,052,18:45,19:00,2,,11,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,001,06:00,06:15,2,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,002,06:15,06:30,0,,0,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,003,06:30,06:45,4,,2,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,004,06:45,07:00,9,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,005,07:00,07:15,6,,3,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,006,07:15,07:30,9,,5,1,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,007,07:30,07:45,4,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,008,07:45,08:00,2,,4,0,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,009,08:00,08:15,3,,5,0,2,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,010,08:15,08:30,1,,5,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,011,08:30,08:45,7,,2,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,012,08:45,09:00,1,,4,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,013,09:00,09:15,0,,6,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,014,09:15,09:30,0,,2,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,015,09:30,09:45,3,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,016,09:45,10:00,1,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,017,10:00,10:15,2,,3,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,018,10:15,10:30,1,,4,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,019,10:30,10:45,1,,4,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,020,10:45,11:00,4,,6,0,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,021,11:00,11:15,0,,8,1,1,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,022,11:15,11:30,6,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,023,11:30,11:45,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,024,11:45,12:00,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,025,12:00,12:15,0,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,026,12:15,12:30,0,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,027,12:30,12:45,0,,1,3,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,028,12:45,13:00,0,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,029,13:00,13:15,3,,3,2,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,030,13:15,13:30,1,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,031,13:30,13:45,0,,2,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,032,13:45,14:00,5,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,033,14:00,14:15,2,,3,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,034,14:15,14:30,2,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,035,14:30,14:45,2,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,036,14:45,15:00,2,,0,3,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,037,15:00,15:15,1,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,038,15:15,15:30,5,,3,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,039,15:30,15:45,7,,6,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,040,15:45,16:00,3,,3,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,041,16:00,16:15,5,,6,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,042,16:15,16:30,10,,2,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,043,16:30,16:45,2,,1,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,044,16:45,17:00,0,,3,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,045,17:00,17:15,3,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,046,17:15,17:30,3,,5,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,047,17:30,17:45,3,,1,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,048,17:45,18:00,3,,4,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,049,18:00,18:15,3,,4,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,050,18:15,18:30,3,,0,1,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,051,18:30,18:45,1,,4,0,0,0,0
+15,C,1,3,CL...(9),Zählstrom,,Linksabbieger Schwarzkopfweg,052,18:45,19:00,1,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),001,06:00,06:15,1,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),002,06:15,06:30,4,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),003,06:30,06:45,3,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),004,06:45,07:00,9,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),005,07:00,07:15,10,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),006,07:15,07:30,9,,7,0,2,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),007,07:30,07:45,10,,6,2,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),008,07:45,08:00,6,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),009,08:00,08:15,5,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),010,08:15,08:30,1,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),011,08:30,08:45,0,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),012,08:45,09:00,1,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),013,09:00,09:15,2,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),014,09:15,09:30,0,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),015,09:30,09:45,2,,3,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),016,09:45,10:00,1,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),017,10:00,10:15,1,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),018,10:15,10:30,1,,3,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),019,10:30,10:45,2,,5,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),020,10:45,11:00,1,,6,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),021,11:00,11:15,1,,8,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),022,11:15,11:30,1,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),023,11:30,11:45,1,,4,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),024,11:45,12:00,5,,6,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),025,12:00,12:15,3,,1,2,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),026,12:15,12:30,2,,3,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),027,12:30,12:45,3,,1,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),028,12:45,13:00,2,,4,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),029,13:00,13:15,2,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),030,13:15,13:30,5,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),031,13:30,13:45,5,,8,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),032,13:45,14:00,2,,2,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),033,14:00,14:15,1,,5,1,1,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),034,14:15,14:30,4,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),035,14:30,14:45,3,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),036,14:45,15:00,3,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),037,15:00,15:15,2,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),038,15:15,15:30,10,,9,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),039,15:30,15:45,2,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),040,15:45,16:00,6,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),041,16:00,16:15,4,,5,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),042,16:15,16:30,6,,4,2,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),043,16:30,16:45,7,,2,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),044,16:45,17:00,2,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),045,17:00,17:15,3,,1,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),046,17:15,17:30,3,,7,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),047,17:30,17:45,2,,8,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),048,17:45,18:00,6,,3,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),049,18:00,18:15,3,,4,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),050,18:15,18:30,5,,5,0,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),051,18:30,18:45,3,,4,1,0,0,0
+19,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Pfeifferstraße (S),052,18:45,19:00,4,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),001,06:00,06:15,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),002,06:15,06:30,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),003,06:30,06:45,3,,0,0,0,2,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),004,06:45,07:00,2,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),005,07:00,07:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),006,07:15,07:30,2,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),007,07:30,07:45,1,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),008,07:45,08:00,1,,2,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),009,08:00,08:15,2,,4,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),010,08:15,08:30,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),011,08:30,08:45,0,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),012,08:45,09:00,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),013,09:00,09:15,2,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),014,09:15,09:30,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),015,09:30,09:45,2,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),016,09:45,10:00,0,,1,0,1,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),017,10:00,10:15,1,,1,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),018,10:15,10:30,1,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),019,10:30,10:45,4,,3,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),020,10:45,11:00,4,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),021,11:00,11:15,1,,4,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),022,11:15,11:30,0,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),023,11:30,11:45,1,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),024,11:45,12:00,0,,1,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),025,12:00,12:15,2,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),026,12:15,12:30,1,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),027,12:30,12:45,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),028,12:45,13:00,1,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),029,13:00,13:15,0,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),030,13:15,13:30,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),031,13:30,13:45,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),032,13:45,14:00,2,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),033,14:00,14:15,1,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),034,14:15,14:30,2,,0,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),035,14:30,14:45,2,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),036,14:45,15:00,0,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),037,15:00,15:15,0,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),038,15:15,15:30,1,,4,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),039,15:30,15:45,1,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),040,15:45,16:00,1,,0,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),041,16:00,16:15,2,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),042,16:15,16:30,5,,5,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),043,16:30,16:45,1,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),044,16:45,17:00,1,,1,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),045,17:00,17:15,4,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),046,17:15,17:30,7,,3,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),047,17:30,17:45,3,,4,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),048,17:45,18:00,2,,2,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),049,18:00,18:15,2,,6,1,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),050,18:15,18:30,1,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),051,18:30,18:45,2,,2,0,0,0,0
+20,D,1,2,DG..(11),Zählstrom,,Geradeausfahrer Pfeifferstraße (S),052,18:45,19:00,2,,1,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),001,06:00,06:15,1,,60,6,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),002,06:15,06:30,0,,69,6,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),003,06:30,06:45,3,,95,6,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),004,06:45,07:00,0,,67,12,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),005,07:00,07:15,1,,93,2,0,0,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),006,07:15,07:30,0,,91,3,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),007,07:30,07:45,2,,105,11,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),008,07:45,08:00,2,,63,4,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),009,08:00,08:15,0,,63,6,3,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),010,08:15,08:30,1,,38,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),011,08:30,08:45,2,,51,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),012,08:45,09:00,0,,58,9,0,2,1
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),013,09:00,09:15,2,,51,8,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),014,09:15,09:30,1,,58,9,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),015,09:30,09:45,2,,43,2,7,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),016,09:45,10:00,1,,63,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),017,10:00,10:15,1,,46,5,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),018,10:15,10:30,1,,39,2,5,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),019,10:30,10:45,3,,50,10,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),020,10:45,11:00,2,,38,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),021,11:00,11:15,2,,53,8,4,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),022,11:15,11:30,0,,41,3,0,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),023,11:30,11:45,0,,44,5,3,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),024,11:45,12:00,1,,39,5,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),025,12:00,12:15,1,,40,7,2,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),026,12:15,12:30,0,,50,4,0,2,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),027,12:30,12:45,1,,35,0,2,2,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),028,12:45,13:00,0,,42,5,2,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),029,13:00,13:15,2,,44,9,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),030,13:15,13:30,1,,35,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),031,13:30,13:45,1,,43,4,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),032,13:45,14:00,1,,37,11,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),033,14:00,14:15,0,,47,7,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),034,14:15,14:30,3,,40,7,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),035,14:30,14:45,4,,59,2,1,1,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),036,14:45,15:00,1,,50,4,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),037,15:00,15:15,3,,57,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),038,15:15,15:30,0,,48,5,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),039,15:30,15:45,1,,85,4,2,2,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),040,15:45,16:00,3,,46,5,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),041,16:00,16:15,1,,71,7,2,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),042,16:15,16:30,4,,79,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),043,16:30,16:45,0,,70,6,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),044,16:45,17:00,1,,48,2,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),045,17:00,17:15,0,,52,3,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),046,17:15,17:30,2,,63,1,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),047,17:30,17:45,0,,69,2,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),048,17:45,18:00,2,,59,2,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),049,18:00,18:15,1,,47,4,1,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),050,18:15,18:30,1,,37,0,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),051,18:30,18:45,1,,55,4,0,0,0
+21,D,1,3,DL..(12),Zählstrom,,Linksabbieger Pfeifferstraße (S),052,18:45,19:00,2,,41,1,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,001,06:00,06:15,11,,117,11,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,002,06:15,06:30,14,,135,7,3,0,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,003,06:30,06:45,17,,206,8,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,004,06:45,07:00,29,,168,20,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,005,07:00,07:15,19,,188,12,3,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,006,07:15,07:30,13,,196,7,6,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,007,07:30,07:45,23,,209,19,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,008,07:45,08:00,13,,137,19,4,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,009,08:00,08:15,8,,173,14,5,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,010,08:15,08:30,6,,121,13,2,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,011,08:30,08:45,10,,130,14,8,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,012,08:45,09:00,8,,130,15,7,3,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,013,09:00,09:15,4,,110,14,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,014,09:15,09:30,11,,118,14,6,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,015,09:30,09:45,13,,154,7,11,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,016,09:45,10:00,6,,161,14,5,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,017,10:00,10:15,6,,142,17,9,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,018,10:15,10:30,8,,134,8,7,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,019,10:30,10:45,9,,164,17,5,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,020,10:45,11:00,16,,135,21,3,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,021,11:00,11:15,13,,162,17,6,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,022,11:15,11:30,6,,146,14,5,3,2
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,023,11:30,11:45,8,,150,16,7,4,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,024,11:45,12:00,3,,145,19,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,025,12:00,12:15,14,,152,16,3,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,026,12:15,12:30,14,,142,11,2,2,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,027,12:30,12:45,18,,120,9,2,3,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,028,12:45,13:00,4,,132,16,3,1,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,029,13:00,13:15,9,,147,14,2,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,030,13:15,13:30,16,,137,10,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,031,13:30,13:45,14,,126,12,4,5,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,032,13:45,14:00,9,,122,16,4,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,033,14:00,14:15,6,,129,15,4,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,034,14:15,14:30,12,,137,20,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,035,14:30,14:45,15,,154,12,3,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,036,14:45,15:00,25,,188,11,2,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,037,15:00,15:15,23,,186,15,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,038,15:15,15:30,12,,196,11,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,039,15:30,15:45,4,,205,6,4,2,1
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,040,15:45,16:00,11,,164,12,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,041,16:00,16:15,23,,237,13,3,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,042,16:15,16:30,14,,230,5,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,043,16:30,16:45,20,,202,13,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,044,16:45,17:00,17,,221,4,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,045,17:00,17:15,19,,203,6,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,046,17:15,17:30,17,,175,7,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,047,17:30,17:45,9,,196,8,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,048,17:45,18:00,13,,185,4,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,049,18:00,18:15,12,,153,6,1,1,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,050,18:15,18:30,11,,153,3,0,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,051,18:30,18:45,9,,162,6,1,0,0
+25,,0,0,SUMME ZU,summierter Strom,4+10+16+22,QA1 + QB1 + QC1 + QD1,052,18:45,19:00,13,,143,1,0,0,0

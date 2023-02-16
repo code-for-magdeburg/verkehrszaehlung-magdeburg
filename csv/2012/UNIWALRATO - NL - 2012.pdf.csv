@@ -1,0 +1,417 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,001,06:00,06:15,4,,10,3,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,002,06:15,06:30,5,,22,2,1,0,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,003,06:30,06:45,9,,24,0,3,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,004,06:45,07:00,7,,16,4,1,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,005,07:00,07:15,16,,16,2,0,1,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,006,07:15,07:30,17,,37,4,1,0,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,007,07:30,07:45,14,,45,4,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,008,07:45,08:00,17,,36,5,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,009,08:00,08:15,5,,24,4,1,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,010,08:15,08:30,11,,27,1,1,2,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,011,08:30,08:45,16,,33,1,1,3,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,012,08:45,09:00,9,,28,0,0,1,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,013,09:00,09:15,11,,25,3,2,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,014,09:15,09:30,7,,32,3,2,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,015,09:30,09:45,5,,29,1,1,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,016,09:45,10:00,6,,34,2,2,1,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,017,10:00,10:15,7,,28,0,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,018,10:15,10:30,4,,30,0,0,1,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,019,10:30,10:45,3,,31,2,1,0,2
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,020,10:45,11:00,4,,26,0,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,021,11:00,11:15,1,,25,8,1,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,022,11:15,11:30,4,,41,1,1,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,023,11:30,11:45,8,,21,1,2,1,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,024,11:45,12:00,3,,21,1,0,1,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,025,12:00,12:15,2,,31,3,2,2,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,026,12:15,12:30,4,,30,2,1,1,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,027,12:30,12:45,2,,25,2,0,1,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,028,12:45,13:00,9,,21,2,0,2,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,029,13:00,13:15,3,,34,2,1,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,030,13:15,13:30,6,,36,0,1,1,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,031,13:30,13:45,13,,32,2,0,0,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,032,13:45,14:00,7,,31,2,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,033,14:00,14:15,7,,34,3,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,034,14:15,14:30,8,,43,0,1,0,2
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,035,14:30,14:45,8,,47,4,1,0,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,036,14:45,15:00,5,,56,3,2,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,037,15:00,15:15,6,,52,2,1,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,038,15:15,15:30,4,,50,2,0,1,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,039,15:30,15:45,5,,56,1,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,040,15:45,16:00,9,,69,1,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,041,16:00,16:15,6,,73,3,1,1,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,042,16:15,16:30,10,,60,1,0,0,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,043,16:30,16:45,12,,71,8,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,044,16:45,17:00,7,,59,1,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,045,17:00,17:15,8,,56,1,1,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,046,17:15,17:30,10,,60,2,1,1,1
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,047,17:30,17:45,16,,41,1,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,048,17:45,18:00,9,,38,1,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,049,18:00,18:15,6,,39,1,2,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,050,18:15,18:30,7,,54,1,0,0,2
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,051,18:30,18:45,5,,35,0,0,0,0
+1,A,1,1,AG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) a. R. Uniplatz,052,18:45,19:00,9,,25,1,1,0,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,001,06:00,06:15,0,,147,6,4,12,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,002,06:15,06:30,0,,230,9,9,11,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,003,06:30,06:45,0,,251,22,5,11,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,004,06:45,07:00,0,,223,19,8,5,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,005,07:00,07:15,0,,216,15,3,12,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,006,07:15,07:30,0,,234,18,6,6,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,007,07:30,07:45,0,,208,10,8,4,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,008,07:45,08:00,0,,200,10,3,9,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,009,08:00,08:15,0,,190,11,4,11,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,010,08:15,08:30,0,,206,17,6,6,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,011,08:30,08:45,0,,198,13,10,13,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,012,08:45,09:00,0,,167,12,6,6,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,013,09:00,09:15,0,,103,7,6,12,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,014,09:15,09:30,0,,143,13,3,13,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,015,09:30,09:45,0,,162,13,5,8,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,016,09:45,10:00,0,,180,11,5,13,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,017,10:00,10:15,0,,128,8,4,8,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,018,10:15,10:30,0,,131,11,16,6,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,019,10:30,10:45,0,,168,16,5,6,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,020,10:45,11:00,0,,139,13,4,3,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,021,11:00,11:15,0,,144,9,6,6,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,022,11:15,11:30,0,,112,14,5,7,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,023,11:30,11:45,0,,128,21,4,12,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,024,11:45,12:00,0,,120,13,5,9,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,025,12:00,12:15,0,,116,7,7,15,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,026,12:15,12:30,0,,127,3,3,11,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,027,12:30,12:45,0,,136,9,3,9,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,028,12:45,13:00,0,,123,7,3,9,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,029,13:00,13:15,0,,143,18,6,13,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,030,13:15,13:30,0,,164,13,11,11,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,031,13:30,13:45,0,,150,11,7,11,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,032,13:45,14:00,0,,112,10,8,7,2
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,033,14:00,14:15,0,,138,17,7,12,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,034,14:15,14:30,0,,165,19,5,11,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,035,14:30,14:45,0,,199,17,8,8,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,036,14:45,15:00,0,,185,16,11,5,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,037,15:00,15:15,0,,119,13,4,8,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,038,15:15,15:30,0,,157,14,5,3,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,039,15:30,15:45,0,,194,11,6,2,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,040,15:45,16:00,0,,184,13,7,7,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,041,16:00,16:15,0,,261,23,9,9,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,042,16:15,16:30,0,,238,19,5,5,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,043,16:30,16:45,0,,215,10,2,7,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,044,16:45,17:00,0,,215,12,1,5,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,045,17:00,17:15,0,,223,13,0,3,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,046,17:15,17:30,0,,234,13,1,9,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,047,17:30,17:45,0,,226,4,3,5,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,048,17:45,18:00,0,,198,6,0,2,1
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,049,18:00,18:15,0,,211,9,0,5,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,050,18:15,18:30,0,,178,5,0,6,0
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,051,18:30,18:45,0,,144,5,0,4,2
+2,A,2,1,AG2,Zählstrom,,Geradeausfahrer 2 Walther-Rathenau-Straße (O) a. R. Tunnel,052,18:45,19:00,0,,128,5,0,1,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,001,06:00,06:15,4,,157,9,4,12,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,002,06:15,06:30,5,,252,11,10,11,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,003,06:30,06:45,9,,275,22,8,11,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,004,06:45,07:00,7,,239,23,9,5,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,005,07:00,07:15,16,,232,17,3,13,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,006,07:15,07:30,17,,271,22,7,6,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,007,07:30,07:45,14,,253,14,8,4,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,008,07:45,08:00,17,,236,15,3,9,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,009,08:00,08:15,5,,214,15,5,11,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,010,08:15,08:30,11,,233,18,7,8,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,011,08:30,08:45,16,,231,14,11,16,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,012,08:45,09:00,9,,195,12,6,7,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,013,09:00,09:15,11,,128,10,8,12,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,014,09:15,09:30,7,,175,16,5,13,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,015,09:30,09:45,5,,191,14,6,8,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,016,09:45,10:00,6,,214,13,7,14,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,017,10:00,10:15,7,,156,8,4,8,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,018,10:15,10:30,4,,161,11,16,7,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,019,10:30,10:45,3,,199,18,6,6,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,020,10:45,11:00,4,,165,13,4,3,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,021,11:00,11:15,1,,169,17,7,6,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,022,11:15,11:30,4,,153,15,6,7,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,023,11:30,11:45,8,,149,22,6,13,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,024,11:45,12:00,3,,141,14,5,10,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,025,12:00,12:15,2,,147,10,9,17,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,026,12:15,12:30,4,,157,5,4,12,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,027,12:30,12:45,2,,161,11,3,10,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,028,12:45,13:00,9,,144,9,3,11,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,029,13:00,13:15,3,,177,20,7,13,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,030,13:15,13:30,6,,200,13,12,12,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,031,13:30,13:45,13,,182,13,7,11,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,032,13:45,14:00,7,,143,12,8,7,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,033,14:00,14:15,7,,172,20,7,12,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,034,14:15,14:30,8,,208,19,6,11,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,035,14:30,14:45,8,,246,21,9,8,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,036,14:45,15:00,5,,241,19,13,5,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,037,15:00,15:15,6,,171,15,5,8,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,038,15:15,15:30,4,,207,16,5,4,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,039,15:30,15:45,5,,250,12,6,2,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,040,15:45,16:00,9,,253,14,7,7,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,041,16:00,16:15,6,,334,26,10,10,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,042,16:15,16:30,10,,298,20,5,5,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,043,16:30,16:45,12,,286,18,2,7,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,044,16:45,17:00,7,,274,13,1,5,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,045,17:00,17:15,8,,279,14,1,3,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,046,17:15,17:30,10,,294,15,2,10,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,047,17:30,17:45,16,,267,5,3,5,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,048,17:45,18:00,9,,236,7,0,2,1
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,049,18:00,18:15,6,,250,10,2,5,0
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,050,18:15,18:30,7,,232,6,0,6,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,051,18:30,18:45,5,,179,5,0,4,2
+3,A,0,0,AG...(2),summierter Strom,1+2,AG1 + AG2,052,18:45,19:00,9,,153,6,1,1,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,001,06:00,06:15,1,,17,5,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,002,06:15,06:30,5,,46,3,2,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,003,06:30,06:45,10,,59,5,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,004,06:45,07:00,17,,89,8,1,3,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,005,07:00,07:15,21,,59,8,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,006,07:15,07:30,11,,77,3,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,007,07:30,07:45,15,,106,5,1,1,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,008,07:45,08:00,14,,93,6,4,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,009,08:00,08:15,7,,85,5,2,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,010,08:15,08:30,3,,72,8,2,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,011,08:30,08:45,10,,50,6,3,1,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,012,08:45,09:00,9,,72,6,3,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,013,09:00,09:15,5,,56,5,2,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,014,09:15,09:30,6,,63,6,3,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,015,09:30,09:45,6,,68,5,3,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,016,09:45,10:00,3,,66,3,6,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,017,10:00,10:15,5,,45,2,2,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,018,10:15,10:30,6,,70,4,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,019,10:30,10:45,5,,52,5,0,0,2
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,020,10:45,11:00,3,,59,5,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,021,11:00,11:15,2,,49,1,2,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,022,11:15,11:30,9,,63,3,1,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,023,11:30,11:45,7,,37,3,0,1,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,024,11:45,12:00,6,,33,4,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,025,12:00,12:15,9,,48,5,1,1,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,026,12:15,12:30,5,,52,4,3,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,027,12:30,12:45,8,,40,1,1,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,028,12:45,13:00,4,,45,3,3,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,029,13:00,13:15,7,,43,4,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,030,13:15,13:30,5,,45,5,2,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,031,13:30,13:45,13,,40,2,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,032,13:45,14:00,12,,50,3,4,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,033,14:00,14:15,7,,42,4,0,1,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,034,14:15,14:30,12,,55,2,3,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,035,14:30,14:45,11,,44,11,0,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,036,14:45,15:00,11,,51,6,2,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,037,15:00,15:15,21,,56,4,0,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,038,15:15,15:30,6,,65,8,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,039,15:30,15:45,11,,70,4,0,0,2
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,040,15:45,16:00,15,,70,5,2,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,041,16:00,16:15,14,,79,2,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,042,16:15,16:30,19,,108,0,1,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,043,16:30,16:45,17,,75,1,1,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,044,16:45,17:00,13,,67,1,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,045,17:00,17:15,9,,80,0,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,046,17:15,17:30,27,,76,3,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,047,17:30,17:45,14,,61,1,2,0,1
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,048,17:45,18:00,15,,51,2,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,049,18:00,18:15,12,,61,1,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,050,18:15,18:30,8,,48,0,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,051,18:30,18:45,17,,41,0,0,0,0
+4,C,1,1,CG1,Zählstrom,,Geradeausfahrer 1 Walther-Rathenau-Straße (O) i. R. Uniplatz,052,18:45,19:00,10,,37,1,0,0,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,001,06:00,06:15,0,,112,26,6,4,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,002,06:15,06:30,0,,137,18,6,6,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,003,06:30,06:45,0,,147,22,6,7,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,004,06:45,07:00,0,,175,22,13,11,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,005,07:00,07:15,0,,206,22,15,14,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,006,07:15,07:30,0,,217,29,5,6,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,007,07:30,07:45,0,,233,35,7,5,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,008,07:45,08:00,0,,207,47,10,9,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,009,08:00,08:15,0,,150,14,3,10,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,010,08:15,08:30,0,,145,23,8,10,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,011,08:30,08:45,0,,156,15,13,10,2
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,012,08:45,09:00,0,,153,39,9,6,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,013,09:00,09:15,0,,159,17,9,8,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,014,09:15,09:30,0,,124,26,5,8,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,015,09:30,09:45,0,,137,14,7,12,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,016,09:45,10:00,0,,137,15,10,10,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,017,10:00,10:15,0,,130,15,4,11,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,018,10:15,10:30,0,,117,18,9,12,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,019,10:30,10:45,0,,132,9,15,0,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,020,10:45,11:00,0,,137,12,9,8,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,021,11:00,11:15,0,,127,12,12,8,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,022,11:15,11:30,0,,142,21,9,15,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,023,11:30,11:45,0,,137,15,8,7,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,024,11:45,12:00,0,,135,21,5,11,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,025,12:00,12:15,0,,141,16,7,5,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,026,12:15,12:30,0,,134,24,9,11,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,027,12:30,12:45,0,,138,8,9,8,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,028,12:45,13:00,0,,143,17,5,9,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,029,13:00,13:15,0,,152,10,7,12,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,030,13:15,13:30,0,,166,14,7,14,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,031,13:30,13:45,0,,142,15,10,7,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,032,13:45,14:00,0,,142,12,8,8,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,033,14:00,14:15,0,,205,17,3,9,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,034,14:15,14:30,0,,177,15,6,10,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,035,14:30,14:45,0,,189,16,7,7,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,036,14:45,15:00,0,,229,24,8,14,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,037,15:00,15:15,0,,230,17,9,6,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,038,15:15,15:30,0,,258,40,5,7,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,039,15:30,15:45,0,,246,27,6,14,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,040,15:45,16:00,0,,196,17,10,4,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,041,16:00,16:15,0,,247,13,8,4,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,042,16:15,16:30,0,,213,12,9,0,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,043,16:30,16:45,0,,227,18,2,4,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,044,16:45,17:00,0,,290,9,1,3,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,045,17:00,17:15,0,,323,14,1,10,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,046,17:15,17:30,0,,301,18,2,4,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,047,17:30,17:45,0,,263,16,1,3,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,048,17:45,18:00,0,,199,11,5,9,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,049,18:00,18:15,0,,229,4,4,4,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,050,18:15,18:30,0,,222,9,1,7,1
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,051,18:30,18:45,0,,168,10,2,8,0
+5,C,2,1,CG2,Zählstrom,,Geradeausfahrer Walther-Rathenau-Straße (O) i. R. Tunnel,052,18:45,19:00,0,,135,7,1,4,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,001,06:00,06:15,1,,129,31,6,4,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,002,06:15,06:30,5,,183,21,8,6,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,003,06:30,06:45,10,,206,27,7,7,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,004,06:45,07:00,17,,264,30,14,14,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,005,07:00,07:15,21,,265,30,16,14,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,006,07:15,07:30,11,,294,32,6,6,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,007,07:30,07:45,15,,339,40,8,6,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,008,07:45,08:00,14,,300,53,14,9,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,009,08:00,08:15,7,,235,19,5,10,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,010,08:15,08:30,3,,217,31,10,10,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,011,08:30,08:45,10,,206,21,16,11,3
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,012,08:45,09:00,9,,225,45,12,6,2
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,013,09:00,09:15,5,,215,22,11,8,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,014,09:15,09:30,6,,187,32,8,8,2
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,015,09:30,09:45,6,,205,19,10,12,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,016,09:45,10:00,3,,203,18,16,10,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,017,10:00,10:15,5,,175,17,6,11,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,018,10:15,10:30,6,,187,22,10,12,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,019,10:30,10:45,5,,184,14,15,0,2
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,020,10:45,11:00,3,,196,17,10,8,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,021,11:00,11:15,2,,176,13,14,8,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,022,11:15,11:30,9,,205,24,10,15,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,023,11:30,11:45,7,,174,18,8,8,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,024,11:45,12:00,6,,168,25,5,11,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,025,12:00,12:15,9,,189,21,8,6,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,026,12:15,12:30,5,,186,28,12,11,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,027,12:30,12:45,8,,178,9,10,8,2
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,028,12:45,13:00,4,,188,20,8,9,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,029,13:00,13:15,7,,195,14,8,12,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,030,13:15,13:30,5,,211,19,9,14,2
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,031,13:30,13:45,13,,182,17,11,7,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,032,13:45,14:00,12,,192,15,12,8,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,033,14:00,14:15,7,,247,21,3,10,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,034,14:15,14:30,12,,232,17,9,10,2
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,035,14:30,14:45,11,,233,27,7,7,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,036,14:45,15:00,11,,280,30,10,14,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,037,15:00,15:15,21,,286,21,9,6,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,038,15:15,15:30,6,,323,48,6,7,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,039,15:30,15:45,11,,316,31,6,14,2
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,040,15:45,16:00,15,,266,22,12,4,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,041,16:00,16:15,14,,326,15,8,4,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,042,16:15,16:30,19,,321,12,10,0,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,043,16:30,16:45,17,,302,19,3,4,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,044,16:45,17:00,13,,357,10,1,3,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,045,17:00,17:15,9,,403,14,1,10,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,046,17:15,17:30,27,,377,21,2,4,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,047,17:30,17:45,14,,324,17,3,3,2
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,048,17:45,18:00,15,,250,13,5,9,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,049,18:00,18:15,12,,290,5,4,4,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,050,18:15,18:30,8,,270,9,1,7,1
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,051,18:30,18:45,17,,209,10,2,8,0
+6,C,0,0,CG...(8),summierter Strom,4+5,CG1 + CG2,052,18:45,19:00,10,,172,8,1,4,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),001,06:00,06:15,5,,286,40,10,16,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),002,06:15,06:30,10,,435,32,18,17,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),003,06:30,06:45,19,,481,49,15,18,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),004,06:45,07:00,24,,503,53,23,19,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),005,07:00,07:15,37,,497,47,19,27,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),006,07:15,07:30,28,,565,54,13,12,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),007,07:30,07:45,29,,592,54,16,10,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),008,07:45,08:00,31,,536,68,17,18,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),009,08:00,08:15,12,,449,34,10,21,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),010,08:15,08:30,14,,450,49,17,18,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),011,08:30,08:45,26,,437,35,27,27,3
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),012,08:45,09:00,18,,420,57,18,13,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),013,09:00,09:15,16,,343,32,19,20,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),014,09:15,09:30,13,,362,48,13,21,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),015,09:30,09:45,11,,396,33,16,20,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),016,09:45,10:00,9,,417,31,23,24,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),017,10:00,10:15,12,,331,25,10,19,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),018,10:15,10:30,10,,348,33,26,19,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),019,10:30,10:45,8,,383,32,21,6,4
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),020,10:45,11:00,7,,361,30,14,11,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),021,11:00,11:15,3,,345,30,21,14,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),022,11:15,11:30,13,,358,39,16,22,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),023,11:30,11:45,15,,323,40,14,21,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),024,11:45,12:00,9,,309,39,10,21,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),025,12:00,12:15,11,,336,31,17,23,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),026,12:15,12:30,9,,343,33,16,23,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),027,12:30,12:45,10,,339,20,13,18,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),028,12:45,13:00,13,,332,29,11,20,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),029,13:00,13:15,10,,372,34,15,25,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),030,13:15,13:30,11,,411,32,21,26,3
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),031,13:30,13:45,26,,364,30,18,18,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),032,13:45,14:00,19,,335,27,20,15,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),033,14:00,14:15,14,,419,41,10,22,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),034,14:15,14:30,20,,440,36,15,21,4
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),035,14:30,14:45,19,,479,48,16,15,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),036,14:45,15:00,16,,521,49,23,19,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),037,15:00,15:15,27,,457,36,14,14,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),038,15:15,15:30,10,,530,64,11,11,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),039,15:30,15:45,16,,566,43,12,16,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),040,15:45,16:00,24,,519,36,19,11,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),041,16:00,16:15,20,,660,41,18,14,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),042,16:15,16:30,29,,619,32,15,5,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),043,16:30,16:45,29,,588,37,5,11,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),044,16:45,17:00,20,,631,23,2,8,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),045,17:00,17:15,17,,682,28,2,13,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),046,17:15,17:30,37,,671,36,4,14,1
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),047,17:30,17:45,30,,591,22,6,8,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),048,17:45,18:00,24,,486,20,5,11,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),049,18:00,18:15,18,,540,15,6,9,0
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),050,18:15,18:30,15,,502,15,1,13,3
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),051,18:30,18:45,22,,388,15,2,12,2
+7,A,0,0,QA,summierter Strom,3+6,AG...(2) + CG...(8),052,18:45,19:00,19,,325,14,2,5,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,001,06:00,06:15,0,,259,32,10,16,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,002,06:15,06:30,0,,367,27,15,17,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,003,06:30,06:45,0,,398,44,11,18,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,004,06:45,07:00,0,,398,41,21,16,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,005,07:00,07:15,0,,422,37,18,26,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,006,07:15,07:30,0,,451,47,11,12,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,007,07:30,07:45,0,,441,45,15,9,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,008,07:45,08:00,0,,407,57,13,18,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,009,08:00,08:15,0,,340,25,7,21,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,010,08:15,08:30,0,,351,40,14,16,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,011,08:30,08:45,0,,354,28,23,23,2
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,012,08:45,09:00,0,,320,51,15,12,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,013,09:00,09:15,0,,262,24,15,20,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,014,09:15,09:30,0,,267,39,8,21,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,015,09:30,09:45,0,,299,27,12,20,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,016,09:45,10:00,0,,317,26,15,23,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,017,10:00,10:15,0,,258,23,8,19,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,018,10:15,10:30,0,,248,29,25,18,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,019,10:30,10:45,0,,300,25,20,6,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,020,10:45,11:00,0,,276,25,13,11,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,021,11:00,11:15,0,,271,21,18,14,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,022,11:15,11:30,0,,254,35,14,22,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,023,11:30,11:45,0,,265,36,12,19,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,024,11:45,12:00,0,,255,34,10,20,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,025,12:00,12:15,0,,257,23,14,20,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,026,12:15,12:30,0,,261,27,12,22,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,027,12:30,12:45,0,,274,17,12,17,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,028,12:45,13:00,0,,266,24,8,18,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,029,13:00,13:15,0,,295,28,13,25,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,030,13:15,13:30,0,,330,27,18,25,2
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,031,13:30,13:45,0,,292,26,17,18,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,032,13:45,14:00,0,,254,22,16,15,2
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,033,14:00,14:15,0,,343,34,10,21,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,034,14:15,14:30,0,,342,34,11,21,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,035,14:30,14:45,0,,388,33,15,15,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,036,14:45,15:00,0,,414,40,19,19,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,037,15:00,15:15,0,,349,30,13,14,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,038,15:15,15:30,0,,415,54,10,10,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,039,15:30,15:45,0,,440,38,12,16,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,040,15:45,16:00,0,,380,30,17,11,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,041,16:00,16:15,0,,508,36,17,13,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,042,16:15,16:30,0,,451,31,14,5,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,043,16:30,16:45,0,,442,28,4,11,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,044,16:45,17:00,0,,505,21,2,8,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,045,17:00,17:15,0,,546,27,1,13,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,046,17:15,17:30,0,,535,31,3,13,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,047,17:30,17:45,0,,489,20,4,8,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,048,17:45,18:00,0,,397,17,5,11,2
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,049,18:00,18:15,0,,440,13,4,9,0
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,050,18:15,18:30,0,,400,14,1,13,1
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,051,18:30,18:45,0,,312,15,2,12,2
+8,,0,0,TUNNEL,summierter Strom,2+5,AG2 + CG2,052,18:45,19:00,0,,263,12,1,5,0

@@ -1,0 +1,729 @@
+verkehrsstrom,zufahrt,spur,strom,kennung,stromtyp,formel,kommentar,intervall_nr,intervall_start,intervall_ende,rad,krad,pkw,lfz,lkw,lz,bus
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),001,06:00,06:15,0,0,0,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),002,06:15,06:30,0,1,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),003,06:30,06:45,1,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),004,06:45,07:00,0,0,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),005,07:00,07:15,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),006,07:15,07:30,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),007,07:30,07:45,0,0,0,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),008,07:45,08:00,0,0,0,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),009,08:00,08:15,0,0,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),010,08:15,08:30,0,0,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),011,08:30,08:45,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),012,08:45,09:00,0,0,4,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),013,09:00,09:15,0,0,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),014,09:15,09:30,0,1,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),015,09:30,09:45,1,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),016,09:45,10:00,3,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),017,10:00,10:15,1,0,2,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),018,10:15,10:30,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),019,10:30,10:45,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),020,10:45,11:00,0,0,6,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),021,11:00,11:15,1,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),022,11:15,11:30,0,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),023,11:30,11:45,0,0,6,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),024,11:45,12:00,0,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),025,12:00,12:15,1,0,4,,1,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),026,12:15,12:30,0,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),027,12:30,12:45,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),028,12:45,13:00,0,0,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),029,13:00,13:15,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),030,13:15,13:30,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),031,13:30,13:45,0,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),032,13:45,14:00,0,0,7,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),033,14:00,14:15,0,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),034,14:15,14:30,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),035,14:30,14:45,0,0,6,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),036,14:45,15:00,0,0,1,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),037,15:00,15:15,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),038,15:15,15:30,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),039,15:30,15:45,0,0,2,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),040,15:45,16:00,1,0,4,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),041,16:00,16:15,0,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),042,16:15,16:30,1,0,13,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),043,16:30,16:45,1,2,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),044,16:45,17:00,0,0,5,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),045,17:00,17:15,1,0,13,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),046,17:15,17:30,0,0,6,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),047,17:30,17:45,0,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),048,17:45,18:00,0,0,9,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),049,18:00,18:15,0,0,10,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),050,18:15,18:30,0,0,8,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),051,18:30,18:45,0,0,3,,0,0,0
+1,A,1,1,AR...(1),Zählstrom,,Rechtsabbieger Keplerstraße (W),052,18:45,19:00,0,0,4,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),001,06:00,06:15,0,0,1,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),002,06:15,06:30,0,0,1,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),003,06:30,06:45,0,0,3,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),004,06:45,07:00,1,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),005,07:00,07:15,0,0,3,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),006,07:15,07:30,0,0,3,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),007,07:30,07:45,0,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),008,07:45,08:00,0,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),009,08:00,08:15,1,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),010,08:15,08:30,0,0,3,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),011,08:30,08:45,0,0,0,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),012,08:45,09:00,0,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),013,09:00,09:15,3,0,1,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),014,09:15,09:30,1,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),015,09:30,09:45,0,0,5,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),016,09:45,10:00,2,0,5,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),017,10:00,10:15,1,0,2,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),018,10:15,10:30,0,0,5,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),019,10:30,10:45,0,0,4,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),020,10:45,11:00,0,0,6,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),021,11:00,11:15,1,0,5,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),022,11:15,11:30,0,0,9,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),023,11:30,11:45,0,0,6,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),024,11:45,12:00,0,0,9,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),025,12:00,12:15,1,0,4,,1,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),026,12:15,12:30,0,0,9,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),027,12:30,12:45,0,0,4,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),028,12:45,13:00,0,0,1,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),029,13:00,13:15,0,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),030,13:15,13:30,0,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),031,13:30,13:45,0,0,4,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),032,13:45,14:00,0,0,7,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),033,14:00,14:15,0,0,9,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),034,14:15,14:30,0,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),035,14:30,14:45,0,0,6,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),036,14:45,15:00,0,0,1,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),037,15:00,15:15,0,0,3,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),038,15:15,15:30,0,0,3,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),039,15:30,15:45,0,0,2,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),040,15:45,16:00,1,0,4,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),041,16:00,16:15,0,0,9,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),042,16:15,16:30,1,0,13,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),043,16:30,16:45,1,2,3,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),044,16:45,17:00,0,0,5,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),045,17:00,17:15,1,0,13,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),046,17:15,17:30,0,0,6,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),047,17:30,17:45,0,0,9,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),048,17:45,18:00,0,0,9,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),049,18:00,18:15,0,0,10,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),050,18:15,18:30,0,0,8,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),051,18:30,18:45,0,0,3,,0,0,0
+2,A,1,2,AG...(2),Zählstrom,,Geradeausfahrer Keplerstraße (W),052,18:45,19:00,0,0,4,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),001,06:00,06:15,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),002,06:15,06:30,0,1,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),003,06:30,06:45,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),004,06:45,07:00,2,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),005,07:00,07:15,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),006,07:15,07:30,1,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),007,07:30,07:45,1,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),008,07:45,08:00,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),009,08:00,08:15,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),010,08:15,08:30,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),011,08:30,08:45,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),012,08:45,09:00,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),013,09:00,09:15,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),014,09:15,09:30,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),015,09:30,09:45,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),016,09:45,10:00,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),017,10:00,10:15,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),018,10:15,10:30,1,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),019,10:30,10:45,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),020,10:45,11:00,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),021,11:00,11:15,1,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),022,11:15,11:30,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),023,11:30,11:45,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),024,11:45,12:00,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),025,12:00,12:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),026,12:15,12:30,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),027,12:30,12:45,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),028,12:45,13:00,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),029,13:00,13:15,1,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),030,13:15,13:30,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),031,13:30,13:45,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),032,13:45,14:00,0,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),033,14:00,14:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),034,14:15,14:30,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),035,14:30,14:45,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),036,14:45,15:00,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),037,15:00,15:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),038,15:15,15:30,1,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),039,15:30,15:45,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),040,15:45,16:00,0,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),041,16:00,16:15,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),042,16:15,16:30,0,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),043,16:30,16:45,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),044,16:45,17:00,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),045,17:00,17:15,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),046,17:15,17:30,0,0,2,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),047,17:30,17:45,1,0,3,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),048,17:45,18:00,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),049,18:00,18:15,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),050,18:15,18:30,0,0,1,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),051,18:30,18:45,0,0,0,,0,0,0
+3,A,1,3,AL...(3),Zählstrom,,Linksabbieger Keplerstraße (W),052,18:45,19:00,0,0,4,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),001,06:00,06:15,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),002,06:15,06:30,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),003,06:30,06:45,0,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),004,06:45,07:00,1,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),005,07:00,07:15,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),006,07:15,07:30,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),007,07:30,07:45,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),008,07:45,08:00,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),009,08:00,08:15,0,0,6,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),010,08:15,08:30,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),011,08:30,08:45,0,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),012,08:45,09:00,0,0,4,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),013,09:00,09:15,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),014,09:15,09:30,0,0,1,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),015,09:30,09:45,1,0,4,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),016,09:45,10:00,0,0,5,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),017,10:00,10:15,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),018,10:15,10:30,0,0,5,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),019,10:30,10:45,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),020,10:45,11:00,0,0,5,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),021,11:00,11:15,1,0,5,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),022,11:15,11:30,1,0,6,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),023,11:30,11:45,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),024,11:45,12:00,1,0,5,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),025,12:00,12:15,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),026,12:15,12:30,1,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),027,12:30,12:45,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),028,12:45,13:00,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),029,13:00,13:15,2,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),030,13:15,13:30,0,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),031,13:30,13:45,1,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),032,13:45,14:00,0,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),033,14:00,14:15,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),034,14:15,14:30,1,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),035,14:30,14:45,2,0,2,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),036,14:45,15:00,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),037,15:00,15:15,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),038,15:15,15:30,3,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),039,15:30,15:45,2,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),040,15:45,16:00,0,0,0,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),041,16:00,16:15,0,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),042,16:15,16:30,2,0,5,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),043,16:30,16:45,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),044,16:45,17:00,3,0,5,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),045,17:00,17:15,0,0,4,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),046,17:15,17:30,2,0,4,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),047,17:30,17:45,0,0,5,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),048,17:45,18:00,2,0,3,,1,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),049,18:00,18:15,1,0,3,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),050,18:15,18:30,0,0,1,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),051,18:30,18:45,0,0,4,,0,0,0
+7,B,1,1,BR...(4),Zählstrom,,Rechtsabbieger Breiter Weg (Nord),052,18:45,19:00,1,0,2,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),001,06:00,06:15,3,1,22,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),002,06:15,06:30,5,1,42,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),003,06:30,06:45,9,1,54,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),004,06:45,07:00,2,0,50,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),005,07:00,07:15,10,2,54,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),006,07:15,07:30,11,0,62,,2,0,2
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),007,07:30,07:45,11,0,68,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),008,07:45,08:00,10,0,71,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),009,08:00,08:15,12,0,64,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),010,08:15,08:30,4,0,57,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),011,08:30,08:45,7,2,65,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),012,08:45,09:00,7,1,64,,2,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),013,09:00,09:15,8,1,79,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),014,09:15,09:30,11,0,73,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),015,09:30,09:45,8,1,74,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),016,09:45,10:00,15,0,77,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),017,10:00,10:15,12,0,63,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),018,10:15,10:30,10,0,70,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),019,10:30,10:45,11,0,74,,1,1,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),020,10:45,11:00,20,0,74,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),021,11:00,11:15,17,0,73,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),022,11:15,11:30,18,0,79,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),023,11:30,11:45,15,5,81,,1,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),024,11:45,12:00,7,0,78,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),025,12:00,12:15,19,0,73,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),026,12:15,12:30,16,1,50,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),027,12:30,12:45,17,1,59,,3,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),028,12:45,13:00,16,1,46,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),029,13:00,13:15,18,2,64,,2,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),030,13:15,13:30,22,1,72,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),031,13:30,13:45,13,1,81,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),032,13:45,14:00,19,1,75,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),033,14:00,14:15,23,0,70,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),034,14:15,14:30,15,2,96,,4,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),035,14:30,14:45,23,2,100,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),036,14:45,15:00,22,0,10,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),037,15:00,15:15,14,2,84,,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),038,15:15,15:30,31,1,101,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),039,15:30,15:45,21,3,93,,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),040,15:45,16:00,21,1,98,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),041,16:00,16:15,19,0,102,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),042,16:15,16:30,19,0,88,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),043,16:30,16:45,25,3,115,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),044,16:45,17:00,18,1,88,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),045,17:00,17:15,34,2,83,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),046,17:15,17:30,33,5,103,,1,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),047,17:30,17:45,22,1,76,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),048,17:45,18:00,23,0,67,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),049,18:00,18:15,21,1,66,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),050,18:15,18:30,22,0,71,,0,0,1
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),051,18:30,18:45,25,3,57,,0,0,0
+8,B,1,2,BG...(5),Zählstrom,,Geradeausfahrer Breiter Weg (N),052,18:45,19:00,23,1,56,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),001,06:00,06:15,0,0,0,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),002,06:15,06:30,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),003,06:30,06:45,0,0,4,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),004,06:45,07:00,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),005,07:00,07:15,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),006,07:15,07:30,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),007,07:30,07:45,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),008,07:45,08:00,0,0,8,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),009,08:00,08:15,1,0,2,,0,0,1
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),010,08:15,08:30,0,0,5,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),011,08:30,08:45,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),012,08:45,09:00,0,0,3,,1,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),013,09:00,09:15,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),014,09:15,09:30,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),015,09:30,09:45,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),016,09:45,10:00,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),017,10:00,10:15,0,0,4,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),018,10:15,10:30,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),019,10:30,10:45,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),020,10:45,11:00,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),021,11:00,11:15,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),022,11:15,11:30,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),023,11:30,11:45,0,0,0,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),024,11:45,12:00,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),025,12:00,12:15,0,0,5,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),026,12:15,12:30,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),027,12:30,12:45,0,0,2,,1,1,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),028,12:45,13:00,0,0,0,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),029,13:00,13:15,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),030,13:15,13:30,0,0,6,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),031,13:30,13:45,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),032,13:45,14:00,0,0,4,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),033,14:00,14:15,0,1,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),034,14:15,14:30,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),035,14:30,14:45,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),036,14:45,15:00,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),037,15:00,15:15,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),038,15:15,15:30,0,0,5,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),039,15:30,15:45,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),040,15:45,16:00,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),041,16:00,16:15,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),042,16:15,16:30,0,1,0,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),043,16:30,16:45,0,0,0,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),044,16:45,17:00,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),045,17:00,17:15,0,0,1,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),046,17:15,17:30,0,0,4,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),047,17:30,17:45,0,0,5,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),048,17:45,18:00,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),049,18:00,18:15,0,0,2,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),050,18:15,18:30,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),051,18:30,18:45,0,0,3,,0,0,0
+9,B,2,1,BL...(6),Zählstrom,,Linksabbieger Breiter Weg (Nord),052,18:45,19:00,0,0,2,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),001,06:00,06:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),002,06:15,06:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),003,06:30,06:45,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),004,06:45,07:00,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),005,07:00,07:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),006,07:15,07:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),007,07:30,07:45,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),008,07:45,08:00,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),009,08:00,08:15,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),010,08:15,08:30,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),011,08:30,08:45,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),012,08:45,09:00,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),013,09:00,09:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),014,09:15,09:30,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),015,09:30,09:45,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),016,09:45,10:00,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),017,10:00,10:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),018,10:15,10:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),019,10:30,10:45,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),020,10:45,11:00,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),021,11:00,11:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),022,11:15,11:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),023,11:30,11:45,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),024,11:45,12:00,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),025,12:00,12:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),026,12:15,12:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),027,12:30,12:45,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),028,12:45,13:00,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),029,13:00,13:15,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),030,13:15,13:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),031,13:30,13:45,0,0,6,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),032,13:45,14:00,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),033,14:00,14:15,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),034,14:15,14:30,0,0,2,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),035,14:30,14:45,0,0,3,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),036,14:45,15:00,0,0,1,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),037,15:00,15:15,0,0,2,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),038,15:15,15:30,0,0,2,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),039,15:30,15:45,0,0,2,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),040,15:45,16:00,0,0,3,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),041,16:00,16:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),042,16:15,16:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),043,16:30,16:45,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),044,16:45,17:00,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),045,17:00,17:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),046,17:15,17:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),047,17:30,17:45,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),048,17:45,18:00,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),049,18:00,18:15,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),050,18:15,18:30,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),051,18:30,18:45,0,0,0,,0,0,0
+10,B,2,2,BW..(14),Zählstrom,,Wender Breiter Weg (Nord),052,18:45,19:00,0,0,0,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),001,06:00,06:15,0,0,1,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),002,06:15,06:30,1,0,2,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),003,06:30,06:45,0,0,6,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),004,06:45,07:00,0,0,3,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),005,07:00,07:15,1,0,3,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),006,07:15,07:30,0,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),007,07:30,07:45,0,0,12,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),008,07:45,08:00,0,0,10,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),009,08:00,08:15,2,0,2,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),010,08:15,08:30,0,0,10,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),011,08:30,08:45,1,0,3,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),012,08:45,09:00,4,0,9,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),013,09:00,09:15,1,0,3,,0,1,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),014,09:15,09:30,1,0,4,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),015,09:30,09:45,0,0,10,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),016,09:45,10:00,0,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),017,10:00,10:15,0,0,6,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),018,10:15,10:30,0,0,5,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),019,10:30,10:45,1,0,8,,0,1,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),020,10:45,11:00,1,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),021,11:00,11:15,1,0,9,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),022,11:15,11:30,1,0,10,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),023,11:30,11:45,1,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),024,11:45,12:00,0,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),025,12:00,12:15,1,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),026,12:15,12:30,0,0,5,,1,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),027,12:30,12:45,1,0,6,,1,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),028,12:45,13:00,0,0,4,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),029,13:00,13:15,2,0,9,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),030,13:15,13:30,0,0,11,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),031,13:30,13:45,0,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),032,13:45,14:00,2,0,9,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),033,14:00,14:15,1,0,14,,1,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),034,14:15,14:30,1,0,5,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),035,14:30,14:45,1,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),036,14:45,15:00,1,0,13,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),037,15:00,15:15,2,2,8,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),038,15:15,15:30,1,0,10,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),039,15:30,15:45,3,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),040,15:45,16:00,2,0,9,,0,0,1
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),041,16:00,16:15,4,0,8,,0,0,1
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),042,16:15,16:30,0,0,7,,0,0,1
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),043,16:30,16:45,1,0,9,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),044,16:45,17:00,0,0,9,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),045,17:00,17:15,2,0,13,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),046,17:15,17:30,0,0,3,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),047,17:30,17:45,0,0,4,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),048,17:45,18:00,1,0,7,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),049,18:00,18:15,1,0,10,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),050,18:15,18:30,0,0,5,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),051,18:30,18:45,0,0,9,,0,0,0
+14,C,1,1,CR...(7),Zählstrom,,Rechtsabbieger Keplerstr. (O),052,18:45,19:00,3,1,13,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),001,06:00,06:15,2,0,2,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),002,06:15,06:30,0,0,6,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),003,06:30,06:45,0,0,4,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),004,06:45,07:00,0,0,6,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),005,07:00,07:15,0,0,1,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),006,07:15,07:30,0,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),007,07:30,07:45,0,1,9,,1,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),008,07:45,08:00,0,0,15,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),009,08:00,08:15,0,0,7,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),010,08:15,08:30,0,0,7,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),011,08:30,08:45,1,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),012,08:45,09:00,0,0,10,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),013,09:00,09:15,0,0,3,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),014,09:15,09:30,0,1,8,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),015,09:30,09:45,1,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),016,09:45,10:00,0,0,11,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),017,10:00,10:15,0,0,6,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),018,10:15,10:30,0,0,4,,1,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),019,10:30,10:45,0,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),020,10:45,11:00,0,0,10,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),021,11:00,11:15,0,0,6,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),022,11:15,11:30,0,0,3,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),023,11:30,11:45,1,0,7,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),024,11:45,12:00,0,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),025,12:00,12:15,1,0,4,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),026,12:15,12:30,0,0,7,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),027,12:30,12:45,0,0,6,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),028,12:45,13:00,1,0,4,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),029,13:00,13:15,0,1,8,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),030,13:15,13:30,0,0,7,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),031,13:30,13:45,1,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),032,13:45,14:00,2,1,14,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),033,14:00,14:15,2,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),034,14:15,14:30,0,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),035,14:30,14:45,1,1,10,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),036,14:45,15:00,1,0,6,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),037,15:00,15:15,0,0,9,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),038,15:15,15:30,0,0,7,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),039,15:30,15:45,2,0,8,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),040,15:45,16:00,0,0,7,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),041,16:00,16:15,1,0,10,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),042,16:15,16:30,0,0,11,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),043,16:30,16:45,3,0,8,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),044,16:45,17:00,0,0,8,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),045,17:00,17:15,0,0,9,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),046,17:15,17:30,0,0,7,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),047,17:30,17:45,0,0,9,,0,0,1
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),048,17:45,18:00,1,0,12,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),049,18:00,18:15,1,0,5,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),050,18:15,18:30,3,0,9,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),051,18:30,18:45,2,0,8,,0,0,0
+15,C,1,2,CG...(8),Zählstrom,,Geradeausfahrer Keplerstraße (O),052,18:45,19:00,2,0,12,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),001,06:00,06:15,0,0,3,,1,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),002,06:15,06:30,0,1,7,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),003,06:30,06:45,2,0,13,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),004,06:45,07:00,0,0,10,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),005,07:00,07:15,0,0,9,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),006,07:15,07:30,0,0,9,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),007,07:30,07:45,0,0,16,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),008,07:45,08:00,0,1,13,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),009,08:00,08:15,0,0,5,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),010,08:15,08:30,0,0,8,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),011,08:30,08:45,1,0,7,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),012,08:45,09:00,0,0,1,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),013,09:00,09:15,0,0,6,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),014,09:15,09:30,0,0,7,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),015,09:30,09:45,0,0,12,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),016,09:45,10:00,0,0,8,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),017,10:00,10:15,1,0,6,,1,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),018,10:15,10:30,1,0,11,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),019,10:30,10:45,0,0,6,,1,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),020,10:45,11:00,1,1,10,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),021,11:00,11:15,0,0,5,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),022,11:15,11:30,1,0,8,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),023,11:30,11:45,0,0,10,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),024,11:45,12:00,0,0,12,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),025,12:00,12:15,1,0,6,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),026,12:15,12:30,0,0,13,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),027,12:30,12:45,2,0,4,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),028,12:45,13:00,1,0,10,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),029,13:00,13:15,2,0,5,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),030,13:15,13:30,1,1,9,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),031,13:30,13:45,1,0,5,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),032,13:45,14:00,0,0,6,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),033,14:00,14:15,2,0,8,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),034,14:15,14:30,1,0,8,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),035,14:30,14:45,0,0,9,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),036,14:45,15:00,2,1,9,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),037,15:00,15:15,2,2,12,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),038,15:15,15:30,0,0,14,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),039,15:30,15:45,1,0,5,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),040,15:45,16:00,0,0,8,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),041,16:00,16:15,3,0,15,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),042,16:15,16:30,0,0,13,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),043,16:30,16:45,2,0,8,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),044,16:45,17:00,1,0,5,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),045,17:00,17:15,1,0,8,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),046,17:15,17:30,2,0,10,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),047,17:30,17:45,0,1,11,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),048,17:45,18:00,0,0,17,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),049,18:00,18:15,3,0,9,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),050,18:15,18:30,0,0,7,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),051,18:30,18:45,1,0,14,,0,0,0
+16,C,1,3,CL...(9),Zählstrom,,Linksabbieger Keplerstraße (O),052,18:45,19:00,1,0,7,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),001,06:00,06:15,2,0,4,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),002,06:15,06:30,2,0,9,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),003,06:30,06:45,0,0,8,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),004,06:45,07:00,1,0,8,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),005,07:00,07:15,0,0,9,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),006,07:15,07:30,2,0,26,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),007,07:30,07:45,2,0,24,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),008,07:45,08:00,2,1,32,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),009,08:00,08:15,2,0,25,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),010,08:15,08:30,4,0,12,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),011,08:30,08:45,0,0,9,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),012,08:45,09:00,1,0,25,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),013,09:00,09:15,0,0,16,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),014,09:15,09:30,1,0,11,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),015,09:30,09:45,0,0,15,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),016,09:45,10:00,2,0,18,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),017,10:00,10:15,2,1,12,,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),018,10:15,10:30,0,0,11,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),019,10:30,10:45,1,0,14,,0,1,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),020,10:45,11:00,0,0,12,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),021,11:00,11:15,0,0,12,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),022,11:15,11:30,0,0,16,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),023,11:30,11:45,0,0,15,,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),024,11:45,12:00,0,0,12,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),025,12:00,12:15,0,0,18,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),026,12:15,12:30,1,0,10,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),027,12:30,12:45,0,0,15,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),028,12:45,13:00,0,0,11,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),029,13:00,13:15,0,0,14,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),030,13:15,13:30,1,2,19,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),031,13:30,13:45,0,0,16,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),032,13:45,14:00,2,2,19,,1,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),033,14:00,14:15,0,0,9,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),034,14:15,14:30,1,0,9,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),035,14:30,14:45,0,1,22,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),036,14:45,15:00,0,1,15,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),037,15:00,15:15,0,0,9,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),038,15:15,15:30,1,0,16,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),039,15:30,15:45,0,0,20,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),040,15:45,16:00,0,0,10,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),041,16:00,16:15,0,0,16,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),042,16:15,16:30,1,0,19,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),043,16:30,16:45,0,0,20,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),044,16:45,17:00,1,0,22,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),045,17:00,17:15,1,0,18,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),046,17:15,17:30,0,0,14,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),047,17:30,17:45,0,0,13,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),048,17:45,18:00,0,0,18,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),049,18:00,18:15,0,0,18,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),050,18:15,18:30,0,0,15,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),051,18:30,18:45,1,0,13,,0,0,0
+20,D,1,1,DR..(10),Zählstrom,,Rechtsabbieger Breiter Weg (S),052,18:45,19:00,0,0,16,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),001,06:00,06:15,9,0,13,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),002,06:15,06:30,8,1,32,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),003,06:30,06:45,21,3,53,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),004,06:45,07:00,30,0,47,,2,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),005,07:00,07:15,26,0,38,,0,1,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),006,07:15,07:30,22,0,68,,1,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),007,07:30,07:45,30,0,61,,1,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),008,07:45,08:00,37,2,64,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),009,08:00,08:15,16,1,51,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),010,08:15,08:30,16,1,52,,2,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),011,08:30,08:45,7,0,21,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),012,08:45,09:00,51,0,81,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),013,09:00,09:15,35,0,76,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),014,09:15,09:30,24,0,54,,1,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),015,09:30,09:45,27,2,74,,0,1,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),016,09:45,10:00,19,1,68,,1,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),017,10:00,10:15,18,0,50,,1,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),018,10:15,10:30,22,1,62,,2,0,2
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),019,10:30,10:45,23,2,60,,1,0,1
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),020,10:45,11:00,24,0,51,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),021,11:00,11:15,24,0,55,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),022,11:15,11:30,16,2,49,,1,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),023,11:30,11:45,16,0,50,,3,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),024,11:45,12:00,21,0,54,,1,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),025,12:00,12:15,13,0,60,,2,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),026,12:15,12:30,26,1,51,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),027,12:30,12:45,21,0,52,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),028,12:45,13:00,26,0,47,,2,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),029,13:00,13:15,20,2,62,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),030,13:15,13:30,24,1,86,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),031,13:30,13:45,23,1,58,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),032,13:45,14:00,20,0,72,,1,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),033,14:00,14:15,16,2,57,,3,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),034,14:15,14:30,16,0,33,,2,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),035,14:30,14:45,21,3,73,,7,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),036,14:45,15:00,18,3,70,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),037,15:00,15:15,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),038,15:15,15:30,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),039,15:30,15:45,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),040,15:45,16:00,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),041,16:00,16:15,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),042,16:15,16:30,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),043,16:30,16:45,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),044,16:45,17:00,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),045,17:00,17:15,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),046,17:15,17:30,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),047,17:30,17:45,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),048,17:45,18:00,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),049,18:00,18:15,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),050,18:15,18:30,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),051,18:30,18:45,0,0,0,,0,0,0
+21,D,1,2,DG  (11),Zählstrom,,Geradeausfahrer Breiter Weg (S),052,18:45,19:00,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,001,06:00,06:15,11,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,002,06:15,06:30,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,003,06:30,06:45,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,004,06:45,07:00,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,005,07:00,07:15,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,006,07:15,07:30,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,007,07:30,07:45,1,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,008,07:45,08:00,1,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,009,08:00,08:15,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,010,08:15,08:30,1,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,011,08:30,08:45,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,012,08:45,09:00,1,0,4,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,013,09:00,09:15,0,1,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,014,09:15,09:30,0,0,3,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,015,09:30,09:45,0,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,016,09:45,10:00,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,017,10:00,10:15,1,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,018,10:15,10:30,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,019,10:30,10:45,0,0,4,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,020,10:45,11:00,1,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,021,11:00,11:15,0,0,4,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,022,11:15,11:30,0,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,023,11:30,11:45,0,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,024,11:45,12:00,0,0,0,,1,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,025,12:00,12:15,0,0,3,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,026,12:15,12:30,0,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,027,12:30,12:45,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,028,12:45,13:00,0,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,029,13:00,13:15,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,030,13:15,13:30,2,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,031,13:30,13:45,1,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,032,13:45,14:00,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,033,14:00,14:15,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,034,14:15,14:30,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,035,14:30,14:45,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,036,14:45,15:00,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,037,15:00,15:15,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,038,15:15,15:30,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,039,15:30,15:45,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,040,15:45,16:00,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,041,16:00,16:15,0,0,3,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,042,16:15,16:30,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,043,16:30,16:45,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,044,16:45,17:00,0,0,3,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,045,17:00,17:15,0,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,046,17:15,17:30,0,0,4,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,047,17:30,17:45,0,0,4,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,048,17:45,18:00,0,0,4,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,049,18:00,18:15,3,0,2,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,050,18:15,18:30,0,0,1,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,051,18:30,18:45,0,0,0,,0,0,0
+22,D,1,3,DL..(12),Zählstrom,,Linksabbieger Breiter Weg (S) -illegal,052,18:45,19:00,0,0,3,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),001,06:00,06:15,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),002,06:15,06:30,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),003,06:30,06:45,0,1,2,,1,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),004,06:45,07:00,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),005,07:00,07:15,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),006,07:15,07:30,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),007,07:30,07:45,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),008,07:45,08:00,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),009,08:00,08:15,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),010,08:15,08:30,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),011,08:30,08:45,0,0,0,,1,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),012,08:45,09:00,0,0,4,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),013,09:00,09:15,0,0,4,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),014,09:15,09:30,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),015,09:30,09:45,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),016,09:45,10:00,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),017,10:00,10:15,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),018,10:15,10:30,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),019,10:30,10:45,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),020,10:45,11:00,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),021,11:00,11:15,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),022,11:15,11:30,0,1,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),023,11:30,11:45,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),024,11:45,12:00,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),025,12:00,12:15,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),026,12:15,12:30,0,0,1,,1,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),027,12:30,12:45,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),028,12:45,13:00,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),029,13:00,13:15,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),030,13:15,13:30,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),031,13:30,13:45,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),032,13:45,14:00,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),033,14:00,14:15,0,0,3,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),034,14:15,14:30,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),035,14:30,14:45,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),036,14:45,15:00,0,0,5,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),037,15:00,15:15,0,0,4,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),038,15:15,15:30,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),039,15:30,15:45,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),040,15:45,16:00,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),041,16:00,16:15,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),042,16:15,16:30,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),043,16:30,16:45,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),044,16:45,17:00,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),045,17:00,17:15,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),046,17:15,17:30,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),047,17:30,17:45,0,0,2,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),048,17:45,18:00,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),049,18:00,18:15,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),050,18:15,18:30,0,0,1,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),051,18:30,18:45,0,0,0,,0,0,0
+23,D,1,4,DW..(16),Zählstrom,,Wender Breiter Weg (S),052,18:45,19:00,0,0,2,,0,0,0
